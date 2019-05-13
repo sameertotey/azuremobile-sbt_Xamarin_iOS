@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{07F1CD1B-626F-4BE5-9840-97B44CBB94C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="azuremobile_sbt/Main.cs">
+    <Files>
+      <File FileName="azuremobile_sbt/QSTodoListViewController.cs" Line="122" Column="44" />
+      <File FileName="azuremobile_sbt/QSTodoService.cs" Line="104" Column="1" />
+      <File FileName="azuremobile_sbt/ToDoItem.cs" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/xamarin.essentials/1.1.0/readme.txt" Line="1" Column="1" />
+      <File FileName="azuremobile_sbt/Main.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="azuremobile_sbt" expanded="True">
+            <Node name="azuremobile_sbt" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.azuremobile__sbt automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.939442e7b2188132c10769e19dbaa496ac27980e">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="D32PG2BUDQ" TeamId="6QHDV6JE6P" />
+  </MonoDevelop.Ide.ItemProperties.azuremobile__sbt>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/QSTodoService.cs" relfile="azuremobile_sbt/QSTodoService.cs" line="142" column="1" />
+      <Breakpoint file="/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/QSTodoService.cs" relfile="azuremobile_sbt/QSTodoService.cs" line="144" column="1" />
+      <Breakpoint file="/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/QSTodoService.cs" relfile="azuremobile_sbt/QSTodoService.cs" line="147" column="1" />
+      <Breakpoint file="/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/QSTodoService.cs" relfile="azuremobile_sbt/QSTodoService.cs" line="102" column="1" />
+      <Breakpoint file="/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/QSTodoService.cs" relfile="azuremobile_sbt/QSTodoService.cs" line="104" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

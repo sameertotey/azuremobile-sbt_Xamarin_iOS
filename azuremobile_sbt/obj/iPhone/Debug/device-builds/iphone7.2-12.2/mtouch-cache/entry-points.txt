@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
