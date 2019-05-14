@@ -330,11 +330,11 @@
 		</data>
 		<key>azuremobile_sbt.aotdata.arm64</key>
 		<data>
-		WP1aPam+OEW8MJbschfHWU73EIU=
+		bXX91ZXuO1OpetGgymBLWeXrC00=
 		</data>
 		<key>azuremobile_sbt.exe</key>
 		<data>
-		L5G0CueQxf9hZxq5Is59wEVS5Zg=
+		uWrFJk44mS/CjF7xy+mbm+Rjllg=
 		</data>
 		<key>azuremobile_sbt.exe.config</key>
 		<data>
@@ -342,11 +342,11 @@
 		</data>
 		<key>azuremobile_sbt.pdb</key>
 		<data>
-		+yWlTpqCFQS4o1Y4d2rsvvFS+vM=
+		fYNPycqYu/oNyymM4xWMJWxqD44=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		ovntlOtQWFHQLu8m2a1vj1EeB5g=
+		Ku0g9/r4GUYFjlCr9VrfWyP/msk=
 		</data>
 		<key>mscorlib.aotdata.arm64</key>
 		<data>
@@ -1236,22 +1236,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WP1aPam+OEW8MJbschfHWU73EIU=
+			bXX91ZXuO1OpetGgymBLWeXrC00=
 			</data>
 			<key>hash2</key>
 			<data>
-			LlTxXAQnIomo9/YawtxXnBGQffVMqdN3V8RW3WfZ960=
+			xUGLP6OeqGn1RQtgeX3Sm8wuv9GULTgQ8GPPfRZCrLs=
 			</data>
 		</dict>
 		<key>azuremobile_sbt.exe</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L5G0CueQxf9hZxq5Is59wEVS5Zg=
+			uWrFJk44mS/CjF7xy+mbm+Rjllg=
 			</data>
 			<key>hash2</key>
 			<data>
-			tPlK/E4exe9yKLKKsFvI9RZ3bCnnUxCII73BhyQx2Gg=
+			XgFRSkJXCEz4WmtXh9Ka07j2LQQZgE1sGt/6nK3gQKw=
 			</data>
 		</dict>
 		<key>azuremobile_sbt.exe.config</key>
@@ -1269,22 +1269,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+yWlTpqCFQS4o1Y4d2rsvvFS+vM=
+			fYNPycqYu/oNyymM4xWMJWxqD44=
 			</data>
 			<key>hash2</key>
 			<data>
-			0P7TiFrjRF8k96pVehXtufPBu13X/udDmK56b0a3+EU=
+			6w9lURiCK5VjE5pxbBQTuM6rGo6e6X2u5Hi3fEZtKuU=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ovntlOtQWFHQLu8m2a1vj1EeB5g=
+			Ku0g9/r4GUYFjlCr9VrfWyP/msk=
 			</data>
 			<key>hash2</key>
 			<data>
-			FNXYcmljJVzbtYQTuYEAyWZ/b4f42gkY6i4QR5xOrFQ=
+			ext1Rs+eOGLjItIPab1HTLHfwaWJQ+2ODqyXGcuoXbo=
 			</data>
 		</dict>
 		<key>mscorlib.aotdata.arm64</key>

@@ -23035,7 +23035,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "1966A959-EAEE-406D-B318-B256A0D4259D"
+	.asciz "D53C08BE-E078-4C2D-9C2D-35DA29652E23"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -23125,7 +23125,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 106,220,23,247,20,96,238,242,26,101,171,32,7,52,236,92
+	.byte 228,60,127,218,23,208,189,196,226,192,251,119,3,1,74,236
 	.globl _mono_aot_module_azuremobile_sbt_info
 	.align 3
 _mono_aot_module_azuremobile_sbt_info:

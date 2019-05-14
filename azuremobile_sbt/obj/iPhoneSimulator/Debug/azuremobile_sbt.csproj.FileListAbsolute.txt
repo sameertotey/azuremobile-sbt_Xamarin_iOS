@@ -14,6 +14,8 @@
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
@@ -31,7 +33,6 @@
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Default-Portrait@2x.png
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/Default-Landscape@2x.png
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/
-/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/azuremobile_sbt.csprojAssemblyReference.cache
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/azuremobile_sbt.exe.config
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/azuremobile_sbt.csproj.CoreCompileInputs.cache
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/azuremobile_sbt.csproj.CopyComplete
