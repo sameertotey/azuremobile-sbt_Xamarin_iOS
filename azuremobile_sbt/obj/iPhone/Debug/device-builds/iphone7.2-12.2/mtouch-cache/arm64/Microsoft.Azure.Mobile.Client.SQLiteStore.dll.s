@@ -1509,9 +1509,9 @@ ldr x16, [x16, #312]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_16
@@ -15883,7 +15883,7 @@ bl _p_195
 .word 0xf94053a2
 .word 0xaa0203e0
 .word 0xf9400042
-.word 0xf9408850
+.word 0xf9409450
 .word 0xd63f0200
 .word 0xf9004fa0
 .word 0xf9402bb1
@@ -15911,7 +15911,7 @@ bl _p_195
 .word 0xf9404ba2
 .word 0xaa0203e0
 .word 0xf9400042
-.word 0xf9407850
+.word 0xf9408450
 .word 0xd63f0200
 .word 0xaa0003f5
 .word 0xf9402bb1
@@ -16519,7 +16519,7 @@ bl _p_212
 .word 0xf94037a2
 .word 0xaa0203e0
 .word 0xf9400042
-.word 0xf9408450
+.word 0xf9409050
 .word 0xd63f0200
 .word 0xf90033a0
 .word 0xf94017b1
@@ -18380,9 +18380,9 @@ bl _p_230
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9401ba1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -18692,9 +18692,9 @@ bl _p_230
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94023a1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -18741,9 +18741,9 @@ bl _p_230
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94023a1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -33703,9 +33703,9 @@ bl _p_391
 .word 0xf9407231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_16
@@ -34174,7 +34174,7 @@ bl _p_402
 .word 0xf9405ba2
 .word 0xaa0203e0
 .word 0xf9400042
-.word 0xf9408850
+.word 0xf9409450
 .word 0xd63f0200
 .word 0xf90057a0
 .word 0xf94027b1
@@ -34202,7 +34202,7 @@ bl _p_402
 .word 0xf94053a2
 .word 0xaa0203e0
 .word 0xf9400042
-.word 0xf9407850
+.word 0xf9408450
 .word 0xd63f0200
 .word 0xaa0003f4
 .word 0xf94027b1
@@ -34438,7 +34438,7 @@ bl _p_407
 .word 0xf9403fa2
 .word 0xaa0203e0
 .word 0xf9400042
-.word 0xf9408450
+.word 0xf9409050
 .word 0xd63f0200
 .word 0xf9003ba0
 .word 0xf94017b1
@@ -34840,8 +34840,8 @@ ldr x16, [x16, #944]
 .word 0xf9408a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28e0c80
-.word 0xd28e0c80
+.word 0xd28e0d80
+.word 0xd28e0d80
 bl _p_408
 .word 0xaa0003e1
 .word 0xd28015e0
@@ -34868,8 +34868,8 @@ bl _p_16
 .word 0xf940f231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28e1740
-.word 0xd28e1740
+.word 0xd28e1840
+.word 0xd28e1840
 bl _p_408
 .word 0xaa0003e1
 .word 0xd28015e0
@@ -35983,13 +35983,13 @@ ldr x16, [x16, #1040]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d44c0
-.word 0xd28d44c0
+.word 0xd28d45c0
+.word 0xd28d45c0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -36031,13 +36031,13 @@ ldr x16, [x16, #1048]
 .word 0xf9405a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4ac0
-.word 0xd28d4ac0
+.word 0xd28d4bc0
+.word 0xd28d4bc0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -36079,13 +36079,13 @@ ldr x16, [x16, #1056]
 .word 0xf9405a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4ac0
-.word 0xd28d4ac0
+.word 0xd28d4bc0
+.word 0xd28d4bc0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -36150,8 +36150,8 @@ ldr x16, [x16, #1064]
 .word 0xf940b231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d5240
-.word 0xd28d5240
+.word 0xd28d5340
+.word 0xd28d5340
 bl _p_408
 bl _p_423
 .word 0xf90033a0
@@ -38222,13 +38222,13 @@ ldr x16, [x16, #1184]
 .word 0xf9405e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4ac0
-.word 0xd28d4ac0
+.word 0xd28d4bc0
+.word 0xd28d4bc0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -38269,13 +38269,13 @@ ldr x16, [x16, #1192]
 .word 0xf9405631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4ac0
-.word 0xd28d4ac0
+.word 0xd28d4bc0
+.word 0xd28d4bc0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -38341,8 +38341,8 @@ ldr x16, [x16, #1200]
 .word 0xf940b631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d5240
-.word 0xd28d5240
+.word 0xd28d5340
+.word 0xd28d5340
 bl _p_408
 bl _p_423
 .word 0xf90053a0
@@ -40189,13 +40189,13 @@ ldr x16, [x16, #1376]
 .word 0xf9405e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4ac0
-.word 0xd28d4ac0
+.word 0xd28d4bc0
+.word 0xd28d4bc0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -40238,13 +40238,13 @@ ldr x16, [x16, #1384]
 .word 0xf9405e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4ac0
-.word 0xd28d4ac0
+.word 0xd28d4bc0
+.word 0xd28d4bc0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -40315,8 +40315,8 @@ ldr x16, [x16, #1392]
 .word 0xf940ca31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d5240
-.word 0xd28d5240
+.word 0xd28d5340
+.word 0xd28d5340
 bl _p_408
 bl _p_423
 .word 0xf90073a0
@@ -41840,9 +41840,9 @@ ldr x16, [x16, #1496]
 .word 0xf940d231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd290f020
+.word 0xd2912400
 .word 0xf2a00020
-.word 0xd290f020
+.word 0xd2912400
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -42062,9 +42062,9 @@ ldr x16, [x16, #1512]
 .word 0xf940e231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd290f020
+.word 0xd2912400
 .word 0xf2a00020
-.word 0xd290f020
+.word 0xd2912400
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -42214,9 +42214,9 @@ bl _p_457
 .word 0xf940b231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd290f020
+.word 0xd2912400
 .word 0xf2a00020
-.word 0xd290f020
+.word 0xd2912400
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -44546,6 +44546,77 @@ bl _p_485
 Lme_135:
 .text
 	.align 4
+	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken
+System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken:
+.loc 11 150 0 prologue_end
+.word 0xa9bb7bfd
+.word 0x910003fd
+.word 0xf9000bb9
+.word 0xaa0003f9
+.word 0xf9000fa1
+.word 0xf90013a2
+
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #1872]
+.word 0xf9001bb0
+.word 0xf9400a11
+.word 0xf9001fb1
+.word 0xf9401bb1
+.word 0xf9403e31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf9401fb1
+.word 0xf9400231
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf9401bb1
+.word 0xf9405e31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xaa1903e0
+.word 0xf9400fa1
+.word 0xd2800000
+.word 0x910083a0
+.word 0x910123a0
+.word 0xf94013a0
+.word 0xf90027a0
+.word 0xd2800000
+.word 0xd2800000
+.word 0xd2800000
+.word 0xaa1903e0
+.word 0xd2800002
+.word 0x910123a3
+.word 0xf94027a3
+.word 0xd2800004
+.word 0xd2800005
+.word 0xd2800006
+bl _p_494
+.loc 11 153 0
+.word 0xf9401bb1
+.word 0xf940b631
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xaa1903e0
+.word 0xaa1903e0
+bl _p_495
+.loc 11 154 0
+.word 0xf9401bb1
+.word 0xf940d231
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf9401bb1
+.word 0xf940e231
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf9400bb9
+.word 0x910003bf
+.word 0xa8c57bfd
+.word 0xd65f03c0
+
+Lme_136:
+.text
+	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions
 System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions:
 .loc 11 299 0 prologue_end
@@ -44561,7 +44632,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1872]
+ldr x16, [x16, #1880]
 .word 0xf90023b0
 .word 0xf9400a11
 .word 0xf90027b1
@@ -44584,7 +44655,7 @@ ldr x16, [x16, #1872]
 .word 0xf90037a0
 .word 0xaa1a03e0
 .word 0xaa1a03e0
-bl _p_494
+bl _p_496
 .word 0xf9003ba0
 .word 0xf94023b1
 .word 0xf9409e31
@@ -44606,7 +44677,7 @@ bl _p_494
 .word 0xaa1a03e5
 .word 0xd2800006
 .word 0xd2800007
-bl _p_495
+bl _p_497
 .loc 11 302 0
 .word 0xf94023b1
 .word 0xf940f231
@@ -44614,7 +44685,7 @@ bl _p_495
 .word 0xd63f0220
 .word 0xaa1703e0
 .word 0xaa1703e0
-bl _p_496
+bl _p_495
 .loc 11 303 0
 .word 0xf94023b1
 .word 0xf9410e31
@@ -44630,7 +44701,7 @@ bl _p_496
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_136:
+Lme_137:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
@@ -44649,7 +44720,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1880]
+ldr x16, [x16, #1888]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -44680,7 +44751,7 @@ ldr x16, [x16, #1880]
 .word 0xd2800002
 .word 0x9101a3a4
 .word 0xf94037a4
-bl _p_497
+bl _p_498
 .loc 11 318 0
 .word 0xf9402bb1
 .word 0xf940be31
@@ -44688,7 +44759,7 @@ bl _p_497
 .word 0xd63f0220
 .word 0xaa1503e0
 .word 0xaa1503e0
-bl _p_496
+bl _p_495
 .loc 11 319 0
 .word 0xf9402bb1
 .word 0xf940da31
@@ -44703,7 +44774,7 @@ bl _p_496
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_137:
+Lme_138:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
@@ -44723,7 +44794,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1888]
+ldr x16, [x16, #1896]
 .word 0xf9002fb0
 .word 0xf9400a11
 .word 0xf90033b1
@@ -44753,7 +44824,7 @@ ldr x16, [x16, #1888]
 .word 0xaa1403e0
 .word 0x9101c3a4
 .word 0xf9403ba4
-bl _p_497
+bl _p_498
 .loc 11 336 0
 .word 0xf9402fb1
 .word 0xf940be31
@@ -44761,7 +44832,7 @@ bl _p_497
 .word 0xd63f0220
 .word 0xaa1403e0
 .word 0xaa1403e0
-bl _p_496
+bl _p_495
 .loc 11 337 0
 .word 0xf9402fb1
 .word 0xf940da31
@@ -44776,7 +44847,7 @@ bl _p_496
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_138:
+Lme_139:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
@@ -44796,7 +44867,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_Sys
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1896]
+ldr x16, [x16, #1904]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -44819,9 +44890,9 @@ ldr x16, [x16, #1896]
 .word 0xf9408a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd286f8a0
+.word 0xd2872c80
 .word 0xf2a00020
-.word 0xd286f8a0
+.word 0xd2872c80
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -44843,9 +44914,9 @@ bl _p_16
 .word 0xf940e231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd286fae0
+.word 0xd2872ec0
 .word 0xf2a00020
-.word 0xd286fae0
+.word 0xd2872ec0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -44877,7 +44948,7 @@ bl _p_16
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1904]
+ldr x0, [x16, #1912]
 .word 0xd2800a01
 .word 0xd2800a01
 bl _p_12
@@ -44889,7 +44960,7 @@ bl _p_12
 .word 0x9101a3a3
 .word 0xf94037a3
 .word 0xaa1a03e6
-bl _p_498
+bl _p_494
 .loc 11 356 0
 .word 0xf9402bb1
 .word 0xf941a631
@@ -44922,7 +44993,7 @@ bl _p_499
 .word 0xa8ca7bfd
 .word 0xd65f03c0
 
-Lme_139:
+Lme_13a:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
@@ -44943,7 +45014,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_Sys
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1912]
+ldr x16, [x16, #1920]
 .word 0xf9002fb0
 .word 0xf9400a11
 .word 0xf90033b1
@@ -44966,9 +45037,9 @@ ldr x16, [x16, #1912]
 .word 0xf9408e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd286f8a0
+.word 0xd2872c80
 .word 0xf2a00020
-.word 0xd286f8a0
+.word 0xd2872c80
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -44990,9 +45061,9 @@ bl _p_16
 .word 0xf940e631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd286fae0
+.word 0xd2872ec0
 .word 0xf2a00020
-.word 0xd286fae0
+.word 0xd2872ec0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -45026,7 +45097,7 @@ bl _p_16
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1904]
+ldr x0, [x16, #1912]
 .word 0xd2800a01
 .word 0xd2800a01
 bl _p_12
@@ -45039,7 +45110,7 @@ bl _p_12
 .word 0x9101c3a4
 .word 0xf9403ba4
 .word 0xaa1a03e7
-bl _p_495
+bl _p_497
 .loc 11 376 0
 .word 0xf9402fb1
 .word 0xf941b631
@@ -45072,7 +45143,7 @@ bl _p_499
 .word 0xa8cb7bfd
 .word 0xd65f03c0
 
-Lme_13a:
+Lme_13b:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_TrySetResult_System_Threading_Tasks_VoidTaskResult
@@ -45086,7 +45157,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_TrySetResult
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1920]
+ldr x16, [x16, #1928]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -45255,7 +45326,7 @@ bl _p_503
 .word 0xaa1103e1
 bl _p_57
 
-Lme_13b:
+Lme_13c:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult
@@ -45269,7 +45340,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSet
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1928]
+ldr x16, [x16, #1936]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -45360,7 +45431,7 @@ bl _p_504
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_13c:
+Lme_13d:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result
@@ -45373,7 +45444,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1936]
+ldr x16, [x16, #1944]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -45437,7 +45508,7 @@ bl _p_506
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_13d:
+Lme_13e:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess
@@ -45449,7 +45520,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOn
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1944]
+ldr x16, [x16, #1952]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -45483,7 +45554,7 @@ ldr x16, [x16, #1944]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_13e:
+Lme_13f:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetResultCore_bool
@@ -45497,7 +45568,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetResultCor
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1952]
+ldr x16, [x16, #1960]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -45630,7 +45701,7 @@ bl _p_510
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_13f:
+Lme_140:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Factory
@@ -45641,7 +45712,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Factory:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1960]
+ldr x16, [x16, #1968]
 .word 0xf9000bb0
 .word 0xf9400a11
 .word 0xf9000fb1
@@ -45660,7 +45731,7 @@ ldr x16, [x16, #1960]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1968]
+ldr x0, [x16, #1976]
 .word 0xf9400000
 .word 0xb5000600
 .loc 11 527 0
@@ -45671,12 +45742,12 @@ ldr x0, [x16, #1968]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1968]
+ldr x0, [x16, #1976]
 .word 0xf9001fa0
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1976]
+ldr x0, [x16, #1984]
 .word 0xd2800501
 .word 0xd2800501
 bl _p_12
@@ -45692,7 +45763,7 @@ bl _p_511
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x3, [x16, #1984]
+ldr x3, [x16, #1992]
 .word 0xc85f7c30
 .word 0xeb02021f
 .word 0x54000061
@@ -45727,7 +45798,7 @@ ldr x2, [x16, #16]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1968]
+ldr x0, [x16, #1976]
 .word 0xf9400000
 .word 0xf9400bb1
 .word 0xf9415e31
@@ -45737,7 +45808,7 @@ ldr x0, [x16, #1968]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_140:
+Lme_141:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
@@ -45752,7 +45823,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1992]
+ldr x16, [x16, #2000]
 .word 0xf9001fb0
 .word 0xf9400a11
 .word 0xf90023b1
@@ -45782,7 +45853,7 @@ ldr x16, [x16, #1992]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2000]
+ldr x1, [x16, #2008]
 .word 0xeb01001f
 .word 0x54000040
 .word 0xd2800016
@@ -45834,11 +45905,11 @@ ldr x1, [x16, #2000]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2008]
+ldr x1, [x16, #2016]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x2, [x16, #2016]
+ldr x2, [x16, #2024]
 bl _p_2
 .word 0xaa0003f8
 .loc 11 548 0
@@ -45894,7 +45965,7 @@ bl _p_2
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_141:
+Lme_142:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
@@ -45906,7 +45977,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2024]
+ldr x16, [x16, #2032]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -45929,7 +46000,7 @@ ldr x16, [x16, #2024]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #2032]
+ldr x15, [x16, #2040]
 bl _p_512
 .word 0x910123a0
 .word 0x910103a0
@@ -45952,7 +46023,7 @@ bl _p_512
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_142:
+Lme_143:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ConfigureAwait_bool
@@ -45965,7 +46036,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ConfigureAwa
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2040]
+ldr x16, [x16, #2048]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -45991,7 +46062,7 @@ ldr x16, [x16, #2040]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #2048]
+ldr x15, [x16, #2056]
 bl _p_513
 .word 0x910163a0
 .word 0x910123a0
@@ -46019,7 +46090,7 @@ bl _p_513
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_143:
+Lme_144:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
@@ -46032,7 +46103,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2056]
+ldr x16, [x16, #2064]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -46088,7 +46159,7 @@ bl _p_515
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_144:
+Lme_145:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler
@@ -46102,7 +46173,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2064]
+ldr x16, [x16, #2072]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -46148,7 +46219,7 @@ bl _p_515
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_145:
+Lme_146:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions
@@ -46167,7 +46238,7 @@ System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2072]
+ldr x16, [x16, #2080]
 .word 0xf90027b0
 .word 0xf9400a11
 .word 0xf9002bb1
@@ -46193,9 +46264,9 @@ ldr x16, [x16, #2072]
 .word 0xf9409231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd286fd60
+.word 0xd2873140
 .word 0xf2a00020
-.word 0xd286fd60
+.word 0xd2873140
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -46217,9 +46288,9 @@ bl _p_16
 .word 0xf940ea31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd286fae0
+.word 0xd2872ec0
 .word 0xf2a00020
-.word 0xd286fae0
+.word 0xd2872ec0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -46254,7 +46325,7 @@ bl _p_516
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2080]
+ldr x0, [x16, #2088]
 .word 0xd2800a01
 .word 0xd2800a01
 bl _p_12
@@ -46308,7 +46379,7 @@ bl _p_518
 .word 0xa8ca7bfd
 .word 0xd65f03c0
 
-Lme_146:
+Lme_147:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
@@ -46321,7 +46392,7 @@ System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2088]
+ldr x16, [x16, #2096]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -46368,7 +46439,7 @@ bl _p_519
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_147:
+Lme_148:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskScheduler
@@ -46386,7 +46457,7 @@ System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2096]
+ldr x16, [x16, #2104]
 .word 0xf90023b0
 .word 0xf9400a11
 .word 0xf90027b1
@@ -46496,7 +46567,83 @@ ldr x2, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_148:
+Lme_149:
+.text
+	.align 4
+	.no_dead_strip System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskScheduler
+System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskScheduler:
+.loc 12 508 0 prologue_end
+.word 0xa9b87bfd
+.word 0x910003fd
+.word 0xf9000bb9
+.word 0xf9000fa0
+.word 0xf90013a1
+.word 0xf90017a2
+.word 0xf9001ba3
+.word 0xaa0403f9
+.word 0xf90023a5
+
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #2112]
+.word 0xf90027b0
+.word 0xf9400a11
+.word 0xf9002bb1
+.word 0xf94027b1
+.word 0xf9404a31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf9402bb1
+.word 0xf9400231
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf94027b1
+.word 0xf9406a31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xaa1903e0
+.word 0xaa1903e0
+bl _p_496
+.word 0xf9003fa0
+.word 0xf94027b1
+.word 0xf9408a31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf9403fa0
+.word 0xf94013a1
+.word 0xf94017a2
+.word 0x9100c3a3
+.word 0x910183a3
+.word 0xf9401ba3
+.word 0xf90033a3
+.word 0xaa1903e3
+.word 0xd2800003
+.word 0xf94023a6
+
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x15, [x16, #1912]
+.word 0x910183a3
+.word 0xf94033a3
+.word 0xaa1903e4
+.word 0xd2800005
+bl _p_522
+.word 0xf9003ba0
+.word 0xf94027b1
+.word 0xf940e631
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf9403ba0
+.word 0xf94027b1
+.word 0xf940fa31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf9400bb9
+.word 0x910003bf
+.word 0xa8c87bfd
+.word 0xd65f03c0
+
+Lme_14a:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
@@ -46513,7 +46660,7 @@ System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromA
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2104]
+ldr x16, [x16, #2120]
 .word 0xf9001fb0
 .word 0xf9400a11
 .word 0xf90023b1
@@ -46699,7 +46846,7 @@ bl _p_77
 .word 0xf9004ba0
 .word 0xaa0103e0
 .word 0x3940003e
-bl _p_522
+bl _p_523
 .word 0xf9404bbe
 .word 0xf90003c0
 .word 0xf9401fb1
@@ -46712,7 +46859,7 @@ bl _p_522
 .word 0x910183a1
 .word 0xf94033a1
 .word 0x3940007e
-bl _p_523
+bl _p_524
 .word 0x53001c00
 .word 0xf9401fb1
 .word 0xf9432e31
@@ -46748,7 +46895,7 @@ bl _p_523
 .word 0xf9403fa1
 .word 0xaa0203e0
 .word 0x3940005e
-bl _p_524
+bl _p_525
 .word 0x53001c00
 .word 0xf9401fb1
 .word 0xf943b231
@@ -46769,7 +46916,7 @@ bl _p_524
 .word 0xf943e631
 .word 0xb4000051
 .word 0xd63f0220
-bl _p_525
+bl _p_526
 .word 0x53001c00
 .word 0xf9007ba0
 .word 0xf9401fb1
@@ -46792,7 +46939,7 @@ bl _p_525
 .word 0xd2800020
 .word 0xd2800000
 .word 0xd2800022
-bl _p_526
+bl _p_527
 .loc 12 561 0
 .word 0xf94023b1
 .word 0xf9400231
@@ -46803,7 +46950,7 @@ bl _p_526
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94017a0
-bl _p_527
+bl _p_528
 .loc 12 563 0
 .word 0xf9401fb1
 .word 0xf9447a31
@@ -46859,7 +47006,7 @@ bl _p_504
 .word 0x910143a1
 .word 0xf9402ba1
 .word 0x3940005e
-bl _p_528
+bl _p_529
 .loc 12 572 0
 .word 0xf94023b1
 .word 0xf9400231
@@ -46889,7 +47036,7 @@ bl _p_528
 .word 0xa8d07bfd
 .word 0xd65f03c0
 
-Lme_149:
+Lme_14b:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsync_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_object
@@ -46904,7 +47051,7 @@ System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromA
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2112]
+ldr x16, [x16, #2128]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -46929,9 +47076,9 @@ ldr x16, [x16, #2112]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #1976]
+ldr x15, [x16, #1984]
 .word 0xd2800002
-bl _p_529
+bl _p_530
 .word 0xf9002ba0
 .word 0xf9401bb1
 .word 0xf9409e31
@@ -46946,7 +47093,7 @@ bl _p_529
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_14a:
+Lme_14c:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions
@@ -46964,7 +47111,7 @@ System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromA
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2120]
+ldr x16, [x16, #2136]
 .word 0xf90023b0
 .word 0xf9400a11
 .word 0xf90027b1
@@ -46979,12 +47126,12 @@ ldr x16, [x16, #2120]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2128]
+ldr x0, [x16, #2144]
 .word 0xd2800501
 .word 0xd2800501
 bl _p_12
 .word 0xf9004ba0
-bl _p_530
+bl _p_531
 .word 0xf94023b1
 .word 0xf9408a31
 .word 0xb4000051
@@ -47037,9 +47184,9 @@ ldr x2, [x16, #16]
 .word 0xf9413a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2870760
+.word 0xd2873b40
 .word 0xf2a00020
-.word 0xd2870760
+.word 0xd2873b40
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -47073,9 +47220,9 @@ bl _p_16
 .word 0xf941c231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2870a60
+.word 0xd2873e40
 .word 0xf2a00020
-.word 0xd2870a60
+.word 0xd2873e40
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -47098,7 +47245,7 @@ bl _p_16
 .word 0xd2800020
 .word 0xaa1a03e0
 .word 0xd2800021
-bl _p_531
+bl _p_532
 .loc 12 780 0
 .word 0xf94023b1
 .word 0xf9423631
@@ -47111,14 +47258,14 @@ bl _p_531
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1904]
+ldr x0, [x16, #1912]
 .word 0xd2800a01
 .word 0xd2800a01
 bl _p_12
 .word 0xf9004fa0
 .word 0xaa1903e1
 .word 0xaa1a03e2
-bl _p_532
+bl _p_533
 .word 0xf94023b1
 .word 0xf9427e31
 .word 0xb4000051
@@ -47143,7 +47290,7 @@ ldr x2, [x16, #16]
 .word 0xf942c631
 .word 0xb4000051
 .word 0xd63f0220
-bl _p_525
+bl _p_526
 .word 0x53001c00
 .word 0xf9004ba0
 .word 0xf94023b1
@@ -47168,7 +47315,7 @@ bl _p_525
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2136]
+ldr x0, [x16, #2152]
 .word 0xaa1603e1
 .word 0xaa1603e1
 bl _p_87
@@ -47182,7 +47329,7 @@ bl _p_87
 .word 0xd2800000
 .word 0xd2800000
 .word 0xd2800003
-bl _p_533
+bl _p_534
 .loc 12 784 0
 .word 0xf94027b1
 .word 0xf9400231
@@ -47194,7 +47341,7 @@ bl _p_533
 .word 0xd63f0220
 .word 0xf94033a0
 .word 0xf9401000
-bl _p_534
+bl _p_535
 .loc 12 788 0
 .word 0xf94027b1
 .word 0xf9400231
@@ -47213,7 +47360,7 @@ bl _p_534
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2144]
+ldr x0, [x16, #2160]
 .word 0xd2801001
 .word 0xd2801001
 bl _p_12
@@ -47238,17 +47385,17 @@ ldr x3, [x16, #16]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2152]
+ldr x0, [x16, #2168]
 .word 0xf9001420
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2160]
+ldr x0, [x16, #2176]
 .word 0xf9002020
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2168]
+ldr x0, [x16, #2184]
 .word 0xf9401402
 .word 0xf9000c22
 .word 0xf9401000
@@ -47280,7 +47427,7 @@ ldr x0, [x16, #2168]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #2176]
+ldr x15, [x16, #2192]
 .word 0x928003f0
 .word 0xf2bffff0
 .word 0xf8706830
@@ -47313,10 +47460,10 @@ ldr x15, [x16, #2176]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #1976]
+ldr x15, [x16, #1984]
 .word 0xaa1503e0
 .word 0xd2800004
-bl _p_535
+bl _p_536
 .loc 12 798 0
 .word 0xf94027b1
 .word 0xf9400231
@@ -47339,7 +47486,7 @@ bl _p_535
 .word 0xf9459631
 .word 0xb4000051
 .word 0xd63f0220
-bl _p_525
+bl _p_526
 .word 0x53001c00
 .word 0xf9004ba0
 .word 0xf94023b1
@@ -47363,7 +47510,7 @@ bl _p_525
 .word 0xd2800060
 .word 0xd2800000
 .word 0xd2800062
-bl _p_526
+bl _p_527
 .loc 12 803 0
 .word 0xf94027b1
 .word 0xf9400231
@@ -47375,7 +47522,7 @@ bl _p_526
 .word 0xd63f0220
 .word 0xf94033a0
 .word 0xf9401000
-bl _p_527
+bl _p_528
 .loc 12 806 0
 .word 0xf94023b1
 .word 0xf9463231
@@ -47405,7 +47552,7 @@ bl _p_504
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94037a0
-bl _p_536
+bl _p_537
 .loc 12 810 0
 .word 0xf94027b1
 .word 0xf9400231
@@ -47433,9 +47580,9 @@ bl _p_57
 .word 0xaa1103e1
 bl _p_57
 
-Lme_14b:
+Lme_14d:
 .text
-ut_332:
+ut_334:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_Create
 .text
@@ -47449,7 +47596,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2184]
+ldr x16, [x16, #2200]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -47536,9 +47683,9 @@ ldr x2, [x16, #16]
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_14c:
+Lme_14e:
 .text
-ut_333:
+ut_335:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine
 .text
@@ -47553,7 +47700,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2192]
+ldr x16, [x16, #2208]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -47571,7 +47718,7 @@ ldr x16, [x16, #2192]
 .word 0xd63f0220
 .word 0xf9400ba0
 .word 0xf9400fa1
-bl _p_537
+bl _p_538
 .loc 8 486 0
 .word 0xf94013b1
 .word 0xf9407231
@@ -47585,9 +47732,9 @@ bl _p_537
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_14d:
+Lme_14f:
 .text
-ut_334:
+ut_336:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_Task
 .text
@@ -47603,7 +47750,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2200]
+ldr x16, [x16, #2216]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -47638,12 +47785,12 @@ ldr x16, [x16, #2200]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1904]
+ldr x0, [x16, #1912]
 .word 0xd2800a01
 .word 0xd2800a01
 bl _p_12
 .word 0xf90023a0
-bl _p_538
+bl _p_539
 .word 0xf94017b1
 .word 0xf940c631
 .word 0xb4000051
@@ -47687,9 +47834,9 @@ ldr x2, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_14e:
+Lme_150:
 .text
-ut_335:
+ut_337:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult
 .text
@@ -47705,7 +47852,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2208]
+ldr x16, [x16, #2224]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -47748,7 +47895,7 @@ add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1824]
 .word 0x910143a0
 .word 0xf9402ba0
-bl _p_539
+bl _p_540
 .word 0xf90033a0
 .word 0xf9401bb1
 .word 0xf940d231
@@ -47797,7 +47944,7 @@ bl _p_486
 .word 0xaa1903e0
 .word 0xaa1903e0
 .word 0x3940033e
-bl _p_540
+bl _p_541
 .word 0x93407c00
 .word 0xf90033a0
 .word 0xf9401bb1
@@ -47808,7 +47955,7 @@ bl _p_540
 .word 0xd2800020
 .word 0xd2800000
 .word 0xd2800022
-bl _p_541
+bl _p_542
 .loc 8 603 0
 .word 0xf9401fb1
 .word 0xf9400231
@@ -47821,7 +47968,7 @@ bl _p_541
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2216]
+ldr x0, [x16, #2232]
 .word 0x39400000
 .word 0x34000220
 .loc 8 605 0
@@ -47832,7 +47979,7 @@ ldr x0, [x16, #2216]
 .word 0xaa1903e0
 .word 0xaa1903e0
 .word 0x3940033e
-bl _p_540
+bl _p_541
 .word 0x93407c00
 .word 0xf90033a0
 .word 0xf9401bb1
@@ -47840,7 +47987,7 @@ bl _p_540
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94033a0
-bl _p_542
+bl _p_543
 .loc 8 608 0
 .word 0xf9401fb1
 .word 0xf9400231
@@ -47873,12 +48020,12 @@ bl _p_504
 .word 0xf9428a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd290f560
+.word 0xd2912940
 .word 0xf2a00020
-.word 0xd290f560
+.word 0xd2912940
 .word 0xf2a00020
 bl _p_408
-bl _p_543
+bl _p_544
 .word 0xf90033a0
 .word 0xf9401bb1
 .word 0xf942b631
@@ -47905,9 +48052,9 @@ bl _p_16
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_14f:
+Lme_151:
 .text
-ut_336:
+ut_338:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
 .text
@@ -47923,7 +48070,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2224]
+ldr x16, [x16, #2240]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -47996,7 +48143,7 @@ ldr x15, [x16, #1824]
 .word 0xaa1903e0
 .word 0x9100e3a1
 .word 0xf9401fa1
-bl _p_544
+bl _p_545
 .loc 8 638 0
 .word 0xf94013b1
 .word 0xf9413a31
@@ -48011,9 +48158,9 @@ bl _p_544
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_150:
+Lme_152:
 .text
-ut_337:
+ut_339:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetException_System_Exception
 .text
@@ -48032,7 +48179,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2232]
+ldr x16, [x16, #2248]
 .word 0xf90027b0
 .word 0xf9400a11
 .word 0xf9002bb1
@@ -48056,9 +48203,9 @@ ldr x16, [x16, #2232]
 .word 0xf9408631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd287a0e0
+.word 0xd287d4c0
 .word 0xf2a00020
-.word 0xd287a0e0
+.word 0xd287d4c0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
@@ -48122,7 +48269,7 @@ bl _p_487
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2240]
+ldr x1, [x16, #2256]
 .word 0xeb01001f
 .word 0x54000040
 .word 0xd2800015
@@ -48140,7 +48287,7 @@ ldr x1, [x16, #2240]
 .word 0xaa1803e0
 .word 0xaa1a03e1
 .word 0x3940031e
-bl _p_524
+bl _p_525
 .word 0x53001c00
 .word 0xf9003ba0
 .word 0xf94027b1
@@ -48156,7 +48303,7 @@ bl _p_524
 .word 0xf90037a0
 .word 0xaa1703e0
 .word 0x394002fe
-bl _p_522
+bl _p_523
 .word 0xf94037be
 .word 0xf90003c0
 .word 0xf94027b1
@@ -48169,7 +48316,7 @@ bl _p_522
 .word 0xf94033a1
 .word 0xaa1703e2
 .word 0x3940031e
-bl _p_523
+bl _p_524
 .word 0x53001c00
 .word 0xaa0003f4
 .loc 8 673 0
@@ -48184,12 +48331,12 @@ bl _p_523
 .word 0xf9426231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd290f560
+.word 0xd2912940
 .word 0xf2a00020
-.word 0xd290f560
+.word 0xd2912940
 .word 0xf2a00020
 bl _p_408
-bl _p_543
+bl _p_544
 .word 0xf9003ba0
 .word 0xf94027b1
 .word 0xf9428e31
@@ -48219,9 +48366,9 @@ bl _p_16
 .word 0xa8c87bfd
 .word 0xd65f03c0
 
-Lme_151:
+Lme_153:
 .text
-ut_338:
+ut_340:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetNotificationForWaitCompletion_bool
 .text
@@ -48236,7 +48383,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2248]
+ldr x16, [x16, #2264]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -48267,7 +48414,7 @@ bl _p_487
 .word 0x394063a1
 .word 0xaa0203e0
 .word 0x3940005e
-bl _p_545
+bl _p_546
 .loc 8 694 0
 .word 0xf94013b1
 .word 0xf940a231
@@ -48281,9 +48428,9 @@ bl _p_545
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_152:
+Lme_154:
 .text
-ut_339:
+ut_341:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_ObjectIdForDebugger
 .text
@@ -48297,7 +48444,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2256]
+ldr x16, [x16, #2272]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -48333,9 +48480,9 @@ bl _p_487
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_153:
+Lme_155:
 .text
-ut_340:
+ut_342:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult
 .text
@@ -48350,7 +48497,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2264]
+ldr x16, [x16, #2280]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -48384,11 +48531,11 @@ ldr x16, [x16, #2264]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2280]
+ldr x1, [x16, #2296]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48410,7 +48557,7 @@ ldr x1, [x16, #2280]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48428,7 +48575,7 @@ bl _p_12
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x2, [x16, #2296]
+ldr x2, [x16, #2312]
 .word 0xeb02003f
 .word 0x10000011
 .word 0x54005621
@@ -48445,14 +48592,14 @@ ldr x2, [x16, #2296]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2304]
+ldr x0, [x16, #2320]
 .word 0xf9400000
 .word 0xaa0003f9
 .word 0x14000006
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2312]
+ldr x0, [x16, #2328]
 .word 0xf9400000
 .word 0xaa0003f9
 .loc 8 759 0
@@ -48464,9 +48611,9 @@ ldr x0, [x16, #2312]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #2320]
+ldr x15, [x16, #2336]
 .word 0xaa1903e0
-bl _p_546
+bl _p_547
 .word 0xf9006ba0
 .word 0xf9401bb1
 .word 0xf941d231
@@ -48482,11 +48629,11 @@ bl _p_546
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2328]
+ldr x1, [x16, #2344]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48508,7 +48655,7 @@ ldr x1, [x16, #2328]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48558,7 +48705,7 @@ ldr x2, [x16, #3304]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2336]
+ldr x0, [x16, #2352]
 .word 0xf9400000
 .word 0xaa1a03e1
 .word 0x9280001e
@@ -48583,8 +48730,8 @@ ldr x0, [x16, #2336]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #2320]
-bl _p_546
+ldr x15, [x16, #2336]
+bl _p_547
 .word 0xf9006ba0
 .word 0xf9401bb1
 .word 0xf9437e31
@@ -48600,11 +48747,11 @@ bl _p_546
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2344]
+ldr x1, [x16, #2360]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48621,7 +48768,7 @@ ldr x1, [x16, #2344]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48649,11 +48796,11 @@ ldr x2, [x16, #3312]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2352]
+ldr x1, [x16, #2368]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48670,7 +48817,7 @@ ldr x1, [x16, #2352]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48698,11 +48845,11 @@ ldr x2, [x16, #3264]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2360]
+ldr x1, [x16, #2376]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48719,7 +48866,7 @@ ldr x1, [x16, #2360]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48747,11 +48894,11 @@ ldr x2, [x16, #3280]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2368]
+ldr x1, [x16, #2384]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48768,7 +48915,7 @@ ldr x1, [x16, #2368]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48796,11 +48943,11 @@ ldr x2, [x16, #3376]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2376]
+ldr x1, [x16, #2392]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48817,7 +48964,7 @@ ldr x1, [x16, #2376]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48845,11 +48992,11 @@ ldr x2, [x16, #3320]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2384]
+ldr x1, [x16, #2400]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48866,7 +49013,7 @@ ldr x1, [x16, #2384]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48894,11 +49041,11 @@ ldr x2, [x16, #3328]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2392]
+ldr x1, [x16, #2408]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48915,7 +49062,7 @@ ldr x1, [x16, #2392]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48943,11 +49090,11 @@ ldr x2, [x16, #3288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2400]
+ldr x1, [x16, #2416]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -48964,7 +49111,7 @@ ldr x1, [x16, #2400]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -48992,11 +49139,11 @@ ldr x2, [x16, #3296]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2408]
+ldr x1, [x16, #2424]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -49015,7 +49162,7 @@ ldr x1, [x16, #2408]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -49033,14 +49180,14 @@ bl _p_12
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x2, [x16, #2416]
+ldr x2, [x16, #2432]
 .word 0xeb02003f
 .word 0x10000011
 .word 0x54001121
 .word 0x91004001
 .word 0xf9400801
 .word 0xd2800000
-bl _p_547
+bl _p_548
 .word 0x53001c00
 .word 0xf9006ba0
 .word 0xf9401bb1
@@ -49052,11 +49199,11 @@ bl _p_547
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2272]
+ldr x0, [x16, #2288]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2424]
+ldr x1, [x16, #2440]
 .word 0xeb01001f
 .word 0x9a9f17e0
 .word 0xf9006ba0
@@ -49076,7 +49223,7 @@ ldr x1, [x16, #2424]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2288]
+ldr x0, [x16, #2304]
 .word 0xd2800221
 .word 0xd2800221
 bl _p_12
@@ -49096,13 +49243,13 @@ bl _p_12
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x3, [x16, #2432]
+ldr x3, [x16, #2448]
 .word 0xeb03005f
 .word 0x10000011
 .word 0x540009c1
 .word 0x91004022
 .word 0xf9400821
-bl _p_548
+bl _p_549
 .word 0x53001c00
 .word 0xf9006ba0
 .word 0xf9401bb1
@@ -49123,7 +49270,7 @@ bl _p_548
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2440]
+ldr x0, [x16, #2456]
 .word 0xf9400000
 .word 0x1400002e
 .loc 8 794 0
@@ -49144,7 +49291,7 @@ ldr x0, [x16, #2440]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2440]
+ldr x0, [x16, #2456]
 .word 0xf9400000
 .word 0x1400001c
 .loc 8 800 0
@@ -49163,14 +49310,14 @@ ldr x0, [x16, #2440]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1904]
+ldr x0, [x16, #1912]
 .word 0xd2800a01
 .word 0xd2800a01
 bl _p_12
 .word 0xf9006ba0
 .word 0x910123a1
 .word 0xf94027a1
-bl _p_549
+bl _p_550
 .word 0xf9401bb1
 .word 0xf94be231
 .word 0xb4000051
@@ -49191,9 +49338,9 @@ bl _p_57
 .word 0xaa1103e1
 bl _p_57
 
-Lme_154:
+Lme_156:
 .text
-ut_341:
+ut_343:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult__cctor
 .text
@@ -49206,7 +49353,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2448]
+ldr x16, [x16, #2464]
 .word 0xf9000bb0
 .word 0xf9400a11
 .word 0xf9000fb1
@@ -49233,10 +49380,10 @@ ldr x16, [x16, #2448]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #2456]
+ldr x15, [x16, #2472]
 .word 0x9100a3a0
 .word 0xf94017a0
-bl _p_550
+bl _p_551
 .word 0xf90023a0
 .word 0xf9400bb1
 .word 0xf9409a31
@@ -49246,7 +49393,7 @@ bl _p_550
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2440]
+ldr x0, [x16, #2456]
 .word 0xf9000001
 .word 0xf9400bb1
 .word 0xf940be31
@@ -49256,7 +49403,7 @@ ldr x0, [x16, #2440]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_155:
+Lme_157:
 .text
 	.align 4
 	.no_dead_strip Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_LONG_T_REF
@@ -49272,7 +49419,7 @@ Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_LONG_T_REF:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2464]
+ldr x16, [x16, #2480]
 .word 0xf90023b0
 .word 0xf9400a11
 .word 0xf90027b1
@@ -49319,7 +49466,7 @@ ldr x16, [x16, #2464]
 .word 0xd63f0220
 .word 0xf90033ba
 .word 0xf9402fa0
-bl _p_551
+bl _p_552
 .word 0xaa0003e2
 .word 0xf9400441
 .word 0xf94033a0
@@ -49330,11 +49477,11 @@ bl _p_2
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402fa0
-bl _p_552
+bl _p_553
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2472]
+ldr x1, [x16, #2488]
 .word 0xeb01001f
 .word 0x540005a0
 .word 0xf94023b1
@@ -49342,11 +49489,11 @@ ldr x1, [x16, #2472]
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402fa0
-bl _p_552
+bl _p_553
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2480]
+ldr x1, [x16, #2496]
 .word 0xeb01001f
 .word 0x54000440
 .word 0xf94023b1
@@ -49363,7 +49510,7 @@ ldr x1, [x16, #2480]
 .word 0xf9400000
 .word 0xf9003fa0
 .word 0xf9402fa0
-bl _p_553
+bl _p_554
 .word 0xaa0003e1
 .word 0xf9403fa0
 .word 0xeb01001f
@@ -49401,7 +49548,7 @@ bl _p_553
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2488]
+ldr x1, [x16, #2504]
 .word 0xeb01001f
 .word 0x54000040
 .word 0xd2800014
@@ -49420,9 +49567,9 @@ ldr x1, [x16, #2488]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2496]
-.word 0xd29038a1
-.word 0xd29038a1
+ldr x0, [x16, #2512]
+.word 0xd29195c1
+.word 0xd29195c1
 bl _p_15
 .word 0xf9003fa0
 bl _p_229
@@ -49440,12 +49587,12 @@ bl _p_229
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402fa0
-bl _p_554
+bl _p_555
 .word 0xaa0003e3
 .word 0xf9403fa0
 .word 0xf94043a1
 .word 0xf94047a2
-bl _p_555
+bl _p_556
 .word 0xf9003ba0
 .word 0xf94023b1
 .word 0xf942de31
@@ -49465,14 +49612,14 @@ bl _p_16
 .word 0xaa1803e0
 .word 0xaa1803e0
 .word 0x3940031e
-bl _p_556
+bl _p_557
 .word 0xf90037a0
 .word 0xf94023b1
 .word 0xf9432e31
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402fa0
-bl _p_551
+bl _p_552
 .word 0xaa0003e2
 .word 0xf9400441
 .word 0xf94037a0
@@ -49485,7 +49632,7 @@ bl _p_2
 .word 0xaa1803e0
 .word 0xaa1803e0
 .word 0x3940031e
-bl _p_556
+bl _p_557
 .word 0xf90047a0
 .word 0xf94023b1
 .word 0xf9437e31
@@ -49502,7 +49649,7 @@ bl _p_556
 .word 0xf9400000
 .word 0xf90043a0
 .word 0xf9402fa0
-bl _p_553
+bl _p_554
 .word 0xaa0003e2
 .word 0xf9403fa0
 .word 0xf94043a1
@@ -49527,7 +49674,7 @@ bl _p_553
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402fa0
-bl _p_552
+bl _p_553
 .word 0xaa0003f7
 .word 0xf94023b1
 .word 0xf9442631
@@ -49535,7 +49682,7 @@ bl _p_552
 .word 0xd63f0220
 .word 0xaa1703e0
 .word 0xaa1703e0
-bl _p_557
+bl _p_558
 .word 0x53001c00
 .word 0xf9003ba0
 .word 0xf94023b1
@@ -49551,7 +49698,7 @@ bl _p_557
 .word 0xaa1803e0
 .word 0xaa1803e0
 .word 0x3940031e
-bl _p_556
+bl _p_557
 .word 0xf9003ba0
 .word 0xf94023b1
 .word 0xf9448631
@@ -49585,7 +49732,7 @@ bl _p_556
 .word 0xd63f0220
 .word 0xaa1703e0
 .word 0xaa1703e0
-bl _p_558
+bl _p_559
 .word 0xf9003ba0
 .word 0xf94023b1
 .word 0xf9450e31
@@ -49604,7 +49751,7 @@ bl _p_558
 .word 0xaa1803e0
 .word 0xaa1803e0
 .word 0x3940031e
-bl _p_556
+bl _p_557
 .word 0xf9004ba0
 .word 0xf94023b1
 .word 0xf9455a31
@@ -49620,7 +49767,7 @@ bl _p_229
 .word 0xf9404ba0
 .word 0xf9404fa2
 .word 0xaa1703e1
-bl _p_559
+bl _p_560
 .word 0xf90047a0
 .word 0xf94023b1
 .word 0xf9459a31
@@ -49637,7 +49784,7 @@ bl _p_559
 .word 0xf9400000
 .word 0xf90043a0
 .word 0xf9402fa0
-bl _p_553
+bl _p_554
 .word 0xaa0003e2
 .word 0xf9403fa0
 .word 0xf94043a1
@@ -49670,9 +49817,9 @@ bl _p_553
 .word 0xaa1103e1
 bl _p_57
 
-Lme_156:
+Lme_158:
 .text
-ut_343:
+ut_345:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
 .text
@@ -49691,7 +49838,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2504]
+ldr x16, [x16, #2520]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -49822,7 +49969,7 @@ bl _p_487
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2512]
+ldr x0, [x16, #2528]
 .word 0xd2800a01
 .word 0xd2800a01
 bl _p_12
@@ -49900,9 +50047,9 @@ bl _p_16
 .word 0xa8ce7bfd
 .word 0xd65f03c0
 
-Lme_157:
+Lme_159:
 .text
-ut_344:
+ut_346:
 add x0, x0, 16
 b System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
 .text
@@ -49921,7 +50068,7 @@ System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2520]
+ldr x16, [x16, #2536]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -50039,7 +50186,7 @@ bl _p_457
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2528]
+ldr x0, [x16, #2544]
 .word 0xd2800d01
 .word 0xd2800d01
 bl _p_12
@@ -50117,7 +50264,7 @@ bl _p_16
 .word 0xa8d07bfd
 .word 0xd65f03c0
 
-Lme_158:
+Lme_15a:
 .text
 	.align 4
 	.no_dead_strip Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_LONG_System_Collections_Generic_IEnumerable_1_T_REF
@@ -50133,7 +50280,7 @@ Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_LONG_System_Collections_Generic_IE
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2536]
+ldr x16, [x16, #2552]
 .word 0xf9001fb0
 .word 0xf9400a11
 .word 0xf90023b1
@@ -50153,9 +50300,9 @@ ldr x16, [x16, #2536]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2544]
+ldr x1, [x16, #2560]
 .word 0xaa1a03e0
-bl _p_560
+bl _p_561
 .word 0xf9401fb1
 .word 0xf9408a31
 .word 0xb4000051
@@ -50175,7 +50322,7 @@ bl _p_560
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2552]
+ldr x1, [x16, #2568]
 .word 0xeb01001f
 .word 0x54000040
 .word 0xd2800018
@@ -50189,9 +50336,9 @@ ldr x1, [x16, #2552]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2496]
-.word 0xd29030e1
-.word 0xd29030e1
+ldr x0, [x16, #2512]
+.word 0xd2918e01
+.word 0xd2918e01
 bl _p_15
 .word 0xaa0003e1
 .word 0xd2800e60
@@ -50202,10 +50349,10 @@ bl _mono_create_corlib_exception_1
 bl _p_16
 .word 0xaa1603e0
 .word 0xf9402ba0
-bl _p_561
+bl _p_562
 .word 0xf90037a0
 .word 0xf9402ba0
-bl _p_562
+bl _p_563
 .word 0xaa0003e1
 .word 0xf94037af
 .word 0xaa1603e0
@@ -50235,7 +50382,7 @@ bl _p_562
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_159:
+Lme_15b:
 .text
 	.align 4
 	.no_dead_strip Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_DOUBLE_System_Collections_Generic_IEnumerable_1_T_REF
@@ -50251,7 +50398,7 @@ Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_DOUBLE_System_Collections_Generic_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2560]
+ldr x16, [x16, #2576]
 .word 0xf9001fb0
 .word 0xf9400a11
 .word 0xf90023b1
@@ -50271,9 +50418,9 @@ ldr x16, [x16, #2560]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2544]
+ldr x1, [x16, #2560]
 .word 0xaa1a03e0
-bl _p_560
+bl _p_561
 .word 0xf9401fb1
 .word 0xf9408a31
 .word 0xb4000051
@@ -50293,7 +50440,7 @@ bl _p_560
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2552]
+ldr x1, [x16, #2568]
 .word 0xeb01001f
 .word 0x54000040
 .word 0xd2800018
@@ -50307,9 +50454,9 @@ ldr x1, [x16, #2552]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2496]
-.word 0xd29030e1
-.word 0xd29030e1
+ldr x0, [x16, #2512]
+.word 0xd2918e01
+.word 0xd2918e01
 bl _p_15
 .word 0xaa0003e1
 .word 0xd2800e60
@@ -50320,10 +50467,10 @@ bl _mono_create_corlib_exception_1
 bl _p_16
 .word 0xaa1603e0
 .word 0xf9402ba0
-bl _p_563
+bl _p_564
 .word 0xf90037a0
 .word 0xf9402ba0
-bl _p_564
+bl _p_565
 .word 0xaa0003e1
 .word 0xf94037af
 .word 0xaa1603e0
@@ -50353,7 +50500,7 @@ bl _p_564
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_15a:
+Lme_15c:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor
@@ -50364,7 +50511,7 @@ System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2568]
+ldr x16, [x16, #2584]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -50373,7 +50520,7 @@ ldr x16, [x16, #2568]
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9400ba0
-bl _p_565
+bl _p_566
 .word 0xf9400fb1
 .word 0xf9404a31
 .word 0xb4000051
@@ -50386,7 +50533,7 @@ bl _p_565
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_15b:
+Lme_15d:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_T_REF_EnsureCapacity_int
@@ -50401,7 +50548,7 @@ System_Collections_Generic_List_1_T_REF_EnsureCapacity_int:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2576]
+ldr x16, [x16, #2592]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -50492,7 +50639,7 @@ ldr x16, [x16, #2576]
 .word 0xf94017a0
 .word 0xaa1903e1
 .word 0xaa1903e1
-bl _p_566
+bl _p_567
 .loc 6 428 0
 .word 0xf9401fb1
 .word 0xf9400231
@@ -50512,7 +50659,7 @@ bl _p_566
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_15c:
+Lme_15e:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Func_1_System_Threading_Tasks_VoidTaskResult_invoke_TResult
@@ -50527,7 +50674,7 @@ wrapper_delegate_invoke_System_Func_1_System_Threading_Tasks_VoidTaskResult_invo
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2584]
+ldr x16, [x16, #2600]
 .word 0xf90033b0
 .word 0xf9400a11
 .word 0xf90037b1
@@ -50671,9 +50818,9 @@ bl _p_16
 .word 0xaa1103e1
 bl _p_57
 
-Lme_161:
+Lme_163:
 .text
-ut_354:
+ut_356:
 add x0, x0, 16
 b System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
 .text
@@ -50689,7 +50836,7 @@ System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskRes
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2592]
+ldr x16, [x16, #2608]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -50733,9 +50880,9 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_162:
+Lme_164:
 .text
-ut_355:
+ut_357:
 add x0, x0, 16
 b System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
 .text
@@ -50749,7 +50896,7 @@ System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskRes
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2600]
+ldr x16, [x16, #2616]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -50785,9 +50932,9 @@ bl _p_500
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_163:
+Lme_165:
 .text
-ut_356:
+ut_358:
 add x0, x0, 16
 b System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
 .text
@@ -50802,7 +50949,7 @@ System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskRes
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2608]
+ldr x16, [x16, #2624]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -50825,7 +50972,7 @@ ldr x16, [x16, #2608]
 .word 0xd2800022
 .word 0xd2800022
 .word 0xd2800023
-bl _p_567
+bl _p_568
 .loc 13 289 0
 .word 0xf94013b1
 .word 0xf9408631
@@ -50839,9 +50986,9 @@ bl _p_567
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_164:
+Lme_166:
 .text
-ut_357:
+ut_359:
 add x0, x0, 16
 b System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
 .text
@@ -50856,7 +51003,7 @@ System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskRes
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2616]
+ldr x16, [x16, #2632]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -50879,7 +51026,7 @@ ldr x16, [x16, #2616]
 .word 0xd2800002
 .word 0xd2800022
 .word 0xd2800003
-bl _p_567
+bl _p_568
 .loc 13 299 0
 .word 0xf94013b1
 .word 0xf9408631
@@ -50893,9 +51040,9 @@ bl _p_567
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_165:
+Lme_167:
 .text
-ut_358:
+ut_360:
 add x0, x0, 16
 b System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_GetResult
 .text
@@ -50910,7 +51057,7 @@ System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskRes
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2624]
+ldr x16, [x16, #2640]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -50928,7 +51075,7 @@ ldr x16, [x16, #2624]
 .word 0xd63f0220
 .word 0xaa1a03e0
 .word 0xf9400340
-bl _p_568
+bl _p_569
 .loc 13 310 0
 .word 0xf94017b1
 .word 0xf9407231
@@ -50940,7 +51087,7 @@ bl _p_568
 .word 0xf90027a0
 .word 0xaa0103e0
 .word 0x3940003e
-bl _p_569
+bl _p_570
 .word 0xf94027be
 .word 0xf90003c0
 .word 0xf94017b1
@@ -50961,9 +51108,9 @@ bl _p_569
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_166:
+Lme_168:
 .text
-ut_359:
+ut_361:
 add x0, x0, 16
 b System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
 .text
@@ -50979,7 +51126,7 @@ System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2632]
+ldr x16, [x16, #2648]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -51007,8 +51154,8 @@ ldr x16, [x16, #2632]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #2640]
-bl _p_570
+ldr x15, [x16, #2656]
+bl _p_571
 .word 0x910143a0
 .word 0x910103a0
 .word 0xf9402ba0
@@ -51051,9 +51198,9 @@ ldr x3, [x16, #16]
 .word 0xa8c77bfd
 .word 0xd65f03c0
 
-Lme_167:
+Lme_169:
 .text
-ut_360:
+ut_362:
 add x0, x0, 16
 b System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
 .text
@@ -51067,7 +51214,7 @@ System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2648]
+ldr x16, [x16, #2664]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -51105,9 +51252,9 @@ ldr x16, [x16, #2648]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_168:
+Lme_16a:
 .text
-ut_361:
+ut_363:
 add x0, x0, 16
 b System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
 .text
@@ -51124,7 +51271,7 @@ System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2656]
+ldr x16, [x16, #2672]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -51177,9 +51324,9 @@ ldr x2, [x16, #16]
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_169:
+Lme_16b:
 .text
-ut_362:
+ut_364:
 add x0, x0, 16
 b System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
 .text
@@ -51193,7 +51340,7 @@ System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2664]
+ldr x16, [x16, #2680]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -51229,9 +51376,9 @@ bl _p_500
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_16a:
+Lme_16c:
 .text
-ut_363:
+ut_365:
 add x0, x0, 16
 b System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
 .text
@@ -51247,7 +51394,7 @@ System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2672]
+ldr x16, [x16, #2688]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -51270,7 +51417,7 @@ ldr x16, [x16, #2672]
 .word 0x39402322
 .word 0xd2800023
 .word 0xd2800023
-bl _p_567
+bl _p_568
 .loc 13 463 0
 .word 0xf94013b1
 .word 0xf9408a31
@@ -51285,9 +51432,9 @@ bl _p_567
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_16b:
+Lme_16d:
 .text
-ut_364:
+ut_366:
 add x0, x0, 16
 b System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
 .text
@@ -51303,7 +51450,7 @@ System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2680]
+ldr x16, [x16, #2696]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -51326,7 +51473,7 @@ ldr x16, [x16, #2680]
 .word 0x39402322
 .word 0xd2800003
 .word 0xd2800003
-bl _p_567
+bl _p_568
 .loc 13 473 0
 .word 0xf94013b1
 .word 0xf9408a31
@@ -51341,9 +51488,9 @@ bl _p_567
 .word 0xa8c47bfd
 .word 0xd65f03c0
 
-Lme_16c:
+Lme_16e:
 .text
-ut_365:
+ut_367:
 add x0, x0, 16
 b System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_GetResult
 .text
@@ -51358,7 +51505,7 @@ System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2688]
+ldr x16, [x16, #2704]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -51376,7 +51523,7 @@ ldr x16, [x16, #2688]
 .word 0xd63f0220
 .word 0xaa1a03e0
 .word 0xf9400340
-bl _p_568
+bl _p_569
 .loc 13 484 0
 .word 0xf94017b1
 .word 0xf9407231
@@ -51388,7 +51535,7 @@ bl _p_568
 .word 0xf90027a0
 .word 0xaa0103e0
 .word 0x3940003e
-bl _p_569
+bl _p_570
 .word 0xf94027be
 .word 0xf90003c0
 .word 0xf94017b1
@@ -51409,7 +51556,7 @@ bl _p_569
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_16d:
+Lme_16f:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_invoke_void_T_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
@@ -51425,7 +51572,7 @@ wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_1_System_Thr
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2696]
+ldr x16, [x16, #2712]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -51539,7 +51686,7 @@ bl _p_16
 .word 0xaa1103e1
 bl _p_57
 
-Lme_16e:
+Lme_170:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions
@@ -51559,7 +51706,7 @@ System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_V
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2704]
+ldr x16, [x16, #2720]
 .word 0xf90023b0
 .word 0xf9400a11
 .word 0xf90027b1
@@ -51584,7 +51731,7 @@ ldr x16, [x16, #2704]
 .word 0xf9003fa0
 .word 0xaa1903e0
 .word 0xaa1903e0
-bl _p_494
+bl _p_496
 .word 0xf90043a0
 .word 0xf94023b1
 .word 0xf940aa31
@@ -51607,7 +51754,7 @@ bl _p_494
 .word 0xf9402fa4
 .word 0xaa1903e5
 .word 0xd2800007
-bl _p_497
+bl _p_498
 .loc 14 134 0
 .word 0xf94023b1
 .word 0xf9410231
@@ -51635,7 +51782,7 @@ ldr x2, [x16, #16]
 .word 0xd63f0220
 .word 0xaa1503e0
 .word 0xaa1503e0
-bl _p_496
+bl _p_495
 .loc 14 136 0
 .word 0xf94023b1
 .word 0xf9416631
@@ -51651,7 +51798,7 @@ bl _p_496
 .word 0xa8c97bfd
 .word 0xd65f03c0
 
-Lme_16f:
+Lme_171:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
@@ -51665,7 +51812,7 @@ System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_V
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2712]
+ldr x16, [x16, #2728]
 .word 0xf9001bb0
 .word 0xf9400a11
 .word 0xf9001fb1
@@ -51720,11 +51867,11 @@ bl _p_508
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2720]
+ldr x1, [x16, #2736]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x2, [x16, #2728]
+ldr x2, [x16, #2744]
 bl _p_2
 .word 0xaa0003f8
 .loc 14 156 0
@@ -51762,11 +51909,11 @@ bl _p_2
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2736]
+ldr x1, [x16, #2752]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x2, [x16, #2744]
+ldr x2, [x16, #2760]
 bl _p_2
 .word 0xaa0003f7
 .loc 14 162 0
@@ -51810,154 +51957,11 @@ bl _p_2
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_170:
+Lme_172:
 .text
 	.align 4
-	.no_dead_strip wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object
-wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object:
-.word 0xa9b77bfd
-.word 0x910003fd
-.word 0xa90153b3
-.word 0xa9025bb5
-.word 0xa90363b7
-.word 0xa9046bb9
-.word 0xaa0003f8
-.word 0xaa0103f9
-.word 0xaa0203fa
-
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
-add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2752]
-.word 0xf9002bb0
-.word 0xf9400a11
-.word 0xf9002fb1
-.word 0xd2800017
-.word 0xd2800016
-.word 0xd2800015
-.word 0xd2800014
-.word 0xd2800013
-.word 0xf90037bf
-.word 0xf9402bb1
-.word 0xf9406231
-.word 0xb4000051
-.word 0xd63f0220
-
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
-add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #984]
-.word 0xb9400000
-.word 0x34000140
-bl _p_418
-.word 0xf9003ba0
-.word 0xf9403ba1
-.word 0xf9403ba0
-.word 0xf9003fa1
-.word 0xb4000060
-.word 0xf9403fa0
-bl _p_16
-.word 0xf9403fa0
-.word 0xaa1803e0
-.word 0xaa1803e0
-.word 0x9101e300
-.word 0xf9403f00
-.word 0xaa0003f5
-.word 0xaa1503e0
-.word 0xb5000440
-.word 0xaa1803e0
-.word 0xaa1803e0
-.word 0x91008300
-.word 0xf9401300
-.word 0xaa0003f3
-.word 0xaa1303e0
-.word 0xb40001e0
-.word 0xaa1303e0
-.word 0xaa1903e0
-.word 0xaa1a03e0
-.word 0xaa1803e0
-.word 0xaa1803e0
-.word 0x9100e300
-.word 0xf9401f00
-.word 0xaa1803e0
-.word 0xf9400b03
-.word 0xaa1303e0
-.word 0xaa1903e1
-.word 0xaa1a03e2
-.word 0xd63f0060
-.word 0x14000037
-.word 0xaa1903e0
-.word 0xaa1a03e0
-.word 0xaa1803e0
-.word 0xaa1803e0
-.word 0x9100e300
-.word 0xf9401f00
-.word 0xaa1803e0
-.word 0xf9400b02
-.word 0xaa1903e0
-.word 0xaa1a03e1
-.word 0xd63f0040
-.word 0x1400002b
-.word 0xaa1503e0
-.word 0xb9801aa0
-.word 0xaa0003f6
-.word 0xd2800017
-.word 0xaa1503e0
-.word 0xaa1703e0
-.word 0x93407ee0
-.word 0xb9801aa1
-.word 0xeb00003f
-.word 0x10000011
-.word 0x54000569
-.word 0xd37df000
-.word 0x8b0002a0
-.word 0x91008000
-.word 0xf9400000
-.word 0xaa0003f4
-.word 0xaa1403e3
-.word 0xaa1903e0
-.word 0xaa1a03e0
-.word 0xaa0303e0
-.word 0xaa1903e1
-.word 0xaa1a03e2
-.word 0xf90047a3
-.word 0xf9400c70
-.word 0xd63f0200
-.word 0xaa0003e1
-.word 0xf94047a0
-.word 0xf90043a1
-.word 0xf9402bb1
-.word 0xf941ba31
-.word 0xb4000051
-.word 0xd63f0220
-.word 0xf94043a0
-.word 0xf90037a0
-.word 0xaa1703e0
-.word 0x110006e0
-.word 0xaa0003f7
-.word 0xaa1703e0
-.word 0xaa1603e1
-.word 0x6b16001f
-.word 0x54fffb8b
-.word 0xf94037a0
-.word 0xf9402bb1
-.word 0xf941f231
-.word 0xb4000051
-.word 0xd63f0220
-.word 0xa94153b3
-.word 0xa9425bb5
-.word 0xa94363b7
-.word 0xa9446bb9
-.word 0x910003bf
-.word 0xa8c97bfd
-.word 0xd65f03c0
-.word 0xd2801520
-.word 0xaa1103e1
-bl _p_57
-
-Lme_171:
-.text
-	.align 4
-	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_System_IAsyncResult
-wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_System_IAsyncResult:
+	.no_dead_strip wrapper_delegate_invoke_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_object
+wrapper_delegate_invoke_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_object:
 .word 0xa9b47bfd
 .word 0x910003fd
 .word 0xa90153b3
@@ -51969,7 +51973,7 @@ wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2760]
+ldr x16, [x16, #2768]
 .word 0xf90033b0
 .word 0xf9400a11
 .word 0xf90037b1
@@ -52118,7 +52122,315 @@ bl _p_16
 .word 0xaa1103e1
 bl _p_57
 
-Lme_176:
+Lme_177:
+.text
+	.align 4
+	.no_dead_strip wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object
+wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object:
+.word 0xa9b77bfd
+.word 0x910003fd
+.word 0xa90153b3
+.word 0xa9025bb5
+.word 0xa90363b7
+.word 0xa9046bb9
+.word 0xaa0003f8
+.word 0xaa0103f9
+.word 0xaa0203fa
+
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #2776]
+.word 0xf9002bb0
+.word 0xf9400a11
+.word 0xf9002fb1
+.word 0xd2800017
+.word 0xd2800016
+.word 0xd2800015
+.word 0xd2800014
+.word 0xd2800013
+.word 0xf90037bf
+.word 0xf9402bb1
+.word 0xf9406231
+.word 0xb4000051
+.word 0xd63f0220
+
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x0, [x16, #984]
+.word 0xb9400000
+.word 0x34000140
+bl _p_418
+.word 0xf9003ba0
+.word 0xf9403ba1
+.word 0xf9403ba0
+.word 0xf9003fa1
+.word 0xb4000060
+.word 0xf9403fa0
+bl _p_16
+.word 0xf9403fa0
+.word 0xaa1803e0
+.word 0xaa1803e0
+.word 0x9101e300
+.word 0xf9403f00
+.word 0xaa0003f5
+.word 0xaa1503e0
+.word 0xb5000440
+.word 0xaa1803e0
+.word 0xaa1803e0
+.word 0x91008300
+.word 0xf9401300
+.word 0xaa0003f3
+.word 0xaa1303e0
+.word 0xb40001e0
+.word 0xaa1303e0
+.word 0xaa1903e0
+.word 0xaa1a03e0
+.word 0xaa1803e0
+.word 0xaa1803e0
+.word 0x9100e300
+.word 0xf9401f00
+.word 0xaa1803e0
+.word 0xf9400b03
+.word 0xaa1303e0
+.word 0xaa1903e1
+.word 0xaa1a03e2
+.word 0xd63f0060
+.word 0x14000037
+.word 0xaa1903e0
+.word 0xaa1a03e0
+.word 0xaa1803e0
+.word 0xaa1803e0
+.word 0x9100e300
+.word 0xf9401f00
+.word 0xaa1803e0
+.word 0xf9400b02
+.word 0xaa1903e0
+.word 0xaa1a03e1
+.word 0xd63f0040
+.word 0x1400002b
+.word 0xaa1503e0
+.word 0xb9801aa0
+.word 0xaa0003f6
+.word 0xd2800017
+.word 0xaa1503e0
+.word 0xaa1703e0
+.word 0x93407ee0
+.word 0xb9801aa1
+.word 0xeb00003f
+.word 0x10000011
+.word 0x54000569
+.word 0xd37df000
+.word 0x8b0002a0
+.word 0x91008000
+.word 0xf9400000
+.word 0xaa0003f4
+.word 0xaa1403e3
+.word 0xaa1903e0
+.word 0xaa1a03e0
+.word 0xaa0303e0
+.word 0xaa1903e1
+.word 0xaa1a03e2
+.word 0xf90047a3
+.word 0xf9400c70
+.word 0xd63f0200
+.word 0xaa0003e1
+.word 0xf94047a0
+.word 0xf90043a1
+.word 0xf9402bb1
+.word 0xf941ba31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xf94043a0
+.word 0xf90037a0
+.word 0xaa1703e0
+.word 0x110006e0
+.word 0xaa0003f7
+.word 0xaa1703e0
+.word 0xaa1603e1
+.word 0x6b16001f
+.word 0x54fffb8b
+.word 0xf94037a0
+.word 0xf9402bb1
+.word 0xf941f231
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xa94153b3
+.word 0xa9425bb5
+.word 0xa94363b7
+.word 0xa9446bb9
+.word 0x910003bf
+.word 0xa8c97bfd
+.word 0xd65f03c0
+.word 0xd2801520
+.word 0xaa1103e1
+bl _p_57
+
+Lme_178:
+.text
+	.align 4
+	.no_dead_strip wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_System_IAsyncResult
+wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_System_IAsyncResult:
+.word 0xa9b47bfd
+.word 0x910003fd
+.word 0xa90153b3
+.word 0xa9025bb5
+.word 0xa90363b7
+.word 0xa9046bb9
+.word 0xaa0003f9
+.word 0xaa0103fa
+
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #2784]
+.word 0xf90033b0
+.word 0xf9400a11
+.word 0xf90037b1
+.word 0xd2800018
+.word 0xd2800017
+.word 0xd2800016
+.word 0xd2800015
+.word 0xd2800014
+.word 0x910263a0
+.word 0x390263bf
+.word 0xf94033b1
+.word 0xf9406231
+.word 0xb4000051
+.word 0xd63f0220
+
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x0, [x16, #984]
+.word 0xb9400000
+.word 0x34000140
+bl _p_418
+.word 0xaa0003f3
+.word 0xaa1303e0
+.word 0xaa1303e1
+.word 0xf90057a0
+.word 0xb4000073
+.word 0xf94057a0
+bl _p_16
+.word 0xf94057a0
+.word 0xaa1903e0
+.word 0xaa1903e0
+.word 0x9101e320
+.word 0xf9403f20
+.word 0xaa0003f6
+.word 0xaa1603e0
+.word 0xb50005c0
+.word 0xaa1903e0
+.word 0xaa1903e0
+.word 0x91008320
+.word 0xf9401320
+.word 0xaa0003f4
+.word 0xaa1403e0
+.word 0xb40002a0
+.word 0xaa1403e0
+.word 0xaa1a03e0
+.word 0xaa1903e0
+.word 0xaa1903e0
+.word 0x9100e320
+.word 0xf9401f20
+.word 0xaa1903e0
+.word 0xf9400b22
+.word 0x910243a0
+.word 0xf90053a0
+.word 0xaa1403e0
+.word 0xaa1a03e1
+.word 0xd63f0040
+.word 0xf94053be
+.word 0xf90003c0
+.word 0x910243a0
+.word 0x910143a0
+.word 0x398243a0
+.word 0x390143a0
+.word 0x14000046
+.word 0xaa1a03e0
+.word 0xaa1903e0
+.word 0xaa1903e0
+.word 0x9100e320
+.word 0xf9401f20
+.word 0xaa1903e0
+.word 0xf9400b21
+.word 0x910223a0
+.word 0xf90053a0
+.word 0xaa1a03e0
+.word 0xd63f0020
+.word 0xf94053be
+.word 0xf90003c0
+.word 0x910223a0
+.word 0x910143a0
+.word 0x398223a0
+.word 0x390143a0
+.word 0x14000034
+.word 0xaa1603e0
+.word 0xb9801ac0
+.word 0xaa0003f7
+.word 0xd2800018
+.word 0xaa1603e0
+.word 0xaa1803e0
+.word 0x93407f00
+.word 0xb9801ac1
+.word 0xeb00003f
+.word 0x10000011
+.word 0x540006a9
+.word 0xd37df000
+.word 0x8b0002c0
+.word 0x91008000
+.word 0xf9400000
+.word 0xaa0003f5
+.word 0xaa1503e2
+.word 0xaa1a03e0
+.word 0x910203a0
+.word 0xf90053a0
+.word 0xaa0203e0
+.word 0xaa1a03e1
+.word 0xf9005ba2
+.word 0xf9400c50
+.word 0xd63f0200
+.word 0xf94053be
+.word 0xf90003c0
+.word 0xf9405ba0
+.word 0xf94033b1
+.word 0xf941ea31
+.word 0xb4000051
+.word 0xd63f0220
+.word 0x910203a0
+.word 0x910263a0
+.word 0x398203a0
+.word 0x390263a0
+.word 0xaa1803e0
+.word 0x11000700
+.word 0xaa0003f8
+.word 0xaa1803e0
+.word 0xaa1703e1
+.word 0x6b17001f
+.word 0x54fffb4b
+.word 0x910263a0
+.word 0x9101e3a0
+.word 0x398263a0
+.word 0x3901e3a0
+.word 0x9101e3a0
+.word 0x910143a0
+.word 0x3981e3a0
+.word 0x390143a0
+.word 0xf94033b1
+.word 0xf9424631
+.word 0xb4000051
+.word 0xd63f0220
+.word 0xa94153b3
+.word 0xa9425bb5
+.word 0xa94363b7
+.word 0xa9446bb9
+.word 0xf9402ba0
+.word 0x910003bf
+.word 0xa8cc7bfd
+.word 0xd65f03c0
+.word 0xd2801520
+.word 0xaa1103e1
+bl _p_57
+
+Lme_17d:
 .text
 	.align 4
 	.no_dead_strip wrapper_delegate_invoke_System_Action_1_System_IAsyncResult_invoke_void_T_System_IAsyncResult
@@ -52134,7 +52446,7 @@ wrapper_delegate_invoke_System_Action_1_System_IAsyncResult_invoke_void_T_System
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2768]
+ldr x16, [x16, #2792]
 .word 0xf9002bb0
 .word 0xf9400a11
 .word 0xf9002fb1
@@ -52248,7 +52560,7 @@ bl _p_16
 .word 0xaa1103e1
 bl _p_57
 
-Lme_177:
+Lme_17e:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor
@@ -52259,7 +52571,7 @@ System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2776]
+ldr x16, [x16, #2800]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -52280,7 +52592,7 @@ ldr x16, [x16, #2776]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_178:
+Lme_17f:
 .text
 	.align 4
 	.no_dead_strip System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__FromAsyncImplb__0_System_IAsyncResult
@@ -52294,7 +52606,7 @@ System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2784]
+ldr x16, [x16, #2808]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -52316,7 +52628,7 @@ ldr x16, [x16, #2784]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #2176]
+ldr x15, [x16, #2192]
 .word 0x928003f0
 .word 0xf2bffff0
 .word 0xf8706830
@@ -52345,10 +52657,10 @@ ldr x15, [x16, #2176]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x15, [x16, #1976]
+ldr x15, [x16, #1984]
 .word 0xaa1a03e0
 .word 0xd2800024
-bl _p_535
+bl _p_536
 .loc 12 792 0
 .word 0xf94017b1
 .word 0xf9400231
@@ -52367,7 +52679,7 @@ bl _p_535
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_179:
+Lme_180:
 .text
 	.align 4
 	.no_dead_strip System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult
@@ -52379,7 +52691,7 @@ System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Thread
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2792]
+ldr x16, [x16, #2816]
 .word 0xf90013b0
 .word 0xf9400a11
 .word 0xf90017b1
@@ -52412,7 +52724,7 @@ ldr x16, [x16, #2792]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #1904]
+ldr x0, [x16, #1912]
 .word 0xd2800a01
 .word 0xd2800a01
 bl _p_12
@@ -52423,7 +52735,7 @@ bl _p_12
 .word 0xd2880003
 .word 0x9100e3a4
 .word 0xf9401fa4
-bl _p_571
+bl _p_572
 .word 0xf94013b1
 .word 0xf940d231
 .word 0xb4000051
@@ -52437,7 +52749,7 @@ bl _p_571
 .word 0xa8c67bfd
 .word 0xd65f03c0
 
-Lme_17a:
+Lme_181:
 .text
 	.align 4
 	.no_dead_strip Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_DOUBLE_T_REF
@@ -52453,7 +52765,7 @@ Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_DOUBLE_T_REF:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2800]
+ldr x16, [x16, #2824]
 .word 0xf9001fb0
 .word 0xf9400a11
 .word 0xf90023b1
@@ -52502,7 +52814,7 @@ ldr x16, [x16, #2800]
 .word 0xd63f0220
 .word 0xf90033ba
 .word 0xf9402ba0
-bl _p_572
+bl _p_573
 .word 0xaa0003e2
 .word 0xf9400441
 .word 0xf94033a0
@@ -52513,11 +52825,11 @@ bl _p_2
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402ba0
-bl _p_573
+bl _p_574
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2808]
+ldr x1, [x16, #2832]
 .word 0xeb01001f
 .word 0x540005a0
 .word 0xf9401fb1
@@ -52525,11 +52837,11 @@ ldr x1, [x16, #2808]
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402ba0
-bl _p_573
+bl _p_574
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2816]
+ldr x1, [x16, #2840]
 .word 0xeb01001f
 .word 0x54000440
 .word 0xf9401fb1
@@ -52546,7 +52858,7 @@ ldr x1, [x16, #2816]
 .word 0xf9400000
 .word 0xf9003fa0
 .word 0xf9402ba0
-bl _p_574
+bl _p_575
 .word 0xaa0003e1
 .word 0xf9403fa0
 .word 0xeb01001f
@@ -52584,7 +52896,7 @@ bl _p_574
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x1, [x16, #2488]
+ldr x1, [x16, #2504]
 .word 0xeb01001f
 .word 0x54000040
 .word 0xd2800015
@@ -52603,9 +52915,9 @@ ldr x1, [x16, #2488]
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x0, [x16, #2496]
-.word 0xd29038a1
-.word 0xd29038a1
+ldr x0, [x16, #2512]
+.word 0xd29195c1
+.word 0xd29195c1
 bl _p_15
 .word 0xf9003fa0
 bl _p_229
@@ -52623,12 +52935,12 @@ bl _p_229
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402ba0
-bl _p_575
+bl _p_576
 .word 0xaa0003e3
 .word 0xf9403fa0
 .word 0xf94047a1
 .word 0xf9404ba2
-bl _p_555
+bl _p_556
 .word 0xf90043a0
 .word 0xf9401fb1
 .word 0xf942e631
@@ -52648,14 +52960,14 @@ bl _p_16
 .word 0xaa1903e0
 .word 0xaa1903e0
 .word 0x3940033e
-bl _p_556
+bl _p_557
 .word 0xf90037a0
 .word 0xf9401fb1
 .word 0xf9433631
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402ba0
-bl _p_572
+bl _p_573
 .word 0xaa0003e2
 .word 0xf9400441
 .word 0xf94037a0
@@ -52668,7 +52980,7 @@ bl _p_2
 .word 0xaa1903e0
 .word 0xaa1903e0
 .word 0x3940033e
-bl _p_556
+bl _p_557
 .word 0xf9004ba0
 .word 0xf9401fb1
 .word 0xf9438631
@@ -52685,7 +52997,7 @@ bl _p_556
 .word 0xf9400000
 .word 0xf90047a0
 .word 0xf9402ba0
-bl _p_574
+bl _p_575
 .word 0xaa0003e2
 .word 0xf9403fa0
 .word 0xf94047a1
@@ -52710,7 +53022,7 @@ bl _p_574
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9402ba0
-bl _p_573
+bl _p_574
 .word 0xaa0003f8
 .word 0xf9401fb1
 .word 0xf9442e31
@@ -52718,7 +53030,7 @@ bl _p_573
 .word 0xd63f0220
 .word 0xaa1803e0
 .word 0xaa1803e0
-bl _p_557
+bl _p_558
 .word 0x53001c00
 .word 0xf90043a0
 .word 0xf9401fb1
@@ -52734,7 +53046,7 @@ bl _p_557
 .word 0xaa1903e0
 .word 0xaa1903e0
 .word 0x3940033e
-bl _p_556
+bl _p_557
 .word 0xf90043a0
 .word 0xf9401fb1
 .word 0xf9448e31
@@ -52769,7 +53081,7 @@ bl _p_556
 .word 0xd63f0220
 .word 0xaa1803e0
 .word 0xaa1803e0
-bl _p_558
+bl _p_559
 .word 0xf90043a0
 .word 0xf9401fb1
 .word 0xf9451a31
@@ -52788,7 +53100,7 @@ bl _p_558
 .word 0xaa1903e0
 .word 0xaa1903e0
 .word 0x3940033e
-bl _p_556
+bl _p_557
 .word 0xf9004fa0
 .word 0xf9401fb1
 .word 0xf9456631
@@ -52804,7 +53116,7 @@ bl _p_229
 .word 0xf9404fa0
 .word 0xf94053a2
 .word 0xaa1803e1
-bl _p_559
+bl _p_560
 .word 0xf9004ba0
 .word 0xf9401fb1
 .word 0xf945a631
@@ -52821,7 +53133,7 @@ bl _p_559
 .word 0xf9400000
 .word 0xf90047a0
 .word 0xf9402ba0
-bl _p_574
+bl _p_575
 .word 0xaa0003e2
 .word 0xf9403fa0
 .word 0xf94047a1
@@ -52854,7 +53166,7 @@ bl _p_574
 .word 0xaa1103e1
 bl _p_57
 
-Lme_17b:
+Lme_182:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_EqualityComparer_1_T_REF__ctor
@@ -52865,7 +53177,7 @@ System_Collections_Generic_EqualityComparer_1_T_REF__ctor:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2824]
+ldr x16, [x16, #2848]
 .word 0xf9000fb0
 .word 0xf9400a11
 .word 0xf90013b1
@@ -52886,7 +53198,7 @@ ldr x16, [x16, #2824]
 .word 0xa8c37bfd
 .word 0xd65f03c0
 
-Lme_17c:
+Lme_183:
 .text
 	.align 4
 	.no_dead_strip System_Collections_Generic_List_1_T_REF_set_Capacity_int
@@ -52900,7 +53212,7 @@ System_Collections_Generic_List_1_T_REF_set_Capacity_int:
 
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2832]
+ldr x16, [x16, #2856]
 .word 0xf90017b0
 .word 0xf9400a11
 .word 0xf9001bb1
@@ -52964,7 +53276,7 @@ bl _p_443
 .word 0xaa1a03e0
 .word 0xf94013a0
 .word 0xf9400000
-bl _p_576
+bl _p_577
 .word 0xaa1a03e1
 bl _p_9
 .word 0xaa0003f9
@@ -53033,13 +53345,13 @@ ldr x1, [x16, #16]
 .word 0xf90023a0
 .word 0xf94013a0
 .word 0xf9400000
-bl _p_577
+bl _p_578
 .word 0x3980b410
 .word 0xb5000050
 bl _p_19
 .word 0xf94013a0
 .word 0xf9400000
-bl _p_578
+bl _p_579
 .word 0xf94023a1
 .word 0xf9400000
 .word 0xf9000820
@@ -53073,7 +53385,7 @@ ldr x2, [x16, #16]
 .word 0xa8c57bfd
 .word 0xd65f03c0
 
-Lme_17d:
+Lme_184:
 .text
 	.align 3
 jit_code_end:
@@ -53393,6 +53705,7 @@ bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor
 bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions
 bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_VoidTaskResult
 bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_bool_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken
+bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken
 bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions
 bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
 bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
@@ -53412,6 +53725,7 @@ bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueW
 bl System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions
 bl System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
 bl System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskScheduler
+bl System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskScheduler
 bl System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
 bl System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsync_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_object
 bl System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions
@@ -53452,6 +53766,11 @@ bl System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwait
 bl wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_invoke_void_T_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
 bl System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions
 bl System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
+bl method_addresses
+bl method_addresses
+bl method_addresses
+bl method_addresses
+bl wrapper_delegate_invoke_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_object
 bl wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object
 bl method_addresses
 bl method_addresses
@@ -53474,10 +53793,10 @@ unbox_trampolines:
 	.long 65,66,77,78,79,80,204,205
 	.long 206,207,208,209,254,255,256,257
 	.long 258,259,260,261,262,263,264,286
-	.long 288,289,291,293,294,300,305,332
-	.long 333,334,335,336,337,338,339,340
-	.long 341,343,344,354,355,356,357,358
-	.long 359,360,361,362,363,364,365
+	.long 288,289,291,293,294,300,305,334
+	.long 335,336,337,338,339,340,341,342
+	.long 343,345,346,356,357,358,359,360
+	.long 361,362,363,364,365,366,367
 unbox_trampolines_end:
 
 	.long 0
@@ -53515,8 +53834,6 @@ bl ut_293
 bl ut_294
 bl ut_300
 bl ut_305
-bl ut_332
-bl ut_333
 bl ut_334
 bl ut_335
 bl ut_336
@@ -53525,10 +53842,10 @@ bl ut_338
 bl ut_339
 bl ut_340
 bl ut_341
+bl ut_342
 bl ut_343
-bl ut_344
-bl ut_354
-bl ut_355
+bl ut_345
+bl ut_346
 bl ut_356
 bl ut_357
 bl ut_358
@@ -53539,6 +53856,8 @@ bl ut_362
 bl ut_363
 bl ut_364
 bl ut_365
+bl ut_366
+bl ut_367
 
 	.long 0
 .section __TEXT, __const
@@ -53618,14 +53937,15 @@ unwind_info:
 	.byte 29,68,147,24,148,23,68,149,22,150,21,68,151,20,152,19,16,12,31,0,68,14,112,157,14,158,13,68,13,29,68,149
 	.byte 12,17,12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,148,14,23,12,31,0,68,14,160,1,157,20,158,19,68
 	.byte 13,29,68,149,18,68,151,17,68,154,16,23,12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,148,20,68,150,19
-	.byte 68,154,18,16,12,31,0,68,14,112,157,14,158,13,68,13,29,68,153,12,19,12,31,0,68,14,128,2,157,32,158,31
-	.byte 68,13,29,68,152,30,153,29,24,12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,149,20,150,19,68,153,18,154
-	.byte 17,19,12,31,0,68,14,224,1,157,28,158,27,68,13,29,68,153,26,154,25,29,12,31,0,68,14,160,1,157,20,158
-	.byte 19,68,13,29,68,148,18,149,17,68,151,16,152,15,68,153,14,154,13,29,12,31,0,68,14,224,1,157,28,158,27,68
-	.byte 13,29,68,147,26,148,25,68,149,24,150,23,68,151,22,152,21,29,12,31,0,68,14,128,2,157,32,158,31,68,13,29
-	.byte 68,147,30,148,29,68,149,28,150,27,68,151,26,152,25,16,12,31,0,68,14,64,157,8,158,7,68,13,29,68,152,6
-	.byte 20,12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,149,16,68,153,15,27,12,31,0,68,14,176,1,157,22,158
-	.byte 21,68,13,29,68,149,20,150,19,68,152,18,153,17,68,154,16
+	.byte 68,154,18,16,12,31,0,68,14,112,157,14,158,13,68,13,29,68,153,12,17,12,31,0,68,14,128,1,157,16,158,15
+	.byte 68,13,29,68,153,14,19,12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,152,30,153,29,24,12,31,0,68,14
+	.byte 176,1,157,22,158,21,68,13,29,68,149,20,150,19,68,153,18,154,17,19,12,31,0,68,14,224,1,157,28,158,27,68
+	.byte 13,29,68,153,26,154,25,29,12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,148,18,149,17,68,151,16,152,15
+	.byte 68,153,14,154,13,29,12,31,0,68,14,224,1,157,28,158,27,68,13,29,68,147,26,148,25,68,149,24,150,23,68,151
+	.byte 22,152,21,29,12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,147,30,148,29,68,149,28,150,27,68,151,26,152
+	.byte 25,16,12,31,0,68,14,64,157,8,158,7,68,13,29,68,152,6,20,12,31,0,68,14,144,1,157,18,158,17,68,13
+	.byte 29,68,149,16,68,153,15,27,12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,149,20,150,19,68,152,18,153,17
+	.byte 68,154,16
 
 .text
 	.align 4
@@ -53636,4629 +53956,4637 @@ plt__rgctx_fetch_0:
 _p_1:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2848]
+ldr x16, [x16, #2872]
 br x16
-.word 11222
+.word 11295
 	.no_dead_strip plt_wrapper_castclass_object___isinst_with_cache_object_intptr_intptr
 plt_wrapper_castclass_object___isinst_with_cache_object_intptr_intptr:
 _p_2:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2856]
+ldr x16, [x16, #2880]
 br x16
-.word 11230
+.word 11303
 	.no_dead_strip plt__rgctx_fetch_1
 plt__rgctx_fetch_1:
 _p_3:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2864]
+ldr x16, [x16, #2888]
 br x16
-.word 11247
+.word 11320
 	.no_dead_strip plt_System_Collections_Generic_EqualityComparer_1__propertyj__TPar_REF_get_Default
 plt_System_Collections_Generic_EqualityComparer_1__propertyj__TPar_REF_get_Default:
 _p_4:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2872]
+ldr x16, [x16, #2896]
 br x16
-.word 11255
+.word 11328
 	.no_dead_strip plt__rgctx_fetch_2
 plt__rgctx_fetch_2:
 _p_5:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2880]
+ldr x16, [x16, #2904]
 br x16
-.word 11283
+.word 11356
 	.no_dead_strip plt_System_Collections_Generic_EqualityComparer_1__storeTypej__TPar_REF_get_Default
 plt_System_Collections_Generic_EqualityComparer_1__storeTypej__TPar_REF_get_Default:
 _p_6:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2888]
+ldr x16, [x16, #2912]
 br x16
-.word 11291
+.word 11364
 	.no_dead_strip plt__rgctx_fetch_3
 plt__rgctx_fetch_3:
 _p_7:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2896]
+ldr x16, [x16, #2920]
 br x16
-.word 11331
+.word 11404
 	.no_dead_strip plt__rgctx_fetch_4
 plt__rgctx_fetch_4:
 _p_8:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2904]
+ldr x16, [x16, #2928]
 br x16
-.word 11339
+.word 11412
 	.no_dead_strip plt_wrapper_alloc_object_AllocVector_intptr_intptr
 plt_wrapper_alloc_object_AllocVector_intptr_intptr:
 _p_9:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2912]
+ldr x16, [x16, #2936]
 br x16
-.word 11347
+.word 11420
 	.no_dead_strip plt_string_Format_System_IFormatProvider_string_object__
 plt_string_Format_System_IFormatProvider_string_object__:
 _p_10:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2920]
+ldr x16, [x16, #2944]
 br x16
-.word 11355
+.word 11428
 	.no_dead_strip plt__rgctx_fetch_5
 plt__rgctx_fetch_5:
 _p_11:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2928]
+ldr x16, [x16, #2952]
 br x16
-.word 11390
+.word 11463
 	.no_dead_strip plt_wrapper_alloc_object_AllocSmall_intptr_intptr
 plt_wrapper_alloc_object_AllocSmall_intptr_intptr:
 _p_12:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2936]
+ldr x16, [x16, #2960]
 br x16
-.word 11398
+.word 11471
 	.no_dead_strip plt_System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_REF__ctor_int
 plt_System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_REF__ctor_int:
 _p_13:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2944]
+ldr x16, [x16, #2968]
 br x16
-.word 11406
+.word 11479
 	.no_dead_strip plt_System_Environment_get_CurrentManagedThreadId
 plt_System_Environment_get_CurrentManagedThreadId:
 _p_14:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2952]
+ldr x16, [x16, #2976]
 br x16
-.word 11425
+.word 11498
 	.no_dead_strip plt__jit_icall_mono_helper_ldstr
 plt__jit_icall_mono_helper_ldstr:
 _p_15:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2960]
+ldr x16, [x16, #2984]
 br x16
-.word 11430
+.word 11503
 	.no_dead_strip plt__jit_icall_mono_arch_throw_exception
 plt__jit_icall_mono_arch_throw_exception:
 _p_16:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2968]
+ldr x16, [x16, #2992]
 br x16
-.word 11450
+.word 11523
 	.no_dead_strip plt__rgctx_fetch_6
 plt__rgctx_fetch_6:
 _p_17:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2976]
+ldr x16, [x16, #3000]
 br x16
-.word 11518
+.word 11591
 	.no_dead_strip plt__rgctx_fetch_7
 plt__rgctx_fetch_7:
 _p_18:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2984]
+ldr x16, [x16, #3008]
 br x16
-.word 11550
+.word 11623
 	.no_dead_strip plt__jit_icall_mono_generic_class_init
 plt__jit_icall_mono_generic_class_init:
 _p_19:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2992]
+ldr x16, [x16, #3016]
 br x16
-.word 11558
+.word 11631
 	.no_dead_strip plt_System_Collections_Generic_List_1_T_REF__ctor_int
 plt_System_Collections_Generic_List_1_T_REF__ctor_int:
 _p_20:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3000]
+ldr x16, [x16, #3024]
 br x16
-.word 11584
+.word 11657
 	.no_dead_strip plt__rgctx_fetch_8
 plt__rgctx_fetch_8:
 _p_21:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3008]
+ldr x16, [x16, #3032]
 br x16
-.word 11612
+.word 11685
 	.no_dead_strip plt_System_Collections_Generic_List_1_T_REF_Add_T_REF
 plt_System_Collections_Generic_List_1_T_REF_Add_T_REF:
 _p_22:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3016]
+ldr x16, [x16, #3040]
 br x16
-.word 11635
+.word 11708
 	.no_dead_strip plt_System_Collections_Generic_List_1_T_REF_get_Count
 plt_System_Collections_Generic_List_1_T_REF_get_Count:
 _p_23:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3024]
+ldr x16, [x16, #3048]
 br x16
-.word 11654
+.word 11727
 	.no_dead_strip plt__rgctx_fetch_9
 plt__rgctx_fetch_9:
 _p_24:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3032]
+ldr x16, [x16, #3056]
 br x16
-.word 11691
+.word 11764
 	.no_dead_strip plt_System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_REF__ctor_int_0
 plt_System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_REF__ctor_int_0:
 _p_25:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3040]
+ldr x16, [x16, #3064]
 br x16
-.word 11699
+.word 11772
 	.no_dead_strip plt_System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_REF_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_T_GetEnumerator
 plt_System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_REF_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_T_GetEnumerator:
 _p_26:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3048]
+ldr x16, [x16, #3072]
 br x16
-.word 11718
+.word 11791
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_set_Name_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_set_Name_string:
 _p_27:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3056]
+ldr x16, [x16, #3080]
 br x16
-.word 11737
+.word 11810
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_set_JsonType_Newtonsoft_Json_Linq_JTokenType
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_set_JsonType_Newtonsoft_Json_Linq_JTokenType:
 _p_28:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3064]
+ldr x16, [x16, #3088]
 br x16
-.word 11739
+.word 11812
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_set_StoreType_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_set_StoreType_string:
 _p_29:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3072]
+ldr x16, [x16, #3096]
 br x16
-.word 11741
+.word 11814
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_Name
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_Name:
 _p_30:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3080]
+ldr x16, [x16, #3104]
 br x16
-.word 11743
+.word 11816
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_JsonType
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_JsonType:
 _p_31:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3088]
+ldr x16, [x16, #3112]
 br x16
-.word 11745
+.word 11818
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_StoreType
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_StoreType:
 _p_32:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3096]
+ldr x16, [x16, #3120]
 br x16
-.word 11747
+.word 11820
 	.no_dead_strip plt_System_Tuple_Create_string_Newtonsoft_Json_Linq_JTokenType_string_string_Newtonsoft_Json_Linq_JTokenType_string
 plt_System_Tuple_Create_string_Newtonsoft_Json_Linq_JTokenType_string_string_Newtonsoft_Json_Linq_JTokenType_string:
 _p_33:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3104]
+ldr x16, [x16, #3128]
 br x16
-.word 11749
+.word 11822
 	.no_dead_strip plt_object_Equals_object
 plt_object_Equals_object:
 _p_34:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3112]
+ldr x16, [x16, #3136]
 br x16
-.word 11761
+.word 11834
 	.no_dead_strip plt_string_Equals_string
 plt_string_Equals_string:
 _p_35:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3120]
+ldr x16, [x16, #3144]
 br x16
-.word 11766
+.word 11839
 	.no_dead_strip plt_string_Format_string_object_object_object
 plt_string_Format_string_object_object_object:
 _p_36:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3128]
+ldr x16, [x16, #3152]
 br x16
-.word 11771
+.word 11844
 	.no_dead_strip plt_System_StringComparer_get_OrdinalIgnoreCase
 plt_System_StringComparer_get_OrdinalIgnoreCase:
 _p_37:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3136]
+ldr x16, [x16, #3160]
 br x16
-.word 11776
+.word 11849
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor_System_Collections_Generic_IEqualityComparer_1_string
 plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor_System_Collections_Generic_IEqualityComparer_1_string:
 _p_38:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3144]
+ldr x16, [x16, #3168]
 br x16
-.word 11781
+.word 11854
 	.no_dead_strip plt_System_Threading_SemaphoreSlim__ctor_int_int
 plt_System_Threading_SemaphoreSlim__ctor_int_int:
 _p_39:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3152]
+ldr x16, [x16, #3176]
 br x16
-.word 11792
+.word 11865
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Sync_MobileServiceLocalStore__ctor
 plt_Microsoft_WindowsAzure_MobileServices_Sync_MobileServiceLocalStore__ctor:
 _p_40:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3160]
+ldr x16, [x16, #3184]
 br x16
-.word 11797
+.word 11870
 	.no_dead_strip plt_string_StartsWith_string
 plt_string_StartsWith_string:
 _p_41:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3168]
+ldr x16, [x16, #3192]
 br x16
-.word 11802
+.word 11875
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_MobileServiceClient_get_DefaultDatabasePath
 plt_Microsoft_WindowsAzure_MobileServices_MobileServiceClient_get_DefaultDatabasePath:
 _p_42:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3176]
+ldr x16, [x16, #3200]
 br x16
-.word 11807
+.word 11880
 	.no_dead_strip plt_System_IO_Path_Combine_string_string
 plt_System_IO_Path_Combine_string_string:
 _p_43:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3184]
+ldr x16, [x16, #3208]
 br x16
-.word 11812
+.word 11885
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_MobileServiceClient_EnsureFileExists_string
 plt_Microsoft_WindowsAzure_MobileServices_MobileServiceClient_EnsureFileExists_string:
 _p_44:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3192]
+ldr x16, [x16, #3216]
 br x16
-.word 11817
+.word 11890
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteConnection_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteConnection_string:
 _p_45:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3200]
+ldr x16, [x16, #3224]
 br x16
-.word 11822
+.word 11895
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Sync_MobileServiceLocalStore_get_Initialized
 plt_Microsoft_WindowsAzure_MobileServices_Sync_MobileServiceLocalStore_get_Initialized:
 _p_46:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3208]
+ldr x16, [x16, #3232]
 br x16
-.word 11824
+.word 11897
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JObject_TryGetValue_string_System_StringComparison_Newtonsoft_Json_Linq_JToken_
 plt_Newtonsoft_Json_Linq_JObject_TryGetValue_string_System_StringComparison_Newtonsoft_Json_Linq_JToken_:
 _p_47:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3216]
+ldr x16, [x16, #3240]
 br x16
-.word 11829
+.word 11902
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_string
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_string:
 _p_48:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3224]
+ldr x16, [x16, #3248]
 br x16
-.word 11834
+.word 11907
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JObject_set_Item_string_Newtonsoft_Json_Linq_JToken
 plt_Newtonsoft_Json_Linq_JObject_set_Item_string_Newtonsoft_Json_Linq_JToken:
 _p_49:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3232]
+ldr x16, [x16, #3256]
 br x16
-.word 11839
+.word 11912
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JObject_Properties
 plt_Newtonsoft_Json_Linq_JObject_Properties:
 _p_50:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3240]
+ldr x16, [x16, #3264]
 br x16
-.word 11844
+.word 11917
 	.no_dead_strip plt_System_Linq_Enumerable_Select_Newtonsoft_Json_Linq_JProperty__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JProperty_System_Func_2_Newtonsoft_Json_Linq_JProperty__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string
 plt_System_Linq_Enumerable_Select_Newtonsoft_Json_Linq_JProperty__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JProperty_System_Func_2_Newtonsoft_Json_Linq_JProperty__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string:
 _p_51:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3248]
+ldr x16, [x16, #3272]
 br x16
-.word 11849
+.word 11922
 	.no_dead_strip plt_System_Linq_Enumerable_Select__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_System_Func_2__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 plt_System_Linq_Enumerable_Select__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_System_Func_2__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition:
 _p_52:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3256]
+ldr x16, [x16, #3280]
 br x16
-.word 11861
+.word 11934
 	.no_dead_strip plt_System_Linq_Enumerable_ToDictionary_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_System_Collections_Generic_IEqualityComparer_1_string
 plt_System_Linq_Enumerable_ToDictionary_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_System_Collections_Generic_IEqualityComparer_1_string:
 _p_53:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3264]
+ldr x16, [x16, #3288]
 br x16
-.word 11873
+.word 11946
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_GetSystemProperties_Newtonsoft_Json_Linq_JObject
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_GetSystemProperties_Newtonsoft_Json_Linq_JObject:
 _p_54:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3272]
+ldr x16, [x16, #3296]
 br x16
-.word 11885
+.word 11958
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor_System_Collections_Generic_IDictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor_System_Collections_Generic_IDictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties:
 _p_55:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3280]
+ldr x16, [x16, #3304]
 br x16
-.word 11887
+.word 11960
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_Add_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition
 plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_Add_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition:
 _p_56:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3288]
+ldr x16, [x16, #3312]
 br x16
-.word 11890
+.word 11963
 	.no_dead_strip plt__jit_icall_mono_arch_throw_corlib_exception
 plt__jit_icall_mono_arch_throw_corlib_exception:
 _p_57:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3296]
+ldr x16, [x16, #3320]
 br x16
-.word 11901
+.word 11974
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Create
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Create:
 _p_58:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3304]
+ldr x16, [x16, #3328]
 br x16
-.word 11936
+.word 12009
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_:
 _p_59:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3312]
+ldr x16, [x16, #3336]
 br x16
-.word 11941
+.word 12014
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_get_Task
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_get_Task:
 _p_60:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3320]
+ldr x16, [x16, #3344]
 br x16
-.word 11953
+.word 12026
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass8_0__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass8_0__ctor:
 _p_61:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3328]
+ldr x16, [x16, #3352]
 br x16
-.word 11958
+.word 12031
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Sync_MobileServiceLocalStore_EnsureInitialized
 plt_Microsoft_WindowsAzure_MobileServices_Sync_MobileServiceLocalStore_EnsureInitialized:
 _p_62:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3336]
+ldr x16, [x16, #3360]
 br x16
-.word 11960
+.word 12033
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__ctor_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__ctor_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription:
 _p_63:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3344]
+ldr x16, [x16, #3368]
 br x16
-.word 11965
+.word 12038
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelect
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelect:
 _p_64:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3352]
+ldr x16, [x16, #3376]
 br x16
-.word 11968
+.word 12041
 	.no_dead_strip plt_System_Threading_SemaphoreSlim_WaitAsync
 plt_System_Threading_SemaphoreSlim_WaitAsync:
 _p_65:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3360]
+ldr x16, [x16, #3384]
 br x16
-.word 11971
+.word 12044
 	.no_dead_strip plt_System_Threading_Tasks_Task_ContinueWith_Newtonsoft_Json_Linq_JToken_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JToken
 plt_System_Threading_Tasks_Task_ContinueWith_Newtonsoft_Json_Linq_JToken_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JToken:
 _p_66:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3368]
+ldr x16, [x16, #3392]
 br x16
-.word 11976
+.word 12049
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_UpsertAsyncInternal_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_bool
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_UpsertAsyncInternal_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_bool:
 _p_67:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3376]
+ldr x16, [x16, #3400]
 br x16
-.word 11988
+.word 12061
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass10_0__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass10_0__ctor:
 _p_68:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3384]
+ldr x16, [x16, #3408]
 br x16
-.word 11990
+.word 12063
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_GetTable_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_GetTable_string:
 _p_69:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3392]
+ldr x16, [x16, #3416]
 br x16
-.word 11992
+.word 12065
 	.no_dead_strip plt_System_Linq_Enumerable_FirstOrDefault_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject
 plt_System_Linq_Enumerable_FirstOrDefault_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject:
 _p_70:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3400]
+ldr x16, [x16, #3424]
 br x16
-.word 11994
+.word 12067
 	.no_dead_strip plt_System_Threading_Tasks_Task_FromResult_int_int
 plt_System_Threading_Tasks_Task_FromResult_int_int:
 _p_71:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3408]
+ldr x16, [x16, #3432]
 br x16
-.word 12006
+.word 12079
 	.no_dead_strip plt_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition__ctor
 plt_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition__ctor:
 _p_72:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3416]
+ldr x16, [x16, #3440]
 br x16
-.word 12018
+.word 12091
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JProperty_get_Name
 plt_Newtonsoft_Json_Linq_JProperty_get_Name:
 _p_73:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3424]
+ldr x16, [x16, #3448]
 br x16
-.word 12029
+.word 12102
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_TryGetValue_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_
 plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_TryGetValue_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_:
 _p_74:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3432]
+ldr x16, [x16, #3456]
 br x16
-.word 12034
+.word 12107
 	.no_dead_strip plt_string_Format_string_object_object
 plt_string_Format_string_object_object:
 _p_75:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3440]
+ldr x16, [x16, #3464]
 br x16
-.word 12045
+.word 12118
 	.no_dead_strip plt_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Add_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 plt_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Add_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition:
 _p_76:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3448]
+ldr x16, [x16, #3472]
 br x16
-.word 12050
+.word 12123
 	.no_dead_strip plt__jit_icall_ves_icall_thread_finish_async_abort
 plt__jit_icall_ves_icall_thread_finish_async_abort:
 _p_77:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3456]
+ldr x16, [x16, #3480]
 br x16
-.word 12061
+.word 12134
 	.no_dead_strip plt_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_Count
 plt_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_Count:
 _p_78:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3464]
+ldr x16, [x16, #3488]
 br x16
-.word 12099
+.word 12172
 	.no_dead_strip plt_System_Threading_Tasks_Task_ContinueWith_System_Action_1_System_Threading_Tasks_Task
 plt_System_Threading_Tasks_Task_ContinueWith_System_Action_1_System_Threading_Tasks_Task:
 _p_79:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3472]
+ldr x16, [x16, #3496]
 br x16
-.word 12110
+.word 12183
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass11_0__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass11_0__ctor:
 _p_80:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3480]
+ldr x16, [x16, #3504]
 br x16
-.word 12115
+.word 12188
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDelete
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDelete:
 _p_81:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3488]
+ldr x16, [x16, #3512]
 br x16
-.word 12117
+.word 12190
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass12_0__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass12_0__ctor:
 _p_82:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3496]
+ldr x16, [x16, #3520]
 br x16
-.word 12120
+.word 12193
 	.no_dead_strip plt_System_Linq_Enumerable_Select_string_string_System_Collections_Generic_IEnumerable_1_string_System_Func_3_string_int_string
 plt_System_Linq_Enumerable_Select_string_string_System_Collections_Generic_IEnumerable_1_string_System_Func_3_string_int_string:
 _p_83:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3504]
+ldr x16, [x16, #3528]
 br x16
-.word 12122
+.word 12195
 	.no_dead_strip plt_string_Join_string_System_Collections_Generic_IEnumerable_1_string
 plt_string_Join_string_System_Collections_Generic_IEnumerable_1_string:
 _p_84:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3512]
+ldr x16, [x16, #3536]
 br x16
-.word 12134
+.word 12207
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatTableName_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatTableName_string:
 _p_85:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3520]
+ldr x16, [x16, #3544]
 br x16
-.word 12139
+.word 12212
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_object__ctor
 plt_System_Collections_Generic_Dictionary_2_string_object__ctor:
 _p_86:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3528]
+ldr x16, [x16, #3552]
 br x16
-.word 12141
+.word 12214
 	.no_dead_strip plt_string_Concat_object_object
 plt_string_Concat_object_object:
 _p_87:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3536]
+ldr x16, [x16, #3560]
 br x16
-.word 12152
+.word 12225
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_object_Add_string_object
 plt_System_Collections_Generic_Dictionary_2_string_object_Add_string_object:
 _p_88:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3544]
+ldr x16, [x16, #3568]
 br x16
-.word 12157
+.word 12230
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass13_0__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass13_0__ctor:
 _p_89:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3552]
+ldr x16, [x16, #3576]
 br x16
-.word 12168
+.word 12241
 	.no_dead_strip plt_System_Threading_Tasks_Task_ContinueWith_Newtonsoft_Json_Linq_JObject_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JObject
 plt_System_Threading_Tasks_Task_ContinueWith_Newtonsoft_Json_Linq_JObject_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JObject:
 _p_90:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3560]
+ldr x16, [x16, #3584]
 br x16
-.word 12170
+.word 12243
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_TryGetValue_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_
 plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_TryGetValue_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_:
 _p_91:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3568]
+ldr x16, [x16, #3592]
 br x16
-.word 12182
+.word 12255
 	.no_dead_strip plt_string_Format_string_object
 plt_string_Format_string_object:
 _p_92:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3576]
+ldr x16, [x16, #3600]
 br x16
-.word 12193
+.word 12266
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_:
 _p_93:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3584]
+ldr x16, [x16, #3608]
 br x16
-.word 12198
+.word 12271
 	.no_dead_strip plt_string_memset_byte__int_int
 plt_string_memset_byte__int_int:
 _p_94:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3592]
+ldr x16, [x16, #3616]
 br x16
-.word 12210
+.word 12283
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_:
 _p_95:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3600]
+ldr x16, [x16, #3624]
 br x16
-.word 12215
+.word 12288
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_GetEnumerator
 plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_GetEnumerator:
 _p_96:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3608]
+ldr x16, [x16, #3632]
 br x16
-.word 12227
+.word 12300
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_Enumerator_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_Current
 plt_System_Collections_Generic_Dictionary_2_Enumerator_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_Current:
 _p_97:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3616]
+ldr x16, [x16, #3640]
 br x16
-.word 12238
+.word 12311
 	.no_dead_strip plt_System_Collections_Generic_KeyValuePair_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_Key
 plt_System_Collections_Generic_KeyValuePair_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_Key:
 _p_98:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3624]
+ldr x16, [x16, #3648]
 br x16
-.word 12249
+.word 12322
 	.no_dead_strip plt_System_Collections_Generic_KeyValuePair_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_Value
 plt_System_Collections_Generic_KeyValuePair_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_Value:
 _p_99:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3632]
+ldr x16, [x16, #3656]
 br x16
-.word 12260
+.word 12333
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_Values
 plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_Values:
 _p_100:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3640]
+ldr x16, [x16, #3664]
 br x16
-.word 12271
+.word 12344
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_Enumerator_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_MoveNext
 plt_System_Collections_Generic_Dictionary_2_Enumerator_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_MoveNext:
 _p_101:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3648]
+ldr x16, [x16, #3672]
 br x16
-.word 12282
+.word 12355
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_Enumerator_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_Dispose
 plt_System_Collections_Generic_Dictionary_2_Enumerator_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_Dispose:
 _p_102:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3656]
+ldr x16, [x16, #3680]
 br x16
-.word 12293
+.word 12366
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_ValidateParameterCount_int
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_ValidateParameterCount_int:
 _p_103:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3664]
+ldr x16, [x16, #3688]
 br x16
-.word 12317
+.word 12390
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass18_0__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass18_0__ctor:
 _p_104:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3672]
+ldr x16, [x16, #3696]
 br x16
-.word 12319
+.word 12392
 	.no_dead_strip plt_System_Text_StringBuilder__ctor_string
 plt_System_Text_StringBuilder__ctor_string:
 _p_105:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3680]
+ldr x16, [x16, #3704]
 br x16
-.word 12321
+.word 12394
 	.no_dead_strip plt_System_Linq_Enumerable_FirstOrDefault_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_bool
 plt_System_Linq_Enumerable_FirstOrDefault_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_bool:
 _p_106:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3688]
+ldr x16, [x16, #3712]
 br x16
-.word 12326
+.word 12399
 	.no_dead_strip plt_System_Linq_Enumerable_Where_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_bool
 plt_System_Linq_Enumerable_Where_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_bool:
 _p_107:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3696]
+ldr x16, [x16, #3720]
 br x16
-.word 12338
+.word 12411
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_AddParameter_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_Dictionary_2_string_object_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_AddParameter_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_Dictionary_2_string_object_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition:
 _p_108:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3704]
+ldr x16, [x16, #3728]
 br x16
-.word 12350
+.word 12423
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatMember_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatMember_string:
 _p_109:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3712]
+ldr x16, [x16, #3736]
 br x16
-.word 12352
+.word 12425
 	.no_dead_strip plt_System_Text_StringBuilder_AppendFormat_string_object_object
 plt_System_Text_StringBuilder_AppendFormat_string_object_object:
 _p_110:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3720]
+ldr x16, [x16, #3744]
 br x16
-.word 12354
+.word 12427
 	.no_dead_strip plt_System_Text_StringBuilder_Append_string
 plt_System_Text_StringBuilder_Append_string:
 _p_111:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3728]
+ldr x16, [x16, #3752]
 br x16
-.word 12359
+.word 12432
 	.no_dead_strip plt_System_Linq_Enumerable_Any_System_Collections_Generic_KeyValuePair_2_string_object_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_string_object
 plt_System_Linq_Enumerable_Any_System_Collections_Generic_KeyValuePair_2_string_object_System_Collections_Generic_IEnumerable_1_System_Collections_Generic_KeyValuePair_2_string_object:
 _p_112:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3736]
+ldr x16, [x16, #3760]
 br x16
-.word 12364
+.word 12437
 	.no_dead_strip plt_System_Text_StringBuilder_get_Length
 plt_System_Text_StringBuilder_get_Length:
 _p_113:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3744]
+ldr x16, [x16, #3768]
 br x16
-.word 12376
+.word 12449
 	.no_dead_strip plt_System_Text_StringBuilder_Remove_int_int
 plt_System_Text_StringBuilder_Remove_int_int:
 _p_114:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3752]
+ldr x16, [x16, #3776]
 br x16
-.word 12381
+.word 12454
 	.no_dead_strip plt_System_Linq_Enumerable_Select_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string
 plt_System_Linq_Enumerable_Select_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string:
 _p_115:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3760]
+ldr x16, [x16, #3784]
 br x16
-.word 12386
+.word 12459
 	.no_dead_strip plt_System_Linq_Enumerable_Select_string_string_System_Collections_Generic_IEnumerable_1_string_System_Func_2_string_string
 plt_System_Linq_Enumerable_Select_string_string_System_Collections_Generic_IEnumerable_1_string_System_Func_2_string_string:
 _p_116:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3768]
+ldr x16, [x16, #3792]
 br x16
-.word 12398
+.word 12471
 	.no_dead_strip plt_System_Collections_Generic_EnumerableExtensions_Split_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_int
 plt_System_Collections_Generic_EnumerableExtensions_Split_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_int:
 _p_117:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3776]
+ldr x16, [x16, #3800]
 br x16
-.word 12410
+.word 12483
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_AppendInsertValuesSql_System_Text_StringBuilder_System_Collections_Generic_Dictionary_2_string_object_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Newtonsoft_Json_Linq_JObject
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_AppendInsertValuesSql_System_Text_StringBuilder_System_Collections_Generic_Dictionary_2_string_object_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Newtonsoft_Json_Linq_JObject:
 _p_118:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3784]
+ldr x16, [x16, #3808]
 br x16
-.word 12422
+.word 12495
 	.no_dead_strip plt__jit_icall_mono_helper_newobj_mscorlib
 plt__jit_icall_mono_helper_newobj_mscorlib:
 _p_119:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3792]
+ldr x16, [x16, #3816]
 br x16
-.word 12424
+.word 12497
 	.no_dead_strip plt_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_GetEnumerator
 plt_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_GetEnumerator:
 _p_120:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3800]
+ldr x16, [x16, #3824]
 br x16
-.word 12454
+.word 12527
 	.no_dead_strip plt_System_Collections_Generic_List_1_Enumerator_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_Current
 plt_System_Collections_Generic_List_1_Enumerator_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_get_Current:
 _p_121:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3808]
+ldr x16, [x16, #3832]
 br x16
-.word 12465
+.word 12538
 	.no_dead_strip plt_System_Collections_Generic_List_1_Enumerator_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_MoveNext
 plt_System_Collections_Generic_List_1_Enumerator_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_MoveNext:
 _p_122:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3816]
+ldr x16, [x16, #3840]
 br x16
-.word 12476
+.word 12549
 	.no_dead_strip plt_System_Collections_Generic_List_1_Enumerator_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Dispose
 plt_System_Collections_Generic_List_1_Enumerator_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Dispose:
 _p_123:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3824]
+ldr x16, [x16, #3848]
 br x16
-.word 12487
+.word 12560
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass22_0__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass22_0__ctor:
 _p_124:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3832]
+ldr x16, [x16, #3856]
 br x16
-.word 12507
+.word 12580
 	.no_dead_strip plt_System_Linq_Enumerable_ToList_string_System_Collections_Generic_IEnumerable_1_string
 plt_System_Linq_Enumerable_ToList_string_System_Collections_Generic_IEnumerable_1_string:
 _p_125:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3840]
+ldr x16, [x16, #3864]
 br x16
-.word 12509
+.word 12582
 	.no_dead_strip plt_System_Collections_Generic_List_1_string_Insert_int_string
 plt_System_Collections_Generic_List_1_string_Insert_int_string:
 _p_126:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3848]
+ldr x16, [x16, #3872]
 br x16
-.word 12521
+.word 12594
 	.no_dead_strip plt_System_Linq_Enumerable_ToDictionary_Newtonsoft_Json_Linq_JObject_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_System_Func_2_Newtonsoft_Json_Linq_JObject_string_System_Collections_Generic_IEqualityComparer_1_string
 plt_System_Linq_Enumerable_ToDictionary_Newtonsoft_Json_Linq_JObject_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_System_Func_2_Newtonsoft_Json_Linq_JObject_string_System_Collections_Generic_IEqualityComparer_1_string:
 _p_127:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3856]
+ldr x16, [x16, #3880]
 br x16
-.word 12532
+.word 12605
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JObject_GetValue_string_System_StringComparison
 plt_Newtonsoft_Json_Linq_JObject_GetValue_string_System_StringComparison:
 _p_128:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3864]
+ldr x16, [x16, #3888]
 br x16
-.word 12544
+.word 12617
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JToken_string_Newtonsoft_Json_Linq_JTokenType
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JToken_string_Newtonsoft_Json_Linq_JTokenType:
 _p_129:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3872]
+ldr x16, [x16, #3896]
 br x16
-.word 12549
+.word 12622
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_CreateParameter_System_Collections_Generic_Dictionary_2_string_object_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_CreateParameter_System_Collections_Generic_Dictionary_2_string_object_object:
 _p_130:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3880]
+ldr x16, [x16, #3904]
 br x16
-.word 12551
+.word 12624
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_object_get_Count
 plt_System_Collections_Generic_Dictionary_2_string_object_get_Count:
 _p_131:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3888]
+ldr x16, [x16, #3912]
 br x16
-.word 12553
+.word 12626
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_object_set_Item_string_object
 plt_System_Collections_Generic_Dictionary_2_string_object_set_Item_string_object:
 _p_132:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3896]
+ldr x16, [x16, #3920]
 br x16
-.word 12564
+.word 12637
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_prepare_v2_SQLitePCL_sqlite3_string_SQLitePCL_sqlite3_stmt_
 plt_SQLitePCL_raw_sqlite3_prepare_v2_SQLitePCL_sqlite3_string_SQLitePCL_sqlite3_stmt_:
 _p_133:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3904]
+ldr x16, [x16, #3928]
 br x16
-.word 12575
+.word 12648
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_VerifySQLiteResponse_int_int_SQLitePCL_sqlite3
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_VerifySQLiteResponse_int_int_SQLitePCL_sqlite3:
 _p_134:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3912]
+ldr x16, [x16, #3936]
 br x16
-.word 12580
+.word 12653
 	.no_dead_strip plt_System_Collections_Generic_KeyValuePair_2_string_object_get_Key
 plt_System_Collections_Generic_KeyValuePair_2_string_object_get_Key:
 _p_135:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3920]
+ldr x16, [x16, #3944]
 br x16
-.word 12582
+.word 12655
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_bind_parameter_index_SQLitePCL_sqlite3_stmt_string
 plt_SQLitePCL_raw_sqlite3_bind_parameter_index_SQLitePCL_sqlite3_stmt_string:
 _p_136:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3928]
+ldr x16, [x16, #3952]
 br x16
-.word 12593
+.word 12666
 	.no_dead_strip plt_System_Collections_Generic_KeyValuePair_2_string_object_get_Value
 plt_System_Collections_Generic_KeyValuePair_2_string_object_get_Value:
 _p_137:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3936]
+ldr x16, [x16, #3960]
 br x16
-.word 12598
+.word 12671
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_Bind_SQLitePCL_sqlite3_SQLitePCL_sqlite3_stmt_int_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_Bind_SQLitePCL_sqlite3_SQLitePCL_sqlite3_stmt_int_object:
 _p_138:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3944]
+ldr x16, [x16, #3968]
 br x16
-.word 12609
+.word 12682
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_step_SQLitePCL_sqlite3_stmt
 plt_SQLitePCL_raw_sqlite3_step_SQLitePCL_sqlite3_stmt:
 _p_139:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3952]
+ldr x16, [x16, #3976]
 br x16
-.word 12611
+.word 12684
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass26_0__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__DisplayClass26_0__ctor:
 _p_140:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3960]
+ldr x16, [x16, #3984]
 br x16
-.word 12616
+.word 12689
 	.no_dead_strip plt_System_Threading_Tasks_Task_ContinueWith_System_Collections_Generic_IList_1_Newtonsoft_Json_Linq_JObject_System_Func_2_System_Threading_Tasks_Task_System_Collections_Generic_IList_1_Newtonsoft_Json_Linq_JObject
 plt_System_Threading_Tasks_Task_ContinueWith_System_Collections_Generic_IList_1_Newtonsoft_Json_Linq_JObject_System_Func_2_System_Threading_Tasks_Task_System_Collections_Generic_IList_1_Newtonsoft_Json_Linq_JObject:
 _p_141:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3968]
+ldr x16, [x16, #3992]
 br x16
-.word 12618
+.word 12691
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor:
 _p_142:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3976]
+ldr x16, [x16, #4000]
 br x16
-.word 12630
+.word 12703
 	.no_dead_strip plt_System_Collections_Generic_List_1_Newtonsoft_Json_Linq_JObject__ctor
 plt_System_Collections_Generic_List_1_Newtonsoft_Json_Linq_JObject__ctor:
 _p_143:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3984]
+ldr x16, [x16, #4008]
 br x16
-.word 12633
+.word 12706
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteStatement_string_SQLitePCL_sqlite3
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteStatement_string_SQLitePCL_sqlite3:
 _p_144:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #3992]
+ldr x16, [x16, #4016]
 br x16
-.word 12644
+.word 12717
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_ReadRow_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_SQLitePCL_sqlite3_stmt
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_ReadRow_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_SQLitePCL_sqlite3_stmt:
 _p_145:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4000]
+ldr x16, [x16, #4024]
 br x16
-.word 12646
+.word 12719
 	.no_dead_strip plt_System_Collections_Generic_List_1_Newtonsoft_Json_Linq_JObject_Add_Newtonsoft_Json_Linq_JObject
 plt_System_Collections_Generic_List_1_Newtonsoft_Json_Linq_JObject_Add_Newtonsoft_Json_Linq_JObject:
 _p_146:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4008]
+ldr x16, [x16, #4032]
 br x16
-.word 12648
+.word 12721
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JObject__ctor
 plt_Newtonsoft_Json_Linq_JObject__ctor:
 _p_147:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4016]
+ldr x16, [x16, #4040]
 br x16
-.word 12659
+.word 12732
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_column_name_SQLitePCL_sqlite3_stmt_int
 plt_SQLitePCL_raw_sqlite3_column_name_SQLitePCL_sqlite3_stmt_int:
 _p_148:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4024]
+ldr x16, [x16, #4048]
 br x16
-.word 12664
+.word 12737
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetValue_SQLitePCL_sqlite3_stmt_int
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetValue_SQLitePCL_sqlite3_stmt_int:
 _p_149:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4032]
+ldr x16, [x16, #4056]
 br x16
-.word 12669
+.word 12742
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeValue_object_string_Newtonsoft_Json_Linq_JTokenType
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeValue_object_string_Newtonsoft_Json_Linq_JTokenType:
 _p_150:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4040]
+ldr x16, [x16, #4064]
 br x16
-.word 12672
+.word 12745
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_FromObject_object
 plt_Newtonsoft_Json_Linq_JToken_FromObject_object:
 _p_151:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4048]
+ldr x16, [x16, #4072]
 br x16
-.word 12674
+.word 12747
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_column_count_SQLitePCL_sqlite3_stmt
 plt_SQLitePCL_raw_sqlite3_column_count_SQLitePCL_sqlite3_stmt:
 _p_152:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4056]
+ldr x16, [x16, #4080]
 br x16
-.word 12679
+.word 12752
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JObject_get_Item_string
 plt_Newtonsoft_Json_Linq_JObject_get_Item_string:
 _p_153:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4064]
+ldr x16, [x16, #4088]
 br x16
-.word 12684
+.word 12757
 	.no_dead_strip plt_SQLitePCL_sqlite3_Dispose
 plt_SQLitePCL_sqlite3_Dispose:
 _p_154:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4072]
+ldr x16, [x16, #0]
 br x16
-.word 12689
+.word 12762
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__c__ctor:
 _p_155:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4080]
+ldr x16, [x16, #8]
 br x16
-.word 12694
+.word 12767
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JProperty_get_Value
 plt_Newtonsoft_Json_Linq_JProperty_get_Value:
 _p_156:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #4088]
+ldr x16, [x16, #16]
 br x16
-.word 12696
+.word 12769
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreType_Newtonsoft_Json_Linq_JTokenType_bool
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreType_Newtonsoft_Json_Linq_JTokenType_bool:
 _p_157:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #0]
+ldr x16, [x16, #24]
 br x16
-.word 12701
+.word 12774
 	.no_dead_strip plt__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string__ctor_Newtonsoft_Json_Linq_JProperty_string
 plt__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string__ctor_Newtonsoft_Json_Linq_JProperty_string:
 _p_158:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #8]
+ldr x16, [x16, #32]
 br x16
-.word 12703
+.word 12776
 	.no_dead_strip plt__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_get_property
 plt__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_get_property:
 _p_159:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #16]
+ldr x16, [x16, #40]
 br x16
-.word 12714
+.word 12787
 	.no_dead_strip plt__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_get_storeType
 plt__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_get_storeType:
 _p_160:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #24]
+ldr x16, [x16, #48]
 br x16
-.word 12725
+.word 12798
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition__ctor_string_Newtonsoft_Json_Linq_JTokenType_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition__ctor_string_Newtonsoft_Json_Linq_JTokenType_string:
 _p_161:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #32]
+ldr x16, [x16, #56]
 br x16
-.word 12736
+.word 12809
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_CreateAllTables
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_CreateAllTables:
 _p_162:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #40]
+ldr x16, [x16, #64]
 br x16
-.word 12738
+.word 12811
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_InitializeConfig
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_InitializeConfig:
 _p_163:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #48]
+ldr x16, [x16, #72]
 br x16
-.word 12740
+.word 12813
 	.no_dead_strip plt_System_Threading_Tasks_Task_GetAwaiter
 plt_System_Threading_Tasks_Task_GetAwaiter:
 _p_164:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #56]
+ldr x16, [x16, #80]
 br x16
-.word 12742
+.word 12815
 	.no_dead_strip plt_System_Runtime_CompilerServices_TaskAwaiter_get_IsCompleted
 plt_System_Runtime_CompilerServices_TaskAwaiter_get_IsCompleted:
 _p_165:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #64]
+ldr x16, [x16, #88]
 br x16
-.word 12747
+.word 12820
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_:
 _p_166:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #72]
+ldr x16, [x16, #96]
 br x16
-.word 12752
+.word 12825
 	.no_dead_strip plt_System_Runtime_CompilerServices_TaskAwaiter_GetResult
 plt_System_Runtime_CompilerServices_TaskAwaiter_GetResult:
 _p_167:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #80]
+ldr x16, [x16, #104]
 br x16
-.word 12764
+.word 12837
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_SetException_System_Exception
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_SetException_System_Exception:
 _p_168:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #88]
+ldr x16, [x16, #112]
 br x16
-.word 12769
+.word 12842
 	.no_dead_strip plt__jit_icall_mono_thread_get_undeniable_exception
 plt__jit_icall_mono_thread_get_undeniable_exception:
 _p_169:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #96]
+ldr x16, [x16, #120]
 br x16
-.word 12774
+.word 12847
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_SetResult
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_SetResult:
 _p_170:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #104]
+ldr x16, [x16, #128]
 br x16
-.word 12813
+.word 12886
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine:
 _p_171:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #112]
+ldr x16, [x16, #136]
 br x16
-.word 12818
+.word 12891
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_TableName
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_TableName:
 _p_172:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #120]
+ldr x16, [x16, #144]
 br x16
-.word 12823
+.word 12896
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_get_Parameters
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_get_Parameters:
 _p_173:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #128]
+ldr x16, [x16, #152]
 br x16
-.word 12828
+.word 12901
 	.no_dead_strip plt_System_Linq_Enumerable_ToArray_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject
 plt_System_Linq_Enumerable_ToArray_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject:
 _p_174:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #136]
+ldr x16, [x16, #160]
 br x16
-.word 12831
+.word 12904
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JArray__ctor_object__
 plt_Newtonsoft_Json_Linq_JArray__ctor_object__:
 _p_175:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #144]
+ldr x16, [x16, #168]
 br x16
-.word 12843
+.word 12916
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_IncludeTotalCount
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_IncludeTotalCount:
 _p_176:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #152]
+ldr x16, [x16, #176]
 br x16
-.word 12848
+.word 12921
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelectCount
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelectCount:
 _p_177:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #160]
+ldr x16, [x16, #184]
 br x16
-.word 12853
+.word 12926
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JObject_Add_string_Newtonsoft_Json_Linq_JToken
 plt_Newtonsoft_Json_Linq_JObject_Add_string_Newtonsoft_Json_Linq_JToken:
 _p_178:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #168]
+ldr x16, [x16, #192]
 br x16
-.word 12856
+.word 12929
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_long
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_long:
 _p_179:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #176]
+ldr x16, [x16, #200]
 br x16
-.word 12861
+.word 12934
 	.no_dead_strip plt_System_Threading_SemaphoreSlim_Release
 plt_System_Threading_SemaphoreSlim_Release:
 _p_180:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #184]
+ldr x16, [x16, #208]
 br x16
-.word 12866
+.word 12939
 	.no_dead_strip plt_System_Linq_Enumerable_Take_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_int
 plt_System_Linq_Enumerable_Take_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_int:
 _p_181:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #192]
+ldr x16, [x16, #216]
 br x16
-.word 12871
+.word 12944
 	.no_dead_strip plt_System_Linq_Enumerable_ToList_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 plt_System_Linq_Enumerable_ToList_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEnumerable_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition:
 _p_182:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #200]
+ldr x16, [x16, #224]
 br x16
-.word 12883
+.word 12956
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_BatchInsert_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_BatchInsert_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition:
 _p_183:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #208]
+ldr x16, [x16, #232]
 br x16
-.word 12895
+.word 12968
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_BatchUpdate_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_BatchUpdate_string_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JObject_System_Collections_Generic_List_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition:
 _p_184:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #216]
+ldr x16, [x16, #240]
 br x16
-.word 12897
+.word 12970
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_:
 _p_185:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #224]
+ldr x16, [x16, #248]
 br x16
-.word 12899
+.word 12972
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Sync_MobileServiceLocalSystemTables_get_All
 plt_Microsoft_WindowsAzure_MobileServices_Sync_MobileServiceLocalSystemTables_get_All:
 _p_186:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #232]
+ldr x16, [x16, #256]
 br x16
-.word 12911
+.word 12984
 	.no_dead_strip plt_System_Linq_Enumerable_Contains_string_System_Collections_Generic_IEnumerable_1_string_string
 plt_System_Linq_Enumerable_Contains_string_System_Collections_Generic_IEnumerable_1_string_string:
 _p_187:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #240]
+ldr x16, [x16, #264]
 br x16
-.word 12916
+.word 12989
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_SystemProperties
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_SystemProperties:
 _p_188:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #248]
+ldr x16, [x16, #272]
 br x16
-.word 12928
+.word 13001
 	.no_dead_strip plt_int_ToString
 plt_int_ToString:
 _p_189:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #256]
+ldr x16, [x16, #280]
 br x16
-.word 12931
+.word 13004
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_:
 _p_190:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #264]
+ldr x16, [x16, #288]
 br x16
-.word 12936
+.word 13009
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings__ctor
 plt_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings__ctor:
 _p_191:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #272]
+ldr x16, [x16, #296]
 br x16
-.word 12948
+.word 13021
 	.no_dead_strip plt__rgctx_fetch_10
 plt__rgctx_fetch_10:
 _p_192:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #280]
+ldr x16, [x16, #304]
 br x16
-.word 12976
+.word 13049
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings:
 _p_193:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #288]
+ldr x16, [x16, #312]
 br x16
-.word 12998
+.word 13071
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_get_ContractResolver
 plt_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_get_ContractResolver:
 _p_194:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #296]
+ldr x16, [x16, #320]
 br x16
-.word 13016
+.word 13089
 	.no_dead_strip plt__rgctx_fetch_11
 plt__rgctx_fetch_11:
 _p_195:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #304]
+ldr x16, [x16, #328]
 br x16
-.word 13044
+.word 13117
 	.no_dead_strip plt_Newtonsoft_Json_Serialization_JsonContract_get_DefaultCreator
 plt_Newtonsoft_Json_Serialization_JsonContract_get_DefaultCreator:
 _p_196:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #312]
+ldr x16, [x16, #336]
 br x16
-.word 13052
+.word 13125
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetEnumDefault_Newtonsoft_Json_Serialization_JsonObjectContract_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetEnumDefault_Newtonsoft_Json_Serialization_JsonObjectContract_object:
 _p_197:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #320]
+ldr x16, [x16, #344]
 br x16
-.word 13057
+.word 13130
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_ConvertToJObject_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_ConvertToJObject_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_object:
 _p_198:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #328]
+ldr x16, [x16, #352]
 br x16
-.word 13059
+.word 13132
 	.no_dead_strip plt__rgctx_fetch_12
 plt__rgctx_fetch_12:
 _p_199:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #336]
+ldr x16, [x16, #360]
 br x16
-.word 13061
+.word 13134
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetIdDefault_T_REF_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_Newtonsoft_Json_Linq_JObject
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetIdDefault_T_REF_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_Newtonsoft_Json_Linq_JObject:
 _p_200:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #344]
+ldr x16, [x16, #368]
 br x16
-.word 13083
+.word 13156
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetNullDefault_Newtonsoft_Json_Serialization_JsonObjectContract_Newtonsoft_Json_Linq_JObject
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetNullDefault_Newtonsoft_Json_Serialization_JsonObjectContract_Newtonsoft_Json_Linq_JObject:
 _p_201:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #352]
+ldr x16, [x16, #376]
 br x16
-.word 13101
+.word 13174
 	.no_dead_strip plt_Newtonsoft_Json_Serialization_JsonObjectContract_get_Properties
 plt_Newtonsoft_Json_Serialization_JsonObjectContract_get_Properties:
 _p_202:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #360]
+ldr x16, [x16, #384]
 br x16
-.word 13103
+.word 13176
 	.no_dead_strip plt_System_Collections_ObjectModel_Collection_1_Newtonsoft_Json_Serialization_JsonProperty_GetEnumerator
 plt_System_Collections_ObjectModel_Collection_1_Newtonsoft_Json_Serialization_JsonProperty_GetEnumerator:
 _p_203:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #368]
+ldr x16, [x16, #392]
 br x16
-.word 13108
+.word 13181
 	.no_dead_strip plt_Newtonsoft_Json_Serialization_JsonProperty_get_PropertyType
 plt_Newtonsoft_Json_Serialization_JsonProperty_get_PropertyType:
 _p_204:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #376]
+ldr x16, [x16, #400]
 br x16
-.word 13119
+.word 13192
 	.no_dead_strip plt_System_Reflection_IntrospectionExtensions_GetTypeInfo_System_Type
 plt_System_Reflection_IntrospectionExtensions_GetTypeInfo_System_Type:
 _p_205:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #384]
+ldr x16, [x16, #408]
 br x16
-.word 13124
+.word 13197
 	.no_dead_strip plt_System_Enum_GetValues_System_Type
 plt_System_Enum_GetValues_System_Type:
 _p_206:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #392]
+ldr x16, [x16, #416]
 br x16
-.word 13129
+.word 13202
 	.no_dead_strip plt_System_Linq_Enumerable_Cast_object_System_Collections_IEnumerable
 plt_System_Linq_Enumerable_Cast_object_System_Collections_IEnumerable:
 _p_207:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #400]
+ldr x16, [x16, #424]
 br x16
-.word 13134
+.word 13207
 	.no_dead_strip plt_System_Linq_Enumerable_FirstOrDefault_object_System_Collections_Generic_IEnumerable_1_object
 plt_System_Linq_Enumerable_FirstOrDefault_object_System_Collections_Generic_IEnumerable_1_object:
 _p_208:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #408]
+ldr x16, [x16, #432]
 br x16
-.word 13146
+.word 13219
 	.no_dead_strip plt_Newtonsoft_Json_Serialization_JsonProperty_get_ValueProvider
 plt_Newtonsoft_Json_Serialization_JsonProperty_get_ValueProvider:
 _p_209:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #416]
+ldr x16, [x16, #440]
 br x16
-.word 13158
+.word 13231
 	.no_dead_strip plt_Newtonsoft_Json_JsonConvert_SerializeObject_object_Newtonsoft_Json_JsonSerializerSettings
 plt_Newtonsoft_Json_JsonConvert_SerializeObject_object_Newtonsoft_Json_JsonSerializerSettings:
 _p_210:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #424]
+ldr x16, [x16, #448]
 br x16
-.word 13163
+.word 13236
 	.no_dead_strip plt_Newtonsoft_Json_JsonConvert_DeserializeObject_Newtonsoft_Json_Linq_JObject_string_Newtonsoft_Json_JsonSerializerSettings
 plt_Newtonsoft_Json_JsonConvert_DeserializeObject_Newtonsoft_Json_Linq_JObject_string_Newtonsoft_Json_JsonSerializerSettings:
 _p_211:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #432]
+ldr x16, [x16, #456]
 br x16
-.word 13168
+.word 13241
 	.no_dead_strip plt__rgctx_fetch_13
 plt__rgctx_fetch_13:
 _p_212:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #440]
+ldr x16, [x16, #464]
 br x16
-.word 13197
+.word 13270
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_int
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_int:
 _p_213:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #448]
+ldr x16, [x16, #472]
 br x16
-.word 13205
+.word 13278
 	.no_dead_strip plt_System_Linq_Enumerable_Where_Newtonsoft_Json_Linq_JProperty_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JProperty_System_Func_2_Newtonsoft_Json_Linq_JProperty_bool
 plt_System_Linq_Enumerable_Where_Newtonsoft_Json_Linq_JProperty_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JProperty_System_Func_2_Newtonsoft_Json_Linq_JProperty_bool:
 _p_214:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #456]
+ldr x16, [x16, #480]
 br x16
-.word 13210
+.word 13283
 	.no_dead_strip plt_System_Collections_ObjectModel_KeyedCollection_2_string_Newtonsoft_Json_Serialization_JsonProperty_get_Item_string
 plt_System_Collections_ObjectModel_KeyedCollection_2_string_Newtonsoft_Json_Serialization_JsonProperty_get_Item_string:
 _p_215:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #464]
+ldr x16, [x16, #488]
 br x16
-.word 13222
+.word 13295
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_byte__
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_byte__:
 _p_216:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #472]
+ldr x16, [x16, #496]
 br x16
-.word 13233
+.word 13306
 	.no_dead_strip plt_System_Activator_CreateInstance_System_Type
 plt_System_Activator_CreateInstance_System_Type:
 _p_217:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #480]
+ldr x16, [x16, #504]
 br x16
-.word 13238
+.word 13311
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JValue__ctor_object
 plt_Newtonsoft_Json_Linq_JValue__ctor_object:
 _p_218:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #488]
+ldr x16, [x16, #512]
 br x16
-.word 13243
+.word 13316
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__ctor:
 _p_219:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #496]
+ldr x16, [x16, #520]
 br x16
-.word 13248
+.word 13321
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsTextType_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsTextType_string:
 _p_220:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #504]
+ldr x16, [x16, #528]
 br x16
-.word 13250
+.word 13323
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsText_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsText_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType:
 _p_221:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #512]
+ldr x16, [x16, #536]
 br x16
-.word 13252
+.word 13325
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsRealType_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsRealType_string:
 _p_222:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #520]
+ldr x16, [x16, #544]
 br x16
-.word 13254
+.word 13327
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsReal_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsReal_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType:
 _p_223:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #528]
+ldr x16, [x16, #552]
 br x16
-.word 13256
+.word 13329
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsNumberType_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsNumberType_string:
 _p_224:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #536]
+ldr x16, [x16, #560]
 br x16
-.word 13258
+.word 13331
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsNumber_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsNumber_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType:
 _p_225:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #544]
+ldr x16, [x16, #568]
 br x16
-.word 13260
+.word 13333
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseText_Newtonsoft_Json_Linq_JTokenType_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseText_Newtonsoft_Json_Linq_JTokenType_object:
 _p_226:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #552]
+ldr x16, [x16, #576]
 br x16
-.word 13262
+.word 13335
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseReal_Newtonsoft_Json_Linq_JTokenType_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseReal_Newtonsoft_Json_Linq_JTokenType_object:
 _p_227:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #560]
+ldr x16, [x16, #584]
 br x16
-.word 13264
+.word 13337
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseNumber_Newtonsoft_Json_Linq_JTokenType_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseNumber_Newtonsoft_Json_Linq_JTokenType_object:
 _p_228:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #568]
+ldr x16, [x16, #592]
 br x16
-.word 13266
+.word 13339
 	.no_dead_strip plt_System_Globalization_CultureInfo_get_InvariantCulture
 plt_System_Globalization_CultureInfo_get_InvariantCulture:
 _p_229:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #576]
+ldr x16, [x16, #600]
 br x16
-.word 13268
+.word 13341
 	.no_dead_strip plt_string_Format_System_IFormatProvider_string_object
 plt_string_Format_System_IFormatProvider_string_object:
 _p_230:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #584]
+ldr x16, [x16, #608]
 br x16
-.word 13273
+.word 13346
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ValidateIdentifier_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ValidateIdentifier_string:
 _p_231:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #592]
+ldr x16, [x16, #616]
 br x16
-.word 13278
+.word 13351
 	.no_dead_strip plt_string_op_Equality_string_string
 plt_string_op_Equality_string_string:
 _p_232:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #600]
+ldr x16, [x16, #624]
 br x16
-.word 13280
+.word 13353
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeDateTime_Newtonsoft_Json_Linq_JToken
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeDateTime_Newtonsoft_Json_Linq_JToken:
 _p_233:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #608]
+ldr x16, [x16, #632]
 br x16
-.word 13285
+.word 13358
 	.no_dead_strip plt_Newtonsoft_Json_Linq_Extensions_Value_long_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
 plt_Newtonsoft_Json_Linq_Extensions_Value_long_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken:
 _p_234:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #616]
+ldr x16, [x16, #640]
 br x16
-.word 13287
+.word 13360
 	.no_dead_strip plt_Newtonsoft_Json_Linq_Extensions_Value_double_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
 plt_Newtonsoft_Json_Linq_Extensions_Value_double_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken:
 _p_235:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #624]
+ldr x16, [x16, #648]
 br x16
-.word 13299
+.word 13372
 	.no_dead_strip plt_Newtonsoft_Json_Linq_Extensions_Value_byte___System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
 plt_Newtonsoft_Json_Linq_Extensions_Value_byte___System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken:
 _p_236:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #632]
+ldr x16, [x16, #656]
 br x16
-.word 13311
+.word 13384
 	.no_dead_strip plt_System_Convert_ToBase64String_byte__
 plt_System_Convert_ToBase64String_byte__:
 _p_237:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #640]
+ldr x16, [x16, #664]
 br x16
-.word 13323
+.word 13396
 	.no_dead_strip plt_System_Guid_Parse_string
 plt_System_Guid_Parse_string:
 _p_238:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #648]
+ldr x16, [x16, #672]
 br x16
-.word 13328
+.word 13401
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_System_Guid
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_System_Guid:
 _p_239:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #656]
+ldr x16, [x16, #680]
 br x16
-.word 13333
+.word 13406
 	.no_dead_strip plt_System_Convert_FromBase64String_string
 plt_System_Convert_FromBase64String_string:
 _p_240:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #664]
+ldr x16, [x16, #688]
 br x16
-.word 13338
+.word 13411
 	.no_dead_strip plt_System_TimeSpan_Parse_string
 plt_System_TimeSpan_Parse_string:
 _p_241:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #672]
+ldr x16, [x16, #696]
 br x16
-.word 13343
+.word 13416
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_System_TimeSpan
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_System_TimeSpan:
 _p_242:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #680]
+ldr x16, [x16, #704]
 br x16
-.word 13348
+.word 13421
 	.no_dead_strip plt_System_Uri__ctor_string_System_UriKind
 plt_System_Uri__ctor_string_System_UriKind:
 _p_243:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #688]
+ldr x16, [x16, #712]
 br x16
-.word 13353
+.word 13426
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_System_Uri
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_System_Uri:
 _p_244:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #696]
+ldr x16, [x16, #720]
 br x16
-.word 13358
+.word 13431
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_Parse_string
 plt_Newtonsoft_Json_Linq_JToken_Parse_string:
 _p_245:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #704]
+ldr x16, [x16, #728]
 br x16
-.word 13363
+.word 13436
 	.no_dead_strip plt_System_Convert_ToDouble_object
 plt_System_Convert_ToDouble_object:
 _p_246:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #712]
+ldr x16, [x16, #736]
 br x16
-.word 13368
+.word 13441
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeDateTime_double
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeDateTime_double:
 _p_247:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #720]
+ldr x16, [x16, #744]
 br x16
-.word 13373
+.word 13446
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_double
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_double:
 _p_248:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #728]
+ldr x16, [x16, #752]
 br x16
-.word 13375
+.word 13448
 	.no_dead_strip plt_System_Convert_ToInt64_object
 plt_System_Convert_ToInt64_object:
 _p_249:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #736]
+ldr x16, [x16, #760]
 br x16
-.word 13380
+.word 13453
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_bool
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_bool:
 _p_250:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #744]
+ldr x16, [x16, #768]
 br x16
-.word 13385
+.word 13458
 	.no_dead_strip plt_System_DateTime_AddSeconds_double
 plt_System_DateTime_AddSeconds_double:
 _p_251:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #752]
+ldr x16, [x16, #776]
 br x16
-.word 13390
+.word 13463
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_op_Implicit_System_DateTime
 plt_Newtonsoft_Json_Linq_JToken_op_Implicit_System_DateTime:
 _p_252:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #760]
+ldr x16, [x16, #784]
 br x16
-.word 13395
+.word 13468
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_ToObject_System_DateTime
 plt_Newtonsoft_Json_Linq_JToken_ToObject_System_DateTime:
 _p_253:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #768]
+ldr x16, [x16, #792]
 br x16
-.word 13400
+.word 13473
 	.no_dead_strip plt_System_DateTime_get_Kind
 plt_System_DateTime_get_Kind:
 _p_254:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #776]
+ldr x16, [x16, #800]
 br x16
-.word 13412
+.word 13485
 	.no_dead_strip plt_System_DateTime_SpecifyKind_System_DateTime_System_DateTimeKind
 plt_System_DateTime_SpecifyKind_System_DateTime_System_DateTimeKind:
 _p_255:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #784]
+ldr x16, [x16, #808]
 br x16
-.word 13417
+.word 13490
 	.no_dead_strip plt_System_DateTime_ToUniversalTime
 plt_System_DateTime_ToUniversalTime:
 _p_256:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #792]
+ldr x16, [x16, #816]
 br x16
-.word 13422
+.word 13495
 	.no_dead_strip plt_System_DateTime_op_Subtraction_System_DateTime_System_DateTime
 plt_System_DateTime_op_Subtraction_System_DateTime_System_DateTime:
 _p_257:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #800]
+ldr x16, [x16, #824]
 br x16
-.word 13427
+.word 13500
 	.no_dead_strip plt_System_TimeSpan_get_TotalSeconds
 plt_System_TimeSpan_get_TotalSeconds:
 _p_258:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #808]
+ldr x16, [x16, #832]
 br x16
-.word 13432
+.word 13505
 	.no_dead_strip plt_System_Math_Round_double_int
 plt_System_Math_Round_double_int:
 _p_259:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #816]
+ldr x16, [x16, #840]
 br x16
-.word 13437
+.word 13510
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsValidIdentifier_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsValidIdentifier_string:
 _p_260:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #824]
+ldr x16, [x16, #848]
 br x16
-.word 13442
+.word 13515
 	.no_dead_strip plt_string_IsNullOrWhiteSpace_string
 plt_string_IsNullOrWhiteSpace_string:
 _p_261:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #832]
+ldr x16, [x16, #856]
 br x16
-.word 13444
+.word 13517
 	.no_dead_strip plt_char_IsLetter_char
 plt_char_IsLetter_char:
 _p_262:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #840]
+ldr x16, [x16, #864]
 br x16
-.word 13449
+.word 13522
 	.no_dead_strip plt_char_IsLetterOrDigit_char
 plt_char_IsLetterOrDigit_char:
 _p_263:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #848]
+ldr x16, [x16, #872]
 br x16
-.word 13454
+.word 13527
 	.no_dead_strip plt_System_DateTime__ctor_int_int_int_int_int_int_System_DateTimeKind
 plt_System_DateTime__ctor_int_int_int_int_int_int_System_DateTimeKind:
 _p_264:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #856]
+ldr x16, [x16, #880]
 br x16
-.word 13459
+.word 13532
 	.no_dead_strip plt_System_Exception__ctor_string
 plt_System_Exception__ctor_string:
 _p_265:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #864]
+ldr x16, [x16, #888]
 br x16
-.word 13464
+.word 13537
 	.no_dead_strip plt_SQLitePCL_Batteries_V2_Init
 plt_SQLitePCL_Batteries_V2_Init:
 _p_266:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #872]
+ldr x16, [x16, #896]
 br x16
-.word 13469
+.word 13542
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_open_string_SQLitePCL_sqlite3_
 plt_SQLitePCL_raw_sqlite3_open_string_SQLitePCL_sqlite3_:
 _p_267:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #880]
+ldr x16, [x16, #904]
 br x16
-.word 13474
+.word 13547
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_errmsg_SQLitePCL_sqlite3
 plt_SQLitePCL_raw_sqlite3_errmsg_SQLitePCL_sqlite3:
 _p_268:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #888]
+ldr x16, [x16, #912]
 br x16
-.word 13479
+.word 13552
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_errstr_int
 plt_SQLitePCL_raw_sqlite3_errstr_int:
 _p_269:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #896]
+ldr x16, [x16, #920]
 br x16
-.word 13484
+.word 13557
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLiteException__ctor_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLiteException__ctor_string:
 _p_270:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #904]
+ldr x16, [x16, #928]
 br x16
-.word 13489
+.word 13562
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_bind_null_SQLitePCL_sqlite3_stmt_int
 plt_SQLitePCL_raw_sqlite3_bind_null_SQLitePCL_sqlite3_stmt_int:
 _p_271:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #912]
+ldr x16, [x16, #936]
 br x16
-.word 13491
+.word 13564
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedInteger_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedInteger_object:
 _p_272:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #920]
+ldr x16, [x16, #944]
 br x16
-.word 13496
+.word 13569
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetInteger_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetInteger_object:
 _p_273:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #928]
+ldr x16, [x16, #952]
 br x16
-.word 13498
+.word 13571
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_bind_int64_SQLitePCL_sqlite3_stmt_int_long
 plt_SQLitePCL_raw_sqlite3_bind_int64_SQLitePCL_sqlite3_stmt_int_long:
 _p_274:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #936]
+ldr x16, [x16, #960]
 br x16
-.word 13501
+.word 13574
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedFloat_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedFloat_object:
 _p_275:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #944]
+ldr x16, [x16, #968]
 br x16
-.word 13506
+.word 13579
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetFloat_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetFloat_object:
 _p_276:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #952]
+ldr x16, [x16, #976]
 br x16
-.word 13508
+.word 13581
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_bind_double_SQLitePCL_sqlite3_stmt_int_double
 plt_SQLitePCL_raw_sqlite3_bind_double_SQLitePCL_sqlite3_stmt_int_double:
 _p_277:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #960]
+ldr x16, [x16, #984]
 br x16
-.word 13511
+.word 13584
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedText_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedText_object:
 _p_278:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #968]
+ldr x16, [x16, #992]
 br x16
-.word 13516
+.word 13589
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_bind_text_SQLitePCL_sqlite3_stmt_int_string
 plt_SQLitePCL_raw_sqlite3_bind_text_SQLitePCL_sqlite3_stmt_int_string:
 _p_279:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #976]
+ldr x16, [x16, #1000]
 br x16
-.word 13518
+.word 13591
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_bind_blob_SQLitePCL_sqlite3_stmt_int_byte__
 plt_SQLitePCL_raw_sqlite3_bind_blob_SQLitePCL_sqlite3_stmt_int_byte__:
 _p_280:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #984]
+ldr x16, [x16, #1008]
 br x16
-.word 13523
+.word 13596
 	.no_dead_strip plt_string_Concat_string_string
 plt_string_Concat_string_string:
 _p_281:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #992]
+ldr x16, [x16, #1016]
 br x16
-.word 13528
+.word 13601
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_column_type_SQLitePCL_sqlite3_stmt_int
 plt_SQLitePCL_raw_sqlite3_column_type_SQLitePCL_sqlite3_stmt_int:
 _p_282:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1000]
+ldr x16, [x16, #1024]
 br x16
-.word 13533
+.word 13606
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_column_int64_SQLitePCL_sqlite3_stmt_int
 plt_SQLitePCL_raw_sqlite3_column_int64_SQLitePCL_sqlite3_stmt_int:
 _p_283:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1008]
+ldr x16, [x16, #1032]
 br x16
-.word 13538
+.word 13611
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_column_double_SQLitePCL_sqlite3_stmt_int
 plt_SQLitePCL_raw_sqlite3_column_double_SQLitePCL_sqlite3_stmt_int:
 _p_284:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1016]
+ldr x16, [x16, #1040]
 br x16
-.word 13543
+.word 13616
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_column_text_SQLitePCL_sqlite3_stmt_int
 plt_SQLitePCL_raw_sqlite3_column_text_SQLitePCL_sqlite3_stmt_int:
 _p_285:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1024]
+ldr x16, [x16, #1048]
 br x16
-.word 13548
+.word 13621
 	.no_dead_strip plt_SQLitePCL_raw_sqlite3_column_blob_SQLitePCL_sqlite3_stmt_int
 plt_SQLitePCL_raw_sqlite3_column_blob_SQLitePCL_sqlite3_stmt_int:
 _p_286:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1032]
+ldr x16, [x16, #1056]
 br x16
-.word 13553
+.word 13626
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_QueryNodeVisitor_1_Microsoft_WindowsAzure_MobileServices_Query_QueryNode__ctor
 plt_Microsoft_WindowsAzure_MobileServices_Query_QueryNodeVisitor_1_Microsoft_WindowsAzure_MobileServices_Query_QueryNode__ctor:
 _p_287:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1040]
+ldr x16, [x16, #1064]
 br x16
-.word 13558
+.word 13631
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Selection
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Selection:
 _p_288:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1048]
+ldr x16, [x16, #1072]
 br x16
-.word 13569
+.word 13642
 	.no_dead_strip plt_System_Linq_Enumerable_Any_string_System_Collections_Generic_IEnumerable_1_string
 plt_System_Linq_Enumerable_Any_string_System_Collections_Generic_IEnumerable_1_string:
 _p_289:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1056]
+ldr x16, [x16, #1080]
 br x16
-.word 13574
+.word 13647
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatQuery_string
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatQuery_string:
 _p_290:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1064]
+ldr x16, [x16, #1088]
 br x16
-.word 13586
+.word 13659
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Reset
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Reset:
 _p_291:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1072]
+ldr x16, [x16, #1096]
 br x16
-.word 13589
+.word 13662
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCountQuery
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCountQuery:
 _p_292:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1080]
+ldr x16, [x16, #1104]
 br x16
-.word 13592
+.word 13665
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_GetSql
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_GetSql:
 _p_293:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1088]
+ldr x16, [x16, #1112]
 br x16
-.word 13595
+.word 13668
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_Clone
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_Clone:
 _p_294:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1096]
+ldr x16, [x16, #1120]
 br x16
-.word 13598
+.word 13671
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_set_IncludeTotalCount_bool
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_set_IncludeTotalCount_bool:
 _p_295:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1104]
+ldr x16, [x16, #1128]
 br x16
-.word 13603
+.word 13676
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_set_Parameters_System_Collections_Generic_IDictionary_2_string_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_set_Parameters_System_Collections_Generic_IDictionary_2_string_object:
 _p_296:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1112]
+ldr x16, [x16, #1136]
 br x16
-.word 13608
+.word 13681
 	.no_dead_strip plt_System_Text_StringBuilder_AppendFormat_string_object
 plt_System_Text_StringBuilder_AppendFormat_string_object:
 _p_297:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1120]
+ldr x16, [x16, #1144]
 br x16
-.word 13611
+.word 13684
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Filter
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Filter:
 _p_298:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1128]
+ldr x16, [x16, #1152]
 br x16
-.word 13616
+.word 13689
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatWhereClause_Microsoft_WindowsAzure_MobileServices_Query_QueryNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatWhereClause_Microsoft_WindowsAzure_MobileServices_Query_QueryNode:
 _p_299:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1136]
+ldr x16, [x16, #1160]
 br x16
-.word 13621
+.word 13694
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Ordering
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Ordering:
 _p_300:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1144]
+ldr x16, [x16, #1168]
 br x16
-.word 13624
+.word 13697
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatOrderByClause_System_Collections_Generic_IList_1_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatOrderByClause_System_Collections_Generic_IList_1_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode:
 _p_301:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1152]
+ldr x16, [x16, #1176]
 br x16
-.word 13629
+.word 13702
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Skip
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Skip:
 _p_302:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1160]
+ldr x16, [x16, #1184]
 br x16
-.word 13632
+.word 13705
 	.no_dead_strip plt_System_Nullable_1_int_get_HasValue
 plt_System_Nullable_1_int_get_HasValue:
 _p_303:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1168]
+ldr x16, [x16, #1192]
 br x16
-.word 13637
+.word 13710
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Top
 plt_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription_get_Top:
 _p_304:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1176]
+ldr x16, [x16, #1200]
 br x16
-.word 13648
+.word 13721
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLimitClause_System_Nullable_1_int_System_Nullable_1_int
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLimitClause_System_Nullable_1_int_System_Nullable_1_int:
 _p_305:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1184]
+ldr x16, [x16, #1208]
 br x16
-.word 13653
+.word 13726
 	.no_dead_strip plt_System_Array_Empty_char
 plt_System_Array_Empty_char:
 _p_306:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1192]
+ldr x16, [x16, #1216]
 br x16
-.word 13656
+.word 13729
 	.no_dead_strip plt_string_TrimEnd_char__
 plt_string_TrimEnd_char__:
 _p_307:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1200]
+ldr x16, [x16, #1224]
 br x16
-.word 13668
+.word 13741
 	.no_dead_strip plt_System_Text_StringBuilder__ctor
 plt_System_Text_StringBuilder__ctor:
 _p_308:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1208]
+ldr x16, [x16, #1232]
 br x16
-.word 13673
+.word 13746
 	.no_dead_strip plt_System_Nullable_1_int_GetValueOrDefault_int
 plt_System_Nullable_1_int_GetValueOrDefault_int:
 _p_309:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1216]
+ldr x16, [x16, #1240]
 br x16
-.word 13678
+.word 13751
 	.no_dead_strip plt_System_Nullable_1_int_get_Value
 plt_System_Nullable_1_int_get_Value:
 _p_310:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1224]
+ldr x16, [x16, #1248]
 br x16
-.word 13689
+.word 13762
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode_get_Expression
 plt_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode_get_Expression:
 _p_311:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1232]
+ldr x16, [x16, #1256]
 br x16
-.word 13700
+.word 13773
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode_get_Direction
 plt_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode_get_Direction:
 _p_312:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1240]
+ldr x16, [x16, #1264]
 br x16
-.word 13705
+.word 13778
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode_get_LeftOperand
 plt_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode_get_LeftOperand:
 _p_313:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1248]
+ldr x16, [x16, #1272]
 br x16
-.word 13710
+.word 13783
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode_get_RightOperand
 plt_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode_get_RightOperand:
 _p_314:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1256]
+ldr x16, [x16, #1280]
 br x16
-.word 13715
+.word 13788
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode_get_OperatorKind
 plt_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode_get_OperatorKind:
 _p_315:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1264]
+ldr x16, [x16, #1288]
 br x16
-.word 13720
+.word 13793
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode__ctor_Microsoft_WindowsAzure_MobileServices_Query_QueryNode_System_Type
 plt_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode__ctor_Microsoft_WindowsAzure_MobileServices_Query_QueryNode_System_Type:
 _p_316:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1272]
+ldr x16, [x16, #1296]
 br x16
-.word 13725
+.word 13798
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_ConstantNode_get_Value
 plt_Microsoft_WindowsAzure_MobileServices_Query_ConstantNode_get_Value:
 _p_317:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1280]
+ldr x16, [x16, #1304]
 br x16
-.word 13730
+.word 13803
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode__ctor_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorKind_Microsoft_WindowsAzure_MobileServices_Query_QueryNode_Microsoft_WindowsAzure_MobileServices_Query_QueryNode
 plt_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode__ctor_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorKind_Microsoft_WindowsAzure_MobileServices_Query_QueryNode_Microsoft_WindowsAzure_MobileServices_Query_QueryNode:
 _p_318:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1288]
+ldr x16, [x16, #1312]
 br x16
-.word 13735
+.word 13808
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_CreateParameter_object
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_CreateParameter_object:
 _p_319:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1296]
+ldr x16, [x16, #1320]
 br x16
-.word 13740
+.word 13813
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_MemberAccessNode_get_MemberName
 plt_Microsoft_WindowsAzure_MobileServices_Query_MemberAccessNode_get_MemberName:
 _p_320:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1304]
+ldr x16, [x16, #1328]
 br x16
-.word 13743
+.word 13816
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_get_Name
 plt_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_get_Name:
 _p_321:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1312]
+ldr x16, [x16, #1336]
 br x16
-.word 13748
+.word 13821
 	.no_dead_strip plt__PrivateImplementationDetails_ComputeStringHash_string
 plt__PrivateImplementationDetails_ComputeStringHash_string:
 _p_322:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1320]
+ldr x16, [x16, #1344]
 br x16
-.word 13753
+.word 13826
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDateFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDateFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode:
 _p_323:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1328]
+ldr x16, [x16, #1352]
 br x16
-.word 13756
+.word 13829
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatFloorFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatFloorFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode:
 _p_324:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1336]
+ldr x16, [x16, #1360]
 br x16
-.word 13759
+.word 13832
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCeilingFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCeilingFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode:
 _p_325:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1344]
+ldr x16, [x16, #1368]
 br x16
-.word 13762
+.word 13835
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatRoundFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatRoundFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode:
 _p_326:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1352]
+ldr x16, [x16, #1376]
 br x16
-.word 13765
+.word 13838
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatStringFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatStringFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode:
 _p_327:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1360]
+ldr x16, [x16, #1384]
 br x16
-.word 13768
+.word 13841
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLikeFunction_bool_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_int_int_bool
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLikeFunction_bool_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_int_int_bool:
 _p_328:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1368]
+ldr x16, [x16, #1392]
 br x16
-.word 13771
+.word 13844
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatConcatFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatConcatFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode:
 _p_329:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1376]
+ldr x16, [x16, #1400]
 br x16
-.word 13774
+.word 13847
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatIndexOfFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatIndexOfFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode:
 _p_330:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1384]
+ldr x16, [x16, #1408]
 br x16
-.word 13777
+.word 13850
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSubstringFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSubstringFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode:
 _p_331:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1392]
+ldr x16, [x16, #1416]
 br x16
-.word 13780
+.word 13853
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_get_Arguments
 plt_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_get_Arguments:
 _p_332:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1400]
+ldr x16, [x16, #1424]
 br x16
-.word 13783
+.word 13856
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_ConstantNode__ctor_object
 plt_Microsoft_WindowsAzure_MobileServices_Query_ConstantNode__ctor_object:
 _p_333:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1408]
+ldr x16, [x16, #1432]
 br x16
-.word 13788
+.word 13861
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode_get_OperatorKind
 plt_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode_get_OperatorKind:
 _p_334:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1416]
+ldr x16, [x16, #1440]
 br x16
-.word 13793
+.word 13866
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode_get_Operand
 plt_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode_get_Operand:
 _p_335:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1424]
+ldr x16, [x16, #1448]
 br x16
-.word 13798
+.word 13871
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode__ctor_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorKind_Microsoft_WindowsAzure_MobileServices_Query_QueryNode
 plt_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode__ctor_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorKind_Microsoft_WindowsAzure_MobileServices_Query_QueryNode:
 _p_336:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1432]
+ldr x16, [x16, #1456]
 br x16
-.word 13803
+.word 13876
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode_get_Source
 plt_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode_get_Source:
 _p_337:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1440]
+ldr x16, [x16, #1464]
 br x16
-.word 13808
+.word 13881
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode_get_TargetType
 plt_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode_get_TargetType:
 _p_338:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1448]
+ldr x16, [x16, #1472]
 br x16
-.word 13813
+.word 13886
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreCastType_System_Type
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreCastType_System_Type:
 _p_339:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1456]
+ldr x16, [x16, #1480]
 br x16
-.word 13818
+.word 13891
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JValue_bool
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JValue_bool:
 _p_340:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1464]
+ldr x16, [x16, #1488]
 br x16
-.word 13820
+.word 13893
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__ctor
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__ctor:
 _p_341:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1472]
+ldr x16, [x16, #1496]
 br x16
-.word 13822
+.word 13895
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition__ctor
 plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition__ctor:
 _p_342:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1480]
+ldr x16, [x16, #1504]
 br x16
-.word 13825
+.word 13898
 	.no_dead_strip plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition__ctor_System_Collections_Generic_IDictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEqualityComparer_1_string
 plt_System_Collections_Generic_Dictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition__ctor_System_Collections_Generic_IDictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_System_Collections_Generic_IEqualityComparer_1_string:
 _p_343:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1488]
+ldr x16, [x16, #1512]
 br x16
-.word 13836
+.word 13909
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_set_SystemProperties_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_set_SystemProperties_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties:
 _p_344:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1496]
+ldr x16, [x16, #1520]
 br x16
-.word 13847
+.word 13920
 	.no_dead_strip plt_System_Resources_ResourceManager__ctor_string_System_Reflection_Assembly
 plt_System_Resources_ResourceManager__ctor_string_System_Reflection_Assembly:
 _p_345:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1504]
+ldr x16, [x16, #1528]
 br x16
-.word 13850
+.word 13923
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_ResourceManager
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_ResourceManager:
 _p_346:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1512]
+ldr x16, [x16, #1536]
 br x16
-.word 13855
+.word 13928
 	.no_dead_strip plt__rgctx_fetch_14
 plt__rgctx_fetch_14:
 _p_347:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1520]
+ldr x16, [x16, #1544]
 br x16
-.word 13879
+.word 13952
 	.no_dead_strip plt__rgctx_fetch_15
 plt__rgctx_fetch_15:
 _p_348:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1528]
+ldr x16, [x16, #1552]
 br x16
-.word 13925
+.word 13998
 	.no_dead_strip plt__rgctx_fetch_16
 plt__rgctx_fetch_16:
 _p_349:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1536]
+ldr x16, [x16, #1560]
 br x16
-.word 13954
+.word 14027
 	.no_dead_strip plt__rgctx_fetch_17
 plt__rgctx_fetch_17:
 _p_350:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1544]
+ldr x16, [x16, #1568]
 br x16
-.word 14000
+.word 14073
 	.no_dead_strip plt__rgctx_fetch_18
 plt__rgctx_fetch_18:
 _p_351:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1552]
+ldr x16, [x16, #1576]
 br x16
-.word 14029
+.word 14102
 	.no_dead_strip plt__rgctx_fetch_19
 plt__rgctx_fetch_19:
 _p_352:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1560]
+ldr x16, [x16, #1584]
 br x16
-.word 14092
+.word 14165
 	.no_dead_strip plt__rgctx_fetch_20
 plt__rgctx_fetch_20:
 _p_353:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1568]
+ldr x16, [x16, #1592]
 br x16
-.word 14100
+.word 14173
 	.no_dead_strip plt__rgctx_fetch_21
 plt__rgctx_fetch_21:
 _p_354:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1576]
+ldr x16, [x16, #1600]
 br x16
-.word 14129
+.word 14202
 	.no_dead_strip plt__rgctx_fetch_22
 plt__rgctx_fetch_22:
 _p_355:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1584]
+ldr x16, [x16, #1608]
 br x16
-.word 14200
+.word 14273
 	.no_dead_strip plt__rgctx_fetch_23
 plt__rgctx_fetch_23:
 _p_356:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1592]
+ldr x16, [x16, #1616]
 br x16
-.word 14217
+.word 14290
 	.no_dead_strip plt__rgctx_fetch_24
 plt__rgctx_fetch_24:
 _p_357:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1600]
+ldr x16, [x16, #1624]
 br x16
-.word 14225
+.word 14298
 	.no_dead_strip plt__rgctx_fetch_25
 plt__rgctx_fetch_25:
 _p_358:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1608]
+ldr x16, [x16, #1632]
 br x16
-.word 14261
+.word 14334
 	.no_dead_strip plt__rgctx_fetch_26
 plt__rgctx_fetch_26:
 _p_359:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1616]
+ldr x16, [x16, #1640]
 br x16
-.word 14306
+.word 14379
 	.no_dead_strip plt__rgctx_fetch_27
 plt__rgctx_fetch_27:
 _p_360:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1624]
+ldr x16, [x16, #1648]
 br x16
-.word 14314
+.word 14387
 	.no_dead_strip plt__rgctx_fetch_28
 plt__rgctx_fetch_28:
 _p_361:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1632]
+ldr x16, [x16, #1656]
 br x16
-.word 14350
+.word 14423
 	.no_dead_strip plt__rgctx_fetch_29
 plt__rgctx_fetch_29:
 _p_362:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1640]
+ldr x16, [x16, #1664]
 br x16
-.word 14407
+.word 14480
 	.no_dead_strip plt__rgctx_fetch_30
 plt__rgctx_fetch_30:
 _p_363:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1648]
+ldr x16, [x16, #1672]
 br x16
-.word 14470
+.word 14543
 	.no_dead_strip plt__rgctx_fetch_31
 plt__rgctx_fetch_31:
 _p_364:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1656]
+ldr x16, [x16, #1680]
 br x16
-.word 14478
+.word 14551
 	.no_dead_strip plt__rgctx_fetch_32
 plt__rgctx_fetch_32:
 _p_365:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1664]
+ldr x16, [x16, #1688]
 br x16
-.word 14514
+.word 14587
 	.no_dead_strip plt__rgctx_fetch_33
 plt__rgctx_fetch_33:
 _p_366:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1672]
+ldr x16, [x16, #1696]
 br x16
-.word 14546
+.word 14619
 	.no_dead_strip plt__rgctx_fetch_34
 plt__rgctx_fetch_34:
 _p_367:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1680]
+ldr x16, [x16, #1704]
 br x16
-.word 14554
+.word 14627
 	.no_dead_strip plt__rgctx_fetch_35
 plt__rgctx_fetch_35:
 _p_368:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1688]
+ldr x16, [x16, #1712]
 br x16
-.word 14590
+.word 14663
 	.no_dead_strip plt__rgctx_fetch_36
 plt__rgctx_fetch_36:
 _p_369:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1696]
+ldr x16, [x16, #1720]
 br x16
-.word 14643
+.word 14716
 	.no_dead_strip plt__rgctx_fetch_37
 plt__rgctx_fetch_37:
 _p_370:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1704]
+ldr x16, [x16, #1728]
 br x16
-.word 14762
+.word 14835
 	.no_dead_strip plt_wrapper_alloc_object_Alloc_intptr
 plt_wrapper_alloc_object_Alloc_intptr:
 _p_371:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1712]
+ldr x16, [x16, #1736]
 br x16
-.word 14770
+.word 14843
 	.no_dead_strip plt__rgctx_fetch_38
 plt__rgctx_fetch_38:
 _p_372:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1720]
+ldr x16, [x16, #1744]
 br x16
-.word 14778
+.word 14851
 	.no_dead_strip plt__jit_icall_mono_gsharedvt_constrained_call
 plt__jit_icall_mono_gsharedvt_constrained_call:
 _p_373:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1728]
+ldr x16, [x16, #1752]
 br x16
-.word 14786
+.word 14859
 	.no_dead_strip plt__rgctx_fetch_39
 plt__rgctx_fetch_39:
 _p_374:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1736]
+ldr x16, [x16, #1760]
 br x16
-.word 14820
+.word 14893
 	.no_dead_strip plt__rgctx_fetch_40
 plt__rgctx_fetch_40:
 _p_375:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1744]
+ldr x16, [x16, #1768]
 br x16
-.word 14828
+.word 14901
 	.no_dead_strip plt__rgctx_fetch_41
 plt__rgctx_fetch_41:
 _p_376:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1752]
+ldr x16, [x16, #1776]
 br x16
-.word 14860
+.word 14933
 	.no_dead_strip plt__rgctx_fetch_42
 plt__rgctx_fetch_42:
 _p_377:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1760]
+ldr x16, [x16, #1784]
 br x16
-.word 14895
+.word 14968
 	.no_dead_strip plt__rgctx_fetch_43
 plt__rgctx_fetch_43:
 _p_378:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1768]
+ldr x16, [x16, #1792]
 br x16
-.word 14903
+.word 14976
 	.no_dead_strip plt__rgctx_fetch_44
 plt__rgctx_fetch_44:
 _p_379:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1776]
+ldr x16, [x16, #1800]
 br x16
-.word 14944
+.word 15017
 	.no_dead_strip plt__rgctx_fetch_45
 plt__rgctx_fetch_45:
 _p_380:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1784]
+ldr x16, [x16, #1808]
 br x16
-.word 14998
+.word 15071
 	.no_dead_strip plt__rgctx_fetch_46
 plt__rgctx_fetch_46:
 _p_381:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1792]
+ldr x16, [x16, #1816]
 br x16
-.word 15042
+.word 15115
 	.no_dead_strip plt__rgctx_fetch_47
 plt__rgctx_fetch_47:
 _p_382:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1800]
+ldr x16, [x16, #1824]
 br x16
-.word 15106
+.word 15179
 	.no_dead_strip plt__rgctx_fetch_48
 plt__rgctx_fetch_48:
 _p_383:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1808]
+ldr x16, [x16, #1832]
 br x16
-.word 15129
+.word 15202
 	.no_dead_strip plt__rgctx_fetch_49
 plt__rgctx_fetch_49:
 _p_384:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1816]
+ldr x16, [x16, #1840]
 br x16
-.word 15174
+.word 15247
 	.no_dead_strip plt__rgctx_fetch_50
 plt__rgctx_fetch_50:
 _p_385:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1824]
+ldr x16, [x16, #1848]
 br x16
-.word 15182
+.word 15255
 	.no_dead_strip plt__rgctx_fetch_51
 plt__rgctx_fetch_51:
 _p_386:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1832]
+ldr x16, [x16, #1856]
 br x16
-.word 15214
+.word 15287
 	.no_dead_strip plt__rgctx_fetch_52
 plt__rgctx_fetch_52:
 _p_387:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1840]
+ldr x16, [x16, #1864]
 br x16
-.word 15237
+.word 15310
 	.no_dead_strip plt__rgctx_fetch_53
 plt__rgctx_fetch_53:
 _p_388:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1848]
+ldr x16, [x16, #1872]
 br x16
-.word 15268
+.word 15341
 	.no_dead_strip plt__rgctx_fetch_54
 plt__rgctx_fetch_54:
 _p_389:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1856]
+ldr x16, [x16, #1880]
 br x16
-.word 15300
+.word 15373
 	.no_dead_strip plt__rgctx_fetch_55
 plt__rgctx_fetch_55:
 _p_390:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1864]
+ldr x16, [x16, #1888]
 br x16
-.word 15346
+.word 15419
 	.no_dead_strip plt__rgctx_fetch_56
 plt__rgctx_fetch_56:
 _p_391:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1872]
+ldr x16, [x16, #1896]
 br x16
-.word 15395
+.word 15468
 	.no_dead_strip plt__rgctx_fetch_57
 plt__rgctx_fetch_57:
 _p_392:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1880]
+ldr x16, [x16, #1904]
 br x16
-.word 15439
+.word 15512
 	.no_dead_strip plt__rgctx_fetch_58
 plt__rgctx_fetch_58:
 _p_393:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1888]
+ldr x16, [x16, #1912]
 br x16
-.word 15488
+.word 15561
 	.no_dead_strip plt__rgctx_fetch_59
 plt__rgctx_fetch_59:
 _p_394:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1896]
+ldr x16, [x16, #1920]
 br x16
-.word 15544
+.word 15617
 	.no_dead_strip plt__rgctx_fetch_60
 plt__rgctx_fetch_60:
 _p_395:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1904]
+ldr x16, [x16, #1928]
 br x16
-.word 15552
+.word 15625
 	.no_dead_strip plt__rgctx_fetch_61
 plt__rgctx_fetch_61:
 _p_396:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1912]
+ldr x16, [x16, #1936]
 br x16
-.word 15593
+.word 15666
 	.no_dead_strip plt__rgctx_fetch_62
 plt__rgctx_fetch_62:
 _p_397:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1920]
+ldr x16, [x16, #1944]
 br x16
-.word 15619
+.word 15692
 	.no_dead_strip plt__rgctx_fetch_63
 plt__rgctx_fetch_63:
 _p_398:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1928]
+ldr x16, [x16, #1952]
 br x16
-.word 15672
+.word 15745
 	.no_dead_strip plt__rgctx_fetch_64
 plt__rgctx_fetch_64:
 _p_399:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1936]
+ldr x16, [x16, #1960]
 br x16
-.word 15697
+.word 15770
 	.no_dead_strip plt__rgctx_fetch_65
 plt__rgctx_fetch_65:
 _p_400:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1944]
+ldr x16, [x16, #1968]
 br x16
-.word 15719
+.word 15792
 	.no_dead_strip plt__rgctx_fetch_66
 plt__rgctx_fetch_66:
 _p_401:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1952]
+ldr x16, [x16, #1976]
 br x16
-.word 15771
+.word 15845
 	.no_dead_strip plt__rgctx_fetch_67
 plt__rgctx_fetch_67:
 _p_402:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1960]
+ldr x16, [x16, #1984]
 br x16
-.word 15796
+.word 15870
 	.no_dead_strip plt__rgctx_fetch_68
 plt__rgctx_fetch_68:
 _p_403:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1968]
+ldr x16, [x16, #1992]
 br x16
-.word 15804
+.word 15878
 	.no_dead_strip plt__rgctx_fetch_69
 plt__rgctx_fetch_69:
 _p_404:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1976]
+ldr x16, [x16, #2000]
 br x16
-.word 15835
+.word 15909
 	.no_dead_strip plt__rgctx_fetch_70
 plt__rgctx_fetch_70:
 _p_405:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1984]
+ldr x16, [x16, #2008]
 br x16
-.word 15857
+.word 15931
 	.no_dead_strip plt__rgctx_fetch_71
 plt__rgctx_fetch_71:
 _p_406:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #1992]
+ldr x16, [x16, #2016]
 br x16
-.word 15911
+.word 15986
 	.no_dead_strip plt__rgctx_fetch_72
 plt__rgctx_fetch_72:
 _p_407:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2000]
+ldr x16, [x16, #2024]
 br x16
-.word 15936
+.word 16011
 	.no_dead_strip plt__jit_icall_mono_helper_ldstr_mscorlib
 plt__jit_icall_mono_helper_ldstr_mscorlib:
 _p_408:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2008]
+ldr x16, [x16, #2032]
 br x16
-.word 15944
+.word 16019
 	.no_dead_strip plt__rgctx_fetch_73
 plt__rgctx_fetch_73:
 _p_409:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2016]
+ldr x16, [x16, #2040]
 br x16
-.word 15991
+.word 16066
 	.no_dead_strip plt__rgctx_fetch_74
 plt__rgctx_fetch_74:
 _p_410:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2024]
+ldr x16, [x16, #2048]
 br x16
-.word 16015
+.word 16090
 	.no_dead_strip plt__rgctx_fetch_75
 plt__rgctx_fetch_75:
 _p_411:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2032]
+ldr x16, [x16, #2056]
 br x16
-.word 16057
+.word 16132
 	.no_dead_strip plt__rgctx_fetch_76
 plt__rgctx_fetch_76:
 _p_412:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2040]
+ldr x16, [x16, #2064]
 br x16
-.word 16065
+.word 16140
 	.no_dead_strip plt__rgctx_fetch_77
 plt__rgctx_fetch_77:
 _p_413:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2048]
+ldr x16, [x16, #2072]
 br x16
-.word 16088
+.word 16163
 	.no_dead_strip plt__rgctx_fetch_78
 plt__rgctx_fetch_78:
 _p_414:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2056]
+ldr x16, [x16, #2080]
 br x16
-.word 16124
+.word 16199
 	.no_dead_strip plt__rgctx_fetch_79
 plt__rgctx_fetch_79:
 _p_415:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2064]
+ldr x16, [x16, #2088]
 br x16
-.word 16132
+.word 16207
 	.no_dead_strip plt__rgctx_fetch_80
 plt__rgctx_fetch_80:
 _p_416:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2072]
+ldr x16, [x16, #2096]
 br x16
-.word 16149
+.word 16224
 	.no_dead_strip plt__rgctx_fetch_81
 plt__rgctx_fetch_81:
 _p_417:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2080]
+ldr x16, [x16, #2104]
 br x16
-.word 16157
+.word 16232
 	.no_dead_strip plt__jit_icall_mono_thread_interruption_checkpoint
 plt__jit_icall_mono_thread_interruption_checkpoint:
 _p_418:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2088]
+ldr x16, [x16, #2112]
 br x16
-.word 16180
+.word 16255
 	.no_dead_strip plt__rgctx_fetch_82
 plt__rgctx_fetch_82:
 _p_419:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2096]
+ldr x16, [x16, #2120]
 br x16
-.word 16246
+.word 16321
 	.no_dead_strip plt__rgctx_fetch_83
 plt__rgctx_fetch_83:
 _p_420:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2104]
+ldr x16, [x16, #2128]
 br x16
-.word 16254
+.word 16329
 	.no_dead_strip plt__rgctx_fetch_84
 plt__rgctx_fetch_84:
 _p_421:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2112]
+ldr x16, [x16, #2136]
 br x16
-.word 16271
+.word 16346
 	.no_dead_strip plt_System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
 plt_System_Array_InternalEnumerator_1_T_REF__ctor_System_Array:
 _p_422:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2120]
+ldr x16, [x16, #2144]
 br x16
-.word 16279
+.word 16354
 	.no_dead_strip plt_Locale_GetText_string
 plt_Locale_GetText_string:
 _p_423:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2128]
+ldr x16, [x16, #2152]
 br x16
-.word 16298
+.word 16373
 	.no_dead_strip plt__rgctx_fetch_85
 plt__rgctx_fetch_85:
 _p_424:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2136]
+ldr x16, [x16, #2160]
 br x16
-.word 16322
+.word 16397
 	.no_dead_strip plt_System_Array_Copy_System_Array_int_System_Array_int_int
 plt_System_Array_Copy_System_Array_int_System_Array_int_int:
 _p_425:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2144]
+ldr x16, [x16, #2168]
 br x16
-.word 16346
+.word 16421
 	.no_dead_strip plt__rgctx_fetch_86
 plt__rgctx_fetch_86:
 _p_426:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2152]
+ldr x16, [x16, #2176]
 br x16
-.word 16370
+.word 16445
 	.no_dead_strip plt__rgctx_fetch_87
 plt__rgctx_fetch_87:
 _p_427:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2160]
+ldr x16, [x16, #2184]
 br x16
-.word 16413
+.word 16490
 	.no_dead_strip plt__rgctx_fetch_88
 plt__rgctx_fetch_88:
 _p_428:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2168]
+ldr x16, [x16, #2192]
 br x16
-.word 16458
+.word 16535
 	.no_dead_strip plt_System_ThrowHelper_ThrowInvalidOperationException_InvalidOperation_NoValue
 plt_System_ThrowHelper_ThrowInvalidOperationException_InvalidOperation_NoValue:
 _p_429:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2176]
+ldr x16, [x16, #2200]
 br x16
-.word 16484
+.word 16561
 	.no_dead_strip plt_int_Equals_object
 plt_int_Equals_object:
 _p_430:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2184]
+ldr x16, [x16, #2208]
 br x16
-.word 16489
+.word 16566
 	.no_dead_strip plt_int_GetHashCode
 plt_int_GetHashCode:
 _p_431:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2192]
+ldr x16, [x16, #2216]
 br x16
-.word 16494
+.word 16571
 	.no_dead_strip plt_System_Nullable_1_int__ctor_int
 plt_System_Nullable_1_int__ctor_int:
 _p_432:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2200]
+ldr x16, [x16, #2224]
 br x16
-.word 16499
+.word 16576
 	.no_dead_strip plt_System_Type_op_Inequality_System_Type_System_Type
 plt_System_Type_op_Inequality_System_Type_System_Type:
 _p_433:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2208]
+ldr x16, [x16, #2232]
 br x16
-.word 16521
+.word 16598
 	.no_dead_strip plt__rgctx_fetch_89
 plt__rgctx_fetch_89:
 _p_434:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2216]
+ldr x16, [x16, #2240]
 br x16
-.word 16545
+.word 16622
 	.no_dead_strip plt__rgctx_fetch_90
 plt__rgctx_fetch_90:
 _p_435:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2224]
+ldr x16, [x16, #2248]
 br x16
-.word 16571
+.word 16648
 	.no_dead_strip plt__rgctx_fetch_91
 plt__rgctx_fetch_91:
 _p_436:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2232]
+ldr x16, [x16, #2256]
 br x16
-.word 16581
+.word 16658
 	.no_dead_strip plt__rgctx_fetch_92
 plt__rgctx_fetch_92:
 _p_437:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2240]
+ldr x16, [x16, #2264]
 br x16
-.word 16597
+.word 16674
 	.no_dead_strip plt__jit_icall_mono_thread_force_interruption_checkpoint_noraise
 plt__jit_icall_mono_thread_force_interruption_checkpoint_noraise:
 _p_438:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2248]
+ldr x16, [x16, #2272]
 br x16
-.word 16613
+.word 16690
 	.no_dead_strip plt_System_Nullable_1_int_Unbox_object
 plt_System_Nullable_1_int_Unbox_object:
 _p_439:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2256]
+ldr x16, [x16, #2280]
 br x16
-.word 16665
+.word 16742
 	.no_dead_strip plt__rgctx_fetch_93
 plt__rgctx_fetch_93:
 _p_440:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2264]
+ldr x16, [x16, #2288]
 br x16
-.word 16705
+.word 16782
 	.no_dead_strip plt__rgctx_fetch_94
 plt__rgctx_fetch_94:
 _p_441:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2272]
+ldr x16, [x16, #2296]
 br x16
-.word 16715
+.word 16792
 	.no_dead_strip plt_System_Collections_Generic_EqualityComparer_1_T_REF_CreateComparer
 plt_System_Collections_Generic_EqualityComparer_1_T_REF_CreateComparer:
 _p_442:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2280]
+ldr x16, [x16, #2304]
 br x16
-.word 16725
+.word 16802
 	.no_dead_strip plt_System_ThrowHelper_ThrowArgumentOutOfRangeException_System_ExceptionArgument_System_ExceptionResource
 plt_System_ThrowHelper_ThrowArgumentOutOfRangeException_System_ExceptionArgument_System_ExceptionResource:
 _p_443:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2288]
+ldr x16, [x16, #2312]
 br x16
-.word 16744
+.word 16821
 	.no_dead_strip plt__rgctx_fetch_95
 plt__rgctx_fetch_95:
 _p_444:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2296]
+ldr x16, [x16, #2320]
 br x16
-.word 16767
+.word 16844
 	.no_dead_strip plt__rgctx_fetch_96
 plt__rgctx_fetch_96:
 _p_445:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2304]
+ldr x16, [x16, #2328]
 br x16
-.word 16777
+.word 16854
 	.no_dead_strip plt__rgctx_fetch_97
 plt__rgctx_fetch_97:
 _p_446:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2312]
+ldr x16, [x16, #2336]
 br x16
-.word 16787
+.word 16864
 	.no_dead_strip plt_System_Collections_Generic_List_1_T_REF_AddWithResize_T_REF
 plt_System_Collections_Generic_List_1_T_REF_AddWithResize_T_REF:
 _p_447:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2320]
+ldr x16, [x16, #2344]
 br x16
-.word 16799
+.word 16876
 	.no_dead_strip plt__rgctx_fetch_98
 plt__rgctx_fetch_98:
 _p_448:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2328]
+ldr x16, [x16, #2352]
 br x16
-.word 16858
+.word 16935
 	.no_dead_strip plt__rgctx_fetch_99
 plt__rgctx_fetch_99:
 _p_449:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2336]
+ldr x16, [x16, #2360]
 br x16
-.word 16870
+.word 16947
 	.no_dead_strip plt_System_Runtime_CompilerServices_RuntimeHelpers_PrepareConstrainedRegions
 plt_System_Runtime_CompilerServices_RuntimeHelpers_PrepareConstrainedRegions:
 _p_450:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2344]
+ldr x16, [x16, #2368]
 br x16
-.word 16903
+.word 16980
 	.no_dead_strip plt_System_Threading_ExecutionContext_EstablishCopyOnWriteScope_System_Threading_ExecutionContextSwitcher_
 plt_System_Threading_ExecutionContext_EstablishCopyOnWriteScope_System_Threading_ExecutionContextSwitcher_:
 _p_451:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2352]
+ldr x16, [x16, #2376]
 br x16
-.word 16908
+.word 16985
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_MoveNext
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_MoveNext:
 _p_452:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2360]
+ldr x16, [x16, #2384]
 br x16
-.word 16913
+.word 16990
 	.no_dead_strip plt_System_Threading_ExecutionContextSwitcher_Undo
 plt_System_Threading_ExecutionContextSwitcher_Undo:
 _p_453:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2368]
+ldr x16, [x16, #2392]
 br x16
-.word 16915
+.word 16992
 	.no_dead_strip plt__rgctx_fetch_100
 plt__rgctx_fetch_100:
 _p_454:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2376]
+ldr x16, [x16, #2400]
 br x16
-.word 16948
+.word 17025
 	.no_dead_strip plt__rgctx_fetch_101
 plt__rgctx_fetch_101:
 _p_455:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2384]
+ldr x16, [x16, #2408]
 br x16
-.word 16960
+.word 17037
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_MoveNext
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_MoveNext:
 _p_456:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2392]
+ldr x16, [x16, #2416]
 br x16
-.word 16987
+.word 17064
 	.no_dead_strip plt_string_memcpy_byte__byte__int
 plt_string_memcpy_byte__byte__int:
 _p_457:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2400]
+ldr x16, [x16, #2424]
 br x16
-.word 16989
+.word 17066
 	.no_dead_strip plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_MoveNext
 plt_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_MoveNext:
 _p_458:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2408]
+ldr x16, [x16, #2432]
 br x16
-.word 16994
+.word 17071
 	.no_dead_strip plt_System_Linq_Error_ArgumentNull_string
 plt_System_Linq_Error_ArgumentNull_string:
 _p_459:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2416]
+ldr x16, [x16, #2440]
 br x16
-.word 16996
+.word 17073
 	.no_dead_strip plt__rgctx_fetch_102
 plt__rgctx_fetch_102:
 _p_460:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2424]
+ldr x16, [x16, #2448]
 br x16
-.word 17028
+.word 17105
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_:
 _p_461:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2432]
+ldr x16, [x16, #2456]
 br x16
-.word 17055
+.word 17132
 	.no_dead_strip plt__rgctx_fetch_103
 plt__rgctx_fetch_103:
 _p_462:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2440]
+ldr x16, [x16, #2464]
 br x16
-.word 17100
+.word 17177
 	.no_dead_strip plt__rgctx_fetch_104
 plt__rgctx_fetch_104:
 _p_463:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2448]
+ldr x16, [x16, #2472]
 br x16
-.word 17130
+.word 17207
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_:
 _p_464:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2456]
+ldr x16, [x16, #2480]
 br x16
-.word 17160
+.word 17237
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_:
 _p_465:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2464]
+ldr x16, [x16, #2488]
 br x16
-.word 17186
+.word 17263
 	.no_dead_strip plt__rgctx_fetch_105
 plt__rgctx_fetch_105:
 _p_466:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2472]
+ldr x16, [x16, #2496]
 br x16
-.word 17231
+.word 17308
 	.no_dead_strip plt__rgctx_fetch_106
 plt__rgctx_fetch_106:
 _p_467:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2480]
+ldr x16, [x16, #2504]
 br x16
-.word 17261
+.word 17338
 	.no_dead_strip plt__rgctx_fetch_107
 plt__rgctx_fetch_107:
 _p_468:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2488]
+ldr x16, [x16, #2512]
 br x16
-.word 17310
+.word 17387
 	.no_dead_strip plt__rgctx_fetch_108
 plt__rgctx_fetch_108:
 _p_469:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2496]
+ldr x16, [x16, #2520]
 br x16
-.word 17340
+.word 17417
 	.no_dead_strip plt_Newtonsoft_Json_Linq_JToken_ToObject_System_Type
 plt_Newtonsoft_Json_Linq_JToken_ToObject_System_Type:
 _p_470:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2504]
+ldr x16, [x16, #2528]
 br x16
-.word 17370
+.word 17447
 	.no_dead_strip plt__rgctx_fetch_109
 plt__rgctx_fetch_109:
 _p_471:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2512]
+ldr x16, [x16, #2536]
 br x16
-.word 17403
+.word 17480
 	.no_dead_strip plt__rgctx_fetch_110
 plt__rgctx_fetch_110:
 _p_472:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2520]
+ldr x16, [x16, #2544]
 br x16
-.word 17415
+.word 17492
 	.no_dead_strip plt__rgctx_fetch_111
 plt__rgctx_fetch_111:
 _p_473:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2528]
+ldr x16, [x16, #2552]
 br x16
-.word 17446
+.word 17523
 	.no_dead_strip plt__rgctx_fetch_112
 plt__rgctx_fetch_112:
 _p_474:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2536]
+ldr x16, [x16, #2560]
 br x16
-.word 17490
+.word 17567
 	.no_dead_strip plt_System_Collections_Generic_ByteEqualityComparer__ctor
 plt_System_Collections_Generic_ByteEqualityComparer__ctor:
 _p_475:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2544]
+ldr x16, [x16, #2568]
 br x16
-.word 17500
+.word 17577
 	.no_dead_strip plt__rgctx_fetch_113
 plt__rgctx_fetch_113:
 _p_476:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2552]
+ldr x16, [x16, #2576]
 br x16
-.word 17505
+.word 17582
 	.no_dead_strip plt_System_Collections_Generic_InternalStringComparer__ctor
 plt_System_Collections_Generic_InternalStringComparer__ctor:
 _p_477:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2560]
+ldr x16, [x16, #2584]
 br x16
-.word 17515
+.word 17592
 	.no_dead_strip plt__rgctx_fetch_114
 plt__rgctx_fetch_114:
 _p_478:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2568]
+ldr x16, [x16, #2592]
 br x16
-.word 17529
+.word 17606
 	.no_dead_strip plt_System_RuntimeType_CreateInstanceForAnotherGenericParameter_System_Type_System_RuntimeType
 plt_System_RuntimeType_CreateInstanceForAnotherGenericParameter_System_Type_System_RuntimeType:
 _p_479:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2576]
+ldr x16, [x16, #2600]
 br x16
-.word 17541
+.word 17618
 	.no_dead_strip plt_System_Enum_GetUnderlyingType_System_Type
 plt_System_Enum_GetUnderlyingType_System_Type:
 _p_480:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2584]
+ldr x16, [x16, #2608]
 br x16
-.word 17546
+.word 17623
 	.no_dead_strip plt_System_Type_GetTypeCode_System_Type
 plt_System_Type_GetTypeCode_System_Type:
 _p_481:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2592]
+ldr x16, [x16, #2616]
 br x16
-.word 17551
+.word 17628
 	.no_dead_strip plt__rgctx_fetch_115
 plt__rgctx_fetch_115:
 _p_482:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2600]
+ldr x16, [x16, #2624]
 br x16
-.word 17565
+.word 17642
 	.no_dead_strip plt_System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor
 plt_System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor:
 _p_483:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2608]
+ldr x16, [x16, #2632]
 br x16
-.word 17577
+.word 17654
 	.no_dead_strip plt_System_Collections_Generic_List_1_T_REF_EnsureCapacity_int
 plt_System_Collections_Generic_List_1_T_REF_EnsureCapacity_int:
 _p_484:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2616]
+ldr x16, [x16, #2640]
 br x16
-.word 17598
+.word 17675
 	.no_dead_strip plt_System_Threading_Tasks_Task__ctor_bool_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken
 plt_System_Threading_Tasks_Task__ctor_bool_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken:
 _p_485:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2624]
+ldr x16, [x16, #2648]
 br x16
-.word 17617
+.word 17694
 	.no_dead_strip plt_System_Threading_Tasks_AsyncCausalityTracer_get_LoggingOn
 plt_System_Threading_Tasks_AsyncCausalityTracer_get_LoggingOn:
 _p_486:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2632]
+ldr x16, [x16, #2656]
 br x16
-.word 17622
+.word 17699
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_Task
 plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_Task:
 _p_487:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2640]
+ldr x16, [x16, #2664]
 br x16
-.word 17627
+.word 17704
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_GetCompletionAction_System_Threading_Tasks_Task_System_Runtime_CompilerServices_AsyncMethodBuilderCore_MoveNextRunner_
 plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_GetCompletionAction_System_Threading_Tasks_Task_System_Runtime_CompilerServices_AsyncMethodBuilderCore_MoveNextRunner_:
 _p_488:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2648]
+ldr x16, [x16, #2672]
 br x16
-.word 17647
+.word 17724
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_PostBoxInitialization_System_Runtime_CompilerServices_IAsyncStateMachine_System_Runtime_CompilerServices_AsyncMethodBuilderCore_MoveNextRunner_System_Threading_Tasks_Task
 plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_PostBoxInitialization_System_Runtime_CompilerServices_IAsyncStateMachine_System_Runtime_CompilerServices_AsyncMethodBuilderCore_MoveNextRunner_System_Threading_Tasks_Task:
 _p_489:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2656]
+ldr x16, [x16, #2680]
 br x16
-.word 17652
+.word 17729
 	.no_dead_strip plt_System_Runtime_CompilerServices_TaskAwaiter_UnsafeOnCompleted_System_Action
 plt_System_Runtime_CompilerServices_TaskAwaiter_UnsafeOnCompleted_System_Action:
 _p_490:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2664]
+ldr x16, [x16, #2688]
 br x16
-.word 17657
+.word 17734
 	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_ThrowAsync_System_Exception_System_Threading_SynchronizationContext
 plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_ThrowAsync_System_Exception_System_Threading_SynchronizationContext:
 _p_491:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2672]
+ldr x16, [x16, #2696]
 br x16
-.word 17662
+.word 17739
 	.no_dead_strip plt_System_Threading_Tasks_Task__ctor
 plt_System_Threading_Tasks_Task__ctor:
 _p_492:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2680]
+ldr x16, [x16, #2704]
 br x16
-.word 17667
+.word 17744
 	.no_dead_strip plt_System_Threading_Tasks_Task__ctor_object_System_Threading_Tasks_TaskCreationOptions_bool
 plt_System_Threading_Tasks_Task__ctor_object_System_Threading_Tasks_TaskCreationOptions_bool:
 _p_493:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2688]
-br x16
-.word 17672
-	.no_dead_strip plt_System_Threading_Tasks_Task_InternalCurrentIfAttached_System_Threading_Tasks_TaskCreationOptions
-plt_System_Threading_Tasks_Task_InternalCurrentIfAttached_System_Threading_Tasks_TaskCreationOptions:
-_p_494:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
-add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2696]
-br x16
-.word 17677
-	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler:
-_p_495:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
-add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2704]
-br x16
-.word 17682
-	.no_dead_strip plt_System_Threading_Tasks_Task_PossiblyCaptureContext
-plt_System_Threading_Tasks_Task_PossiblyCaptureContext:
-_p_496:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
-add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2712]
 br x16
-.word 17702
-	.no_dead_strip plt_System_Threading_Tasks_Task__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-plt_System_Threading_Tasks_Task__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler:
-_p_497:
+.word 17749
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler:
+_p_494:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2720]
 br x16
-.word 17707
-	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler:
-_p_498:
+.word 17754
+	.no_dead_strip plt_System_Threading_Tasks_Task_PossiblyCaptureContext
+plt_System_Threading_Tasks_Task_PossiblyCaptureContext:
+_p_495:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2728]
 br x16
-.word 17712
+.word 17774
+	.no_dead_strip plt_System_Threading_Tasks_Task_InternalCurrentIfAttached_System_Threading_Tasks_TaskCreationOptions
+plt_System_Threading_Tasks_Task_InternalCurrentIfAttached_System_Threading_Tasks_TaskCreationOptions:
+_p_496:
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #2736]
+br x16
+.word 17779
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler:
+_p_497:
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #2744]
+br x16
+.word 17784
+	.no_dead_strip plt_System_Threading_Tasks_Task__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
+plt_System_Threading_Tasks_Task__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler:
+_p_498:
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #2752]
+br x16
+.word 17804
 	.no_dead_strip plt_System_Threading_Tasks_Task_ScheduleAndStart_bool
 plt_System_Threading_Tasks_Task_ScheduleAndStart_bool:
 _p_499:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2736]
+ldr x16, [x16, #2760]
 br x16
-.word 17732
+.word 17809
 	.no_dead_strip plt_System_Threading_Tasks_Task_get_IsCompleted
 plt_System_Threading_Tasks_Task_get_IsCompleted:
 _p_500:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2744]
+ldr x16, [x16, #2768]
 br x16
-.word 17737
+.word 17814
 	.no_dead_strip plt_System_Threading_Tasks_Task_AtomicStateUpdate_int_int
 plt_System_Threading_Tasks_Task_AtomicStateUpdate_int_int:
 _p_501:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2752]
+ldr x16, [x16, #2776]
 br x16
-.word 17742
+.word 17819
 	.no_dead_strip plt_System_Threading_Tasks_Task_ContingentProperties_SetCompleted
 plt_System_Threading_Tasks_Task_ContingentProperties_SetCompleted:
 _p_502:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2760]
+ldr x16, [x16, #2784]
 br x16
-.word 17747
+.word 17824
 	.no_dead_strip plt_System_Threading_Tasks_Task_FinishStageThree
 plt_System_Threading_Tasks_Task_FinishStageThree:
 _p_503:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2768]
+ldr x16, [x16, #2792]
 br x16
-.word 17752
+.word 17829
 	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_TrySetResult_System_Threading_Tasks_VoidTaskResult
 plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_TrySetResult_System_Threading_Tasks_VoidTaskResult:
 _p_504:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2776]
+ldr x16, [x16, #2800]
 br x16
-.word 17757
+.word 17834
 	.no_dead_strip plt_System_Threading_Tasks_Task_get_IsWaitNotificationEnabledOrNotRanToCompletion
 plt_System_Threading_Tasks_Task_get_IsWaitNotificationEnabledOrNotRanToCompletion:
 _p_505:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2784]
+ldr x16, [x16, #2808]
 br x16
-.word 17777
+.word 17854
 	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetResultCore_bool
 plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetResultCore_bool:
 _p_506:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2792]
+ldr x16, [x16, #2816]
 br x16
-.word 17782
+.word 17859
 	.no_dead_strip plt_System_Threading_Tasks_Task_InternalWait_int_System_Threading_CancellationToken
 plt_System_Threading_Tasks_Task_InternalWait_int_System_Threading_CancellationToken:
 _p_507:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2800]
+ldr x16, [x16, #2824]
 br x16
-.word 17802
+.word 17879
 	.no_dead_strip plt_System_Threading_Tasks_Task_NotifyDebuggerOfWaitCompletionIfNecessary
 plt_System_Threading_Tasks_Task_NotifyDebuggerOfWaitCompletionIfNecessary:
 _p_508:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2808]
+ldr x16, [x16, #2832]
 br x16
-.word 17807
+.word 17884
 	.no_dead_strip plt_System_Threading_Tasks_Task_get_IsCompletedSuccessfully
 plt_System_Threading_Tasks_Task_get_IsCompletedSuccessfully:
 _p_509:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2816]
+ldr x16, [x16, #2840]
 br x16
-.word 17812
+.word 17889
 	.no_dead_strip plt_System_Threading_Tasks_Task_ThrowIfExceptional_bool
 plt_System_Threading_Tasks_Task_ThrowIfExceptional_bool:
 _p_510:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2824]
+ldr x16, [x16, #2848]
 br x16
-.word 17817
+.word 17894
 	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
 plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor:
 _p_511:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2832]
+ldr x16, [x16, #2856]
 br x16
-.word 17822
+.word 17899
 	.no_dead_strip plt_System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
 plt_System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult:
 _p_512:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2840]
+ldr x16, [x16, #2864]
 br x16
-.word 17842
+.word 17919
 	.no_dead_strip plt_System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
 plt_System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool:
 _p_513:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2848]
+ldr x16, [x16, #2872]
 br x16
-.word 17862
+.word 17939
 	.no_dead_strip plt_System_Threading_Tasks_TaskScheduler_get_Current
 plt_System_Threading_Tasks_TaskScheduler_get_Current:
 _p_514:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2856]
+ldr x16, [x16, #2880]
 br x16
-.word 17882
+.word 17959
 	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions
 plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions:
 _p_515:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2864]
+ldr x16, [x16, #2888]
 br x16
-.word 17887
+.word 17964
 	.no_dead_strip plt_System_Threading_Tasks_Task_CreationOptionsFromContinuationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskCreationOptions__System_Threading_Tasks_InternalTaskOptions_
 plt_System_Threading_Tasks_Task_CreationOptionsFromContinuationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskCreationOptions__System_Threading_Tasks_InternalTaskOptions_:
 _p_516:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2872]
+ldr x16, [x16, #2896]
 br x16
-.word 17907
+.word 17984
 	.no_dead_strip plt_System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions
 plt_System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions:
 _p_517:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2880]
+ldr x16, [x16, #2904]
 br x16
-.word 17912
+.word 17989
 	.no_dead_strip plt_System_Threading_Tasks_Task_ContinueWithCore_System_Threading_Tasks_Task_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions
 plt_System_Threading_Tasks_Task_ContinueWithCore_System_Threading_Tasks_Task_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions:
 _p_518:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2888]
+ldr x16, [x16, #2912]
 br x16
-.word 17932
+.word 18009
 	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskScheduler
 plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskScheduler:
 _p_519:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2896]
+ldr x16, [x16, #2920]
 br x16
-.word 17937
+.word 18014
 	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_CheckMultiTaskContinuationOptions_System_Threading_Tasks_TaskContinuationOptions
 plt_System_Threading_Tasks_TaskFactory_CheckMultiTaskContinuationOptions_System_Threading_Tasks_TaskContinuationOptions:
 _p_520:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2904]
+ldr x16, [x16, #2928]
 br x16
-.word 17957
+.word 18034
 	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_CheckCreationOptions_System_Threading_Tasks_TaskCreationOptions
 plt_System_Threading_Tasks_TaskFactory_CheckCreationOptions_System_Threading_Tasks_TaskCreationOptions:
 _p_521:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2912]
-br x16
-.word 17962
-	.no_dead_strip plt_System_OperationCanceledException_get_CancellationToken
-plt_System_OperationCanceledException_get_CancellationToken:
-_p_522:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
-add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2920]
-br x16
-.word 17967
-	.no_dead_strip plt_System_Threading_Tasks_Task_TrySetCanceled_System_Threading_CancellationToken_object
-plt_System_Threading_Tasks_Task_TrySetCanceled_System_Threading_CancellationToken_object:
-_p_523:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
-add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
-ldr x16, [x16, #2928]
-br x16
-.word 17972
-	.no_dead_strip plt_System_Threading_Tasks_Task_TrySetException_object
-plt_System_Threading_Tasks_Task_TrySetException_object:
-_p_524:
-adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
-add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2936]
 br x16
-.word 17977
-	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_get_LoggingOn
-plt_System_Threading_Tasks_DebuggerSupport_get_LoggingOn:
-_p_525:
+.word 18039
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler:
+_p_522:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2944]
 br x16
-.word 17982
-	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_TraceOperationCompletion_System_Threading_Tasks_CausalityTraceLevel_System_Threading_Tasks_Task_Internal_Runtime_Augments_AsyncStatus
-plt_System_Threading_Tasks_DebuggerSupport_TraceOperationCompletion_System_Threading_Tasks_CausalityTraceLevel_System_Threading_Tasks_Task_Internal_Runtime_Augments_AsyncStatus:
-_p_526:
+.word 18044
+	.no_dead_strip plt_System_OperationCanceledException_get_CancellationToken
+plt_System_OperationCanceledException_get_CancellationToken:
+_p_523:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2952]
 br x16
-.word 17987
-	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_RemoveFromActiveTasks_System_Threading_Tasks_Task
-plt_System_Threading_Tasks_DebuggerSupport_RemoveFromActiveTasks_System_Threading_Tasks_Task:
-_p_527:
+.word 18064
+	.no_dead_strip plt_System_Threading_Tasks_Task_TrySetCanceled_System_Threading_CancellationToken_object
+plt_System_Threading_Tasks_Task_TrySetCanceled_System_Threading_CancellationToken_object:
+_p_524:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2960]
 br x16
-.word 17992
-	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult
-plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult:
-_p_528:
+.word 18069
+	.no_dead_strip plt_System_Threading_Tasks_Task_TrySetException_object
+plt_System_Threading_Tasks_Task_TrySetException_object:
+_p_525:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2968]
 br x16
-.word 17997
-	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions
-plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions:
-_p_529:
+.word 18074
+	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_get_LoggingOn
+plt_System_Threading_Tasks_DebuggerSupport_get_LoggingOn:
+_p_526:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2976]
 br x16
-.word 18017
-	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor
-plt_System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor:
-_p_530:
+.word 18079
+	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_TraceOperationCompletion_System_Threading_Tasks_CausalityTraceLevel_System_Threading_Tasks_Task_Internal_Runtime_Augments_AsyncStatus
+plt_System_Threading_Tasks_DebuggerSupport_TraceOperationCompletion_System_Threading_Tasks_CausalityTraceLevel_System_Threading_Tasks_Task_Internal_Runtime_Augments_AsyncStatus:
+_p_527:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2984]
 br x16
-.word 18037
-	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_CheckFromAsyncOptions_System_Threading_Tasks_TaskCreationOptions_bool
-plt_System_Threading_Tasks_TaskFactory_CheckFromAsyncOptions_System_Threading_Tasks_TaskCreationOptions_bool:
-_p_531:
+.word 18084
+	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_RemoveFromActiveTasks_System_Threading_Tasks_Task
+plt_System_Threading_Tasks_DebuggerSupport_RemoveFromActiveTasks_System_Threading_Tasks_Task:
+_p_528:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #2992]
 br x16
-.word 18057
-	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions
-plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions:
-_p_532:
+.word 18089
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult:
+_p_529:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3000]
 br x16
-.word 18062
-	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_TraceOperationCreation_System_Threading_Tasks_CausalityTraceLevel_System_Threading_Tasks_Task_string_ulong
-plt_System_Threading_Tasks_DebuggerSupport_TraceOperationCreation_System_Threading_Tasks_CausalityTraceLevel_System_Threading_Tasks_Task_string_ulong:
-_p_533:
+.word 18094
+	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions
+plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions:
+_p_530:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3008]
 br x16
-.word 18082
-	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_AddToActiveTasks_System_Threading_Tasks_Task
-plt_System_Threading_Tasks_DebuggerSupport_AddToActiveTasks_System_Threading_Tasks_Task:
-_p_534:
+.word 18114
+	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor
+plt_System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor:
+_p_531:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3016]
 br x16
-.word 18087
-	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
-plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool:
-_p_535:
+.word 18134
+	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_CheckFromAsyncOptions_System_Threading_Tasks_TaskCreationOptions_bool
+plt_System_Threading_Tasks_TaskFactory_CheckFromAsyncOptions_System_Threading_Tasks_TaskCreationOptions_bool:
+_p_532:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3024]
 br x16
-.word 18092
-	.no_dead_strip plt__jit_icall_mono_arch_rethrow_exception
-plt__jit_icall_mono_arch_rethrow_exception:
-_p_536:
+.word 18154
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions:
+_p_533:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3032]
 br x16
-.word 18112
-	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine
-plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine:
-_p_537:
+.word 18159
+	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_TraceOperationCreation_System_Threading_Tasks_CausalityTraceLevel_System_Threading_Tasks_Task_string_ulong
+plt_System_Threading_Tasks_DebuggerSupport_TraceOperationCreation_System_Threading_Tasks_CausalityTraceLevel_System_Threading_Tasks_Task_string_ulong:
+_p_534:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3040]
 br x16
-.word 18142
-	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor
-plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor:
-_p_538:
+.word 18179
+	.no_dead_strip plt_System_Threading_Tasks_DebuggerSupport_AddToActiveTasks_System_Threading_Tasks_Task
+plt_System_Threading_Tasks_DebuggerSupport_AddToActiveTasks_System_Threading_Tasks_Task:
+_p_535:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3048]
 br x16
-.word 18147
-	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult
-plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult:
-_p_539:
+.word 18184
+	.no_dead_strip plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
+plt_System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool:
+_p_536:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3056]
 br x16
-.word 18167
-	.no_dead_strip plt_System_Threading_Tasks_Task_get_Id
-plt_System_Threading_Tasks_Task_get_Id:
-_p_540:
+.word 18189
+	.no_dead_strip plt__jit_icall_mono_arch_rethrow_exception
+plt__jit_icall_mono_arch_rethrow_exception:
+_p_537:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3064]
 br x16
-.word 18187
-	.no_dead_strip plt_System_Threading_Tasks_AsyncCausalityTracer_TraceOperationCompletion_System_Threading_Tasks_CausalityTraceLevel_int_System_Threading_Tasks_AsyncCausalityStatus
-plt_System_Threading_Tasks_AsyncCausalityTracer_TraceOperationCompletion_System_Threading_Tasks_CausalityTraceLevel_int_System_Threading_Tasks_AsyncCausalityStatus:
-_p_541:
+.word 18209
+	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine
+plt_System_Runtime_CompilerServices_AsyncMethodBuilderCore_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine:
+_p_538:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3072]
 br x16
-.word 18192
-	.no_dead_strip plt_System_Threading_Tasks_Task_RemoveFromActiveTasks_int
-plt_System_Threading_Tasks_Task_RemoveFromActiveTasks_int:
-_p_542:
+.word 18239
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor:
+_p_539:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3080]
 br x16
-.word 18197
-	.no_dead_strip plt_System_Environment_GetResourceString_string
-plt_System_Environment_GetResourceString_string:
-_p_543:
+.word 18244
+	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult
+plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult:
+_p_540:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3088]
 br x16
-.word 18202
-	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult
-plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult:
-_p_544:
+.word 18264
+	.no_dead_strip plt_System_Threading_Tasks_Task_get_Id
+plt_System_Threading_Tasks_Task_get_Id:
+_p_541:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3096]
 br x16
-.word 18207
-	.no_dead_strip plt_System_Threading_Tasks_Task_SetNotificationForWaitCompletion_bool
-plt_System_Threading_Tasks_Task_SetNotificationForWaitCompletion_bool:
-_p_545:
+.word 18284
+	.no_dead_strip plt_System_Threading_Tasks_AsyncCausalityTracer_TraceOperationCompletion_System_Threading_Tasks_CausalityTraceLevel_int_System_Threading_Tasks_AsyncCausalityStatus
+plt_System_Threading_Tasks_AsyncCausalityTracer_TraceOperationCompletion_System_Threading_Tasks_CausalityTraceLevel_int_System_Threading_Tasks_AsyncCausalityStatus:
+_p_542:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3104]
 br x16
-.word 18227
-	.no_dead_strip plt_System_Runtime_CompilerServices_JitHelpers_UnsafeCast_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_object
-plt_System_Runtime_CompilerServices_JitHelpers_UnsafeCast_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_object:
-_p_546:
+.word 18289
+	.no_dead_strip plt_System_Threading_Tasks_Task_RemoveFromActiveTasks_int
+plt_System_Threading_Tasks_Task_RemoveFromActiveTasks_int:
+_p_543:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3112]
 br x16
-.word 18232
-	.no_dead_strip plt_intptr_op_Equality_intptr_intptr
-plt_intptr_op_Equality_intptr_intptr:
-_p_547:
+.word 18294
+	.no_dead_strip plt_System_Environment_GetResourceString_string
+plt_System_Environment_GetResourceString_string:
+_p_544:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3120]
 br x16
-.word 18252
-	.no_dead_strip plt_uintptr_op_Equality_uintptr_uintptr
-plt_uintptr_op_Equality_uintptr_uintptr:
-_p_548:
+.word 18299
+	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult
+plt_System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult:
+_p_545:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3128]
 br x16
-.word 18257
-	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_VoidTaskResult
-plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_VoidTaskResult:
-_p_549:
+.word 18304
+	.no_dead_strip plt_System_Threading_Tasks_Task_SetNotificationForWaitCompletion_bool
+plt_System_Threading_Tasks_Task_SetNotificationForWaitCompletion_bool:
+_p_546:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3136]
 br x16
-.word 18262
-	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult
-plt_System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult:
-_p_550:
+.word 18324
+	.no_dead_strip plt_System_Runtime_CompilerServices_JitHelpers_UnsafeCast_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_object
+plt_System_Runtime_CompilerServices_JitHelpers_UnsafeCast_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_object:
+_p_547:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3144]
 br x16
-.word 18282
-	.no_dead_strip plt__rgctx_fetch_116
-plt__rgctx_fetch_116:
-_p_551:
+.word 18329
+	.no_dead_strip plt_intptr_op_Equality_intptr_intptr
+plt_intptr_op_Equality_intptr_intptr:
+_p_548:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3152]
 br x16
-.word 18325
-	.no_dead_strip plt__rgctx_fetch_117
-plt__rgctx_fetch_117:
-_p_552:
+.word 18349
+	.no_dead_strip plt_uintptr_op_Equality_uintptr_uintptr
+plt_uintptr_op_Equality_uintptr_uintptr:
+_p_549:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3160]
 br x16
-.word 18335
-	.no_dead_strip plt__rgctx_fetch_118
-plt__rgctx_fetch_118:
-_p_553:
+.word 18354
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_VoidTaskResult
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_VoidTaskResult:
+_p_550:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3168]
 br x16
-.word 18345
-	.no_dead_strip plt__rgctx_fetch_119
-plt__rgctx_fetch_119:
-_p_554:
+.word 18359
+	.no_dead_strip plt_System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult
+plt_System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult:
+_p_551:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3176]
 br x16
-.word 18355
-	.no_dead_strip plt_Newtonsoft_Json_Utilities_StringUtils_FormatWith_string_System_IFormatProvider_object_object
-plt_Newtonsoft_Json_Utilities_StringUtils_FormatWith_string_System_IFormatProvider_object_object:
-_p_555:
+.word 18379
+	.no_dead_strip plt__rgctx_fetch_116
+plt__rgctx_fetch_116:
+_p_552:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3184]
 br x16
-.word 18365
-	.no_dead_strip plt_Newtonsoft_Json_Linq_JValue_get_Value
-plt_Newtonsoft_Json_Linq_JValue_get_Value:
-_p_556:
+.word 18422
+	.no_dead_strip plt__rgctx_fetch_117
+plt__rgctx_fetch_117:
+_p_553:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3192]
 br x16
-.word 18370
-	.no_dead_strip plt_Newtonsoft_Json_Utilities_ReflectionUtils_IsNullableType_System_Type
-plt_Newtonsoft_Json_Utilities_ReflectionUtils_IsNullableType_System_Type:
-_p_557:
+.word 18432
+	.no_dead_strip plt__rgctx_fetch_118
+plt__rgctx_fetch_118:
+_p_554:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3200]
 br x16
-.word 18375
-	.no_dead_strip plt_System_Nullable_GetUnderlyingType_System_Type
-plt_System_Nullable_GetUnderlyingType_System_Type:
-_p_558:
+.word 18442
+	.no_dead_strip plt__rgctx_fetch_119
+plt__rgctx_fetch_119:
+_p_555:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3208]
 br x16
-.word 18380
-	.no_dead_strip plt_System_Convert_ChangeType_object_System_Type_System_IFormatProvider
-plt_System_Convert_ChangeType_object_System_Type_System_IFormatProvider:
-_p_559:
+.word 18452
+	.no_dead_strip plt_Newtonsoft_Json_Utilities_StringUtils_FormatWith_string_System_IFormatProvider_object_object
+plt_Newtonsoft_Json_Utilities_StringUtils_FormatWith_string_System_IFormatProvider_object_object:
+_p_556:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3216]
 br x16
-.word 18385
-	.no_dead_strip plt_Newtonsoft_Json_Utilities_ValidationUtils_ArgumentNotNull_object_string
-plt_Newtonsoft_Json_Utilities_ValidationUtils_ArgumentNotNull_object_string:
-_p_560:
+.word 18462
+	.no_dead_strip plt_Newtonsoft_Json_Linq_JValue_get_Value
+plt_Newtonsoft_Json_Linq_JValue_get_Value:
+_p_557:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3224]
 br x16
-.word 18390
-	.no_dead_strip plt__rgctx_fetch_120
-plt__rgctx_fetch_120:
-_p_561:
+.word 18467
+	.no_dead_strip plt_Newtonsoft_Json_Utilities_ReflectionUtils_IsNullableType_System_Type
+plt_Newtonsoft_Json_Utilities_ReflectionUtils_IsNullableType_System_Type:
+_p_558:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3232]
 br x16
-.word 18417
-	.no_dead_strip plt__rgctx_fetch_121
-plt__rgctx_fetch_121:
-_p_562:
+.word 18472
+	.no_dead_strip plt_System_Nullable_GetUnderlyingType_System_Type
+plt_System_Nullable_GetUnderlyingType_System_Type:
+_p_559:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3240]
 br x16
-.word 18447
-	.no_dead_strip plt__rgctx_fetch_122
-plt__rgctx_fetch_122:
-_p_563:
+.word 18477
+	.no_dead_strip plt_System_Convert_ChangeType_object_System_Type_System_IFormatProvider
+plt_System_Convert_ChangeType_object_System_Type_System_IFormatProvider:
+_p_560:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3248]
 br x16
-.word 18499
-	.no_dead_strip plt__rgctx_fetch_123
-plt__rgctx_fetch_123:
-_p_564:
+.word 18482
+	.no_dead_strip plt_Newtonsoft_Json_Utilities_ValidationUtils_ArgumentNotNull_object_string
+plt_Newtonsoft_Json_Utilities_ValidationUtils_ArgumentNotNull_object_string:
+_p_561:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3256]
 br x16
-.word 18529
-	.no_dead_strip plt_System_Collections_Generic_EqualityComparer_1_T_REF__ctor
-plt_System_Collections_Generic_EqualityComparer_1_T_REF__ctor:
-_p_565:
+.word 18487
+	.no_dead_strip plt__rgctx_fetch_120
+plt__rgctx_fetch_120:
+_p_562:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3264]
 br x16
-.word 18568
-	.no_dead_strip plt_System_Collections_Generic_List_1_T_REF_set_Capacity_int
-plt_System_Collections_Generic_List_1_T_REF_set_Capacity_int:
-_p_566:
+.word 18514
+	.no_dead_strip plt__rgctx_fetch_121
+plt__rgctx_fetch_121:
+_p_563:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3272]
 br x16
-.word 18589
-	.no_dead_strip plt_System_Runtime_CompilerServices_TaskAwaiter_OnCompletedInternal_System_Threading_Tasks_Task_System_Action_bool_bool
-plt_System_Runtime_CompilerServices_TaskAwaiter_OnCompletedInternal_System_Threading_Tasks_Task_System_Action_bool_bool:
-_p_567:
+.word 18544
+	.no_dead_strip plt__rgctx_fetch_122
+plt__rgctx_fetch_122:
+_p_564:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3280]
 br x16
-.word 18608
-	.no_dead_strip plt_System_Runtime_CompilerServices_TaskAwaiter_ValidateEnd_System_Threading_Tasks_Task
-plt_System_Runtime_CompilerServices_TaskAwaiter_ValidateEnd_System_Threading_Tasks_Task:
-_p_568:
+.word 18596
+	.no_dead_strip plt__rgctx_fetch_123
+plt__rgctx_fetch_123:
+_p_565:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3288]
 br x16
-.word 18613
-	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess
-plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess:
-_p_569:
+.word 18626
+	.no_dead_strip plt_System_Collections_Generic_EqualityComparer_1_T_REF__ctor
+plt_System_Collections_Generic_EqualityComparer_1_T_REF__ctor:
+_p_566:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3296]
 br x16
-.word 18618
-	.no_dead_strip plt_System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
-plt_System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool:
-_p_570:
+.word 18665
+	.no_dead_strip plt_System_Collections_Generic_List_1_T_REF_set_Capacity_int
+plt_System_Collections_Generic_List_1_T_REF_set_Capacity_int:
+_p_567:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3304]
 br x16
-.word 18638
-	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_bool_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken
-plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_bool_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken:
-_p_571:
+.word 18686
+	.no_dead_strip plt_System_Runtime_CompilerServices_TaskAwaiter_OnCompletedInternal_System_Threading_Tasks_Task_System_Action_bool_bool
+plt_System_Runtime_CompilerServices_TaskAwaiter_OnCompletedInternal_System_Threading_Tasks_Task_System_Action_bool_bool:
+_p_568:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3312]
 br x16
-.word 18658
-	.no_dead_strip plt__rgctx_fetch_124
-plt__rgctx_fetch_124:
-_p_572:
+.word 18705
+	.no_dead_strip plt_System_Runtime_CompilerServices_TaskAwaiter_ValidateEnd_System_Threading_Tasks_Task
+plt_System_Runtime_CompilerServices_TaskAwaiter_ValidateEnd_System_Threading_Tasks_Task:
+_p_569:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3320]
 br x16
-.word 18700
-	.no_dead_strip plt__rgctx_fetch_125
-plt__rgctx_fetch_125:
-_p_573:
+.word 18710
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess:
+_p_570:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3328]
 br x16
-.word 18710
-	.no_dead_strip plt__rgctx_fetch_126
-plt__rgctx_fetch_126:
-_p_574:
+.word 18715
+	.no_dead_strip plt_System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
+plt_System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool:
+_p_571:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3336]
 br x16
-.word 18720
-	.no_dead_strip plt__rgctx_fetch_127
-plt__rgctx_fetch_127:
-_p_575:
+.word 18735
+	.no_dead_strip plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_bool_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken
+plt_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_bool_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken:
+_p_572:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3344]
 br x16
-.word 18730
-	.no_dead_strip plt__rgctx_fetch_128
-plt__rgctx_fetch_128:
-_p_576:
+.word 18755
+	.no_dead_strip plt__rgctx_fetch_124
+plt__rgctx_fetch_124:
+_p_573:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3352]
 br x16
-.word 18758
-	.no_dead_strip plt__rgctx_fetch_129
-plt__rgctx_fetch_129:
-_p_577:
+.word 18797
+	.no_dead_strip plt__rgctx_fetch_125
+plt__rgctx_fetch_125:
+_p_574:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3360]
 br x16
-.word 18770
-	.no_dead_strip plt__rgctx_fetch_130
-plt__rgctx_fetch_130:
-_p_578:
+.word 18807
+	.no_dead_strip plt__rgctx_fetch_126
+plt__rgctx_fetch_126:
+_p_575:
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x16, [x16, #3368]
 br x16
-.word 18780
+.word 18817
+	.no_dead_strip plt__rgctx_fetch_127
+plt__rgctx_fetch_127:
+_p_576:
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #3376]
+br x16
+.word 18827
+	.no_dead_strip plt__rgctx_fetch_128
+plt__rgctx_fetch_128:
+_p_577:
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #3384]
+br x16
+.word 18855
+	.no_dead_strip plt__rgctx_fetch_129
+plt__rgctx_fetch_129:
+_p_578:
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #3392]
+br x16
+.word 18867
+	.no_dead_strip plt__rgctx_fetch_130
+plt__rgctx_fetch_130:
+_p_579:
+adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+8192
+add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
+ldr x16, [x16, #3400]
+br x16
+.word 18877
 plt_end:
 .section __DATA, __bss
 	.align 3
-.lcomm mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got, 11568
+.lcomm mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got, 11600
 got_end:
 .section __TEXT, __const
 	.align 3
@@ -58372,14 +58700,14 @@ _mono_aot_file_info:
 	.align 3
 	.quad unbox_trampoline_addresses
 
-	.long 867,11568,579,382,31,70,387000831,0
-	.long 89526,128,8,8,8,9,8388607,0
-	.long 24,99728,10192,9384,7064,0,8536,9320
-	.long 7384,0,5480,552,10184,0,0,0
+	.long 870,11600,580,389,32,70,387000831,0
+	.long 90024,128,8,8,8,9,8388607,0
+	.long 24,100328,10296,9488,7152,0,8624,9424
+	.long 7472,0,5512,568,10288,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 9,142,147,60,217,105,152,238,219,229,138,42,155,224,203,91
+	.byte 37,51,20,167,238,106,129,117,30,87,131,44,244,27,195,244
 	.globl _mono_aot_module_Microsoft_Azure_Mobile_Client_SQLiteStore_info
 	.align 3
 _mono_aot_module_Microsoft_Azure_Mobile_Client_SQLiteStore_info:
@@ -68528,251 +68856,248 @@ LDIFF_SYM1570=LTDIE_160 - Ldebug_info_start
 	.long LDIFF_SYM1570
 LTDIE_161:
 
-	.byte 5
-	.asciz "Newtonsoft_Json_SerializationBinder"
+	.byte 17
+	.asciz "Newtonsoft_Json_Serialization_ISerializationBinder"
 
-	.byte 16,16
-LDIFF_SYM1571=LTDIE_1 - Ldebug_info_start
+	.byte 16,7
+	.asciz "Newtonsoft_Json_Serialization_ISerializationBinder"
+
+LDIFF_SYM1571=LTDIE_161 - Ldebug_info_start
 	.long LDIFF_SYM1571
-	.byte 2,35,0,0,7
-	.asciz "Newtonsoft_Json_SerializationBinder"
-
-LDIFF_SYM1572=LTDIE_161 - Ldebug_info_start
-	.long LDIFF_SYM1572
 LTDIE_161_POINTER:
 
 	.byte 13
-LDIFF_SYM1573=LTDIE_161 - Ldebug_info_start
-	.long LDIFF_SYM1573
+LDIFF_SYM1572=LTDIE_161 - Ldebug_info_start
+	.long LDIFF_SYM1572
 LTDIE_161_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1574=LTDIE_161 - Ldebug_info_start
-	.long LDIFF_SYM1574
+LDIFF_SYM1573=LTDIE_161 - Ldebug_info_start
+	.long LDIFF_SYM1573
 LTDIE_162:
 
 	.byte 5
 	.asciz "System_EventHandler`1"
 
 	.byte 128,1,16
-LDIFF_SYM1575=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM1575
+LDIFF_SYM1574=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM1574
 	.byte 2,35,0,0,7
 	.asciz "System_EventHandler`1"
 
-LDIFF_SYM1576=LTDIE_162 - Ldebug_info_start
-	.long LDIFF_SYM1576
+LDIFF_SYM1575=LTDIE_162 - Ldebug_info_start
+	.long LDIFF_SYM1575
 LTDIE_162_POINTER:
 
 	.byte 13
-LDIFF_SYM1577=LTDIE_162 - Ldebug_info_start
-	.long LDIFF_SYM1577
+LDIFF_SYM1576=LTDIE_162 - Ldebug_info_start
+	.long LDIFF_SYM1576
 LTDIE_162_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1578=LTDIE_162 - Ldebug_info_start
-	.long LDIFF_SYM1578
+LDIFF_SYM1577=LTDIE_162 - Ldebug_info_start
+	.long LDIFF_SYM1577
 LTDIE_145:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_JsonSerializerSettings"
 
 	.byte 136,2,16
-LDIFF_SYM1579=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1579
+LDIFF_SYM1578=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1578
 	.byte 2,35,0,6
 	.asciz "_formatting"
 
-LDIFF_SYM1580=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1580
+LDIFF_SYM1579=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1579
 	.byte 2,35,112,6
 	.asciz "_dateFormatHandling"
 
-LDIFF_SYM1581=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1581
+LDIFF_SYM1580=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1580
 	.byte 2,35,120,6
 	.asciz "_dateTimeZoneHandling"
 
-LDIFF_SYM1582=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1582
+LDIFF_SYM1581=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1581
 	.byte 3,35,128,1,6
 	.asciz "_dateParseHandling"
 
-LDIFF_SYM1583=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1583
+LDIFF_SYM1582=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1582
 	.byte 3,35,136,1,6
 	.asciz "_floatFormatHandling"
 
-LDIFF_SYM1584=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1584
+LDIFF_SYM1583=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1583
 	.byte 3,35,144,1,6
 	.asciz "_floatParseHandling"
 
-LDIFF_SYM1585=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1585
+LDIFF_SYM1584=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1584
 	.byte 3,35,152,1,6
 	.asciz "_stringEscapeHandling"
 
-LDIFF_SYM1586=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1586
+LDIFF_SYM1585=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1585
 	.byte 3,35,160,1,6
 	.asciz "_culture"
 
-LDIFF_SYM1587=LTDIE_146_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1587
+LDIFF_SYM1586=LTDIE_146_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1586
 	.byte 2,35,16,6
 	.asciz "_checkAdditionalContent"
 
-LDIFF_SYM1588=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1588
+LDIFF_SYM1587=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1587
 	.byte 3,35,168,1,6
 	.asciz "_maxDepth"
 
-LDIFF_SYM1589=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1589
+LDIFF_SYM1588=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1588
 	.byte 3,35,172,1,6
 	.asciz "_maxDepthSet"
 
-LDIFF_SYM1590=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1590
+LDIFF_SYM1589=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1589
 	.byte 3,35,180,1,6
 	.asciz "_dateFormatString"
 
-LDIFF_SYM1591=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1591
+LDIFF_SYM1590=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1590
 	.byte 2,35,24,6
 	.asciz "_dateFormatStringSet"
 
-LDIFF_SYM1592=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1592
+LDIFF_SYM1591=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1591
 	.byte 3,35,181,1,6
-	.asciz "_typeNameAssemblyFormat"
+	.asciz "_typeNameAssemblyFormatHandling"
 
-LDIFF_SYM1593=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1593
+LDIFF_SYM1592=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1592
 	.byte 3,35,184,1,6
 	.asciz "_defaultValueHandling"
 
-LDIFF_SYM1594=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1594
+LDIFF_SYM1593=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1593
 	.byte 3,35,192,1,6
 	.asciz "_preserveReferencesHandling"
 
-LDIFF_SYM1595=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1595
+LDIFF_SYM1594=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1594
 	.byte 3,35,200,1,6
 	.asciz "_nullValueHandling"
 
-LDIFF_SYM1596=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1596
+LDIFF_SYM1595=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1595
 	.byte 3,35,208,1,6
 	.asciz "_objectCreationHandling"
 
-LDIFF_SYM1597=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1597
+LDIFF_SYM1596=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1596
 	.byte 3,35,216,1,6
 	.asciz "_missingMemberHandling"
 
-LDIFF_SYM1598=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1598
+LDIFF_SYM1597=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1597
 	.byte 3,35,224,1,6
 	.asciz "_referenceLoopHandling"
 
-LDIFF_SYM1599=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1599
+LDIFF_SYM1598=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1598
 	.byte 3,35,232,1,6
 	.asciz "_context"
 
-LDIFF_SYM1600=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1600
+LDIFF_SYM1599=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1599
 	.byte 2,35,32,6
 	.asciz "_constructorHandling"
 
-LDIFF_SYM1601=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1601
+LDIFF_SYM1600=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1600
 	.byte 3,35,240,1,6
 	.asciz "_typeNameHandling"
 
-LDIFF_SYM1602=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1602
+LDIFF_SYM1601=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1601
 	.byte 3,35,248,1,6
 	.asciz "_metadataPropertyHandling"
 
-LDIFF_SYM1603=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1603
+LDIFF_SYM1602=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1602
 	.byte 3,35,128,2,6
 	.asciz "<Converters>k__BackingField"
 
-LDIFF_SYM1604=LTDIE_157_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1604
+LDIFF_SYM1603=LTDIE_157_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1603
 	.byte 2,35,56,6
 	.asciz "<ContractResolver>k__BackingField"
 
-LDIFF_SYM1605=LTDIE_158_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1605
+LDIFF_SYM1604=LTDIE_158_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1604
 	.byte 2,35,64,6
 	.asciz "<EqualityComparer>k__BackingField"
 
-LDIFF_SYM1606=LTDIE_49_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1606
+LDIFF_SYM1605=LTDIE_49_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1605
 	.byte 2,35,72,6
 	.asciz "<ReferenceResolverProvider>k__BackingField"
 
-LDIFF_SYM1607=LTDIE_159_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1607
+LDIFF_SYM1606=LTDIE_159_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1606
 	.byte 2,35,80,6
 	.asciz "<TraceWriter>k__BackingField"
 
-LDIFF_SYM1608=LTDIE_160_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1608
+LDIFF_SYM1607=LTDIE_160_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1607
 	.byte 2,35,88,6
-	.asciz "<Binder>k__BackingField"
+	.asciz "<SerializationBinder>k__BackingField"
 
-LDIFF_SYM1609=LTDIE_161_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1609
+LDIFF_SYM1608=LTDIE_161_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1608
 	.byte 2,35,96,6
 	.asciz "<Error>k__BackingField"
 
-LDIFF_SYM1610=LTDIE_162_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1610
+LDIFF_SYM1609=LTDIE_162_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1609
 	.byte 2,35,104,0,7
 	.asciz "Newtonsoft_Json_JsonSerializerSettings"
 
-LDIFF_SYM1611=LTDIE_145 - Ldebug_info_start
-	.long LDIFF_SYM1611
+LDIFF_SYM1610=LTDIE_145 - Ldebug_info_start
+	.long LDIFF_SYM1610
 LTDIE_145_POINTER:
 
 	.byte 13
-LDIFF_SYM1612=LTDIE_145 - Ldebug_info_start
-	.long LDIFF_SYM1612
+LDIFF_SYM1611=LTDIE_145 - Ldebug_info_start
+	.long LDIFF_SYM1611
 LTDIE_145_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1613=LTDIE_145 - Ldebug_info_start
-	.long LDIFF_SYM1613
+LDIFF_SYM1612=LTDIE_145 - Ldebug_info_start
+	.long LDIFF_SYM1612
 LTDIE_144:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings"
 
 	.byte 136,2,16
-LDIFF_SYM1614=LTDIE_145 - Ldebug_info_start
-	.long LDIFF_SYM1614
+LDIFF_SYM1613=LTDIE_145 - Ldebug_info_start
+	.long LDIFF_SYM1613
 	.byte 2,35,0,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings"
 
-LDIFF_SYM1615=LTDIE_144 - Ldebug_info_start
-	.long LDIFF_SYM1615
+LDIFF_SYM1614=LTDIE_144 - Ldebug_info_start
+	.long LDIFF_SYM1614
 LTDIE_144_POINTER:
 
 	.byte 13
-LDIFF_SYM1616=LTDIE_144 - Ldebug_info_start
-	.long LDIFF_SYM1616
+LDIFF_SYM1615=LTDIE_144 - Ldebug_info_start
+	.long LDIFF_SYM1615
 LTDIE_144_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1617=LTDIE_144 - Ldebug_info_start
-	.long LDIFF_SYM1617
+LDIFF_SYM1616=LTDIE_144 - Ldebug_info_start
+	.long LDIFF_SYM1616
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.MobileServiceSQLiteStoreExtensions:DefineTable<T_REF>"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore"
@@ -68784,27 +69109,27 @@ LDIFF_SYM1617=LTDIE_144 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "store"
 
-LDIFF_SYM1618=LTDIE_11_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1618
+LDIFF_SYM1617=LTDIE_11_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1617
 	.byte 2,141,24,11
 	.asciz "V_0"
 
-LDIFF_SYM1619=LTDIE_144_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1619
+LDIFF_SYM1618=LTDIE_144_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1618
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1620=Lfde88_end - Lfde88_start
-	.long LDIFF_SYM1620
+LDIFF_SYM1619=Lfde88_end - Lfde88_start
+	.long LDIFF_SYM1619
 Lfde88_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore
 
-LDIFF_SYM1621=Lme_58 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore
-	.long LDIFF_SYM1621
+LDIFF_SYM1620=Lme_58 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore
+	.long LDIFF_SYM1620
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10
 	.align 3
@@ -68823,42 +69148,42 @@ Lfde88_end:
 	.byte 2,118,16,3
 	.asciz "store"
 
-LDIFF_SYM1622=LTDIE_11_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1622
+LDIFF_SYM1621=LTDIE_11_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1621
 	.byte 3,141,200,0,3
 	.asciz "settings"
 
-LDIFF_SYM1623=LTDIE_144_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1623
+LDIFF_SYM1622=LTDIE_144_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1622
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1624=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1624
+LDIFF_SYM1623=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1623
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM1625=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1625
+LDIFF_SYM1624=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1624
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM1626=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1626
+LDIFF_SYM1625=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1625
 	.byte 3,141,240,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1627=Lfde89_end - Lfde89_start
-	.long LDIFF_SYM1627
+LDIFF_SYM1626=Lfde89_end - Lfde89_start
+	.long LDIFF_SYM1626
 Lfde89_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings
 
-LDIFF_SYM1628=Lme_59 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings
-	.long LDIFF_SYM1628
+LDIFF_SYM1627=Lme_59 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_REF_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings
+	.long LDIFF_SYM1627
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,147,24,148,23,68,149,22,150,21,68,151,20,152,19,68,154,18
 	.align 3
@@ -68871,8 +69196,8 @@ LTDIE_166:
 	.asciz "Newtonsoft_Json_ReadType"
 
 	.byte 4
-LDIFF_SYM1629=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1629
+LDIFF_SYM1628=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1628
 	.byte 9
 	.asciz "Read"
 
@@ -68903,26 +69228,26 @@ LDIFF_SYM1629=LDIE_I4 - Ldebug_info_start
 	.byte 8,0,7
 	.asciz "Newtonsoft_Json_ReadType"
 
-LDIFF_SYM1630=LTDIE_166 - Ldebug_info_start
-	.long LDIFF_SYM1630
+LDIFF_SYM1629=LTDIE_166 - Ldebug_info_start
+	.long LDIFF_SYM1629
 LTDIE_166_POINTER:
 
 	.byte 13
-LDIFF_SYM1631=LTDIE_166 - Ldebug_info_start
-	.long LDIFF_SYM1631
+LDIFF_SYM1630=LTDIE_166 - Ldebug_info_start
+	.long LDIFF_SYM1630
 LTDIE_166_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1632=LTDIE_166 - Ldebug_info_start
-	.long LDIFF_SYM1632
+LDIFF_SYM1631=LTDIE_166 - Ldebug_info_start
+	.long LDIFF_SYM1631
 LTDIE_167:
 
 	.byte 8
 	.asciz "Newtonsoft_Json_Serialization_JsonContractType"
 
 	.byte 4
-LDIFF_SYM1633=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1633
+LDIFF_SYM1632=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1632
 	.byte 9
 	.asciz "None"
 
@@ -68953,61 +69278,61 @@ LDIFF_SYM1633=LDIE_I4 - Ldebug_info_start
 	.byte 8,0,7
 	.asciz "Newtonsoft_Json_Serialization_JsonContractType"
 
-LDIFF_SYM1634=LTDIE_167 - Ldebug_info_start
-	.long LDIFF_SYM1634
+LDIFF_SYM1633=LTDIE_167 - Ldebug_info_start
+	.long LDIFF_SYM1633
 LTDIE_167_POINTER:
 
 	.byte 13
-LDIFF_SYM1635=LTDIE_167 - Ldebug_info_start
-	.long LDIFF_SYM1635
+LDIFF_SYM1634=LTDIE_167 - Ldebug_info_start
+	.long LDIFF_SYM1634
 LTDIE_167_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1636=LTDIE_167 - Ldebug_info_start
-	.long LDIFF_SYM1636
+LDIFF_SYM1635=LTDIE_167 - Ldebug_info_start
+	.long LDIFF_SYM1635
 LTDIE_168:
 
 	.byte 5
 	.asciz "System_Collections_Generic_List`1"
 
 	.byte 40,16
-LDIFF_SYM1637=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1637
+LDIFF_SYM1636=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1636
 	.byte 2,35,0,6
 	.asciz "_items"
 
-LDIFF_SYM1638=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM1638
+LDIFF_SYM1637=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM1637
 	.byte 2,35,16,6
 	.asciz "_size"
 
-LDIFF_SYM1639=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1639
+LDIFF_SYM1638=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1638
 	.byte 2,35,32,6
 	.asciz "_version"
 
-LDIFF_SYM1640=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1640
+LDIFF_SYM1639=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1639
 	.byte 2,35,36,6
 	.asciz "_syncRoot"
 
-LDIFF_SYM1641=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1641
+LDIFF_SYM1640=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1640
 	.byte 2,35,24,0,7
 	.asciz "System_Collections_Generic_List`1"
 
-LDIFF_SYM1642=LTDIE_168 - Ldebug_info_start
-	.long LDIFF_SYM1642
+LDIFF_SYM1641=LTDIE_168 - Ldebug_info_start
+	.long LDIFF_SYM1641
 LTDIE_168_POINTER:
 
 	.byte 13
-LDIFF_SYM1643=LTDIE_168 - Ldebug_info_start
-	.long LDIFF_SYM1643
+LDIFF_SYM1642=LTDIE_168 - Ldebug_info_start
+	.long LDIFF_SYM1642
 LTDIE_168_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1644=LTDIE_168 - Ldebug_info_start
-	.long LDIFF_SYM1644
+LDIFF_SYM1643=LTDIE_168 - Ldebug_info_start
+	.long LDIFF_SYM1643
 LTDIE_169:
 
 	.byte 17
@@ -69016,18 +69341,18 @@ LTDIE_169:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IList`1"
 
-LDIFF_SYM1645=LTDIE_169 - Ldebug_info_start
-	.long LDIFF_SYM1645
+LDIFF_SYM1644=LTDIE_169 - Ldebug_info_start
+	.long LDIFF_SYM1644
 LTDIE_169_POINTER:
 
 	.byte 13
-LDIFF_SYM1646=LTDIE_169 - Ldebug_info_start
-	.long LDIFF_SYM1646
+LDIFF_SYM1645=LTDIE_169 - Ldebug_info_start
+	.long LDIFF_SYM1645
 LTDIE_169_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1647=LTDIE_169 - Ldebug_info_start
-	.long LDIFF_SYM1647
+LDIFF_SYM1646=LTDIE_169 - Ldebug_info_start
+	.long LDIFF_SYM1646
 LTDIE_170:
 
 	.byte 17
@@ -69036,253 +69361,253 @@ LTDIE_170:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IList`1"
 
-LDIFF_SYM1648=LTDIE_170 - Ldebug_info_start
-	.long LDIFF_SYM1648
+LDIFF_SYM1647=LTDIE_170 - Ldebug_info_start
+	.long LDIFF_SYM1647
 LTDIE_170_POINTER:
 
 	.byte 13
-LDIFF_SYM1649=LTDIE_170 - Ldebug_info_start
-	.long LDIFF_SYM1649
+LDIFF_SYM1648=LTDIE_170 - Ldebug_info_start
+	.long LDIFF_SYM1648
 LTDIE_170_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1650=LTDIE_170 - Ldebug_info_start
-	.long LDIFF_SYM1650
+LDIFF_SYM1649=LTDIE_170 - Ldebug_info_start
+	.long LDIFF_SYM1649
 LTDIE_171:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_JsonConverter"
 
 	.byte 16,16
-LDIFF_SYM1651=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1651
+LDIFF_SYM1650=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1650
 	.byte 2,35,0,0,7
 	.asciz "Newtonsoft_Json_JsonConverter"
 
-LDIFF_SYM1652=LTDIE_171 - Ldebug_info_start
-	.long LDIFF_SYM1652
+LDIFF_SYM1651=LTDIE_171 - Ldebug_info_start
+	.long LDIFF_SYM1651
 LTDIE_171_POINTER:
 
 	.byte 13
-LDIFF_SYM1653=LTDIE_171 - Ldebug_info_start
-	.long LDIFF_SYM1653
+LDIFF_SYM1652=LTDIE_171 - Ldebug_info_start
+	.long LDIFF_SYM1652
 LTDIE_171_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1654=LTDIE_171 - Ldebug_info_start
-	.long LDIFF_SYM1654
+LDIFF_SYM1653=LTDIE_171 - Ldebug_info_start
+	.long LDIFF_SYM1653
 LTDIE_172:
 
 	.byte 5
 	.asciz "System_Func`1"
 
 	.byte 128,1,16
-LDIFF_SYM1655=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM1655
+LDIFF_SYM1654=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM1654
 	.byte 2,35,0,0,7
 	.asciz "System_Func`1"
 
-LDIFF_SYM1656=LTDIE_172 - Ldebug_info_start
-	.long LDIFF_SYM1656
+LDIFF_SYM1655=LTDIE_172 - Ldebug_info_start
+	.long LDIFF_SYM1655
 LTDIE_172_POINTER:
 
 	.byte 13
-LDIFF_SYM1657=LTDIE_172 - Ldebug_info_start
-	.long LDIFF_SYM1657
+LDIFF_SYM1656=LTDIE_172 - Ldebug_info_start
+	.long LDIFF_SYM1656
 LTDIE_172_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1658=LTDIE_172 - Ldebug_info_start
-	.long LDIFF_SYM1658
+LDIFF_SYM1657=LTDIE_172 - Ldebug_info_start
+	.long LDIFF_SYM1657
 LTDIE_165:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Serialization_JsonContract"
 
 	.byte 128,1,16
-LDIFF_SYM1659=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1659
+LDIFF_SYM1658=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1658
 	.byte 2,35,0,6
 	.asciz "IsNullable"
 
-LDIFF_SYM1660=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1660
+LDIFF_SYM1659=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1659
 	.byte 2,35,104,6
 	.asciz "IsConvertable"
 
-LDIFF_SYM1661=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1661
+LDIFF_SYM1660=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1660
 	.byte 2,35,105,6
 	.asciz "IsEnum"
 
-LDIFF_SYM1662=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1662
+LDIFF_SYM1661=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1661
 	.byte 2,35,106,6
 	.asciz "NonNullableUnderlyingType"
 
-LDIFF_SYM1663=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1663
+LDIFF_SYM1662=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1662
 	.byte 2,35,16,6
 	.asciz "InternalReadType"
 
-LDIFF_SYM1664=LTDIE_166 - Ldebug_info_start
-	.long LDIFF_SYM1664
+LDIFF_SYM1663=LTDIE_166 - Ldebug_info_start
+	.long LDIFF_SYM1663
 	.byte 2,35,108,6
 	.asciz "ContractType"
 
-LDIFF_SYM1665=LTDIE_167 - Ldebug_info_start
-	.long LDIFF_SYM1665
+LDIFF_SYM1664=LTDIE_167 - Ldebug_info_start
+	.long LDIFF_SYM1664
 	.byte 2,35,112,6
 	.asciz "IsReadOnlyOrFixedSize"
 
-LDIFF_SYM1666=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1666
+LDIFF_SYM1665=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1665
 	.byte 2,35,116,6
 	.asciz "IsSealed"
 
-LDIFF_SYM1667=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1667
+LDIFF_SYM1666=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1666
 	.byte 2,35,117,6
 	.asciz "IsInstantiable"
 
-LDIFF_SYM1668=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1668
+LDIFF_SYM1667=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1667
 	.byte 2,35,118,6
 	.asciz "_onDeserializedCallbacks"
 
-LDIFF_SYM1669=LTDIE_168_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1669
+LDIFF_SYM1668=LTDIE_168_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1668
 	.byte 2,35,24,6
 	.asciz "_onDeserializingCallbacks"
 
-LDIFF_SYM1670=LTDIE_169_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1670
+LDIFF_SYM1669=LTDIE_169_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1669
 	.byte 2,35,32,6
 	.asciz "_onSerializedCallbacks"
 
-LDIFF_SYM1671=LTDIE_169_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1671
+LDIFF_SYM1670=LTDIE_169_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1670
 	.byte 2,35,40,6
 	.asciz "_onSerializingCallbacks"
 
-LDIFF_SYM1672=LTDIE_169_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1672
+LDIFF_SYM1671=LTDIE_169_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1671
 	.byte 2,35,48,6
 	.asciz "_onErrorCallbacks"
 
-LDIFF_SYM1673=LTDIE_170_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1673
+LDIFF_SYM1672=LTDIE_170_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1672
 	.byte 2,35,56,6
 	.asciz "_createdType"
 
-LDIFF_SYM1674=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1674
+LDIFF_SYM1673=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1673
 	.byte 2,35,64,6
 	.asciz "<UnderlyingType>k__BackingField"
 
-LDIFF_SYM1675=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1675
+LDIFF_SYM1674=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1674
 	.byte 2,35,72,6
 	.asciz "<IsReference>k__BackingField"
 
-LDIFF_SYM1676=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1676
+LDIFF_SYM1675=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1675
 	.byte 2,35,119,6
 	.asciz "<Converter>k__BackingField"
 
-LDIFF_SYM1677=LTDIE_171_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1677
+LDIFF_SYM1676=LTDIE_171_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1676
 	.byte 2,35,80,6
 	.asciz "<InternalConverter>k__BackingField"
 
-LDIFF_SYM1678=LTDIE_171_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1678
+LDIFF_SYM1677=LTDIE_171_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1677
 	.byte 2,35,88,6
 	.asciz "<DefaultCreator>k__BackingField"
 
-LDIFF_SYM1679=LTDIE_172_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1679
+LDIFF_SYM1678=LTDIE_172_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1678
 	.byte 2,35,96,6
 	.asciz "<DefaultCreatorNonPublic>k__BackingField"
 
-LDIFF_SYM1680=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1680
+LDIFF_SYM1679=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1679
 	.byte 2,35,121,0,7
 	.asciz "Newtonsoft_Json_Serialization_JsonContract"
 
-LDIFF_SYM1681=LTDIE_165 - Ldebug_info_start
-	.long LDIFF_SYM1681
+LDIFF_SYM1680=LTDIE_165 - Ldebug_info_start
+	.long LDIFF_SYM1680
 LTDIE_165_POINTER:
 
 	.byte 13
-LDIFF_SYM1682=LTDIE_165 - Ldebug_info_start
-	.long LDIFF_SYM1682
+LDIFF_SYM1681=LTDIE_165 - Ldebug_info_start
+	.long LDIFF_SYM1681
 LTDIE_165_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1683=LTDIE_165 - Ldebug_info_start
-	.long LDIFF_SYM1683
+LDIFF_SYM1682=LTDIE_165 - Ldebug_info_start
+	.long LDIFF_SYM1682
 LTDIE_164:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Serialization_JsonContainerContract"
 
 	.byte 176,1,16
-LDIFF_SYM1684=LTDIE_165 - Ldebug_info_start
-	.long LDIFF_SYM1684
+LDIFF_SYM1683=LTDIE_165 - Ldebug_info_start
+	.long LDIFF_SYM1683
 	.byte 2,35,0,6
 	.asciz "_itemContract"
 
-LDIFF_SYM1685=LTDIE_165_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1685
+LDIFF_SYM1684=LTDIE_165_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1684
 	.byte 3,35,128,1,6
 	.asciz "_finalItemContract"
 
-LDIFF_SYM1686=LTDIE_165_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1686
+LDIFF_SYM1685=LTDIE_165_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1685
 	.byte 3,35,136,1,6
 	.asciz "<ItemConverter>k__BackingField"
 
-LDIFF_SYM1687=LTDIE_171_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1687
+LDIFF_SYM1686=LTDIE_171_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1686
 	.byte 3,35,144,1,6
 	.asciz "<ItemIsReference>k__BackingField"
 
-LDIFF_SYM1688=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1688
+LDIFF_SYM1687=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1687
 	.byte 3,35,152,1,6
 	.asciz "<ItemReferenceLoopHandling>k__BackingField"
 
-LDIFF_SYM1689=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1689
+LDIFF_SYM1688=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1688
 	.byte 3,35,156,1,6
 	.asciz "<ItemTypeNameHandling>k__BackingField"
 
-LDIFF_SYM1690=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1690
+LDIFF_SYM1689=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1689
 	.byte 3,35,164,1,0,7
 	.asciz "Newtonsoft_Json_Serialization_JsonContainerContract"
 
-LDIFF_SYM1691=LTDIE_164 - Ldebug_info_start
-	.long LDIFF_SYM1691
+LDIFF_SYM1690=LTDIE_164 - Ldebug_info_start
+	.long LDIFF_SYM1690
 LTDIE_164_POINTER:
 
 	.byte 13
-LDIFF_SYM1692=LTDIE_164 - Ldebug_info_start
-	.long LDIFF_SYM1692
+LDIFF_SYM1691=LTDIE_164 - Ldebug_info_start
+	.long LDIFF_SYM1691
 LTDIE_164_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1693=LTDIE_164 - Ldebug_info_start
-	.long LDIFF_SYM1693
+LDIFF_SYM1692=LTDIE_164 - Ldebug_info_start
+	.long LDIFF_SYM1692
 LTDIE_173:
 
 	.byte 8
 	.asciz "Newtonsoft_Json_MemberSerialization"
 
 	.byte 4
-LDIFF_SYM1694=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1694
+LDIFF_SYM1693=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1693
 	.byte 9
 	.asciz "OptOut"
 
@@ -69295,18 +69620,18 @@ LDIFF_SYM1694=LDIE_I4 - Ldebug_info_start
 	.byte 2,0,7
 	.asciz "Newtonsoft_Json_MemberSerialization"
 
-LDIFF_SYM1695=LTDIE_173 - Ldebug_info_start
-	.long LDIFF_SYM1695
+LDIFF_SYM1694=LTDIE_173 - Ldebug_info_start
+	.long LDIFF_SYM1694
 LTDIE_173_POINTER:
 
 	.byte 13
-LDIFF_SYM1696=LTDIE_173 - Ldebug_info_start
-	.long LDIFF_SYM1696
+LDIFF_SYM1695=LTDIE_173 - Ldebug_info_start
+	.long LDIFF_SYM1695
 LTDIE_173_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1697=LTDIE_173 - Ldebug_info_start
-	.long LDIFF_SYM1697
+LDIFF_SYM1696=LTDIE_173 - Ldebug_info_start
+	.long LDIFF_SYM1696
 LTDIE_177:
 
 	.byte 17
@@ -69315,750 +69640,768 @@ LTDIE_177:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IList`1"
 
-LDIFF_SYM1698=LTDIE_177 - Ldebug_info_start
-	.long LDIFF_SYM1698
+LDIFF_SYM1697=LTDIE_177 - Ldebug_info_start
+	.long LDIFF_SYM1697
 LTDIE_177_POINTER:
 
 	.byte 13
-LDIFF_SYM1699=LTDIE_177 - Ldebug_info_start
-	.long LDIFF_SYM1699
+LDIFF_SYM1698=LTDIE_177 - Ldebug_info_start
+	.long LDIFF_SYM1698
 LTDIE_177_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1700=LTDIE_177 - Ldebug_info_start
-	.long LDIFF_SYM1700
+LDIFF_SYM1699=LTDIE_177 - Ldebug_info_start
+	.long LDIFF_SYM1699
 LTDIE_176:
 
 	.byte 5
 	.asciz "System_Collections_ObjectModel_Collection`1"
 
 	.byte 32,16
-LDIFF_SYM1701=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1701
+LDIFF_SYM1700=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1700
 	.byte 2,35,0,6
 	.asciz "items"
 
-LDIFF_SYM1702=LTDIE_177_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1702
+LDIFF_SYM1701=LTDIE_177_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1701
 	.byte 2,35,16,6
 	.asciz "_syncRoot"
 
-LDIFF_SYM1703=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1703
+LDIFF_SYM1702=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1702
 	.byte 2,35,24,0,7
 	.asciz "System_Collections_ObjectModel_Collection`1"
 
-LDIFF_SYM1704=LTDIE_176 - Ldebug_info_start
-	.long LDIFF_SYM1704
+LDIFF_SYM1703=LTDIE_176 - Ldebug_info_start
+	.long LDIFF_SYM1703
 LTDIE_176_POINTER:
 
 	.byte 13
-LDIFF_SYM1705=LTDIE_176 - Ldebug_info_start
-	.long LDIFF_SYM1705
+LDIFF_SYM1704=LTDIE_176 - Ldebug_info_start
+	.long LDIFF_SYM1704
 LTDIE_176_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1706=LTDIE_176 - Ldebug_info_start
-	.long LDIFF_SYM1706
+LDIFF_SYM1705=LTDIE_176 - Ldebug_info_start
+	.long LDIFF_SYM1705
 LTDIE_179:
 
 	.byte 5
 	.asciz "_KeyCollection"
 
 	.byte 24,16
-LDIFF_SYM1707=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1707
+LDIFF_SYM1706=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1706
 	.byte 2,35,0,6
 	.asciz "_dictionary"
 
-LDIFF_SYM1708=LTDIE_178_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1708
+LDIFF_SYM1707=LTDIE_178_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1707
 	.byte 2,35,16,0,7
 	.asciz "_KeyCollection"
 
-LDIFF_SYM1709=LTDIE_179 - Ldebug_info_start
-	.long LDIFF_SYM1709
+LDIFF_SYM1708=LTDIE_179 - Ldebug_info_start
+	.long LDIFF_SYM1708
 LTDIE_179_POINTER:
 
 	.byte 13
-LDIFF_SYM1710=LTDIE_179 - Ldebug_info_start
-	.long LDIFF_SYM1710
+LDIFF_SYM1709=LTDIE_179 - Ldebug_info_start
+	.long LDIFF_SYM1709
 LTDIE_179_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1711=LTDIE_179 - Ldebug_info_start
-	.long LDIFF_SYM1711
+LDIFF_SYM1710=LTDIE_179 - Ldebug_info_start
+	.long LDIFF_SYM1710
 LTDIE_180:
 
 	.byte 5
 	.asciz "_ValueCollection"
 
 	.byte 24,16
-LDIFF_SYM1712=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1712
+LDIFF_SYM1711=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1711
 	.byte 2,35,0,6
 	.asciz "_dictionary"
 
-LDIFF_SYM1713=LTDIE_178_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1713
+LDIFF_SYM1712=LTDIE_178_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1712
 	.byte 2,35,16,0,7
 	.asciz "_ValueCollection"
 
-LDIFF_SYM1714=LTDIE_180 - Ldebug_info_start
-	.long LDIFF_SYM1714
+LDIFF_SYM1713=LTDIE_180 - Ldebug_info_start
+	.long LDIFF_SYM1713
 LTDIE_180_POINTER:
 
 	.byte 13
-LDIFF_SYM1715=LTDIE_180 - Ldebug_info_start
-	.long LDIFF_SYM1715
+LDIFF_SYM1714=LTDIE_180 - Ldebug_info_start
+	.long LDIFF_SYM1714
 LTDIE_180_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1716=LTDIE_180 - Ldebug_info_start
-	.long LDIFF_SYM1716
+LDIFF_SYM1715=LTDIE_180 - Ldebug_info_start
+	.long LDIFF_SYM1715
 LTDIE_178:
 
 	.byte 5
 	.asciz "System_Collections_Generic_Dictionary`2"
 
 	.byte 80,16
-LDIFF_SYM1717=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1717
+LDIFF_SYM1716=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1716
 	.byte 2,35,0,6
 	.asciz "_buckets"
 
-LDIFF_SYM1718=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM1718
+LDIFF_SYM1717=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM1717
 	.byte 2,35,16,6
 	.asciz "_entries"
 
-LDIFF_SYM1719=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM1719
+LDIFF_SYM1718=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM1718
 	.byte 2,35,24,6
 	.asciz "_count"
 
-LDIFF_SYM1720=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1720
+LDIFF_SYM1719=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1719
 	.byte 2,35,64,6
 	.asciz "_freeList"
 
-LDIFF_SYM1721=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1721
+LDIFF_SYM1720=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1720
 	.byte 2,35,68,6
 	.asciz "_freeCount"
 
-LDIFF_SYM1722=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1722
+LDIFF_SYM1721=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1721
 	.byte 2,35,72,6
 	.asciz "_version"
 
-LDIFF_SYM1723=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1723
+LDIFF_SYM1722=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1722
 	.byte 2,35,76,6
 	.asciz "_comparer"
 
-LDIFF_SYM1724=LTDIE_15_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1724
+LDIFF_SYM1723=LTDIE_15_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1723
 	.byte 2,35,32,6
 	.asciz "_keys"
 
-LDIFF_SYM1725=LTDIE_179_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1725
+LDIFF_SYM1724=LTDIE_179_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1724
 	.byte 2,35,40,6
 	.asciz "_values"
 
-LDIFF_SYM1726=LTDIE_180_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1726
+LDIFF_SYM1725=LTDIE_180_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1725
 	.byte 2,35,48,6
 	.asciz "_syncRoot"
 
-LDIFF_SYM1727=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1727
+LDIFF_SYM1726=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1726
 	.byte 2,35,56,0,7
 	.asciz "System_Collections_Generic_Dictionary`2"
 
-LDIFF_SYM1728=LTDIE_178 - Ldebug_info_start
-	.long LDIFF_SYM1728
+LDIFF_SYM1727=LTDIE_178 - Ldebug_info_start
+	.long LDIFF_SYM1727
 LTDIE_178_POINTER:
 
 	.byte 13
-LDIFF_SYM1729=LTDIE_178 - Ldebug_info_start
-	.long LDIFF_SYM1729
+LDIFF_SYM1728=LTDIE_178 - Ldebug_info_start
+	.long LDIFF_SYM1728
 LTDIE_178_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1730=LTDIE_178 - Ldebug_info_start
-	.long LDIFF_SYM1730
+LDIFF_SYM1729=LTDIE_178 - Ldebug_info_start
+	.long LDIFF_SYM1729
 LTDIE_175:
 
 	.byte 5
 	.asciz "System_Collections_ObjectModel_KeyedCollection`2"
 
 	.byte 56,16
-LDIFF_SYM1731=LTDIE_176 - Ldebug_info_start
-	.long LDIFF_SYM1731
+LDIFF_SYM1730=LTDIE_176 - Ldebug_info_start
+	.long LDIFF_SYM1730
 	.byte 2,35,0,6
 	.asciz "comparer"
 
-LDIFF_SYM1732=LTDIE_15_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1732
+LDIFF_SYM1731=LTDIE_15_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1731
 	.byte 2,35,32,6
 	.asciz "dict"
 
-LDIFF_SYM1733=LTDIE_178_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1733
+LDIFF_SYM1732=LTDIE_178_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1732
 	.byte 2,35,40,6
 	.asciz "keyCount"
 
-LDIFF_SYM1734=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1734
+LDIFF_SYM1733=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1733
 	.byte 2,35,48,6
 	.asciz "threshold"
 
-LDIFF_SYM1735=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1735
+LDIFF_SYM1734=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1734
 	.byte 2,35,52,0,7
 	.asciz "System_Collections_ObjectModel_KeyedCollection`2"
 
-LDIFF_SYM1736=LTDIE_175 - Ldebug_info_start
-	.long LDIFF_SYM1736
+LDIFF_SYM1735=LTDIE_175 - Ldebug_info_start
+	.long LDIFF_SYM1735
 LTDIE_175_POINTER:
 
 	.byte 13
-LDIFF_SYM1737=LTDIE_175 - Ldebug_info_start
-	.long LDIFF_SYM1737
+LDIFF_SYM1736=LTDIE_175 - Ldebug_info_start
+	.long LDIFF_SYM1736
 LTDIE_175_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1738=LTDIE_175 - Ldebug_info_start
-	.long LDIFF_SYM1738
+LDIFF_SYM1737=LTDIE_175 - Ldebug_info_start
+	.long LDIFF_SYM1737
 LTDIE_181:
 
 	.byte 5
 	.asciz "System_Collections_Generic_List`1"
 
 	.byte 40,16
-LDIFF_SYM1739=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1739
+LDIFF_SYM1738=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1738
 	.byte 2,35,0,6
 	.asciz "_items"
 
-LDIFF_SYM1740=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM1740
+LDIFF_SYM1739=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM1739
 	.byte 2,35,16,6
 	.asciz "_size"
 
-LDIFF_SYM1741=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1741
+LDIFF_SYM1740=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1740
 	.byte 2,35,32,6
 	.asciz "_version"
 
-LDIFF_SYM1742=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1742
+LDIFF_SYM1741=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1741
 	.byte 2,35,36,6
 	.asciz "_syncRoot"
 
-LDIFF_SYM1743=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1743
+LDIFF_SYM1742=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1742
 	.byte 2,35,24,0,7
 	.asciz "System_Collections_Generic_List`1"
 
-LDIFF_SYM1744=LTDIE_181 - Ldebug_info_start
-	.long LDIFF_SYM1744
+LDIFF_SYM1743=LTDIE_181 - Ldebug_info_start
+	.long LDIFF_SYM1743
 LTDIE_181_POINTER:
 
 	.byte 13
-LDIFF_SYM1745=LTDIE_181 - Ldebug_info_start
-	.long LDIFF_SYM1745
+LDIFF_SYM1744=LTDIE_181 - Ldebug_info_start
+	.long LDIFF_SYM1744
 LTDIE_181_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1746=LTDIE_181 - Ldebug_info_start
-	.long LDIFF_SYM1746
+LDIFF_SYM1745=LTDIE_181 - Ldebug_info_start
+	.long LDIFF_SYM1745
 LTDIE_174:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Serialization_JsonPropertyCollection"
 
 	.byte 72,16
-LDIFF_SYM1747=LTDIE_175 - Ldebug_info_start
-	.long LDIFF_SYM1747
+LDIFF_SYM1746=LTDIE_175 - Ldebug_info_start
+	.long LDIFF_SYM1746
 	.byte 2,35,0,6
 	.asciz "_type"
 
-LDIFF_SYM1748=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1748
+LDIFF_SYM1747=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1747
 	.byte 2,35,56,6
 	.asciz "_list"
 
-LDIFF_SYM1749=LTDIE_181_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1749
+LDIFF_SYM1748=LTDIE_181_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1748
 	.byte 2,35,64,0,7
 	.asciz "Newtonsoft_Json_Serialization_JsonPropertyCollection"
 
-LDIFF_SYM1750=LTDIE_174 - Ldebug_info_start
-	.long LDIFF_SYM1750
+LDIFF_SYM1749=LTDIE_174 - Ldebug_info_start
+	.long LDIFF_SYM1749
 LTDIE_174_POINTER:
 
 	.byte 13
-LDIFF_SYM1751=LTDIE_174 - Ldebug_info_start
-	.long LDIFF_SYM1751
+LDIFF_SYM1750=LTDIE_174 - Ldebug_info_start
+	.long LDIFF_SYM1750
 LTDIE_174_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1752=LTDIE_174 - Ldebug_info_start
-	.long LDIFF_SYM1752
+LDIFF_SYM1751=LTDIE_174 - Ldebug_info_start
+	.long LDIFF_SYM1751
 LTDIE_182:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Serialization_ExtensionDataSetter"
 
 	.byte 128,1,16
-LDIFF_SYM1753=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM1753
+LDIFF_SYM1752=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM1752
 	.byte 2,35,0,0,7
 	.asciz "Newtonsoft_Json_Serialization_ExtensionDataSetter"
 
-LDIFF_SYM1754=LTDIE_182 - Ldebug_info_start
-	.long LDIFF_SYM1754
+LDIFF_SYM1753=LTDIE_182 - Ldebug_info_start
+	.long LDIFF_SYM1753
 LTDIE_182_POINTER:
 
 	.byte 13
-LDIFF_SYM1755=LTDIE_182 - Ldebug_info_start
-	.long LDIFF_SYM1755
+LDIFF_SYM1754=LTDIE_182 - Ldebug_info_start
+	.long LDIFF_SYM1754
 LTDIE_182_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1756=LTDIE_182 - Ldebug_info_start
-	.long LDIFF_SYM1756
+LDIFF_SYM1755=LTDIE_182 - Ldebug_info_start
+	.long LDIFF_SYM1755
 LTDIE_183:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Serialization_ExtensionDataGetter"
 
 	.byte 128,1,16
-LDIFF_SYM1757=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM1757
+LDIFF_SYM1756=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM1756
 	.byte 2,35,0,0,7
 	.asciz "Newtonsoft_Json_Serialization_ExtensionDataGetter"
 
-LDIFF_SYM1758=LTDIE_183 - Ldebug_info_start
-	.long LDIFF_SYM1758
+LDIFF_SYM1757=LTDIE_183 - Ldebug_info_start
+	.long LDIFF_SYM1757
 LTDIE_183_POINTER:
 
 	.byte 13
-LDIFF_SYM1759=LTDIE_183 - Ldebug_info_start
-	.long LDIFF_SYM1759
+LDIFF_SYM1758=LTDIE_183 - Ldebug_info_start
+	.long LDIFF_SYM1758
 LTDIE_183_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1760=LTDIE_183 - Ldebug_info_start
-	.long LDIFF_SYM1760
+LDIFF_SYM1759=LTDIE_183 - Ldebug_info_start
+	.long LDIFF_SYM1759
 LTDIE_184:
+
+	.byte 5
+	.asciz "System_Func`2"
+
+	.byte 128,1,16
+LDIFF_SYM1760=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM1760
+	.byte 2,35,0,0,7
+	.asciz "System_Func`2"
+
+LDIFF_SYM1761=LTDIE_184 - Ldebug_info_start
+	.long LDIFF_SYM1761
+LTDIE_184_POINTER:
+
+	.byte 13
+LDIFF_SYM1762=LTDIE_184 - Ldebug_info_start
+	.long LDIFF_SYM1762
+LTDIE_184_REFERENCE:
+
+	.byte 14
+LDIFF_SYM1763=LTDIE_184 - Ldebug_info_start
+	.long LDIFF_SYM1763
+LTDIE_185:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Serialization_ObjectConstructor`1"
 
 	.byte 128,1,16
-LDIFF_SYM1761=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM1761
+LDIFF_SYM1764=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM1764
 	.byte 2,35,0,0,7
 	.asciz "Newtonsoft_Json_Serialization_ObjectConstructor`1"
 
-LDIFF_SYM1762=LTDIE_184 - Ldebug_info_start
-	.long LDIFF_SYM1762
-LTDIE_184_POINTER:
+LDIFF_SYM1765=LTDIE_185 - Ldebug_info_start
+	.long LDIFF_SYM1765
+LTDIE_185_POINTER:
 
 	.byte 13
-LDIFF_SYM1763=LTDIE_184 - Ldebug_info_start
-	.long LDIFF_SYM1763
-LTDIE_184_REFERENCE:
+LDIFF_SYM1766=LTDIE_185 - Ldebug_info_start
+	.long LDIFF_SYM1766
+LTDIE_185_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1764=LTDIE_184 - Ldebug_info_start
-	.long LDIFF_SYM1764
+LDIFF_SYM1767=LTDIE_185 - Ldebug_info_start
+	.long LDIFF_SYM1767
 LTDIE_163:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Serialization_JsonObjectContract"
 
-	.byte 136,2,16
-LDIFF_SYM1765=LTDIE_164 - Ldebug_info_start
-	.long LDIFF_SYM1765
+	.byte 128,2,16
+LDIFF_SYM1768=LTDIE_164 - Ldebug_info_start
+	.long LDIFF_SYM1768
 	.byte 2,35,0,6
 	.asciz "<MemberSerialization>k__BackingField"
 
-LDIFF_SYM1766=LTDIE_173 - Ldebug_info_start
-	.long LDIFF_SYM1766
-	.byte 3,35,248,1,6
+LDIFF_SYM1769=LTDIE_173 - Ldebug_info_start
+	.long LDIFF_SYM1769
+	.byte 3,35,240,1,6
 	.asciz "<ItemRequired>k__BackingField"
 
-LDIFF_SYM1767=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1767
-	.byte 3,35,252,1,6
+LDIFF_SYM1770=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1770
+	.byte 3,35,244,1,6
 	.asciz "<Properties>k__BackingField"
 
-LDIFF_SYM1768=LTDIE_174_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1768
+LDIFF_SYM1771=LTDIE_174_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1771
 	.byte 3,35,176,1,6
 	.asciz "<ExtensionDataSetter>k__BackingField"
 
-LDIFF_SYM1769=LTDIE_182_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1769
+LDIFF_SYM1772=LTDIE_182_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1772
 	.byte 3,35,184,1,6
 	.asciz "<ExtensionDataGetter>k__BackingField"
 
-LDIFF_SYM1770=LTDIE_183_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1770
+LDIFF_SYM1773=LTDIE_183_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1773
 	.byte 3,35,192,1,6
+	.asciz "<ExtensionDataNameResolver>k__BackingField"
+
+LDIFF_SYM1774=LTDIE_184_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1774
+	.byte 3,35,200,1,6
 	.asciz "ExtensionDataIsJToken"
 
-LDIFF_SYM1771=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1771
-	.byte 3,35,132,2,6
+LDIFF_SYM1775=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1775
+	.byte 3,35,252,1,6
 	.asciz "_hasRequiredOrDefaultValueProperties"
 
-LDIFF_SYM1772=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1772
-	.byte 3,35,133,2,6
-	.asciz "_parametrizedConstructor"
-
-LDIFF_SYM1773=LTDIE_78_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1773
-	.byte 3,35,200,1,6
-	.asciz "_overrideConstructor"
-
-LDIFF_SYM1774=LTDIE_78_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1774
-	.byte 3,35,208,1,6
+LDIFF_SYM1776=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1776
+	.byte 3,35,253,1,6
 	.asciz "_overrideCreator"
 
-LDIFF_SYM1775=LTDIE_184_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1775
-	.byte 3,35,216,1,6
+LDIFF_SYM1777=LTDIE_185_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1777
+	.byte 3,35,208,1,6
 	.asciz "_parameterizedCreator"
 
-LDIFF_SYM1776=LTDIE_184_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1776
-	.byte 3,35,224,1,6
+LDIFF_SYM1778=LTDIE_185_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1778
+	.byte 3,35,216,1,6
 	.asciz "_creatorParameters"
 
-LDIFF_SYM1777=LTDIE_174_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1777
-	.byte 3,35,232,1,6
+LDIFF_SYM1779=LTDIE_174_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1779
+	.byte 3,35,224,1,6
 	.asciz "_extensionDataValueType"
 
-LDIFF_SYM1778=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1778
-	.byte 3,35,240,1,0,7
+LDIFF_SYM1780=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1780
+	.byte 3,35,232,1,0,7
 	.asciz "Newtonsoft_Json_Serialization_JsonObjectContract"
 
-LDIFF_SYM1779=LTDIE_163 - Ldebug_info_start
-	.long LDIFF_SYM1779
+LDIFF_SYM1781=LTDIE_163 - Ldebug_info_start
+	.long LDIFF_SYM1781
 LTDIE_163_POINTER:
 
 	.byte 13
-LDIFF_SYM1780=LTDIE_163 - Ldebug_info_start
-	.long LDIFF_SYM1780
+LDIFF_SYM1782=LTDIE_163 - Ldebug_info_start
+	.long LDIFF_SYM1782
 LTDIE_163_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1781=LTDIE_163 - Ldebug_info_start
-	.long LDIFF_SYM1781
-LTDIE_185:
-
-	.byte 17
-	.asciz "System_Collections_Generic_IEnumerator`1"
-
-	.byte 16,7
-	.asciz "System_Collections_Generic_IEnumerator`1"
-
-LDIFF_SYM1782=LTDIE_185 - Ldebug_info_start
-	.long LDIFF_SYM1782
-LTDIE_185_POINTER:
-
-	.byte 13
-LDIFF_SYM1783=LTDIE_185 - Ldebug_info_start
+LDIFF_SYM1783=LTDIE_163 - Ldebug_info_start
 	.long LDIFF_SYM1783
-LTDIE_185_REFERENCE:
-
-	.byte 14
-LDIFF_SYM1784=LTDIE_185 - Ldebug_info_start
-	.long LDIFF_SYM1784
-LTDIE_187:
+LTDIE_186:
 
 	.byte 17
-	.asciz "Newtonsoft_Json_Serialization_IValueProvider"
+	.asciz "System_Collections_Generic_IEnumerator`1"
 
 	.byte 16,7
-	.asciz "Newtonsoft_Json_Serialization_IValueProvider"
+	.asciz "System_Collections_Generic_IEnumerator`1"
 
-LDIFF_SYM1785=LTDIE_187 - Ldebug_info_start
-	.long LDIFF_SYM1785
-LTDIE_187_POINTER:
+LDIFF_SYM1784=LTDIE_186 - Ldebug_info_start
+	.long LDIFF_SYM1784
+LTDIE_186_POINTER:
 
 	.byte 13
-LDIFF_SYM1786=LTDIE_187 - Ldebug_info_start
-	.long LDIFF_SYM1786
-LTDIE_187_REFERENCE:
+LDIFF_SYM1785=LTDIE_186 - Ldebug_info_start
+	.long LDIFF_SYM1785
+LTDIE_186_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1787=LTDIE_187 - Ldebug_info_start
-	.long LDIFF_SYM1787
+LDIFF_SYM1786=LTDIE_186 - Ldebug_info_start
+	.long LDIFF_SYM1786
 LTDIE_188:
 
 	.byte 17
+	.asciz "Newtonsoft_Json_Serialization_IValueProvider"
+
+	.byte 16,7
+	.asciz "Newtonsoft_Json_Serialization_IValueProvider"
+
+LDIFF_SYM1787=LTDIE_188 - Ldebug_info_start
+	.long LDIFF_SYM1787
+LTDIE_188_POINTER:
+
+	.byte 13
+LDIFF_SYM1788=LTDIE_188 - Ldebug_info_start
+	.long LDIFF_SYM1788
+LTDIE_188_REFERENCE:
+
+	.byte 14
+LDIFF_SYM1789=LTDIE_188 - Ldebug_info_start
+	.long LDIFF_SYM1789
+LTDIE_189:
+
+	.byte 17
 	.asciz "Newtonsoft_Json_Serialization_IAttributeProvider"
 
 	.byte 16,7
 	.asciz "Newtonsoft_Json_Serialization_IAttributeProvider"
 
-LDIFF_SYM1788=LTDIE_188 - Ldebug_info_start
-	.long LDIFF_SYM1788
-LTDIE_188_POINTER:
-
-	.byte 13
-LDIFF_SYM1789=LTDIE_188 - Ldebug_info_start
-	.long LDIFF_SYM1789
-LTDIE_188_REFERENCE:
-
-	.byte 14
-LDIFF_SYM1790=LTDIE_188 - Ldebug_info_start
+LDIFF_SYM1790=LTDIE_189 - Ldebug_info_start
 	.long LDIFF_SYM1790
-LTDIE_189:
-
-	.byte 5
-	.asciz "System_Predicate`1"
-
-	.byte 128,1,16
-LDIFF_SYM1791=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM1791
-	.byte 2,35,0,0,7
-	.asciz "System_Predicate`1"
-
-LDIFF_SYM1792=LTDIE_189 - Ldebug_info_start
-	.long LDIFF_SYM1792
 LTDIE_189_POINTER:
 
 	.byte 13
-LDIFF_SYM1793=LTDIE_189 - Ldebug_info_start
-	.long LDIFF_SYM1793
+LDIFF_SYM1791=LTDIE_189 - Ldebug_info_start
+	.long LDIFF_SYM1791
 LTDIE_189_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1794=LTDIE_189 - Ldebug_info_start
-	.long LDIFF_SYM1794
+LDIFF_SYM1792=LTDIE_189 - Ldebug_info_start
+	.long LDIFF_SYM1792
 LTDIE_190:
+
+	.byte 5
+	.asciz "System_Predicate`1"
+
+	.byte 128,1,16
+LDIFF_SYM1793=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM1793
+	.byte 2,35,0,0,7
+	.asciz "System_Predicate`1"
+
+LDIFF_SYM1794=LTDIE_190 - Ldebug_info_start
+	.long LDIFF_SYM1794
+LTDIE_190_POINTER:
+
+	.byte 13
+LDIFF_SYM1795=LTDIE_190 - Ldebug_info_start
+	.long LDIFF_SYM1795
+LTDIE_190_REFERENCE:
+
+	.byte 14
+LDIFF_SYM1796=LTDIE_190 - Ldebug_info_start
+	.long LDIFF_SYM1796
+LTDIE_191:
 
 	.byte 5
 	.asciz "System_Action`2"
 
 	.byte 128,1,16
-LDIFF_SYM1795=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM1795
+LDIFF_SYM1797=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM1797
 	.byte 2,35,0,0,7
 	.asciz "System_Action`2"
 
-LDIFF_SYM1796=LTDIE_190 - Ldebug_info_start
-	.long LDIFF_SYM1796
-LTDIE_190_POINTER:
+LDIFF_SYM1798=LTDIE_191 - Ldebug_info_start
+	.long LDIFF_SYM1798
+LTDIE_191_POINTER:
 
 	.byte 13
-LDIFF_SYM1797=LTDIE_190 - Ldebug_info_start
-	.long LDIFF_SYM1797
-LTDIE_190_REFERENCE:
+LDIFF_SYM1799=LTDIE_191 - Ldebug_info_start
+	.long LDIFF_SYM1799
+LTDIE_191_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1798=LTDIE_190 - Ldebug_info_start
-	.long LDIFF_SYM1798
-LTDIE_186:
+LDIFF_SYM1800=LTDIE_191 - Ldebug_info_start
+	.long LDIFF_SYM1800
+LTDIE_187:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Serialization_JsonProperty"
 
 	.byte 224,1,16
-LDIFF_SYM1799=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1799
+LDIFF_SYM1801=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1801
 	.byte 2,35,0,6
 	.asciz "_required"
 
-LDIFF_SYM1800=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1800
+LDIFF_SYM1802=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1802
 	.byte 3,35,136,1,6
 	.asciz "_hasExplicitDefaultValue"
 
-LDIFF_SYM1801=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1801
+LDIFF_SYM1803=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1803
 	.byte 3,35,144,1,6
 	.asciz "_defaultValue"
 
-LDIFF_SYM1802=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1802
+LDIFF_SYM1804=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1804
 	.byte 2,35,16,6
 	.asciz "_hasGeneratedDefaultValue"
 
-LDIFF_SYM1803=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1803
+LDIFF_SYM1805=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1805
 	.byte 3,35,145,1,6
 	.asciz "_propertyName"
 
-LDIFF_SYM1804=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1804
+LDIFF_SYM1806=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1806
 	.byte 2,35,24,6
 	.asciz "_skipPropertyNameEscape"
 
-LDIFF_SYM1805=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1805
+LDIFF_SYM1807=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1807
 	.byte 3,35,146,1,6
 	.asciz "_propertyType"
 
-LDIFF_SYM1806=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1806
+LDIFF_SYM1808=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1808
 	.byte 2,35,32,6
 	.asciz "<PropertyContract>k__BackingField"
 
-LDIFF_SYM1807=LTDIE_165_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1807
+LDIFF_SYM1809=LTDIE_165_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1809
 	.byte 2,35,40,6
 	.asciz "<DeclaringType>k__BackingField"
 
-LDIFF_SYM1808=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1808
+LDIFF_SYM1810=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1810
 	.byte 2,35,48,6
 	.asciz "<Order>k__BackingField"
 
-LDIFF_SYM1809=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1809
+LDIFF_SYM1811=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1811
 	.byte 3,35,148,1,6
 	.asciz "<UnderlyingName>k__BackingField"
 
-LDIFF_SYM1810=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1810
+LDIFF_SYM1812=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1812
 	.byte 2,35,56,6
 	.asciz "<ValueProvider>k__BackingField"
 
-LDIFF_SYM1811=LTDIE_187_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1811
+LDIFF_SYM1813=LTDIE_188_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1813
 	.byte 2,35,64,6
 	.asciz "<AttributeProvider>k__BackingField"
 
-LDIFF_SYM1812=LTDIE_188_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1812
+LDIFF_SYM1814=LTDIE_189_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1814
 	.byte 2,35,72,6
 	.asciz "<Converter>k__BackingField"
 
-LDIFF_SYM1813=LTDIE_171_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1813
+LDIFF_SYM1815=LTDIE_171_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1815
 	.byte 2,35,80,6
 	.asciz "<MemberConverter>k__BackingField"
 
-LDIFF_SYM1814=LTDIE_171_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1814
+LDIFF_SYM1816=LTDIE_171_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1816
 	.byte 2,35,88,6
 	.asciz "<Ignored>k__BackingField"
 
-LDIFF_SYM1815=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1815
+LDIFF_SYM1817=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1817
 	.byte 3,35,156,1,6
 	.asciz "<Readable>k__BackingField"
 
-LDIFF_SYM1816=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1816
+LDIFF_SYM1818=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1818
 	.byte 3,35,157,1,6
 	.asciz "<Writable>k__BackingField"
 
-LDIFF_SYM1817=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1817
+LDIFF_SYM1819=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1819
 	.byte 3,35,158,1,6
 	.asciz "<HasMemberAttribute>k__BackingField"
 
-LDIFF_SYM1818=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1818
+LDIFF_SYM1820=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1820
 	.byte 3,35,159,1,6
 	.asciz "<IsReference>k__BackingField"
 
-LDIFF_SYM1819=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1819
+LDIFF_SYM1821=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1821
 	.byte 3,35,160,1,6
 	.asciz "<NullValueHandling>k__BackingField"
 
-LDIFF_SYM1820=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1820
+LDIFF_SYM1822=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1822
 	.byte 3,35,164,1,6
 	.asciz "<DefaultValueHandling>k__BackingField"
 
-LDIFF_SYM1821=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1821
+LDIFF_SYM1823=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1823
 	.byte 3,35,172,1,6
 	.asciz "<ReferenceLoopHandling>k__BackingField"
 
-LDIFF_SYM1822=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1822
+LDIFF_SYM1824=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1824
 	.byte 3,35,180,1,6
 	.asciz "<ObjectCreationHandling>k__BackingField"
 
-LDIFF_SYM1823=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1823
+LDIFF_SYM1825=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1825
 	.byte 3,35,188,1,6
 	.asciz "<TypeNameHandling>k__BackingField"
 
-LDIFF_SYM1824=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1824
+LDIFF_SYM1826=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1826
 	.byte 3,35,196,1,6
 	.asciz "<ShouldSerialize>k__BackingField"
 
-LDIFF_SYM1825=LTDIE_189_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1825
+LDIFF_SYM1827=LTDIE_190_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1827
 	.byte 2,35,96,6
 	.asciz "<ShouldDeserialize>k__BackingField"
 
-LDIFF_SYM1826=LTDIE_189_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1826
+LDIFF_SYM1828=LTDIE_190_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1828
 	.byte 2,35,104,6
 	.asciz "<GetIsSpecified>k__BackingField"
 
-LDIFF_SYM1827=LTDIE_189_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1827
+LDIFF_SYM1829=LTDIE_190_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1829
 	.byte 2,35,112,6
 	.asciz "<SetIsSpecified>k__BackingField"
 
-LDIFF_SYM1828=LTDIE_190_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1828
+LDIFF_SYM1830=LTDIE_191_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1830
 	.byte 2,35,120,6
 	.asciz "<ItemConverter>k__BackingField"
 
-LDIFF_SYM1829=LTDIE_171_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1829
+LDIFF_SYM1831=LTDIE_171_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1831
 	.byte 3,35,128,1,6
 	.asciz "<ItemIsReference>k__BackingField"
 
-LDIFF_SYM1830=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1830
+LDIFF_SYM1832=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1832
 	.byte 3,35,204,1,6
 	.asciz "<ItemTypeNameHandling>k__BackingField"
 
-LDIFF_SYM1831=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1831
+LDIFF_SYM1833=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1833
 	.byte 3,35,208,1,6
 	.asciz "<ItemReferenceLoopHandling>k__BackingField"
 
-LDIFF_SYM1832=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1832
+LDIFF_SYM1834=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1834
 	.byte 3,35,216,1,0,7
 	.asciz "Newtonsoft_Json_Serialization_JsonProperty"
 
-LDIFF_SYM1833=LTDIE_186 - Ldebug_info_start
-	.long LDIFF_SYM1833
-LTDIE_186_POINTER:
+LDIFF_SYM1835=LTDIE_187 - Ldebug_info_start
+	.long LDIFF_SYM1835
+LTDIE_187_POINTER:
 
 	.byte 13
-LDIFF_SYM1834=LTDIE_186 - Ldebug_info_start
-	.long LDIFF_SYM1834
-LTDIE_186_REFERENCE:
+LDIFF_SYM1836=LTDIE_187 - Ldebug_info_start
+	.long LDIFF_SYM1836
+LTDIE_187_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1835=LTDIE_186 - Ldebug_info_start
-	.long LDIFF_SYM1835
+LDIFF_SYM1837=LTDIE_187 - Ldebug_info_start
+	.long LDIFF_SYM1837
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.MobileServiceSQLiteStoreExtensions:SetEnumDefault"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetEnumDefault_Newtonsoft_Json_Serialization_JsonObjectContract_object"
@@ -70070,42 +70413,42 @@ LDIFF_SYM1835=LTDIE_186 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "contract"
 
-LDIFF_SYM1836=LTDIE_163_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1836
+LDIFF_SYM1838=LTDIE_163_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1838
 	.byte 2,141,40,3
 	.asciz "theObject"
 
-LDIFF_SYM1837=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1837
+LDIFF_SYM1839=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1839
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1838=LTDIE_185_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1838
+LDIFF_SYM1840=LTDIE_186_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1840
 	.byte 3,141,200,0,11
 	.asciz "V_1"
 
-LDIFF_SYM1839=LTDIE_186_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1839
+LDIFF_SYM1841=LTDIE_187_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1841
 	.byte 1,104,11
 	.asciz "V_2"
 
-LDIFF_SYM1840=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1840
+LDIFF_SYM1842=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1842
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1841=Lfde90_end - Lfde90_start
-	.long LDIFF_SYM1841
+LDIFF_SYM1843=Lfde90_end - Lfde90_start
+	.long LDIFF_SYM1843
 Lfde90_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetEnumDefault_Newtonsoft_Json_Serialization_JsonObjectContract_object
 
-LDIFF_SYM1842=Lme_5a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetEnumDefault_Newtonsoft_Json_Serialization_JsonObjectContract_object
-	.long LDIFF_SYM1842
+LDIFF_SYM1844=Lme_5a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetEnumDefault_Newtonsoft_Json_Serialization_JsonObjectContract_object
+	.long LDIFF_SYM1844
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,151,18,152,17,68,154,16
 	.align 3
@@ -70124,27 +70467,27 @@ Lfde90_end:
 	.byte 2,118,16,3
 	.asciz "settings"
 
-LDIFF_SYM1843=LTDIE_144_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1843
+LDIFF_SYM1845=LTDIE_144_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1845
 	.byte 1,105,3
 	.asciz "theObject"
 
-LDIFF_SYM1844=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1844
+LDIFF_SYM1846=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1846
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1845=Lfde91_end - Lfde91_start
-	.long LDIFF_SYM1845
+LDIFF_SYM1847=Lfde91_end - Lfde91_start
+	.long LDIFF_SYM1847
 Lfde91_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_ConvertToJObject_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_object
 
-LDIFF_SYM1846=Lme_5b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_ConvertToJObject_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_object
-	.long LDIFF_SYM1846
+LDIFF_SYM1848=Lme_5b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_ConvertToJObject_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_object
+	.long LDIFF_SYM1848
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8
 	.align 3
@@ -70163,32 +70506,32 @@ Lfde91_end:
 	.byte 2,118,16,3
 	.asciz "settings"
 
-LDIFF_SYM1847=LTDIE_144_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1847
+LDIFF_SYM1849=LTDIE_144_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1849
 	.byte 2,141,32,3
 	.asciz "item"
 
-LDIFF_SYM1848=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1848
+LDIFF_SYM1850=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1850
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1849=LTDIE_186_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1849
+LDIFF_SYM1851=LTDIE_187_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1851
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1850=Lfde92_end - Lfde92_start
-	.long LDIFF_SYM1850
+LDIFF_SYM1852=Lfde92_end - Lfde92_start
+	.long LDIFF_SYM1852
 Lfde92_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetIdDefault_T_REF_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_Newtonsoft_Json_Linq_JObject
 
-LDIFF_SYM1851=Lme_5c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetIdDefault_T_REF_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_Newtonsoft_Json_Linq_JObject
-	.long LDIFF_SYM1851
+LDIFF_SYM1853=Lme_5c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetIdDefault_T_REF_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_Newtonsoft_Json_Linq_JObject
+	.long LDIFF_SYM1853
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,152,12,68,154,11
 	.align 3
@@ -70207,42 +70550,42 @@ Lfde92_end:
 	.byte 2,118,16,3
 	.asciz "contract"
 
-LDIFF_SYM1852=LTDIE_163_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1852
+LDIFF_SYM1854=LTDIE_163_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1854
 	.byte 1,105,3
 	.asciz "item"
 
-LDIFF_SYM1853=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1853
+LDIFF_SYM1855=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1855
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1854=LTDIE_112_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1854
+LDIFF_SYM1856=LTDIE_112_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1856
 	.byte 3,141,232,0,11
 	.asciz "V_1"
 
-LDIFF_SYM1855=LTDIE_113_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1855
+LDIFF_SYM1857=LTDIE_113_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1857
 	.byte 1,104,11
 	.asciz "V_2"
 
-LDIFF_SYM1856=LTDIE_186_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1856
+LDIFF_SYM1858=LTDIE_187_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1858
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1857=Lfde93_end - Lfde93_start
-	.long LDIFF_SYM1857
+LDIFF_SYM1859=Lfde93_end - Lfde93_start
+	.long LDIFF_SYM1859
 Lfde93_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetNullDefault_Newtonsoft_Json_Serialization_JsonObjectContract_Newtonsoft_Json_Linq_JObject
 
-LDIFF_SYM1858=Lme_5d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetNullDefault_Newtonsoft_Json_Serialization_JsonObjectContract_Newtonsoft_Json_Linq_JObject
-	.long LDIFF_SYM1858
+LDIFF_SYM1860=Lme_5d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetNullDefault_Newtonsoft_Json_Serialization_JsonObjectContract_Newtonsoft_Json_Linq_JObject
+	.long LDIFF_SYM1860
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,147,22,148,21,68,149,20,150,19,68,151,18,152,17,68,153,16
 	.byte 154,15
@@ -70263,45 +70606,45 @@ Lfde93_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1859=Lfde94_end - Lfde94_start
-	.long LDIFF_SYM1859
+LDIFF_SYM1861=Lfde94_end - Lfde94_start
+	.long LDIFF_SYM1861
 Lfde94_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__cctor
 
-LDIFF_SYM1860=Lme_5e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__cctor
-	.long LDIFF_SYM1860
+LDIFF_SYM1862=Lme_5e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__cctor
+	.long LDIFF_SYM1862
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
 Lfde94_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_191:
+LTDIE_192:
 
 	.byte 5
 	.asciz "_<>c"
 
 	.byte 16,16
-LDIFF_SYM1861=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1861
+LDIFF_SYM1863=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1863
 	.byte 2,35,0,0,7
 	.asciz "_<>c"
 
-LDIFF_SYM1862=LTDIE_191 - Ldebug_info_start
-	.long LDIFF_SYM1862
-LTDIE_191_POINTER:
+LDIFF_SYM1864=LTDIE_192 - Ldebug_info_start
+	.long LDIFF_SYM1864
+LTDIE_192_POINTER:
 
 	.byte 13
-LDIFF_SYM1863=LTDIE_191 - Ldebug_info_start
-	.long LDIFF_SYM1863
-LTDIE_191_REFERENCE:
+LDIFF_SYM1865=LTDIE_192 - Ldebug_info_start
+	.long LDIFF_SYM1865
+LTDIE_192_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1864=LTDIE_191 - Ldebug_info_start
-	.long LDIFF_SYM1864
+LDIFF_SYM1866=LTDIE_192 - Ldebug_info_start
+	.long LDIFF_SYM1866
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.MobileServiceSQLiteStoreExtensions/<>c:.ctor"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__ctor"
@@ -70313,22 +70656,22 @@ LDIFF_SYM1864=LTDIE_191 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM1865=LTDIE_191_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1865
+LDIFF_SYM1867=LTDIE_192_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1867
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1866=Lfde95_end - Lfde95_start
-	.long LDIFF_SYM1866
+LDIFF_SYM1868=Lfde95_end - Lfde95_start
+	.long LDIFF_SYM1868
 Lfde95_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__ctor
 
-LDIFF_SYM1867=Lme_5f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__ctor
-	.long LDIFF_SYM1867
+LDIFF_SYM1869=Lme_5f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__ctor
+	.long LDIFF_SYM1869
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -70347,66 +70690,66 @@ Lfde95_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM1868=LTDIE_191_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1868
+LDIFF_SYM1870=LTDIE_192_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1870
 	.byte 2,141,16,3
 	.asciz "i"
 
-LDIFF_SYM1869=LTDIE_113_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1869
+LDIFF_SYM1871=LTDIE_113_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1871
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1870=Lfde96_end - Lfde96_start
-	.long LDIFF_SYM1870
+LDIFF_SYM1872=Lfde96_end - Lfde96_start
+	.long LDIFF_SYM1872
 Lfde96_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__SetNullDefaultb__5_0_Newtonsoft_Json_Linq_JProperty
 
-LDIFF_SYM1871=Lme_60 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__SetNullDefaultb__5_0_Newtonsoft_Json_Linq_JProperty
-	.long LDIFF_SYM1871
+LDIFF_SYM1873=Lme_60 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions__c__SetNullDefaultb__5_0_Newtonsoft_Json_Linq_JProperty
+	.long LDIFF_SYM1873
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
 Lfde96_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_192:
+LTDIE_193:
 
 	.byte 5
 	.asciz "Newtonsoft_Json_Linq_JValue"
 
 	.byte 64,16
-LDIFF_SYM1872=LTDIE_85 - Ldebug_info_start
-	.long LDIFF_SYM1872
+LDIFF_SYM1874=LTDIE_85 - Ldebug_info_start
+	.long LDIFF_SYM1874
 	.byte 2,35,0,6
 	.asciz "_valueType"
 
-LDIFF_SYM1873=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1873
+LDIFF_SYM1875=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1875
 	.byte 2,35,56,6
 	.asciz "_value"
 
-LDIFF_SYM1874=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1874
+LDIFF_SYM1876=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1876
 	.byte 2,35,48,0,7
 	.asciz "Newtonsoft_Json_Linq_JValue"
 
-LDIFF_SYM1875=LTDIE_192 - Ldebug_info_start
-	.long LDIFF_SYM1875
-LTDIE_192_POINTER:
+LDIFF_SYM1877=LTDIE_193 - Ldebug_info_start
+	.long LDIFF_SYM1877
+LTDIE_193_POINTER:
 
 	.byte 13
-LDIFF_SYM1876=LTDIE_192 - Ldebug_info_start
-	.long LDIFF_SYM1876
-LTDIE_192_REFERENCE:
+LDIFF_SYM1878=LTDIE_193 - Ldebug_info_start
+	.long LDIFF_SYM1878
+LTDIE_193_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1877=LTDIE_192 - Ldebug_info_start
-	.long LDIFF_SYM1877
+LDIFF_SYM1879=LTDIE_193 - Ldebug_info_start
+	.long LDIFF_SYM1879
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlHelpers:SerializeValue"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JValue_bool"
@@ -70418,32 +70761,32 @@ LDIFF_SYM1877=LTDIE_192 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM1878=LTDIE_192_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1878
+LDIFF_SYM1880=LTDIE_193_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1880
 	.byte 1,105,3
 	.asciz "allowNull"
 
-LDIFF_SYM1879=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1879
+LDIFF_SYM1881=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1881
 	.byte 2,141,32,11
 	.asciz "V_0"
 
-LDIFF_SYM1880=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1880
+LDIFF_SYM1882=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1882
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1881=Lfde97_end - Lfde97_start
-	.long LDIFF_SYM1881
+LDIFF_SYM1883=Lfde97_end - Lfde97_start
+	.long LDIFF_SYM1883
 Lfde97_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JValue_bool
 
-LDIFF_SYM1882=Lme_61 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JValue_bool
-	.long LDIFF_SYM1882
+LDIFF_SYM1884=Lme_61 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JValue_bool
+	.long LDIFF_SYM1884
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,152,12,153,11
 	.align 3
@@ -70462,32 +70805,32 @@ Lfde97_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM1883=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1883
+LDIFF_SYM1885=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1885
 	.byte 1,104,3
 	.asciz "storeType"
 
-LDIFF_SYM1884=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1884
+LDIFF_SYM1886=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1886
 	.byte 1,105,3
 	.asciz "columnType"
 
-LDIFF_SYM1885=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1885
+LDIFF_SYM1887=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1887
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1886=Lfde98_end - Lfde98_start
-	.long LDIFF_SYM1886
+LDIFF_SYM1888=Lfde98_end - Lfde98_start
+	.long LDIFF_SYM1888
 Lfde98_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JToken_string_Newtonsoft_Json_Linq_JTokenType
 
-LDIFF_SYM1887=Lme_62 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JToken_string_Newtonsoft_Json_Linq_JTokenType
-	.long LDIFF_SYM1887
+LDIFF_SYM1889=Lme_62 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeValue_Newtonsoft_Json_Linq_JToken_string_Newtonsoft_Json_Linq_JTokenType
+	.long LDIFF_SYM1889
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7,68,154,6
 	.align 3
@@ -70506,32 +70849,32 @@ Lfde98_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM1888=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1888
+LDIFF_SYM1890=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1890
 	.byte 1,104,3
 	.asciz "storeType"
 
-LDIFF_SYM1889=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1889
+LDIFF_SYM1891=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1891
 	.byte 1,105,3
 	.asciz "columnType"
 
-LDIFF_SYM1890=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1890
+LDIFF_SYM1892=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1892
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1891=Lfde99_end - Lfde99_start
-	.long LDIFF_SYM1891
+LDIFF_SYM1893=Lfde99_end - Lfde99_start
+	.long LDIFF_SYM1893
 Lfde99_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeValue_object_string_Newtonsoft_Json_Linq_JTokenType
 
-LDIFF_SYM1892=Lme_63 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeValue_object_string_Newtonsoft_Json_Linq_JTokenType
-	.long LDIFF_SYM1892
+LDIFF_SYM1894=Lme_63 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeValue_object_string_Newtonsoft_Json_Linq_JTokenType
+	.long LDIFF_SYM1894
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7,68,154,6
 	.align 3
@@ -70550,22 +70893,22 @@ Lfde99_end:
 	.byte 2,118,16,3
 	.asciz "type"
 
-LDIFF_SYM1893=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1893
+LDIFF_SYM1895=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1895
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1894=Lfde100_end - Lfde100_start
-	.long LDIFF_SYM1894
+LDIFF_SYM1896=Lfde100_end - Lfde100_start
+	.long LDIFF_SYM1896
 Lfde100_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreCastType_System_Type
 
-LDIFF_SYM1895=Lme_64 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreCastType_System_Type
-	.long LDIFF_SYM1895
+LDIFF_SYM1897=Lme_64 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreCastType_System_Type
+	.long LDIFF_SYM1897
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
 	.align 3
@@ -70584,27 +70927,27 @@ Lfde100_end:
 	.byte 2,118,16,3
 	.asciz "type"
 
-LDIFF_SYM1896=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1896
+LDIFF_SYM1898=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1898
 	.byte 1,105,3
 	.asciz "allowNull"
 
-LDIFF_SYM1897=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM1897
+LDIFF_SYM1899=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM1899
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1898=Lfde101_end - Lfde101_start
-	.long LDIFF_SYM1898
+LDIFF_SYM1900=Lfde101_end - Lfde101_start
+	.long LDIFF_SYM1900
 Lfde101_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreType_Newtonsoft_Json_Linq_JTokenType_bool
 
-LDIFF_SYM1899=Lme_65 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreType_Newtonsoft_Json_Linq_JTokenType_bool
-	.long LDIFF_SYM1899
+LDIFF_SYM1901=Lme_65 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_GetStoreType_Newtonsoft_Json_Linq_JTokenType_bool
+	.long LDIFF_SYM1901
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,152,10,153,9
 	.align 3
@@ -70623,22 +70966,22 @@ Lfde101_end:
 	.byte 2,118,16,3
 	.asciz "tableName"
 
-LDIFF_SYM1900=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1900
+LDIFF_SYM1902=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1902
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1901=Lfde102_end - Lfde102_start
-	.long LDIFF_SYM1901
+LDIFF_SYM1903=Lfde102_end - Lfde102_start
+	.long LDIFF_SYM1903
 Lfde102_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatTableName_string
 
-LDIFF_SYM1902=Lme_66 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatTableName_string
-	.long LDIFF_SYM1902
+LDIFF_SYM1904=Lme_66 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatTableName_string
+	.long LDIFF_SYM1904
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -70657,22 +71000,22 @@ Lfde102_end:
 	.byte 2,118,16,3
 	.asciz "memberName"
 
-LDIFF_SYM1903=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1903
+LDIFF_SYM1905=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1905
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1904=Lfde103_end - Lfde103_start
-	.long LDIFF_SYM1904
+LDIFF_SYM1906=Lfde103_end - Lfde103_start
+	.long LDIFF_SYM1906
 Lfde103_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatMember_string
 
-LDIFF_SYM1905=Lme_67 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatMember_string
-	.long LDIFF_SYM1905
+LDIFF_SYM1907=Lme_67 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_FormatMember_string
+	.long LDIFF_SYM1907
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -70691,22 +71034,22 @@ Lfde103_end:
 	.byte 2,118,16,3
 	.asciz "storeType"
 
-LDIFF_SYM1906=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1906
+LDIFF_SYM1908=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1908
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1907=Lfde104_end - Lfde104_start
-	.long LDIFF_SYM1907
+LDIFF_SYM1909=Lfde104_end - Lfde104_start
+	.long LDIFF_SYM1909
 Lfde104_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsNumberType_string
 
-LDIFF_SYM1908=Lme_68 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsNumberType_string
-	.long LDIFF_SYM1908
+LDIFF_SYM1910=Lme_68 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsNumberType_string
+	.long LDIFF_SYM1910
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -70725,22 +71068,22 @@ Lfde104_end:
 	.byte 2,118,16,3
 	.asciz "storeType"
 
-LDIFF_SYM1909=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1909
+LDIFF_SYM1911=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1911
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1910=Lfde105_end - Lfde105_start
-	.long LDIFF_SYM1910
+LDIFF_SYM1912=Lfde105_end - Lfde105_start
+	.long LDIFF_SYM1912
 Lfde105_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsRealType_string
 
-LDIFF_SYM1911=Lme_69 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsRealType_string
-	.long LDIFF_SYM1911
+LDIFF_SYM1913=Lme_69 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsRealType_string
+	.long LDIFF_SYM1913
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -70759,22 +71102,22 @@ Lfde105_end:
 	.byte 2,118,16,3
 	.asciz "storeType"
 
-LDIFF_SYM1912=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1912
+LDIFF_SYM1914=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1914
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1913=Lfde106_end - Lfde106_start
-	.long LDIFF_SYM1913
+LDIFF_SYM1915=Lfde106_end - Lfde106_start
+	.long LDIFF_SYM1915
 Lfde106_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsTextType_string
 
-LDIFF_SYM1914=Lme_6a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsTextType_string
-	.long LDIFF_SYM1914
+LDIFF_SYM1916=Lme_6a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsTextType_string
+	.long LDIFF_SYM1916
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -70793,27 +71136,27 @@ Lfde106_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM1915=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1915
+LDIFF_SYM1917=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1917
 	.byte 1,105,3
 	.asciz "columnType"
 
-LDIFF_SYM1916=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1916
+LDIFF_SYM1918=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1918
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1917=Lfde107_end - Lfde107_start
-	.long LDIFF_SYM1917
+LDIFF_SYM1919=Lfde107_end - Lfde107_start
+	.long LDIFF_SYM1919
 Lfde107_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsNumber_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
 
-LDIFF_SYM1918=Lme_6b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsNumber_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
-	.long LDIFF_SYM1918
+LDIFF_SYM1920=Lme_6b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsNumber_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
+	.long LDIFF_SYM1920
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10
 	.align 3
@@ -70832,27 +71175,27 @@ Lfde107_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM1919=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1919
+LDIFF_SYM1921=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1921
 	.byte 2,141,16,3
 	.asciz "columnType"
 
-LDIFF_SYM1920=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1920
+LDIFF_SYM1922=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1922
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1921=Lfde108_end - Lfde108_start
-	.long LDIFF_SYM1921
+LDIFF_SYM1923=Lfde108_end - Lfde108_start
+	.long LDIFF_SYM1923
 Lfde108_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsReal_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
 
-LDIFF_SYM1922=Lme_6c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsReal_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
-	.long LDIFF_SYM1922
+LDIFF_SYM1924=Lme_6c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsReal_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
+	.long LDIFF_SYM1924
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -70871,27 +71214,27 @@ Lfde108_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM1923=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1923
+LDIFF_SYM1925=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1925
 	.byte 1,105,3
 	.asciz "columnType"
 
-LDIFF_SYM1924=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1924
+LDIFF_SYM1926=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1926
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1925=Lfde109_end - Lfde109_start
-	.long LDIFF_SYM1925
+LDIFF_SYM1927=Lfde109_end - Lfde109_start
+	.long LDIFF_SYM1927
 Lfde109_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsText_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
 
-LDIFF_SYM1926=Lme_6d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsText_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
-	.long LDIFF_SYM1926
+LDIFF_SYM1928=Lme_6d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeAsText_Newtonsoft_Json_Linq_JToken_Newtonsoft_Json_Linq_JTokenType
+	.long LDIFF_SYM1928
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8
 	.align 3
@@ -70910,66 +71253,66 @@ Lfde109_end:
 	.byte 2,118,16,3
 	.asciz "type"
 
-LDIFF_SYM1927=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1927
+LDIFF_SYM1929=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1929
 	.byte 1,105,3
 	.asciz "value"
 
-LDIFF_SYM1928=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1928
+LDIFF_SYM1930=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1930
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1929=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1929
+LDIFF_SYM1931=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1931
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1930=Lfde110_end - Lfde110_start
-	.long LDIFF_SYM1930
+LDIFF_SYM1932=Lfde110_end - Lfde110_start
+	.long LDIFF_SYM1932
 Lfde110_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseText_Newtonsoft_Json_Linq_JTokenType_object
 
-LDIFF_SYM1931=Lme_6e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseText_Newtonsoft_Json_Linq_JTokenType_object
-	.long LDIFF_SYM1931
+LDIFF_SYM1933=Lme_6e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseText_Newtonsoft_Json_Linq_JTokenType_object
+	.long LDIFF_SYM1933
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,150,14,151,13,68,152,12,153,11,68,154,10
 	.align 3
 Lfde110_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_193:
+LTDIE_194:
 
 	.byte 5
 	.asciz "System_Double"
 
 	.byte 24,16
-LDIFF_SYM1932=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM1932
+LDIFF_SYM1934=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM1934
 	.byte 2,35,0,6
 	.asciz "m_value"
 
-LDIFF_SYM1933=LDIE_R8 - Ldebug_info_start
-	.long LDIFF_SYM1933
+LDIFF_SYM1935=LDIE_R8 - Ldebug_info_start
+	.long LDIFF_SYM1935
 	.byte 2,35,16,0,7
 	.asciz "System_Double"
 
-LDIFF_SYM1934=LTDIE_193 - Ldebug_info_start
-	.long LDIFF_SYM1934
-LTDIE_193_POINTER:
+LDIFF_SYM1936=LTDIE_194 - Ldebug_info_start
+	.long LDIFF_SYM1936
+LTDIE_194_POINTER:
 
 	.byte 13
-LDIFF_SYM1935=LTDIE_193 - Ldebug_info_start
-	.long LDIFF_SYM1935
-LTDIE_193_REFERENCE:
+LDIFF_SYM1937=LTDIE_194 - Ldebug_info_start
+	.long LDIFF_SYM1937
+LTDIE_194_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1936=LTDIE_193 - Ldebug_info_start
-	.long LDIFF_SYM1936
+LDIFF_SYM1938=LTDIE_194 - Ldebug_info_start
+	.long LDIFF_SYM1938
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlHelpers:ParseReal"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseReal_Newtonsoft_Json_Linq_JTokenType_object"
@@ -70981,32 +71324,32 @@ LDIFF_SYM1936=LTDIE_193 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "type"
 
-LDIFF_SYM1937=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1937
+LDIFF_SYM1939=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1939
 	.byte 2,141,16,3
 	.asciz "value"
 
-LDIFF_SYM1938=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1938
+LDIFF_SYM1940=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1940
 	.byte 2,141,24,11
 	.asciz "V_0"
 
-LDIFF_SYM1939=LDIE_R8 - Ldebug_info_start
-	.long LDIFF_SYM1939
+LDIFF_SYM1941=LDIE_R8 - Ldebug_info_start
+	.long LDIFF_SYM1941
 	.byte 2,141,56,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1940=Lfde111_end - Lfde111_start
-	.long LDIFF_SYM1940
+LDIFF_SYM1942=Lfde111_end - Lfde111_start
+	.long LDIFF_SYM1942
 Lfde111_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseReal_Newtonsoft_Json_Linq_JTokenType_object
 
-LDIFF_SYM1941=Lme_6f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseReal_Newtonsoft_Json_Linq_JTokenType_object
-	.long LDIFF_SYM1941
+LDIFF_SYM1943=Lme_6f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseReal_Newtonsoft_Json_Linq_JTokenType_object
+	.long LDIFF_SYM1943
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -71025,32 +71368,32 @@ Lfde111_end:
 	.byte 2,118,16,3
 	.asciz "type"
 
-LDIFF_SYM1942=LTDIE_10 - Ldebug_info_start
-	.long LDIFF_SYM1942
+LDIFF_SYM1944=LTDIE_10 - Ldebug_info_start
+	.long LDIFF_SYM1944
 	.byte 1,105,3
 	.asciz "value"
 
-LDIFF_SYM1943=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM1943
+LDIFF_SYM1945=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM1945
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1944=LDIE_I8 - Ldebug_info_start
-	.long LDIFF_SYM1944
+LDIFF_SYM1946=LDIE_I8 - Ldebug_info_start
+	.long LDIFF_SYM1946
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1945=Lfde112_end - Lfde112_start
-	.long LDIFF_SYM1945
+LDIFF_SYM1947=Lfde112_end - Lfde112_start
+	.long LDIFF_SYM1947
 Lfde112_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseNumber_Newtonsoft_Json_Linq_JTokenType_object
 
-LDIFF_SYM1946=Lme_70 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseNumber_Newtonsoft_Json_Linq_JTokenType_object
-	.long LDIFF_SYM1946
+LDIFF_SYM1948=Lme_70 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ParseNumber_Newtonsoft_Json_Linq_JTokenType_object
+	.long LDIFF_SYM1948
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7,68,154,6
 	.align 3
@@ -71069,27 +71412,27 @@ Lfde112_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM1947=LDIE_R8 - Ldebug_info_start
-	.long LDIFF_SYM1947
+LDIFF_SYM1949=LDIE_R8 - Ldebug_info_start
+	.long LDIFF_SYM1949
 	.byte 2,141,16,11
 	.asciz "V_0"
 
-LDIFF_SYM1948=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1948
+LDIFF_SYM1950=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1950
 	.byte 3,141,192,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1949=Lfde113_end - Lfde113_start
-	.long LDIFF_SYM1949
+LDIFF_SYM1951=Lfde113_end - Lfde113_start
+	.long LDIFF_SYM1951
 Lfde113_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeDateTime_double
 
-LDIFF_SYM1950=Lme_71 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeDateTime_double
-	.long LDIFF_SYM1950
+LDIFF_SYM1952=Lme_71 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_DeserializeDateTime_double
+	.long LDIFF_SYM1952
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
@@ -71108,32 +71451,32 @@ Lfde113_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM1951=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1951
+LDIFF_SYM1953=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1953
 	.byte 2,141,16,11
 	.asciz "V_0"
 
-LDIFF_SYM1952=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1952
+LDIFF_SYM1954=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1954
 	.byte 3,141,232,0,11
 	.asciz "V_1"
 
-LDIFF_SYM1953=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1953
+LDIFF_SYM1955=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1955
 	.byte 3,141,224,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1954=Lfde114_end - Lfde114_start
-	.long LDIFF_SYM1954
+LDIFF_SYM1956=Lfde114_end - Lfde114_start
+	.long LDIFF_SYM1956
 Lfde114_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeDateTime_Newtonsoft_Json_Linq_JToken
 
-LDIFF_SYM1955=Lme_72 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeDateTime_Newtonsoft_Json_Linq_JToken
-	.long LDIFF_SYM1955
+LDIFF_SYM1957=Lme_72 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_SerializeDateTime_Newtonsoft_Json_Linq_JToken
+	.long LDIFF_SYM1957
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29
 	.align 3
@@ -71152,56 +71495,56 @@ Lfde114_end:
 	.byte 2,118,16,3
 	.asciz "identifier"
 
-LDIFF_SYM1956=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1956
+LDIFF_SYM1958=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1958
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1957=Lfde115_end - Lfde115_start
-	.long LDIFF_SYM1957
+LDIFF_SYM1959=Lfde115_end - Lfde115_start
+	.long LDIFF_SYM1959
 Lfde115_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ValidateIdentifier_string
 
-LDIFF_SYM1958=Lme_73 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ValidateIdentifier_string
-	.long LDIFF_SYM1958
+LDIFF_SYM1960=Lme_73 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_ValidateIdentifier_string
+	.long LDIFF_SYM1960
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
 Lfde115_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_194:
+LTDIE_195:
 
 	.byte 5
 	.asciz "System_Char"
 
 	.byte 18,16
-LDIFF_SYM1959=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM1959
+LDIFF_SYM1961=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM1961
 	.byte 2,35,0,6
 	.asciz "m_value"
 
-LDIFF_SYM1960=LDIE_CHAR - Ldebug_info_start
-	.long LDIFF_SYM1960
+LDIFF_SYM1962=LDIE_CHAR - Ldebug_info_start
+	.long LDIFF_SYM1962
 	.byte 2,35,16,0,7
 	.asciz "System_Char"
 
-LDIFF_SYM1961=LTDIE_194 - Ldebug_info_start
-	.long LDIFF_SYM1961
-LTDIE_194_POINTER:
+LDIFF_SYM1963=LTDIE_195 - Ldebug_info_start
+	.long LDIFF_SYM1963
+LTDIE_195_POINTER:
 
 	.byte 13
-LDIFF_SYM1962=LTDIE_194 - Ldebug_info_start
-	.long LDIFF_SYM1962
-LTDIE_194_REFERENCE:
+LDIFF_SYM1964=LTDIE_195 - Ldebug_info_start
+	.long LDIFF_SYM1964
+LTDIE_195_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1963=LTDIE_194 - Ldebug_info_start
-	.long LDIFF_SYM1963
+LDIFF_SYM1965=LTDIE_195 - Ldebug_info_start
+	.long LDIFF_SYM1965
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlHelpers:IsValidIdentifier"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsValidIdentifier_string"
@@ -71213,66 +71556,66 @@ LDIFF_SYM1963=LTDIE_194 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "identifier"
 
-LDIFF_SYM1964=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1964
+LDIFF_SYM1966=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1966
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1965=LDIE_CHAR - Ldebug_info_start
-	.long LDIFF_SYM1965
+LDIFF_SYM1967=LDIE_CHAR - Ldebug_info_start
+	.long LDIFF_SYM1967
 	.byte 1,105,11
 	.asciz "V_1"
 
-LDIFF_SYM1966=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1966
+LDIFF_SYM1968=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1968
 	.byte 1,104,11
 	.asciz "V_2"
 
-LDIFF_SYM1967=LDIE_CHAR - Ldebug_info_start
-	.long LDIFF_SYM1967
+LDIFF_SYM1969=LDIE_CHAR - Ldebug_info_start
+	.long LDIFF_SYM1969
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1968=Lfde116_end - Lfde116_start
-	.long LDIFF_SYM1968
+LDIFF_SYM1970=Lfde116_end - Lfde116_start
+	.long LDIFF_SYM1970
 Lfde116_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsValidIdentifier_string
 
-LDIFF_SYM1969=Lme_74 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsValidIdentifier_string
-	.long LDIFF_SYM1969
+LDIFF_SYM1971=Lme_74 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers_IsValidIdentifier_string
+	.long LDIFF_SYM1971
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,151,10,152,9,68,153,8,154,7
 	.align 3
 Lfde116_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_195:
+LTDIE_196:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers"
 
 	.byte 16,16
-LDIFF_SYM1970=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM1970
+LDIFF_SYM1972=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM1972
 	.byte 2,35,0,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers"
 
-LDIFF_SYM1971=LTDIE_195 - Ldebug_info_start
-	.long LDIFF_SYM1971
-LTDIE_195_POINTER:
+LDIFF_SYM1973=LTDIE_196 - Ldebug_info_start
+	.long LDIFF_SYM1973
+LTDIE_196_POINTER:
 
 	.byte 13
-LDIFF_SYM1972=LTDIE_195 - Ldebug_info_start
-	.long LDIFF_SYM1972
-LTDIE_195_REFERENCE:
+LDIFF_SYM1974=LTDIE_196 - Ldebug_info_start
+	.long LDIFF_SYM1974
+LTDIE_196_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1973=LTDIE_195 - Ldebug_info_start
-	.long LDIFF_SYM1973
+LDIFF_SYM1975=LTDIE_196 - Ldebug_info_start
+	.long LDIFF_SYM1975
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlHelpers:.ctor"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers__ctor"
@@ -71284,22 +71627,22 @@ LDIFF_SYM1973=LTDIE_195 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM1974=LTDIE_195_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1974
+LDIFF_SYM1976=LTDIE_196_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1976
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1975=Lfde117_end - Lfde117_start
-	.long LDIFF_SYM1975
+LDIFF_SYM1977=Lfde117_end - Lfde117_start
+	.long LDIFF_SYM1977
 Lfde117_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers__ctor
 
-LDIFF_SYM1976=Lme_75 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers__ctor
-	.long LDIFF_SYM1976
+LDIFF_SYM1978=Lme_75 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers__ctor
+	.long LDIFF_SYM1978
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -71319,45 +71662,45 @@ Lfde117_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1977=Lfde118_end - Lfde118_start
-	.long LDIFF_SYM1977
+LDIFF_SYM1979=Lfde118_end - Lfde118_start
+	.long LDIFF_SYM1979
 Lfde118_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers__cctor
 
-LDIFF_SYM1978=Lme_76 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers__cctor
-	.long LDIFF_SYM1978
+LDIFF_SYM1980=Lme_76 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlHelpers__cctor
+	.long LDIFF_SYM1980
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
 Lfde118_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_196:
+LTDIE_197:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLiteException"
 
 	.byte 136,1,16
-LDIFF_SYM1979=LTDIE_64 - Ldebug_info_start
-	.long LDIFF_SYM1979
+LDIFF_SYM1981=LTDIE_64 - Ldebug_info_start
+	.long LDIFF_SYM1981
 	.byte 2,35,0,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLiteException"
 
-LDIFF_SYM1980=LTDIE_196 - Ldebug_info_start
-	.long LDIFF_SYM1980
-LTDIE_196_POINTER:
+LDIFF_SYM1982=LTDIE_197 - Ldebug_info_start
+	.long LDIFF_SYM1982
+LTDIE_197_POINTER:
 
 	.byte 13
-LDIFF_SYM1981=LTDIE_196 - Ldebug_info_start
-	.long LDIFF_SYM1981
-LTDIE_196_REFERENCE:
+LDIFF_SYM1983=LTDIE_197 - Ldebug_info_start
+	.long LDIFF_SYM1983
+LTDIE_197_REFERENCE:
 
 	.byte 14
-LDIFF_SYM1982=LTDIE_196 - Ldebug_info_start
-	.long LDIFF_SYM1982
+LDIFF_SYM1984=LTDIE_197 - Ldebug_info_start
+	.long LDIFF_SYM1984
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SQLiteException:.ctor"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLiteException__ctor_string"
@@ -71369,27 +71712,27 @@ LDIFF_SYM1982=LTDIE_196 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM1983=LTDIE_196_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1983
+LDIFF_SYM1985=LTDIE_197_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1985
 	.byte 2,141,16,3
 	.asciz "message"
 
-LDIFF_SYM1984=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1984
+LDIFF_SYM1986=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1986
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1985=Lfde119_end - Lfde119_start
-	.long LDIFF_SYM1985
+LDIFF_SYM1987=Lfde119_end - Lfde119_start
+	.long LDIFF_SYM1987
 Lfde119_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLiteException__ctor_string
 
-LDIFF_SYM1986=Lme_77 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLiteException__ctor_string
-	.long LDIFF_SYM1986
+LDIFF_SYM1988=Lme_77 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLiteException__ctor_string
+	.long LDIFF_SYM1988
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -71408,27 +71751,27 @@ Lfde119_end:
 	.byte 2,118,16,3
 	.asciz "filename"
 
-LDIFF_SYM1987=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1987
+LDIFF_SYM1989=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1989
 	.byte 2,141,16,11
 	.asciz "V_0"
 
-LDIFF_SYM1988=LTDIE_18_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1988
+LDIFF_SYM1990=LTDIE_18_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1990
 	.byte 2,141,48,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1989=Lfde120_end - Lfde120_start
-	.long LDIFF_SYM1989
+LDIFF_SYM1991=Lfde120_end - Lfde120_start
+	.long LDIFF_SYM1991
 Lfde120_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteConnection_string
 
-LDIFF_SYM1990=Lme_78 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteConnection_string
-	.long LDIFF_SYM1990
+LDIFF_SYM1992=Lme_78 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteConnection_string
+	.long LDIFF_SYM1992
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -71447,32 +71790,32 @@ Lfde120_end:
 	.byte 2,118,16,3
 	.asciz "sql"
 
-LDIFF_SYM1991=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1991
+LDIFF_SYM1993=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM1993
 	.byte 2,141,24,3
 	.asciz "db"
 
-LDIFF_SYM1992=LTDIE_18_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1992
+LDIFF_SYM1994=LTDIE_18_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1994
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1993=LTDIE_132_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1993
+LDIFF_SYM1995=LTDIE_132_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM1995
 	.byte 2,141,56,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM1994=Lfde121_end - Lfde121_start
-	.long LDIFF_SYM1994
+LDIFF_SYM1996=Lfde121_end - Lfde121_start
+	.long LDIFF_SYM1996
 Lfde121_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteStatement_string_SQLitePCL_sqlite3
 
-LDIFF_SYM1995=Lme_79 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteStatement_string_SQLitePCL_sqlite3
-	.long LDIFF_SYM1995
+LDIFF_SYM1997=Lme_79 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetSqliteStatement_string_SQLitePCL_sqlite3
+	.long LDIFF_SYM1997
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
 	.align 3
@@ -71491,37 +71834,37 @@ Lfde121_end:
 	.byte 2,118,16,3
 	.asciz "result"
 
-LDIFF_SYM1996=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1996
+LDIFF_SYM1998=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1998
 	.byte 1,104,3
 	.asciz "expectedResult"
 
-LDIFF_SYM1997=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM1997
+LDIFF_SYM1999=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM1999
 	.byte 2,141,48,3
 	.asciz "db"
 
-LDIFF_SYM1998=LTDIE_18_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM1998
+LDIFF_SYM2000=LTDIE_18_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2000
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM1999=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM1999
+LDIFF_SYM2001=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2001
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2000=Lfde122_end - Lfde122_start
-	.long LDIFF_SYM2000
+LDIFF_SYM2002=Lfde122_end - Lfde122_start
+	.long LDIFF_SYM2002
 Lfde122_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_VerifySQLiteResponse_int_int_SQLitePCL_sqlite3
 
-LDIFF_SYM2001=Lme_7a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_VerifySQLiteResponse_int_int_SQLitePCL_sqlite3
-	.long LDIFF_SYM2001
+LDIFF_SYM2003=Lme_7a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_VerifySQLiteResponse_int_int_SQLitePCL_sqlite3
+	.long LDIFF_SYM2003
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,150,10,151,9,68,152,8,68,154,7
 	.align 3
@@ -71540,42 +71883,42 @@ Lfde122_end:
 	.byte 2,118,16,3
 	.asciz "db"
 
-LDIFF_SYM2002=LTDIE_18_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2002
+LDIFF_SYM2004=LTDIE_18_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2004
 	.byte 3,141,208,0,3
 	.asciz "stm"
 
-LDIFF_SYM2003=LTDIE_132_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2003
+LDIFF_SYM2005=LTDIE_132_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2005
 	.byte 1,104,3
 	.asciz "index"
 
-LDIFF_SYM2004=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2004
+LDIFF_SYM2006=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2006
 	.byte 1,105,3
 	.asciz "value"
 
-LDIFF_SYM2005=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2005
+LDIFF_SYM2007=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2007
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2006=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2006
+LDIFF_SYM2008=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2008
 	.byte 1,102,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2007=Lfde123_end - Lfde123_start
-	.long LDIFF_SYM2007
+LDIFF_SYM2009=Lfde123_end - Lfde123_start
+	.long LDIFF_SYM2009
 Lfde123_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_Bind_SQLitePCL_sqlite3_SQLitePCL_sqlite3_stmt_int_object
 
-LDIFF_SYM2008=Lme_7b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_Bind_SQLitePCL_sqlite3_SQLitePCL_sqlite3_stmt_int_object
-	.long LDIFF_SYM2008
+LDIFF_SYM2010=Lme_7b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_Bind_SQLitePCL_sqlite3_SQLitePCL_sqlite3_stmt_int_object
+	.long LDIFF_SYM2010
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,147,20,148,19,68,149,18,150,17,68,151,16,152,15,68,153,14
 	.byte 154,13
@@ -71595,22 +71938,22 @@ Lfde123_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM2009=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2009
+LDIFF_SYM2011=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2011
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2010=Lfde124_end - Lfde124_start
-	.long LDIFF_SYM2010
+LDIFF_SYM2012=Lfde124_end - Lfde124_start
+	.long LDIFF_SYM2012
 Lfde124_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedInteger_object
 
-LDIFF_SYM2011=Lme_7c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedInteger_object
-	.long LDIFF_SYM2011
+LDIFF_SYM2013=Lme_7c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedInteger_object
+	.long LDIFF_SYM2013
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,147,22,148,21,68,149,20,150,19,68,151,18,152,17,68,153,16
 	.byte 154,15
@@ -71630,22 +71973,22 @@ Lfde124_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM2012=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2012
+LDIFF_SYM2014=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2014
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2013=Lfde125_end - Lfde125_start
-	.long LDIFF_SYM2013
+LDIFF_SYM2015=Lfde125_end - Lfde125_start
+	.long LDIFF_SYM2015
 Lfde125_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedFloat_object
 
-LDIFF_SYM2014=Lme_7d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedFloat_object
-	.long LDIFF_SYM2014
+LDIFF_SYM2016=Lme_7d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedFloat_object
+	.long LDIFF_SYM2016
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,148,12,149,11,68,150,10,151,9,68,152,8,153,7,68,154,6
 	.align 3
@@ -71664,22 +72007,22 @@ Lfde125_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM2015=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2015
+LDIFF_SYM2017=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2017
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2016=Lfde126_end - Lfde126_start
-	.long LDIFF_SYM2016
+LDIFF_SYM2018=Lfde126_end - Lfde126_start
+	.long LDIFF_SYM2018
 Lfde126_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedText_object
 
-LDIFF_SYM2017=Lme_7e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedText_object
-	.long LDIFF_SYM2017
+LDIFF_SYM2019=Lme_7e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_IsSupportedText_object
+	.long LDIFF_SYM2019
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,150,10,151,9,68,152,8,153,7,68,154,6
 	.align 3
@@ -71698,22 +72041,22 @@ Lfde126_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM2018=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2018
+LDIFF_SYM2020=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2020
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2019=Lfde127_end - Lfde127_start
-	.long LDIFF_SYM2019
+LDIFF_SYM2021=Lfde127_end - Lfde127_start
+	.long LDIFF_SYM2021
 Lfde127_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetInteger_object
 
-LDIFF_SYM2020=Lme_7f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetInteger_object
-	.long LDIFF_SYM2020
+LDIFF_SYM2022=Lme_7f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetInteger_object
+	.long LDIFF_SYM2022
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,152,10,153,9,68,154,8
 	.align 3
@@ -71732,36 +72075,36 @@ Lfde127_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM2021=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2021
+LDIFF_SYM2023=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2023
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2022=Lfde128_end - Lfde128_start
-	.long LDIFF_SYM2022
+LDIFF_SYM2024=Lfde128_end - Lfde128_start
+	.long LDIFF_SYM2024
 Lfde128_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetFloat_object
 
-LDIFF_SYM2023=Lme_80 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetFloat_object
-	.long LDIFF_SYM2023
+LDIFF_SYM2025=Lme_80 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetFloat_object
+	.long LDIFF_SYM2025
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
 Lfde128_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_197:
+LTDIE_198:
 
 	.byte 8
 	.asciz "_SQLiteType"
 
 	.byte 4
-LDIFF_SYM2024=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2024
+LDIFF_SYM2026=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2026
 	.byte 9
 	.asciz "INTEGER"
 
@@ -71780,18 +72123,18 @@ LDIFF_SYM2024=LDIE_I4 - Ldebug_info_start
 	.byte 5,0,7
 	.asciz "_SQLiteType"
 
-LDIFF_SYM2025=LTDIE_197 - Ldebug_info_start
-	.long LDIFF_SYM2025
-LTDIE_197_POINTER:
+LDIFF_SYM2027=LTDIE_198 - Ldebug_info_start
+	.long LDIFF_SYM2027
+LTDIE_198_POINTER:
 
 	.byte 13
-LDIFF_SYM2026=LTDIE_197 - Ldebug_info_start
-	.long LDIFF_SYM2026
-LTDIE_197_REFERENCE:
+LDIFF_SYM2028=LTDIE_198 - Ldebug_info_start
+	.long LDIFF_SYM2028
+LTDIE_198_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2027=LTDIE_197 - Ldebug_info_start
-	.long LDIFF_SYM2027
+LDIFF_SYM2029=LTDIE_198 - Ldebug_info_start
+	.long LDIFF_SYM2029
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SQLitePCLRawHelpers:GetValue"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetValue_SQLitePCL_sqlite3_stmt_int"
@@ -71803,66 +72146,66 @@ LDIFF_SYM2027=LTDIE_197 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "stm"
 
-LDIFF_SYM2028=LTDIE_132_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2028
+LDIFF_SYM2030=LTDIE_132_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2030
 	.byte 1,105,3
 	.asciz "index"
 
-LDIFF_SYM2029=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2029
+LDIFF_SYM2031=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2031
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2030=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2030
+LDIFF_SYM2032=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2032
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2031=LTDIE_197 - Ldebug_info_start
-	.long LDIFF_SYM2031
+LDIFF_SYM2033=LTDIE_198 - Ldebug_info_start
+	.long LDIFF_SYM2033
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2032=Lfde129_end - Lfde129_start
-	.long LDIFF_SYM2032
+LDIFF_SYM2034=Lfde129_end - Lfde129_start
+	.long LDIFF_SYM2034
 Lfde129_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetValue_SQLitePCL_sqlite3_stmt_int
 
-LDIFF_SYM2033=Lme_81 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetValue_SQLitePCL_sqlite3_stmt_int
-	.long LDIFF_SYM2033
+LDIFF_SYM2035=Lme_81 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers_GetValue_SQLitePCL_sqlite3_stmt_int
+	.long LDIFF_SYM2035
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,150,12,151,11,68,152,10,153,9,68,154,8
 	.align 3
 Lfde129_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_198:
+LTDIE_199:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers"
 
 	.byte 16,16
-LDIFF_SYM2034=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2034
+LDIFF_SYM2036=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2036
 	.byte 2,35,0,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers"
 
-LDIFF_SYM2035=LTDIE_198 - Ldebug_info_start
-	.long LDIFF_SYM2035
-LTDIE_198_POINTER:
+LDIFF_SYM2037=LTDIE_199 - Ldebug_info_start
+	.long LDIFF_SYM2037
+LTDIE_199_POINTER:
 
 	.byte 13
-LDIFF_SYM2036=LTDIE_198 - Ldebug_info_start
-	.long LDIFF_SYM2036
-LTDIE_198_REFERENCE:
+LDIFF_SYM2038=LTDIE_199 - Ldebug_info_start
+	.long LDIFF_SYM2038
+LTDIE_199_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2037=LTDIE_198 - Ldebug_info_start
-	.long LDIFF_SYM2037
+LDIFF_SYM2039=LTDIE_199 - Ldebug_info_start
+	.long LDIFF_SYM2039
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SQLitePCLRawHelpers:.ctor"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers__ctor"
@@ -71874,22 +72217,22 @@ LDIFF_SYM2037=LTDIE_198 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2038=LTDIE_198_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2038
+LDIFF_SYM2040=LTDIE_199_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2040
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2039=Lfde130_end - Lfde130_start
-	.long LDIFF_SYM2039
+LDIFF_SYM2041=Lfde130_end - Lfde130_start
+	.long LDIFF_SYM2041
 Lfde130_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers__ctor
 
-LDIFF_SYM2040=Lme_82 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers__ctor
-	.long LDIFF_SYM2040
+LDIFF_SYM2042=Lme_82 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers__ctor
+	.long LDIFF_SYM2042
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -71909,16 +72252,16 @@ Lfde130_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2041=Lfde131_end - Lfde131_start
-	.long LDIFF_SYM2041
+LDIFF_SYM2043=Lfde131_end - Lfde131_start
+	.long LDIFF_SYM2043
 Lfde131_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers__cctor
 
-LDIFF_SYM2042=Lme_83 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers__cctor
-	.long LDIFF_SYM2042
+LDIFF_SYM2044=Lme_83 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SQLitePCLRawHelpers__cctor
+	.long LDIFF_SYM2044
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -71937,22 +72280,22 @@ Lfde131_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2043=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2043
+LDIFF_SYM2045=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2045
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2044=Lfde132_end - Lfde132_start
-	.long LDIFF_SYM2044
+LDIFF_SYM2046=Lfde132_end - Lfde132_start
+	.long LDIFF_SYM2046
 Lfde132_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_get_Parameters
 
-LDIFF_SYM2045=Lme_84 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_get_Parameters
-	.long LDIFF_SYM2045
+LDIFF_SYM2047=Lme_84 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_get_Parameters
+	.long LDIFF_SYM2047
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -71971,27 +72314,27 @@ Lfde132_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2046=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2046
+LDIFF_SYM2048=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2048
 	.byte 2,141,16,3
 	.asciz "value"
 
-LDIFF_SYM2047=LTDIE_107_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2047
+LDIFF_SYM2049=LTDIE_107_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2049
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2048=Lfde133_end - Lfde133_start
-	.long LDIFF_SYM2048
+LDIFF_SYM2050=Lfde133_end - Lfde133_start
+	.long LDIFF_SYM2050
 Lfde133_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_set_Parameters_System_Collections_Generic_IDictionary_2_string_object
 
-LDIFF_SYM2049=Lme_85 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_set_Parameters_System_Collections_Generic_IDictionary_2_string_object
-	.long LDIFF_SYM2049
+LDIFF_SYM2051=Lme_85 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_set_Parameters_System_Collections_Generic_IDictionary_2_string_object
+	.long LDIFF_SYM2051
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -72010,27 +72353,27 @@ Lfde133_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2050=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2050
+LDIFF_SYM2052=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2052
 	.byte 1,105,3
 	.asciz "query"
 
-LDIFF_SYM2051=LTDIE_98_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2051
+LDIFF_SYM2053=LTDIE_98_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2053
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2052=Lfde134_end - Lfde134_start
-	.long LDIFF_SYM2052
+LDIFF_SYM2054=Lfde134_end - Lfde134_start
+	.long LDIFF_SYM2054
 Lfde134_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__ctor_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription
 
-LDIFF_SYM2053=Lme_86 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__ctor_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription
-	.long LDIFF_SYM2053
+LDIFF_SYM2055=Lme_86 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__ctor_Microsoft_WindowsAzure_MobileServices_Query_MobileServiceTableQueryDescription
+	.long LDIFF_SYM2055
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
@@ -72049,32 +72392,32 @@ Lfde134_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2054=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2054
+LDIFF_SYM2056=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2056
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2055=LTDIE_106_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2055
+LDIFF_SYM2057=LTDIE_106_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2057
 	.byte 1,105,11
 	.asciz "V_1"
 
-LDIFF_SYM2056=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2056
+LDIFF_SYM2058=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2058
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2057=Lfde135_end - Lfde135_start
-	.long LDIFF_SYM2057
+LDIFF_SYM2059=Lfde135_end - Lfde135_start
+	.long LDIFF_SYM2059
 Lfde135_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelect
 
-LDIFF_SYM2058=Lme_87 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelect
-	.long LDIFF_SYM2058
+LDIFF_SYM2060=Lme_87 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelect
+	.long LDIFF_SYM2060
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -72094,22 +72437,22 @@ Lfde135_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2059=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2059
+LDIFF_SYM2061=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2061
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2060=Lfde136_end - Lfde136_start
-	.long LDIFF_SYM2060
+LDIFF_SYM2062=Lfde136_end - Lfde136_start
+	.long LDIFF_SYM2062
 Lfde136_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelectCount
 
-LDIFF_SYM2061=Lme_88 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelectCount
-	.long LDIFF_SYM2061
+LDIFF_SYM2063=Lme_88 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSelectCount
+	.long LDIFF_SYM2063
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -72128,42 +72471,42 @@ Lfde136_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2062=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2062
+LDIFF_SYM2064=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2064
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2063=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2063
+LDIFF_SYM2065=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2065
 	.byte 1,105,11
 	.asciz "V_1"
 
-LDIFF_SYM2064=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2064
+LDIFF_SYM2066=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2066
 	.byte 1,104,11
 	.asciz "V_2"
 
-LDIFF_SYM2065=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2065
+LDIFF_SYM2067=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2067
 	.byte 1,103,11
 	.asciz "V_3"
 
-LDIFF_SYM2066=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2066
+LDIFF_SYM2068=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2068
 	.byte 1,102,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2067=Lfde137_end - Lfde137_start
-	.long LDIFF_SYM2067
+LDIFF_SYM2069=Lfde137_end - Lfde137_start
+	.long LDIFF_SYM2069
 Lfde137_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDelete
 
-LDIFF_SYM2068=Lme_89 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDelete
-	.long LDIFF_SYM2068
+LDIFF_SYM2070=Lme_89 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDelete
+	.long LDIFF_SYM2070
 	.long 0
 	.byte 12,31,0,68,14,240,1,157,30,158,29,68,13,29,68,147,28,148,27,68,149,26,150,25,68,151,24,152,23,68,153,22
 	.byte 154,21
@@ -72183,37 +72526,37 @@ Lfde137_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2069=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2069
+LDIFF_SYM2071=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2071
 	.byte 1,105,3
 	.asciz "command"
 
-LDIFF_SYM2070=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2070
+LDIFF_SYM2072=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2072
 	.byte 2,141,32,11
 	.asciz "V_0"
 
-LDIFF_SYM2071=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2071
+LDIFF_SYM2073=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2073
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2072=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2072
+LDIFF_SYM2074=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2074
 	.byte 3,141,224,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2073=Lfde138_end - Lfde138_start
-	.long LDIFF_SYM2073
+LDIFF_SYM2075=Lfde138_end - Lfde138_start
+	.long LDIFF_SYM2075
 Lfde138_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatQuery_string
 
-LDIFF_SYM2074=Lme_8a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatQuery_string
-	.long LDIFF_SYM2074
+LDIFF_SYM2076=Lme_8a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatQuery_string
+	.long LDIFF_SYM2076
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,152,16,153,15
 	.align 3
@@ -72232,22 +72575,22 @@ Lfde138_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2075=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2075
+LDIFF_SYM2077=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2077
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2076=Lfde139_end - Lfde139_start
-	.long LDIFF_SYM2076
+LDIFF_SYM2078=Lfde139_end - Lfde139_start
+	.long LDIFF_SYM2078
 Lfde139_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_GetSql
 
-LDIFF_SYM2077=Lme_8b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_GetSql
-	.long LDIFF_SYM2077
+LDIFF_SYM2079=Lme_8b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_GetSql
+	.long LDIFF_SYM2079
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -72266,22 +72609,22 @@ Lfde139_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2078=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2078
+LDIFF_SYM2080=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2080
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2079=Lfde140_end - Lfde140_start
-	.long LDIFF_SYM2079
+LDIFF_SYM2081=Lfde140_end - Lfde140_start
+	.long LDIFF_SYM2081
 Lfde140_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Reset
 
-LDIFF_SYM2080=Lme_8c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Reset
-	.long LDIFF_SYM2080
+LDIFF_SYM2082=Lme_8c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Reset
+	.long LDIFF_SYM2082
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -72300,32 +72643,32 @@ Lfde140_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2081=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2081
+LDIFF_SYM2083=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2083
 	.byte 1,106,3
 	.asciz "limit"
 
-LDIFF_SYM2082=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2082
+LDIFF_SYM2084=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2084
 	.byte 2,141,24,3
 	.asciz "offset"
 
-LDIFF_SYM2083=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2083
+LDIFF_SYM2085=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2085
 	.byte 2,141,40,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2084=Lfde141_end - Lfde141_start
-	.long LDIFF_SYM2084
+LDIFF_SYM2086=Lfde141_end - Lfde141_start
+	.long LDIFF_SYM2086
 Lfde141_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLimitClause_System_Nullable_1_int_System_Nullable_1_int
 
-LDIFF_SYM2085=Lme_8d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLimitClause_System_Nullable_1_int_System_Nullable_1_int
-	.long LDIFF_SYM2085
+LDIFF_SYM2087=Lme_8d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLimitClause_System_Nullable_1_int_System_Nullable_1_int
+	.long LDIFF_SYM2087
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
 	.align 3
@@ -72344,34 +72687,34 @@ Lfde141_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2086=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2086
+LDIFF_SYM2088=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2088
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2087=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2087
+LDIFF_SYM2089=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2089
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2088=Lfde142_end - Lfde142_start
-	.long LDIFF_SYM2088
+LDIFF_SYM2090=Lfde142_end - Lfde142_start
+	.long LDIFF_SYM2090
 Lfde142_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCountQuery
 
-LDIFF_SYM2089=Lme_8e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCountQuery
-	.long LDIFF_SYM2089
+LDIFF_SYM2091=Lme_8e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCountQuery
+	.long LDIFF_SYM2091
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
 	.align 3
 Lfde142_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_199:
+LTDIE_200:
 
 	.byte 17
 	.asciz "System_Collections_Generic_IEnumerator`1"
@@ -72379,18 +72722,18 @@ LTDIE_199:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IEnumerator`1"
 
-LDIFF_SYM2090=LTDIE_199 - Ldebug_info_start
-	.long LDIFF_SYM2090
-LTDIE_199_POINTER:
+LDIFF_SYM2092=LTDIE_200 - Ldebug_info_start
+	.long LDIFF_SYM2092
+LTDIE_200_POINTER:
 
 	.byte 13
-LDIFF_SYM2091=LTDIE_199 - Ldebug_info_start
-	.long LDIFF_SYM2091
-LTDIE_199_REFERENCE:
+LDIFF_SYM2093=LTDIE_200 - Ldebug_info_start
+	.long LDIFF_SYM2093
+LTDIE_200_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2092=LTDIE_199 - Ldebug_info_start
-	.long LDIFF_SYM2092
+LDIFF_SYM2094=LTDIE_200 - Ldebug_info_start
+	.long LDIFF_SYM2094
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlQueryFormatter:FormatOrderByClause"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatOrderByClause_System_Collections_Generic_IList_1_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode"
@@ -72402,37 +72745,37 @@ LDIFF_SYM2092=LTDIE_199 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2093=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2093
+LDIFF_SYM2095=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2095
 	.byte 1,105,3
 	.asciz "orderings"
 
-LDIFF_SYM2094=LTDIE_101_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2094
+LDIFF_SYM2096=LTDIE_101_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2096
 	.byte 2,141,40,11
 	.asciz "V_0"
 
-LDIFF_SYM2095=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2095
+LDIFF_SYM2097=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2097
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2096=LTDIE_199_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2096
+LDIFF_SYM2098=LTDIE_200_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2098
 	.byte 3,141,200,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2097=Lfde143_end - Lfde143_start
-	.long LDIFF_SYM2097
+LDIFF_SYM2099=Lfde143_end - Lfde143_start
+	.long LDIFF_SYM2099
 Lfde143_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatOrderByClause_System_Collections_Generic_IList_1_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode
 
-LDIFF_SYM2098=Lme_8f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatOrderByClause_System_Collections_Generic_IList_1_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode
-	.long LDIFF_SYM2098
+LDIFF_SYM2100=Lme_8f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatOrderByClause_System_Collections_Generic_IList_1_Microsoft_WindowsAzure_MobileServices_Query_OrderByNode
+	.long LDIFF_SYM2100
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,151,16,152,15,68,153,14
 	.align 3
@@ -72451,41 +72794,41 @@ Lfde143_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2099=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2099
+LDIFF_SYM2101=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2101
 	.byte 1,105,3
 	.asciz "expression"
 
-LDIFF_SYM2100=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2100
+LDIFF_SYM2102=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2102
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2101=Lfde144_end - Lfde144_start
-	.long LDIFF_SYM2101
+LDIFF_SYM2103=Lfde144_end - Lfde144_start
+	.long LDIFF_SYM2103
 Lfde144_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatWhereClause_Microsoft_WindowsAzure_MobileServices_Query_QueryNode
 
-LDIFF_SYM2102=Lme_90 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatWhereClause_Microsoft_WindowsAzure_MobileServices_Query_QueryNode
-	.long LDIFF_SYM2102
+LDIFF_SYM2104=Lme_90 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatWhereClause_Microsoft_WindowsAzure_MobileServices_Query_QueryNode
+	.long LDIFF_SYM2104
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
 Lfde144_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_201:
+LTDIE_202:
 
 	.byte 8
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorKind"
 
 	.byte 4
-LDIFF_SYM2103=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2103
+LDIFF_SYM2105=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2105
 	.byte 9
 	.asciz "Or"
 
@@ -72528,84 +72871,84 @@ LDIFF_SYM2103=LDIE_I4 - Ldebug_info_start
 	.byte 12,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorKind"
 
-LDIFF_SYM2104=LTDIE_201 - Ldebug_info_start
-	.long LDIFF_SYM2104
-LTDIE_201_POINTER:
+LDIFF_SYM2106=LTDIE_202 - Ldebug_info_start
+	.long LDIFF_SYM2106
+LTDIE_202_POINTER:
 
 	.byte 13
-LDIFF_SYM2105=LTDIE_201 - Ldebug_info_start
-	.long LDIFF_SYM2105
-LTDIE_201_REFERENCE:
+LDIFF_SYM2107=LTDIE_202 - Ldebug_info_start
+	.long LDIFF_SYM2107
+LTDIE_202_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2106=LTDIE_201 - Ldebug_info_start
-	.long LDIFF_SYM2106
-LTDIE_200:
+LDIFF_SYM2108=LTDIE_202 - Ldebug_info_start
+	.long LDIFF_SYM2108
+LTDIE_201:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode"
 
 	.byte 40,16
-LDIFF_SYM2107=LTDIE_99 - Ldebug_info_start
-	.long LDIFF_SYM2107
+LDIFF_SYM2109=LTDIE_99 - Ldebug_info_start
+	.long LDIFF_SYM2109
 	.byte 2,35,0,6
 	.asciz "<OperatorKind>k__BackingField"
 
-LDIFF_SYM2108=LTDIE_201 - Ldebug_info_start
-	.long LDIFF_SYM2108
+LDIFF_SYM2110=LTDIE_202 - Ldebug_info_start
+	.long LDIFF_SYM2110
 	.byte 2,35,32,6
 	.asciz "<LeftOperand>k__BackingField"
 
-LDIFF_SYM2109=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2109
+LDIFF_SYM2111=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2111
 	.byte 2,35,16,6
 	.asciz "<RightOperand>k__BackingField"
 
-LDIFF_SYM2110=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2110
+LDIFF_SYM2112=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2112
 	.byte 2,35,24,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode"
 
-LDIFF_SYM2111=LTDIE_200 - Ldebug_info_start
-	.long LDIFF_SYM2111
-LTDIE_200_POINTER:
+LDIFF_SYM2113=LTDIE_201 - Ldebug_info_start
+	.long LDIFF_SYM2113
+LTDIE_201_POINTER:
 
 	.byte 13
-LDIFF_SYM2112=LTDIE_200 - Ldebug_info_start
-	.long LDIFF_SYM2112
-LTDIE_200_REFERENCE:
+LDIFF_SYM2114=LTDIE_201 - Ldebug_info_start
+	.long LDIFF_SYM2114
+LTDIE_201_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2113=LTDIE_200 - Ldebug_info_start
-	.long LDIFF_SYM2113
-LTDIE_202:
+LDIFF_SYM2115=LTDIE_201 - Ldebug_info_start
+	.long LDIFF_SYM2115
+LTDIE_203:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_ConstantNode"
 
 	.byte 24,16
-LDIFF_SYM2114=LTDIE_99 - Ldebug_info_start
-	.long LDIFF_SYM2114
+LDIFF_SYM2116=LTDIE_99 - Ldebug_info_start
+	.long LDIFF_SYM2116
 	.byte 2,35,0,6
 	.asciz "<Value>k__BackingField"
 
-LDIFF_SYM2115=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2115
+LDIFF_SYM2117=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2117
 	.byte 2,35,16,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_ConstantNode"
 
-LDIFF_SYM2116=LTDIE_202 - Ldebug_info_start
-	.long LDIFF_SYM2116
-LTDIE_202_POINTER:
+LDIFF_SYM2118=LTDIE_203 - Ldebug_info_start
+	.long LDIFF_SYM2118
+LTDIE_203_POINTER:
 
 	.byte 13
-LDIFF_SYM2117=LTDIE_202 - Ldebug_info_start
-	.long LDIFF_SYM2117
-LTDIE_202_REFERENCE:
+LDIFF_SYM2119=LTDIE_203 - Ldebug_info_start
+	.long LDIFF_SYM2119
+LTDIE_203_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2118=LTDIE_202 - Ldebug_info_start
-	.long LDIFF_SYM2118
+LDIFF_SYM2120=LTDIE_203 - Ldebug_info_start
+	.long LDIFF_SYM2120
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlQueryFormatter:Visit"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode"
@@ -72617,47 +72960,47 @@ LDIFF_SYM2118=LTDIE_202 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2119=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2119
+LDIFF_SYM2121=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2121
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2120=LTDIE_200_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2120
+LDIFF_SYM2122=LTDIE_201_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2122
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2121=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2121
+LDIFF_SYM2123=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2123
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2122=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2122
+LDIFF_SYM2124=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2124
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2123=LTDIE_202_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2123
+LDIFF_SYM2125=LTDIE_203_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2125
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2124=LTDIE_201 - Ldebug_info_start
-	.long LDIFF_SYM2124
+LDIFF_SYM2126=LTDIE_202 - Ldebug_info_start
+	.long LDIFF_SYM2126
 	.byte 1,101,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2125=Lfde145_end - Lfde145_start
-	.long LDIFF_SYM2125
+LDIFF_SYM2127=Lfde145_end - Lfde145_start
+	.long LDIFF_SYM2127
 Lfde145_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode
 
-LDIFF_SYM2126=Lme_91 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode
-	.long LDIFF_SYM2126
+LDIFF_SYM2128=Lme_91 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_BinaryOperatorNode
+	.long LDIFF_SYM2128
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
 	.byte 154,7
@@ -72677,66 +73020,66 @@ Lfde145_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2127=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2127
+LDIFF_SYM2129=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2129
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2128=LTDIE_202_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2128
+LDIFF_SYM2130=LTDIE_203_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2130
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2129=Lfde146_end - Lfde146_start
-	.long LDIFF_SYM2129
+LDIFF_SYM2131=Lfde146_end - Lfde146_start
+	.long LDIFF_SYM2131
 Lfde146_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_ConstantNode
 
-LDIFF_SYM2130=Lme_92 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_ConstantNode
-	.long LDIFF_SYM2130
+LDIFF_SYM2132=Lme_92 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_ConstantNode
+	.long LDIFF_SYM2132
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
 	.align 3
 Lfde146_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_203:
+LTDIE_204:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_MemberAccessNode"
 
 	.byte 32,16
-LDIFF_SYM2131=LTDIE_99 - Ldebug_info_start
-	.long LDIFF_SYM2131
+LDIFF_SYM2133=LTDIE_99 - Ldebug_info_start
+	.long LDIFF_SYM2133
 	.byte 2,35,0,6
 	.asciz "<Instance>k__BackingField"
 
-LDIFF_SYM2132=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2132
+LDIFF_SYM2134=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2134
 	.byte 2,35,16,6
 	.asciz "<MemberName>k__BackingField"
 
-LDIFF_SYM2133=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2133
+LDIFF_SYM2135=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2135
 	.byte 2,35,24,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_MemberAccessNode"
 
-LDIFF_SYM2134=LTDIE_203 - Ldebug_info_start
-	.long LDIFF_SYM2134
-LTDIE_203_POINTER:
+LDIFF_SYM2136=LTDIE_204 - Ldebug_info_start
+	.long LDIFF_SYM2136
+LTDIE_204_POINTER:
 
 	.byte 13
-LDIFF_SYM2135=LTDIE_203 - Ldebug_info_start
-	.long LDIFF_SYM2135
-LTDIE_203_REFERENCE:
+LDIFF_SYM2137=LTDIE_204 - Ldebug_info_start
+	.long LDIFF_SYM2137
+LTDIE_204_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2136=LTDIE_203 - Ldebug_info_start
-	.long LDIFF_SYM2136
+LDIFF_SYM2138=LTDIE_204 - Ldebug_info_start
+	.long LDIFF_SYM2138
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlQueryFormatter:Visit"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_MemberAccessNode"
@@ -72748,39 +73091,39 @@ LDIFF_SYM2136=LTDIE_203 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2137=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2137
+LDIFF_SYM2139=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2139
 	.byte 2,141,32,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2138=LTDIE_203_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2138
+LDIFF_SYM2140=LTDIE_204_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2140
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2139=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2139
+LDIFF_SYM2141=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2141
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2140=Lfde147_end - Lfde147_start
-	.long LDIFF_SYM2140
+LDIFF_SYM2142=Lfde147_end - Lfde147_start
+	.long LDIFF_SYM2142
 Lfde147_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_MemberAccessNode
 
-LDIFF_SYM2141=Lme_93 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_MemberAccessNode
-	.long LDIFF_SYM2141
+LDIFF_SYM2143=Lme_93 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_MemberAccessNode
+	.long LDIFF_SYM2143
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,152,10,68,154,9
 	.align 3
 Lfde147_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_205:
+LTDIE_206:
 
 	.byte 17
 	.asciz "System_Collections_Generic_IList`1"
@@ -72788,79 +73131,79 @@ LTDIE_205:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IList`1"
 
-LDIFF_SYM2142=LTDIE_205 - Ldebug_info_start
-	.long LDIFF_SYM2142
-LTDIE_205_POINTER:
+LDIFF_SYM2144=LTDIE_206 - Ldebug_info_start
+	.long LDIFF_SYM2144
+LTDIE_206_POINTER:
 
 	.byte 13
-LDIFF_SYM2143=LTDIE_205 - Ldebug_info_start
-	.long LDIFF_SYM2143
-LTDIE_205_REFERENCE:
+LDIFF_SYM2145=LTDIE_206 - Ldebug_info_start
+	.long LDIFF_SYM2145
+LTDIE_206_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2144=LTDIE_205 - Ldebug_info_start
-	.long LDIFF_SYM2144
-LTDIE_204:
+LDIFF_SYM2146=LTDIE_206 - Ldebug_info_start
+	.long LDIFF_SYM2146
+LTDIE_205:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode"
 
 	.byte 32,16
-LDIFF_SYM2145=LTDIE_99 - Ldebug_info_start
-	.long LDIFF_SYM2145
+LDIFF_SYM2147=LTDIE_99 - Ldebug_info_start
+	.long LDIFF_SYM2147
 	.byte 2,35,0,6
 	.asciz "<Name>k__BackingField"
 
-LDIFF_SYM2146=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2146
+LDIFF_SYM2148=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2148
 	.byte 2,35,16,6
 	.asciz "<Arguments>k__BackingField"
 
-LDIFF_SYM2147=LTDIE_205_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2147
+LDIFF_SYM2149=LTDIE_206_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2149
 	.byte 2,35,24,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode"
 
-LDIFF_SYM2148=LTDIE_204 - Ldebug_info_start
-	.long LDIFF_SYM2148
-LTDIE_204_POINTER:
+LDIFF_SYM2150=LTDIE_205 - Ldebug_info_start
+	.long LDIFF_SYM2150
+LTDIE_205_POINTER:
 
 	.byte 13
-LDIFF_SYM2149=LTDIE_204 - Ldebug_info_start
-	.long LDIFF_SYM2149
-LTDIE_204_REFERENCE:
+LDIFF_SYM2151=LTDIE_205 - Ldebug_info_start
+	.long LDIFF_SYM2151
+LTDIE_205_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2150=LTDIE_204 - Ldebug_info_start
-	.long LDIFF_SYM2150
-LTDIE_206:
+LDIFF_SYM2152=LTDIE_205 - Ldebug_info_start
+	.long LDIFF_SYM2152
+LTDIE_207:
 
 	.byte 5
 	.asciz "System_UInt32"
 
 	.byte 20,16
-LDIFF_SYM2151=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM2151
+LDIFF_SYM2153=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM2153
 	.byte 2,35,0,6
 	.asciz "m_value"
 
-LDIFF_SYM2152=LDIE_U4 - Ldebug_info_start
-	.long LDIFF_SYM2152
+LDIFF_SYM2154=LDIE_U4 - Ldebug_info_start
+	.long LDIFF_SYM2154
 	.byte 2,35,16,0,7
 	.asciz "System_UInt32"
 
-LDIFF_SYM2153=LTDIE_206 - Ldebug_info_start
-	.long LDIFF_SYM2153
-LTDIE_206_POINTER:
+LDIFF_SYM2155=LTDIE_207 - Ldebug_info_start
+	.long LDIFF_SYM2155
+LTDIE_207_POINTER:
 
 	.byte 13
-LDIFF_SYM2154=LTDIE_206 - Ldebug_info_start
-	.long LDIFF_SYM2154
-LTDIE_206_REFERENCE:
+LDIFF_SYM2156=LTDIE_207 - Ldebug_info_start
+	.long LDIFF_SYM2156
+LTDIE_207_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2155=LTDIE_206 - Ldebug_info_start
-	.long LDIFF_SYM2155
+LDIFF_SYM2157=LTDIE_207 - Ldebug_info_start
+	.long LDIFF_SYM2157
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlQueryFormatter:Visit"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode"
@@ -72872,37 +73215,37 @@ LDIFF_SYM2155=LTDIE_206 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2156=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2156
+LDIFF_SYM2158=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2158
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2157=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2157
+LDIFF_SYM2159=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2159
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2158=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2158
+LDIFF_SYM2160=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2160
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2159=LDIE_U4 - Ldebug_info_start
-	.long LDIFF_SYM2159
+LDIFF_SYM2161=LDIE_U4 - Ldebug_info_start
+	.long LDIFF_SYM2161
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2160=Lfde148_end - Lfde148_start
-	.long LDIFF_SYM2160
+LDIFF_SYM2162=Lfde148_end - Lfde148_start
+	.long LDIFF_SYM2162
 Lfde148_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2161=Lme_94 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2161
+LDIFF_SYM2163=Lme_94 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2163
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,151,12,152,11,68,153,10,154,9
 	.align 3
@@ -72921,54 +73264,54 @@ Lfde148_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2162=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2162
+LDIFF_SYM2164=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2164
 	.byte 1,101,3
 	.asciz "startAny"
 
-LDIFF_SYM2163=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2163
+LDIFF_SYM2165=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2165
 	.byte 2,141,32,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2164=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2164
+LDIFF_SYM2166=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2166
 	.byte 1,103,3
 	.asciz "patternIndex"
 
-LDIFF_SYM2165=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2165
+LDIFF_SYM2167=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2167
 	.byte 2,141,40,3
 	.asciz "valueIndex"
 
-LDIFF_SYM2166=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2166
+LDIFF_SYM2168=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2168
 	.byte 2,141,48,3
 	.asciz "endAny"
 
-LDIFF_SYM2167=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2167
+LDIFF_SYM2169=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2169
 	.byte 2,141,56,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2168=Lfde149_end - Lfde149_start
-	.long LDIFF_SYM2168
+LDIFF_SYM2170=Lfde149_end - Lfde149_start
+	.long LDIFF_SYM2170
 Lfde149_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLikeFunction_bool_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_int_int_bool
 
-LDIFF_SYM2169=Lme_95 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLikeFunction_bool_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_int_int_bool
-	.long LDIFF_SYM2169
+LDIFF_SYM2171=Lme_95 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatLikeFunction_bool_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode_int_int_bool
+	.long LDIFF_SYM2171
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,149,12,68,151,11
 	.align 3
 Lfde149_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_207:
+LTDIE_208:
 
 	.byte 17
 	.asciz "System_Collections_Generic_IEnumerator`1"
@@ -72976,18 +73319,18 @@ LTDIE_207:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IEnumerator`1"
 
-LDIFF_SYM2170=LTDIE_207 - Ldebug_info_start
-	.long LDIFF_SYM2170
-LTDIE_207_POINTER:
+LDIFF_SYM2172=LTDIE_208 - Ldebug_info_start
+	.long LDIFF_SYM2172
+LTDIE_208_POINTER:
 
 	.byte 13
-LDIFF_SYM2171=LTDIE_207 - Ldebug_info_start
-	.long LDIFF_SYM2171
-LTDIE_207_REFERENCE:
+LDIFF_SYM2173=LTDIE_208 - Ldebug_info_start
+	.long LDIFF_SYM2173
+LTDIE_208_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2172=LTDIE_207 - Ldebug_info_start
-	.long LDIFF_SYM2172
+LDIFF_SYM2174=LTDIE_208 - Ldebug_info_start
+	.long LDIFF_SYM2174
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlQueryFormatter:FormatConcatFunction"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatConcatFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode"
@@ -72999,37 +73342,37 @@ LDIFF_SYM2172=LTDIE_207 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2173=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2173
+LDIFF_SYM2175=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2175
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2174=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2174
+LDIFF_SYM2176=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2176
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2175=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2175
+LDIFF_SYM2177=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2177
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2176=LTDIE_207_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2176
+LDIFF_SYM2178=LTDIE_208_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2178
 	.byte 3,141,192,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2177=Lfde150_end - Lfde150_start
-	.long LDIFF_SYM2177
+LDIFF_SYM2179=Lfde150_end - Lfde150_start
+	.long LDIFF_SYM2179
 Lfde150_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatConcatFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2178=Lme_96 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatConcatFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2178
+LDIFF_SYM2180=Lme_96 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatConcatFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2180
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,152,12,153,11,68,154,10
 	.align 3
@@ -73048,27 +73391,27 @@ Lfde150_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2179=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2179
+LDIFF_SYM2181=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2181
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2180=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2180
+LDIFF_SYM2182=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2182
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2181=Lfde151_end - Lfde151_start
-	.long LDIFF_SYM2181
+LDIFF_SYM2183=Lfde151_end - Lfde151_start
+	.long LDIFF_SYM2183
 Lfde151_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatIndexOfFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2182=Lme_97 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatIndexOfFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2182
+LDIFF_SYM2184=Lme_97 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatIndexOfFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2184
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8
 	.align 3
@@ -73087,27 +73430,27 @@ Lfde151_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2183=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2183
+LDIFF_SYM2185=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2185
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2184=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2184
+LDIFF_SYM2186=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2186
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2185=Lfde152_end - Lfde152_start
-	.long LDIFF_SYM2185
+LDIFF_SYM2187=Lfde152_end - Lfde152_start
+	.long LDIFF_SYM2187
 Lfde152_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSubstringFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2186=Lme_98 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSubstringFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2186
+LDIFF_SYM2188=Lme_98 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatSubstringFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2188
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
 	.align 3
@@ -73126,42 +73469,42 @@ Lfde152_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2187=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2187
+LDIFF_SYM2189=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2189
 	.byte 1,104,3
 	.asciz "fn"
 
-LDIFF_SYM2188=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2188
+LDIFF_SYM2190=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2190
 	.byte 2,141,40,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2189=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2189
+LDIFF_SYM2191=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2191
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2190=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2190
+LDIFF_SYM2192=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2192
 	.byte 1,103,11
 	.asciz "V_1"
 
-LDIFF_SYM2191=LTDIE_207_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2191
+LDIFF_SYM2193=LTDIE_208_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2193
 	.byte 3,141,200,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2192=Lfde153_end - Lfde153_start
-	.long LDIFF_SYM2192
+LDIFF_SYM2194=Lfde153_end - Lfde153_start
+	.long LDIFF_SYM2194
 Lfde153_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatStringFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2193=Lme_99 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatStringFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2193
+LDIFF_SYM2195=Lme_99 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatStringFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2195
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,151,14,152,13,68,154,12
 	.align 3
@@ -73180,27 +73523,27 @@ Lfde153_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2194=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2194
+LDIFF_SYM2196=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2196
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2195=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2195
+LDIFF_SYM2197=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2197
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2196=Lfde154_end - Lfde154_start
-	.long LDIFF_SYM2196
+LDIFF_SYM2198=Lfde154_end - Lfde154_start
+	.long LDIFF_SYM2198
 Lfde154_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCeilingFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2197=Lme_9a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCeilingFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2197
+LDIFF_SYM2199=Lme_9a - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatCeilingFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2199
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
 	.align 3
@@ -73219,66 +73562,66 @@ Lfde154_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2198=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2198
+LDIFF_SYM2200=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2200
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2199=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2199
+LDIFF_SYM2201=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2201
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2200=Lfde155_end - Lfde155_start
-	.long LDIFF_SYM2200
+LDIFF_SYM2202=Lfde155_end - Lfde155_start
+	.long LDIFF_SYM2202
 Lfde155_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatRoundFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2201=Lme_9b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatRoundFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2201
+LDIFF_SYM2203=Lme_9b - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatRoundFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2203
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
 	.align 3
 Lfde155_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_208:
+LTDIE_209:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_ConvertNode"
 
 	.byte 32,16
-LDIFF_SYM2202=LTDIE_99 - Ldebug_info_start
-	.long LDIFF_SYM2202
+LDIFF_SYM2204=LTDIE_99 - Ldebug_info_start
+	.long LDIFF_SYM2204
 	.byte 2,35,0,6
 	.asciz "<Source>k__BackingField"
 
-LDIFF_SYM2203=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2203
+LDIFF_SYM2205=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2205
 	.byte 2,35,16,6
 	.asciz "<TargetType>k__BackingField"
 
-LDIFF_SYM2204=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2204
+LDIFF_SYM2206=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2206
 	.byte 2,35,24,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_ConvertNode"
 
-LDIFF_SYM2205=LTDIE_208 - Ldebug_info_start
-	.long LDIFF_SYM2205
-LTDIE_208_POINTER:
+LDIFF_SYM2207=LTDIE_209 - Ldebug_info_start
+	.long LDIFF_SYM2207
+LTDIE_209_POINTER:
 
 	.byte 13
-LDIFF_SYM2206=LTDIE_208 - Ldebug_info_start
-	.long LDIFF_SYM2206
-LTDIE_208_REFERENCE:
+LDIFF_SYM2208=LTDIE_209 - Ldebug_info_start
+	.long LDIFF_SYM2208
+LTDIE_209_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2207=LTDIE_208 - Ldebug_info_start
-	.long LDIFF_SYM2207
+LDIFF_SYM2209=LTDIE_209 - Ldebug_info_start
+	.long LDIFF_SYM2209
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlQueryFormatter:FormatFloorFunction"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatFloorFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode"
@@ -73290,42 +73633,42 @@ LDIFF_SYM2207=LTDIE_208 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2208=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2208
+LDIFF_SYM2210=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2210
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2209=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2209
+LDIFF_SYM2211=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2211
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2210=LTDIE_208_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2210
+LDIFF_SYM2212=LTDIE_209_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2212
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2211=LTDIE_200_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2211
+LDIFF_SYM2213=LTDIE_201_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2213
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2212=LTDIE_208_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2212
+LDIFF_SYM2214=LTDIE_209_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2214
 	.byte 1,102,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2213=Lfde156_end - Lfde156_start
-	.long LDIFF_SYM2213
+LDIFF_SYM2215=Lfde156_end - Lfde156_start
+	.long LDIFF_SYM2215
 Lfde156_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatFloorFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2214=Lme_9c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatFloorFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2214
+LDIFF_SYM2216=Lme_9c - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatFloorFunction_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2216
 	.long 0
 	.byte 12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,150,30,151,29,68,152,28,153,27,68,154,26
 	.align 3
@@ -73344,46 +73687,46 @@ Lfde156_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2215=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2215
+LDIFF_SYM2217=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2217
 	.byte 1,104,3
 	.asciz "formatSting"
 
-LDIFF_SYM2216=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2216
+LDIFF_SYM2218=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2218
 	.byte 2,141,32,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2217=LTDIE_204_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2217
+LDIFF_SYM2219=LTDIE_205_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2219
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2218=Lfde157_end - Lfde157_start
-	.long LDIFF_SYM2218
+LDIFF_SYM2220=Lfde157_end - Lfde157_start
+	.long LDIFF_SYM2220
 Lfde157_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDateFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
 
-LDIFF_SYM2219=Lme_9d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDateFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
-	.long LDIFF_SYM2219
+LDIFF_SYM2221=Lme_9d - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_FormatDateFunction_string_Microsoft_WindowsAzure_MobileServices_Query_FunctionCallNode
+	.long LDIFF_SYM2221
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,68,154,7
 	.align 3
 Lfde157_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_210:
+LTDIE_211:
 
 	.byte 8
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorKind"
 
 	.byte 4
-LDIFF_SYM2220=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2220
+LDIFF_SYM2222=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2222
 	.byte 9
 	.asciz "Negate"
 
@@ -73393,51 +73736,51 @@ LDIFF_SYM2220=LDIE_I4 - Ldebug_info_start
 	.byte 1,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorKind"
 
-LDIFF_SYM2221=LTDIE_210 - Ldebug_info_start
-	.long LDIFF_SYM2221
-LTDIE_210_POINTER:
+LDIFF_SYM2223=LTDIE_211 - Ldebug_info_start
+	.long LDIFF_SYM2223
+LTDIE_211_POINTER:
 
 	.byte 13
-LDIFF_SYM2222=LTDIE_210 - Ldebug_info_start
-	.long LDIFF_SYM2222
-LTDIE_210_REFERENCE:
+LDIFF_SYM2224=LTDIE_211 - Ldebug_info_start
+	.long LDIFF_SYM2224
+LTDIE_211_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2223=LTDIE_210 - Ldebug_info_start
-	.long LDIFF_SYM2223
-LTDIE_209:
+LDIFF_SYM2225=LTDIE_211 - Ldebug_info_start
+	.long LDIFF_SYM2225
+LTDIE_210:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode"
 
 	.byte 32,16
-LDIFF_SYM2224=LTDIE_99 - Ldebug_info_start
-	.long LDIFF_SYM2224
+LDIFF_SYM2226=LTDIE_99 - Ldebug_info_start
+	.long LDIFF_SYM2226
 	.byte 2,35,0,6
 	.asciz "<Operand>k__BackingField"
 
-LDIFF_SYM2225=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2225
+LDIFF_SYM2227=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2227
 	.byte 2,35,16,6
 	.asciz "<OperatorKind>k__BackingField"
 
-LDIFF_SYM2226=LTDIE_210 - Ldebug_info_start
-	.long LDIFF_SYM2226
+LDIFF_SYM2228=LTDIE_211 - Ldebug_info_start
+	.long LDIFF_SYM2228
 	.byte 2,35,24,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode"
 
-LDIFF_SYM2227=LTDIE_209 - Ldebug_info_start
-	.long LDIFF_SYM2227
-LTDIE_209_POINTER:
+LDIFF_SYM2229=LTDIE_210 - Ldebug_info_start
+	.long LDIFF_SYM2229
+LTDIE_210_POINTER:
 
 	.byte 13
-LDIFF_SYM2228=LTDIE_209 - Ldebug_info_start
-	.long LDIFF_SYM2228
-LTDIE_209_REFERENCE:
+LDIFF_SYM2230=LTDIE_210 - Ldebug_info_start
+	.long LDIFF_SYM2230
+LTDIE_210_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2229=LTDIE_209 - Ldebug_info_start
-	.long LDIFF_SYM2229
+LDIFF_SYM2231=LTDIE_210 - Ldebug_info_start
+	.long LDIFF_SYM2231
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlQueryFormatter:Visit"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode"
@@ -73449,32 +73792,32 @@ LDIFF_SYM2229=LTDIE_209 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2230=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2230
+LDIFF_SYM2232=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2232
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2231=LTDIE_209_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2231
+LDIFF_SYM2233=LTDIE_210_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2233
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2232=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2232
+LDIFF_SYM2234=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2234
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2233=Lfde158_end - Lfde158_start
-	.long LDIFF_SYM2233
+LDIFF_SYM2235=Lfde158_end - Lfde158_start
+	.long LDIFF_SYM2235
 Lfde158_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode
 
-LDIFF_SYM2234=Lme_9e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode
-	.long LDIFF_SYM2234
+LDIFF_SYM2236=Lme_9e - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_UnaryOperatorNode
+	.long LDIFF_SYM2236
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,152,10,153,9,68,154,8
 	.align 3
@@ -73493,37 +73836,37 @@ Lfde158_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2235=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2235
+LDIFF_SYM2237=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2237
 	.byte 1,105,3
 	.asciz "nodeIn"
 
-LDIFF_SYM2236=LTDIE_208_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2236
+LDIFF_SYM2238=LTDIE_209_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2238
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2237=LTDIE_99_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2237
+LDIFF_SYM2239=LTDIE_99_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2239
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2238=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2238
+LDIFF_SYM2240=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2240
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2239=Lfde159_end - Lfde159_start
-	.long LDIFF_SYM2239
+LDIFF_SYM2241=Lfde159_end - Lfde159_start
+	.long LDIFF_SYM2241
 Lfde159_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode
 
-LDIFF_SYM2240=Lme_9f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode
-	.long LDIFF_SYM2240
+LDIFF_SYM2242=Lme_9f - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_Visit_Microsoft_WindowsAzure_MobileServices_Query_ConvertNode
+	.long LDIFF_SYM2242
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,151,16,152,15,68,153,14,154,13
 	.align 3
@@ -73542,37 +73885,37 @@ Lfde159_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2241=LTDIE_104_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2241
+LDIFF_SYM2243=LTDIE_104_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2243
 	.byte 1,105,3
 	.asciz "value"
 
-LDIFF_SYM2242=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2242
+LDIFF_SYM2244=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2244
 	.byte 2,141,40,11
 	.asciz "V_0"
 
-LDIFF_SYM2243=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2243
+LDIFF_SYM2245=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2245
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2244=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2244
+LDIFF_SYM2246=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2246
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2245=Lfde160_end - Lfde160_start
-	.long LDIFF_SYM2245
+LDIFF_SYM2247=Lfde160_end - Lfde160_start
+	.long LDIFF_SYM2247
 Lfde160_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_CreateParameter_object
 
-LDIFF_SYM2246=Lme_a0 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_CreateParameter_object
-	.long LDIFF_SYM2246
+LDIFF_SYM2248=Lme_a0 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter_CreateParameter_object
+	.long LDIFF_SYM2248
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,151,20,152,19,68,153,18
 	.align 3
@@ -73592,45 +73935,45 @@ Lfde160_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2247=Lfde161_end - Lfde161_start
-	.long LDIFF_SYM2247
+LDIFF_SYM2249=Lfde161_end - Lfde161_start
+	.long LDIFF_SYM2249
 Lfde161_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__cctor
 
-LDIFF_SYM2248=Lme_a1 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__cctor
-	.long LDIFF_SYM2248
+LDIFF_SYM2250=Lme_a1 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__cctor
+	.long LDIFF_SYM2250
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
 Lfde161_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_211:
+LTDIE_212:
 
 	.byte 5
 	.asciz "_<>c"
 
 	.byte 16,16
-LDIFF_SYM2249=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2249
+LDIFF_SYM2251=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2251
 	.byte 2,35,0,0,7
 	.asciz "_<>c"
 
-LDIFF_SYM2250=LTDIE_211 - Ldebug_info_start
-	.long LDIFF_SYM2250
-LTDIE_211_POINTER:
+LDIFF_SYM2252=LTDIE_212 - Ldebug_info_start
+	.long LDIFF_SYM2252
+LTDIE_212_POINTER:
 
 	.byte 13
-LDIFF_SYM2251=LTDIE_211 - Ldebug_info_start
-	.long LDIFF_SYM2251
-LTDIE_211_REFERENCE:
+LDIFF_SYM2253=LTDIE_212 - Ldebug_info_start
+	.long LDIFF_SYM2253
+LTDIE_212_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2252=LTDIE_211 - Ldebug_info_start
-	.long LDIFF_SYM2252
+LDIFF_SYM2254=LTDIE_212 - Ldebug_info_start
+	.long LDIFF_SYM2254
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.SqlQueryFormatter/<>c:.ctor"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__ctor"
@@ -73642,22 +73985,22 @@ LDIFF_SYM2252=LTDIE_211 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2253=LTDIE_211_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2253
+LDIFF_SYM2255=LTDIE_212_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2255
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2254=Lfde162_end - Lfde162_start
-	.long LDIFF_SYM2254
+LDIFF_SYM2256=Lfde162_end - Lfde162_start
+	.long LDIFF_SYM2256
 Lfde162_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__ctor
 
-LDIFF_SYM2255=Lme_a2 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__ctor
-	.long LDIFF_SYM2255
+LDIFF_SYM2257=Lme_a2 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__ctor
+	.long LDIFF_SYM2257
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -73676,27 +74019,27 @@ Lfde162_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2256=LTDIE_211_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2256
+LDIFF_SYM2258=LTDIE_212_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2258
 	.byte 2,141,16,3
 	.asciz "c"
 
-LDIFF_SYM2257=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2257
+LDIFF_SYM2259=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2259
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2258=Lfde163_end - Lfde163_start
-	.long LDIFF_SYM2258
+LDIFF_SYM2260=Lfde163_end - Lfde163_start
+	.long LDIFF_SYM2260
 Lfde163_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__FormatSelectb__7_0_string
 
-LDIFF_SYM2259=Lme_a3 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__FormatSelectb__7_0_string
-	.long LDIFF_SYM2259
+LDIFF_SYM2261=Lme_a3 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_SqlQueryFormatter__c__FormatSelectb__7_0_string
+	.long LDIFF_SYM2261
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -73715,22 +74058,22 @@ Lfde163_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2260=LTDIE_111_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2260
+LDIFF_SYM2262=LTDIE_111_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2262
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2261=Lfde164_end - Lfde164_start
-	.long LDIFF_SYM2261
+LDIFF_SYM2263=Lfde164_end - Lfde164_start
+	.long LDIFF_SYM2263
 Lfde164_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_SystemProperties
 
-LDIFF_SYM2262=Lme_a4 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_SystemProperties
-	.long LDIFF_SYM2262
+LDIFF_SYM2264=Lme_a4 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_get_SystemProperties
+	.long LDIFF_SYM2264
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -73749,27 +74092,27 @@ Lfde164_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2263=LTDIE_111_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2263
+LDIFF_SYM2265=LTDIE_111_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2265
 	.byte 2,141,16,3
 	.asciz "value"
 
-LDIFF_SYM2264=LTDIE_97 - Ldebug_info_start
-	.long LDIFF_SYM2264
+LDIFF_SYM2266=LTDIE_97 - Ldebug_info_start
+	.long LDIFF_SYM2266
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2265=Lfde165_end - Lfde165_start
-	.long LDIFF_SYM2265
+LDIFF_SYM2267=Lfde165_end - Lfde165_start
+	.long LDIFF_SYM2267
 Lfde165_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_set_SystemProperties_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties
 
-LDIFF_SYM2266=Lme_a5 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_set_SystemProperties_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties
-	.long LDIFF_SYM2266
+LDIFF_SYM2268=Lme_a5 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition_set_SystemProperties_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties
+	.long LDIFF_SYM2268
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -73788,29 +74131,29 @@ Lfde165_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2267=LTDIE_111_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2267
+LDIFF_SYM2269=LTDIE_111_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2269
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2268=Lfde166_end - Lfde166_start
-	.long LDIFF_SYM2268
+LDIFF_SYM2270=Lfde166_end - Lfde166_start
+	.long LDIFF_SYM2270
 Lfde166_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor
 
-LDIFF_SYM2269=Lme_a6 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor
-	.long LDIFF_SYM2269
+LDIFF_SYM2271=Lme_a6 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor
+	.long LDIFF_SYM2271
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
 Lfde166_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_212:
+LTDIE_213:
 
 	.byte 17
 	.asciz "System_Collections_Generic_IDictionary`2"
@@ -73818,18 +74161,18 @@ LTDIE_212:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IDictionary`2"
 
-LDIFF_SYM2270=LTDIE_212 - Ldebug_info_start
-	.long LDIFF_SYM2270
-LTDIE_212_POINTER:
+LDIFF_SYM2272=LTDIE_213 - Ldebug_info_start
+	.long LDIFF_SYM2272
+LTDIE_213_POINTER:
 
 	.byte 13
-LDIFF_SYM2271=LTDIE_212 - Ldebug_info_start
-	.long LDIFF_SYM2271
-LTDIE_212_REFERENCE:
+LDIFF_SYM2273=LTDIE_213 - Ldebug_info_start
+	.long LDIFF_SYM2273
+LTDIE_213_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2272=LTDIE_212 - Ldebug_info_start
-	.long LDIFF_SYM2272
+LDIFF_SYM2274=LTDIE_213 - Ldebug_info_start
+	.long LDIFF_SYM2274
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.TableDefinition:.ctor"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor_System_Collections_Generic_IDictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties"
@@ -73841,61 +74184,61 @@ LDIFF_SYM2272=LTDIE_212 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2273=LTDIE_111_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2273
+LDIFF_SYM2275=LTDIE_111_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2275
 	.byte 1,104,3
 	.asciz "definition"
 
-LDIFF_SYM2274=LTDIE_212_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2274
+LDIFF_SYM2276=LTDIE_213_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2276
 	.byte 2,141,24,3
 	.asciz "systemProperties"
 
-LDIFF_SYM2275=LTDIE_97 - Ldebug_info_start
-	.long LDIFF_SYM2275
+LDIFF_SYM2277=LTDIE_97 - Ldebug_info_start
+	.long LDIFF_SYM2277
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2276=Lfde167_end - Lfde167_start
-	.long LDIFF_SYM2276
+LDIFF_SYM2278=Lfde167_end - Lfde167_start
+	.long LDIFF_SYM2278
 Lfde167_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor_System_Collections_Generic_IDictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties
 
-LDIFF_SYM2277=Lme_a7 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor_System_Collections_Generic_IDictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties
-	.long LDIFF_SYM2277
+LDIFF_SYM2279=Lme_a7 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_TableDefinition__ctor_System_Collections_Generic_IDictionary_2_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_MobileServiceSystemProperties
+	.long LDIFF_SYM2279
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8
 	.align 3
 Lfde167_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_213:
+LTDIE_214:
 
 	.byte 5
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources"
 
 	.byte 16,16
-LDIFF_SYM2278=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2278
+LDIFF_SYM2280=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2280
 	.byte 2,35,0,0,7
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources"
 
-LDIFF_SYM2279=LTDIE_213 - Ldebug_info_start
-	.long LDIFF_SYM2279
-LTDIE_213_POINTER:
+LDIFF_SYM2281=LTDIE_214 - Ldebug_info_start
+	.long LDIFF_SYM2281
+LTDIE_214_POINTER:
 
 	.byte 13
-LDIFF_SYM2280=LTDIE_213 - Ldebug_info_start
-	.long LDIFF_SYM2280
-LTDIE_213_REFERENCE:
+LDIFF_SYM2282=LTDIE_214 - Ldebug_info_start
+	.long LDIFF_SYM2282
+LTDIE_214_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2281=LTDIE_213 - Ldebug_info_start
-	.long LDIFF_SYM2281
+LDIFF_SYM2283=LTDIE_214 - Ldebug_info_start
+	.long LDIFF_SYM2283
 	.byte 2
 	.asciz "Microsoft.WindowsAzure.MobileServices.SQLiteStore.Properties.Resources:.ctor"
 	.asciz "Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources__ctor"
@@ -73907,22 +74250,22 @@ LDIFF_SYM2281=LTDIE_213 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2282=LTDIE_213_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2282
+LDIFF_SYM2284=LTDIE_214_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2284
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2283=Lfde168_end - Lfde168_start
-	.long LDIFF_SYM2283
+LDIFF_SYM2285=Lfde168_end - Lfde168_start
+	.long LDIFF_SYM2285
 Lfde168_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources__ctor
 
-LDIFF_SYM2284=Lme_a8 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources__ctor
-	.long LDIFF_SYM2284
+LDIFF_SYM2286=Lme_a8 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources__ctor
+	.long LDIFF_SYM2286
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -73942,16 +74285,16 @@ Lfde168_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2285=Lfde169_end - Lfde169_start
-	.long LDIFF_SYM2285
+LDIFF_SYM2287=Lfde169_end - Lfde169_start
+	.long LDIFF_SYM2287
 Lfde169_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_ResourceManager
 
-LDIFF_SYM2286=Lme_a9 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_ResourceManager
-	.long LDIFF_SYM2286
+LDIFF_SYM2288=Lme_a9 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_ResourceManager
+	.long LDIFF_SYM2288
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -73971,16 +74314,16 @@ Lfde169_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2287=Lfde170_end - Lfde170_start
-	.long LDIFF_SYM2287
+LDIFF_SYM2289=Lfde170_end - Lfde170_start
+	.long LDIFF_SYM2289
 Lfde170_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_Culture
 
-LDIFF_SYM2288=Lme_aa - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_Culture
-	.long LDIFF_SYM2288
+LDIFF_SYM2290=Lme_aa - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_Culture
+	.long LDIFF_SYM2290
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -73999,22 +74342,22 @@ Lfde170_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM2289=LTDIE_146_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2289
+LDIFF_SYM2291=LTDIE_146_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2291
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2290=Lfde171_end - Lfde171_start
-	.long LDIFF_SYM2290
+LDIFF_SYM2292=Lfde171_end - Lfde171_start
+	.long LDIFF_SYM2292
 Lfde171_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_set_Culture_System_Globalization_CultureInfo
 
-LDIFF_SYM2291=Lme_ab - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_set_Culture_System_Globalization_CultureInfo
-	.long LDIFF_SYM2291
+LDIFF_SYM2293=Lme_ab - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_set_Culture_System_Globalization_CultureInfo
+	.long LDIFF_SYM2293
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -74034,16 +74377,16 @@ Lfde171_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2292=Lfde172_end - Lfde172_start
-	.long LDIFF_SYM2292
+LDIFF_SYM2294=Lfde172_end - Lfde172_start
+	.long LDIFF_SYM2294
 Lfde172_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_Platform_AssemblyNotFound
 
-LDIFF_SYM2293=Lme_ac - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_Platform_AssemblyNotFound
-	.long LDIFF_SYM2293
+LDIFF_SYM2295=Lme_ac - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_Platform_AssemblyNotFound
+	.long LDIFF_SYM2295
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74063,16 +74406,16 @@ Lfde172_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2294=Lfde173_end - Lfde173_start
-	.long LDIFF_SYM2294
+LDIFF_SYM2296=Lfde173_end - Lfde173_start
+	.long LDIFF_SYM2296
 Lfde173_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_ColumnNotDefined
 
-LDIFF_SYM2295=Lme_ad - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_ColumnNotDefined
-	.long LDIFF_SYM2295
+LDIFF_SYM2297=Lme_ad - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_ColumnNotDefined
+	.long LDIFF_SYM2297
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74092,16 +74435,16 @@ Lfde173_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2296=Lfde174_end - Lfde174_start
-	.long LDIFF_SYM2296
+LDIFF_SYM2298=Lfde174_end - Lfde174_start
+	.long LDIFF_SYM2298
 Lfde174_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineAfterInitialize
 
-LDIFF_SYM2297=Lme_ae - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineAfterInitialize
-	.long LDIFF_SYM2297
+LDIFF_SYM2299=Lme_ae - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineAfterInitialize
+	.long LDIFF_SYM2299
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74121,16 +74464,16 @@ Lfde174_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2298=Lfde175_end - Lfde175_start
-	.long LDIFF_SYM2298
+LDIFF_SYM2300=Lfde175_end - Lfde175_start
+	.long LDIFF_SYM2300
 Lfde175_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineTableEmptyCtorNotDefined
 
-LDIFF_SYM2299=Lme_af - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineTableEmptyCtorNotDefined
-	.long LDIFF_SYM2299
+LDIFF_SYM2301=Lme_af - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineTableEmptyCtorNotDefined
+	.long LDIFF_SYM2301
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74150,16 +74493,16 @@ Lfde175_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2300=Lfde176_end - Lfde176_start
-	.long LDIFF_SYM2300
+LDIFF_SYM2302=Lfde176_end - Lfde176_start
+	.long LDIFF_SYM2302
 Lfde176_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineTableTNotAnObject
 
-LDIFF_SYM2301=Lme_b0 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineTableTNotAnObject
-	.long LDIFF_SYM2301
+LDIFF_SYM2303=Lme_b0 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_DefineTableTNotAnObject
+	.long LDIFF_SYM2303
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74179,16 +74522,16 @@ Lfde176_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2302=Lfde177_end - Lfde177_start
-	.long LDIFF_SYM2302
+LDIFF_SYM2304=Lfde177_end - Lfde177_start
+	.long LDIFF_SYM2304
 Lfde177_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_InvalidIdentifier
 
-LDIFF_SYM2303=Lme_b1 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_InvalidIdentifier
-	.long LDIFF_SYM2303
+LDIFF_SYM2305=Lme_b1 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_InvalidIdentifier
+	.long LDIFF_SYM2305
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74208,16 +74551,16 @@ Lfde177_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2304=Lfde178_end - Lfde178_start
-	.long LDIFF_SYM2304
+LDIFF_SYM2306=Lfde178_end - Lfde178_start
+	.long LDIFF_SYM2306
 Lfde178_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_JTokenNotSupported
 
-LDIFF_SYM2305=Lme_b2 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_JTokenNotSupported
-	.long LDIFF_SYM2305
+LDIFF_SYM2307=Lme_b2 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_JTokenNotSupported
+	.long LDIFF_SYM2307
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74237,16 +74580,16 @@ Lfde178_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2306=Lfde179_end - Lfde179_start
-	.long LDIFF_SYM2306
+LDIFF_SYM2308=Lfde179_end - Lfde179_start
+	.long LDIFF_SYM2308
 Lfde179_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_QueryExecutionFailed
 
-LDIFF_SYM2307=Lme_b3 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_QueryExecutionFailed
-	.long LDIFF_SYM2307
+LDIFF_SYM2309=Lme_b3 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_QueryExecutionFailed
+	.long LDIFF_SYM2309
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74266,16 +74609,16 @@ Lfde179_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2308=Lfde180_end - Lfde180_start
-	.long LDIFF_SYM2308
+LDIFF_SYM2310=Lfde180_end - Lfde180_start
+	.long LDIFF_SYM2310
 Lfde180_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_TableNotDefined
 
-LDIFF_SYM2309=Lme_b4 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_TableNotDefined
-	.long LDIFF_SYM2309
+LDIFF_SYM2311=Lme_b4 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_TableNotDefined
+	.long LDIFF_SYM2311
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74295,16 +74638,16 @@ Lfde180_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2310=Lfde181_end - Lfde181_start
-	.long LDIFF_SYM2310
+LDIFF_SYM2312=Lfde181_end - Lfde181_start
+	.long LDIFF_SYM2312
 Lfde181_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_TooManyColumns
 
-LDIFF_SYM2311=Lme_b5 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_TooManyColumns
-	.long LDIFF_SYM2311
+LDIFF_SYM2313=Lme_b5 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_TooManyColumns
+	.long LDIFF_SYM2313
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74324,16 +74667,16 @@ Lfde181_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2312=Lfde182_end - Lfde182_start
-	.long LDIFF_SYM2312
+LDIFF_SYM2314=Lfde182_end - Lfde182_start
+	.long LDIFF_SYM2314
 Lfde182_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_ValueTypeNotSupported
 
-LDIFF_SYM2313=Lme_b6 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_ValueTypeNotSupported
-	.long LDIFF_SYM2313
+LDIFF_SYM2315=Lme_b6 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_Properties_Resources_get_SQLiteStore_ValueTypeNotSupported
+	.long LDIFF_SYM2315
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -74352,71 +74695,71 @@ Lfde182_end:
 	.byte 2,118,16,3
 	.asciz "s"
 
-LDIFF_SYM2314=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2314
+LDIFF_SYM2316=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2316
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2315=LDIE_U4 - Ldebug_info_start
-	.long LDIFF_SYM2315
+LDIFF_SYM2317=LDIE_U4 - Ldebug_info_start
+	.long LDIFF_SYM2317
 	.byte 1,105,11
 	.asciz "V_1"
 
-LDIFF_SYM2316=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2316
+LDIFF_SYM2318=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2318
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2317=Lfde183_end - Lfde183_start
-	.long LDIFF_SYM2317
+LDIFF_SYM2319=Lfde183_end - Lfde183_start
+	.long LDIFF_SYM2319
 Lfde183_start:
 
 	.long 0
 	.align 3
 	.quad _PrivateImplementationDetails_ComputeStringHash_string
 
-LDIFF_SYM2318=Lme_b7 - _PrivateImplementationDetails_ComputeStringHash_string
-	.long LDIFF_SYM2318
+LDIFF_SYM2320=Lme_b7 - _PrivateImplementationDetails_ComputeStringHash_string
+	.long LDIFF_SYM2320
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7,68,154,6
 	.align 3
 Lfde183_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_214:
+LTDIE_215:
 
 	.byte 5
 	.asciz "_<>f__AnonymousType0`2"
 
 	.byte 32,16
-LDIFF_SYM2319=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2319
+LDIFF_SYM2321=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2321
 	.byte 2,35,0,6
 	.asciz "<property>i__Field"
 
-LDIFF_SYM2320=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2320
+LDIFF_SYM2322=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2322
 	.byte 2,35,16,6
 	.asciz "<storeType>i__Field"
 
-LDIFF_SYM2321=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2321
+LDIFF_SYM2323=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2323
 	.byte 2,35,24,0,7
 	.asciz "_<>f__AnonymousType0`2"
 
-LDIFF_SYM2322=LTDIE_214 - Ldebug_info_start
-	.long LDIFF_SYM2322
-LTDIE_214_POINTER:
+LDIFF_SYM2324=LTDIE_215 - Ldebug_info_start
+	.long LDIFF_SYM2324
+LTDIE_215_POINTER:
 
 	.byte 13
-LDIFF_SYM2323=LTDIE_214 - Ldebug_info_start
-	.long LDIFF_SYM2323
-LTDIE_214_REFERENCE:
+LDIFF_SYM2325=LTDIE_215 - Ldebug_info_start
+	.long LDIFF_SYM2325
+LTDIE_215_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2324=LTDIE_214 - Ldebug_info_start
-	.long LDIFF_SYM2324
+LDIFF_SYM2326=LTDIE_215 - Ldebug_info_start
+	.long LDIFF_SYM2326
 	.byte 2
 	.asciz "<>f__AnonymousType0`2<<property>j__TPar_GSHAREDVT,_<storeType>j__TPar_GSHAREDVT>:get_property"
 	.asciz "_f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_get_property"
@@ -74428,22 +74771,22 @@ LDIFF_SYM2324=LTDIE_214 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2325=LTDIE_214_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2325
+LDIFF_SYM2327=LTDIE_215_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2327
 	.byte 2,141,40,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2326=Lfde184_end - Lfde184_start
-	.long LDIFF_SYM2326
+LDIFF_SYM2328=Lfde184_end - Lfde184_start
+	.long LDIFF_SYM2328
 Lfde184_start:
 
 	.long 0
 	.align 3
 	.quad _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_get_property
 
-LDIFF_SYM2327=Lme_b9 - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_get_property
-	.long LDIFF_SYM2327
+LDIFF_SYM2329=Lme_b9 - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_get_property
+	.long LDIFF_SYM2329
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
 	.align 3
@@ -74462,22 +74805,22 @@ Lfde184_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2328=LTDIE_214_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2328
+LDIFF_SYM2330=LTDIE_215_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2330
 	.byte 2,141,40,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2329=Lfde185_end - Lfde185_start
-	.long LDIFF_SYM2329
+LDIFF_SYM2331=Lfde185_end - Lfde185_start
+	.long LDIFF_SYM2331
 Lfde185_start:
 
 	.long 0
 	.align 3
 	.quad _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_get_storeType
 
-LDIFF_SYM2330=Lme_ba - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_get_storeType
-	.long LDIFF_SYM2330
+LDIFF_SYM2332=Lme_ba - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_get_storeType
+	.long LDIFF_SYM2332
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
 	.align 3
@@ -74496,32 +74839,32 @@ Lfde185_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2331=LTDIE_214_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2331
+LDIFF_SYM2333=LTDIE_215_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2333
 	.byte 2,141,32,3
 	.asciz "property"
 
-LDIFF_SYM2332=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2332
+LDIFF_SYM2334=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2334
 	.byte 1,80,3
 	.asciz "storeType"
 
-LDIFF_SYM2333=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2333
+LDIFF_SYM2335=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2335
 	.byte 1,80,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2334=Lfde186_end - Lfde186_start
-	.long LDIFF_SYM2334
+LDIFF_SYM2336=Lfde186_end - Lfde186_start
+	.long LDIFF_SYM2336
 Lfde186_start:
 
 	.long 0
 	.align 3
 	.quad _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT__ctor__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT
 
-LDIFF_SYM2335=Lme_bb - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT__ctor__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT
-	.long LDIFF_SYM2335
+LDIFF_SYM2337=Lme_bb - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT__ctor__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT
+	.long LDIFF_SYM2337
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,153,14,154,13
 	.align 3
@@ -74540,32 +74883,32 @@ Lfde186_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2336=LTDIE_214_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2336
+LDIFF_SYM2338=LTDIE_215_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2338
 	.byte 2,141,40,3
 	.asciz "value"
 
-LDIFF_SYM2337=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2337
+LDIFF_SYM2339=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2339
 	.byte 2,141,48,11
 	.asciz "V_0"
 
-LDIFF_SYM2338=LTDIE_214_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2338
+LDIFF_SYM2340=LTDIE_215_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2340
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2339=Lfde187_end - Lfde187_start
-	.long LDIFF_SYM2339
+LDIFF_SYM2341=Lfde187_end - Lfde187_start
+	.long LDIFF_SYM2341
 Lfde187_start:
 
 	.long 0
 	.align 3
 	.quad _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_Equals_object
 
-LDIFF_SYM2340=Lme_bc - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_Equals_object
-	.long LDIFF_SYM2340
+LDIFF_SYM2342=Lme_bc - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_Equals_object
+	.long LDIFF_SYM2342
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,151,14,152,13,68,153,12
 	.align 3
@@ -74584,22 +74927,22 @@ Lfde187_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2341=LTDIE_214_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2341
+LDIFF_SYM2343=LTDIE_215_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2343
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2342=Lfde188_end - Lfde188_start
-	.long LDIFF_SYM2342
+LDIFF_SYM2344=Lfde188_end - Lfde188_start
+	.long LDIFF_SYM2344
 Lfde188_start:
 
 	.long 0
 	.align 3
 	.quad _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_GetHashCode
 
-LDIFF_SYM2343=Lme_bd - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_GetHashCode
-	.long LDIFF_SYM2343
+LDIFF_SYM2345=Lme_bd - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_GetHashCode
+	.long LDIFF_SYM2345
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,153,14,154,13
 	.align 3
@@ -74618,49 +74961,49 @@ Lfde188_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2344=LTDIE_214_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2344
+LDIFF_SYM2346=LTDIE_215_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2346
 	.byte 2,141,40,11
 	.asciz "V_0"
-
-LDIFF_SYM2345=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2345
-	.byte 1,80,11
-	.asciz "V_1"
-
-LDIFF_SYM2346=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2346
-	.byte 1,80,11
-	.asciz "V_2"
 
 LDIFF_SYM2347=LDIE_I4 - Ldebug_info_start
 	.long LDIFF_SYM2347
 	.byte 1,80,11
-	.asciz "V_3"
+	.asciz "V_1"
 
 LDIFF_SYM2348=LDIE_I4 - Ldebug_info_start
 	.long LDIFF_SYM2348
+	.byte 1,80,11
+	.asciz "V_2"
+
+LDIFF_SYM2349=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2349
+	.byte 1,80,11
+	.asciz "V_3"
+
+LDIFF_SYM2350=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2350
 	.byte 1,80,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2349=Lfde189_end - Lfde189_start
-	.long LDIFF_SYM2349
+LDIFF_SYM2351=Lfde189_end - Lfde189_start
+	.long LDIFF_SYM2351
 Lfde189_start:
 
 	.long 0
 	.align 3
 	.quad _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_ToString
 
-LDIFF_SYM2350=Lme_be - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_ToString
-	.long LDIFF_SYM2350
+LDIFF_SYM2352=Lme_be - _f__AnonymousType0_2__propertyj__TPar_GSHAREDVT__storeTypej__TPar_GSHAREDVT_ToString
+	.long LDIFF_SYM2352
 	.long 0
 	.byte 12,31,0,68,14,208,3,157,58,158,57,68,13,29,68,150,56,68,153,55,154,54
 	.align 3
 Lfde189_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_215:
+LTDIE_216:
 
 	.byte 17
 	.asciz "System_Collections_Generic_IEnumerable`1"
@@ -74668,18 +75011,18 @@ LTDIE_215:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IEnumerable`1"
 
-LDIFF_SYM2351=LTDIE_215 - Ldebug_info_start
-	.long LDIFF_SYM2351
-LTDIE_215_POINTER:
+LDIFF_SYM2353=LTDIE_216 - Ldebug_info_start
+	.long LDIFF_SYM2353
+LTDIE_216_POINTER:
 
 	.byte 13
-LDIFF_SYM2352=LTDIE_215 - Ldebug_info_start
-	.long LDIFF_SYM2352
-LTDIE_215_REFERENCE:
+LDIFF_SYM2354=LTDIE_216 - Ldebug_info_start
+	.long LDIFF_SYM2354
+LTDIE_216_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2353=LTDIE_215 - Ldebug_info_start
-	.long LDIFF_SYM2353
+LDIFF_SYM2355=LTDIE_216 - Ldebug_info_start
+	.long LDIFF_SYM2355
 	.byte 2
 	.asciz "System.Collections.Generic.EnumerableExtensions:Split<T_GSHAREDVT>"
 	.asciz "System_Collections_Generic_EnumerableExtensions_Split_T_GSHAREDVT_System_Collections_Generic_IEnumerable_1_T_GSHAREDVT_int"
@@ -74691,136 +75034,136 @@ LDIFF_SYM2353=LTDIE_215 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "source"
 
-LDIFF_SYM2354=LTDIE_215_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2354
+LDIFF_SYM2356=LTDIE_216_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2356
 	.byte 2,141,40,3
 	.asciz "maxLength"
 
-LDIFF_SYM2355=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2355
+LDIFF_SYM2357=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2357
 	.byte 2,141,48,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2356=Lfde190_end - Lfde190_start
-	.long LDIFF_SYM2356
+LDIFF_SYM2358=Lfde190_end - Lfde190_start
+	.long LDIFF_SYM2358
 Lfde190_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions_Split_T_GSHAREDVT_System_Collections_Generic_IEnumerable_1_T_GSHAREDVT_int
 
-LDIFF_SYM2357=Lme_bf - System_Collections_Generic_EnumerableExtensions_Split_T_GSHAREDVT_System_Collections_Generic_IEnumerable_1_T_GSHAREDVT_int
-	.long LDIFF_SYM2357
+LDIFF_SYM2359=Lme_bf - System_Collections_Generic_EnumerableExtensions_Split_T_GSHAREDVT_System_Collections_Generic_IEnumerable_1_T_GSHAREDVT_int
+	.long LDIFF_SYM2359
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,150,14,151,13,68,152,12
 	.align 3
 Lfde190_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_217:
-
-	.byte 17
-	.asciz "System_Collections_Generic_IEnumerable`1"
-
-	.byte 16,7
-	.asciz "System_Collections_Generic_IEnumerable`1"
-
-LDIFF_SYM2358=LTDIE_217 - Ldebug_info_start
-	.long LDIFF_SYM2358
-LTDIE_217_POINTER:
-
-	.byte 13
-LDIFF_SYM2359=LTDIE_217 - Ldebug_info_start
-	.long LDIFF_SYM2359
-LTDIE_217_REFERENCE:
-
-	.byte 14
-LDIFF_SYM2360=LTDIE_217 - Ldebug_info_start
-	.long LDIFF_SYM2360
 LTDIE_218:
 
 	.byte 17
+	.asciz "System_Collections_Generic_IEnumerable`1"
+
+	.byte 16,7
+	.asciz "System_Collections_Generic_IEnumerable`1"
+
+LDIFF_SYM2360=LTDIE_218 - Ldebug_info_start
+	.long LDIFF_SYM2360
+LTDIE_218_POINTER:
+
+	.byte 13
+LDIFF_SYM2361=LTDIE_218 - Ldebug_info_start
+	.long LDIFF_SYM2361
+LTDIE_218_REFERENCE:
+
+	.byte 14
+LDIFF_SYM2362=LTDIE_218 - Ldebug_info_start
+	.long LDIFF_SYM2362
+LTDIE_219:
+
+	.byte 17
 	.asciz "System_Collections_Generic_IEnumerator`1"
 
 	.byte 16,7
 	.asciz "System_Collections_Generic_IEnumerator`1"
 
-LDIFF_SYM2361=LTDIE_218 - Ldebug_info_start
-	.long LDIFF_SYM2361
-LTDIE_218_POINTER:
+LDIFF_SYM2363=LTDIE_219 - Ldebug_info_start
+	.long LDIFF_SYM2363
+LTDIE_219_POINTER:
 
 	.byte 13
-LDIFF_SYM2362=LTDIE_218 - Ldebug_info_start
-	.long LDIFF_SYM2362
-LTDIE_218_REFERENCE:
+LDIFF_SYM2364=LTDIE_219 - Ldebug_info_start
+	.long LDIFF_SYM2364
+LTDIE_219_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2363=LTDIE_218 - Ldebug_info_start
-	.long LDIFF_SYM2363
-LTDIE_216:
+LDIFF_SYM2365=LTDIE_219 - Ldebug_info_start
+	.long LDIFF_SYM2365
+LTDIE_217:
 
 	.byte 5
 	.asciz "_<Split>d__0`1"
 
 	.byte 64,16
-LDIFF_SYM2364=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2364
+LDIFF_SYM2366=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2366
 	.byte 2,35,0,6
 	.asciz "<>1__state"
 
-LDIFF_SYM2365=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2365
+LDIFF_SYM2367=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2367
 	.byte 2,35,48,6
 	.asciz "<>2__current"
 
-LDIFF_SYM2366=LTDIE_217_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2366
+LDIFF_SYM2368=LTDIE_218_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2368
 	.byte 2,35,16,6
 	.asciz "<>l__initialThreadId"
 
-LDIFF_SYM2367=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2367
+LDIFF_SYM2369=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2369
 	.byte 2,35,52,6
 	.asciz "source"
 
-LDIFF_SYM2368=LTDIE_217_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2368
+LDIFF_SYM2370=LTDIE_218_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2370
 	.byte 2,35,24,6
 	.asciz "<>3__source"
 
-LDIFF_SYM2369=LTDIE_217_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2369
+LDIFF_SYM2371=LTDIE_218_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2371
 	.byte 2,35,32,6
 	.asciz "maxLength"
 
-LDIFF_SYM2370=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2370
+LDIFF_SYM2372=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2372
 	.byte 2,35,56,6
 	.asciz "<>3__maxLength"
 
-LDIFF_SYM2371=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2371
+LDIFF_SYM2373=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2373
 	.byte 2,35,60,6
 	.asciz "<enumerator>5__2"
 
-LDIFF_SYM2372=LTDIE_218_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2372
+LDIFF_SYM2374=LTDIE_219_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2374
 	.byte 2,35,40,0,7
 	.asciz "_<Split>d__0`1"
 
-LDIFF_SYM2373=LTDIE_216 - Ldebug_info_start
-	.long LDIFF_SYM2373
-LTDIE_216_POINTER:
+LDIFF_SYM2375=LTDIE_217 - Ldebug_info_start
+	.long LDIFF_SYM2375
+LTDIE_217_POINTER:
 
 	.byte 13
-LDIFF_SYM2374=LTDIE_216 - Ldebug_info_start
-	.long LDIFF_SYM2374
-LTDIE_216_REFERENCE:
+LDIFF_SYM2376=LTDIE_217 - Ldebug_info_start
+	.long LDIFF_SYM2376
+LTDIE_217_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2375=LTDIE_216 - Ldebug_info_start
-	.long LDIFF_SYM2375
+LDIFF_SYM2377=LTDIE_217 - Ldebug_info_start
+	.long LDIFF_SYM2377
 	.byte 2
 	.asciz "System.Collections.Generic.EnumerableExtensions/<Split>d__0`1<T_GSHAREDVT>:.ctor"
 	.asciz "System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT__ctor_int"
@@ -74832,27 +75175,27 @@ LDIFF_SYM2375=LTDIE_216 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2376=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2376
+LDIFF_SYM2378=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2378
 	.byte 2,141,24,3
 	.asciz "<>1__state"
 
-LDIFF_SYM2377=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2377
+LDIFF_SYM2379=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2379
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2378=Lfde191_end - Lfde191_start
-	.long LDIFF_SYM2378
+LDIFF_SYM2380=Lfde191_end - Lfde191_start
+	.long LDIFF_SYM2380
 Lfde191_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT__ctor_int
 
-LDIFF_SYM2379=Lme_c0 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT__ctor_int
-	.long LDIFF_SYM2379
+LDIFF_SYM2381=Lme_c0 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT__ctor_int
+	.long LDIFF_SYM2381
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10
 	.align 3
@@ -74871,71 +75214,71 @@ Lfde191_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2380=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2380
+LDIFF_SYM2382=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2382
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2381=Lfde192_end - Lfde192_start
-	.long LDIFF_SYM2381
+LDIFF_SYM2383=Lfde192_end - Lfde192_start
+	.long LDIFF_SYM2383
 Lfde192_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_IDisposable_Dispose
 
-LDIFF_SYM2382=Lme_c1 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_IDisposable_Dispose
-	.long LDIFF_SYM2382
+LDIFF_SYM2384=Lme_c1 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_IDisposable_Dispose
+	.long LDIFF_SYM2384
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
 Lfde192_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_219:
+LTDIE_220:
 
 	.byte 5
 	.asciz "System_Collections_Generic_List`1"
 
 	.byte 40,16
-LDIFF_SYM2383=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2383
+LDIFF_SYM2385=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2385
 	.byte 2,35,0,6
 	.asciz "_items"
 
-LDIFF_SYM2384=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM2384
+LDIFF_SYM2386=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM2386
 	.byte 2,35,16,6
 	.asciz "_size"
 
-LDIFF_SYM2385=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2385
+LDIFF_SYM2387=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2387
 	.byte 2,35,32,6
 	.asciz "_version"
 
-LDIFF_SYM2386=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2386
+LDIFF_SYM2388=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2388
 	.byte 2,35,36,6
 	.asciz "_syncRoot"
 
-LDIFF_SYM2387=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2387
+LDIFF_SYM2389=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2389
 	.byte 2,35,24,0,7
 	.asciz "System_Collections_Generic_List`1"
 
-LDIFF_SYM2388=LTDIE_219 - Ldebug_info_start
-	.long LDIFF_SYM2388
-LTDIE_219_POINTER:
+LDIFF_SYM2390=LTDIE_220 - Ldebug_info_start
+	.long LDIFF_SYM2390
+LTDIE_220_POINTER:
 
 	.byte 13
-LDIFF_SYM2389=LTDIE_219 - Ldebug_info_start
-	.long LDIFF_SYM2389
-LTDIE_219_REFERENCE:
+LDIFF_SYM2391=LTDIE_220 - Ldebug_info_start
+	.long LDIFF_SYM2391
+LTDIE_220_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2390=LTDIE_219 - Ldebug_info_start
-	.long LDIFF_SYM2390
+LDIFF_SYM2392=LTDIE_220 - Ldebug_info_start
+	.long LDIFF_SYM2392
 	.byte 2
 	.asciz "System.Collections.Generic.EnumerableExtensions/<Split>d__0`1<T_GSHAREDVT>:MoveNext"
 	.asciz "System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_MoveNext"
@@ -74947,32 +75290,32 @@ LDIFF_SYM2390=LTDIE_219 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2391=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2391
+LDIFF_SYM2393=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2393
 	.byte 2,141,56,11
 	.asciz "V_0"
 
-LDIFF_SYM2392=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2392
+LDIFF_SYM2394=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2394
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2393=LTDIE_219_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2393
+LDIFF_SYM2395=LTDIE_220_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2395
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2394=Lfde193_end - Lfde193_start
-	.long LDIFF_SYM2394
+LDIFF_SYM2396=Lfde193_end - Lfde193_start
+	.long LDIFF_SYM2396
 Lfde193_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_MoveNext
 
-LDIFF_SYM2395=Lme_c2 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_MoveNext
-	.long LDIFF_SYM2395
+LDIFF_SYM2397=Lme_c2 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_MoveNext
+	.long LDIFF_SYM2397
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,150,18,151,17,68,152,16,153,15,68,154,14
 	.align 3
@@ -74991,22 +75334,22 @@ Lfde193_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2396=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2396
+LDIFF_SYM2398=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2398
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2397=Lfde194_end - Lfde194_start
-	.long LDIFF_SYM2397
+LDIFF_SYM2399=Lfde194_end - Lfde194_start
+	.long LDIFF_SYM2399
 Lfde194_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_Generic_IEnumerator_System_Collections_Generic_IEnumerable_T_get_Current
 
-LDIFF_SYM2398=Lme_c3 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_Generic_IEnumerator_System_Collections_Generic_IEnumerable_T_get_Current
-	.long LDIFF_SYM2398
+LDIFF_SYM2400=Lme_c3 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_Generic_IEnumerator_System_Collections_Generic_IEnumerable_T_get_Current
+	.long LDIFF_SYM2400
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
 	.align 3
@@ -75025,22 +75368,22 @@ Lfde194_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2399=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2399
+LDIFF_SYM2401=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2401
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2400=Lfde195_end - Lfde195_start
-	.long LDIFF_SYM2400
+LDIFF_SYM2402=Lfde195_end - Lfde195_start
+	.long LDIFF_SYM2402
 Lfde195_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM2401=Lme_c4 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerator_Reset
-	.long LDIFF_SYM2401
+LDIFF_SYM2403=Lme_c4 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerator_Reset
+	.long LDIFF_SYM2403
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -75059,22 +75402,22 @@ Lfde195_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2402=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2402
+LDIFF_SYM2404=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2404
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2403=Lfde196_end - Lfde196_start
-	.long LDIFF_SYM2403
+LDIFF_SYM2405=Lfde196_end - Lfde196_start
+	.long LDIFF_SYM2405
 Lfde196_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM2404=Lme_c5 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerator_get_Current
-	.long LDIFF_SYM2404
+LDIFF_SYM2406=Lme_c5 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerator_get_Current
+	.long LDIFF_SYM2406
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
 	.align 3
@@ -75093,27 +75436,27 @@ Lfde196_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2405=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2405
+LDIFF_SYM2407=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2407
 	.byte 2,141,32,11
 	.asciz "V_0"
 
-LDIFF_SYM2406=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2406
+LDIFF_SYM2408=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2408
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2407=Lfde197_end - Lfde197_start
-	.long LDIFF_SYM2407
+LDIFF_SYM2409=Lfde197_end - Lfde197_start
+	.long LDIFF_SYM2409
 Lfde197_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_T_GetEnumerator
 
-LDIFF_SYM2408=Lme_c6 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_T_GetEnumerator
-	.long LDIFF_SYM2408
+LDIFF_SYM2410=Lme_c6 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_T_GetEnumerator
+	.long LDIFF_SYM2410
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
 	.align 3
@@ -75132,22 +75475,22 @@ Lfde197_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2409=LTDIE_216_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2409
+LDIFF_SYM2411=LTDIE_217_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2411
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2410=Lfde198_end - Lfde198_start
-	.long LDIFF_SYM2410
+LDIFF_SYM2412=Lfde198_end - Lfde198_start
+	.long LDIFF_SYM2412
 Lfde198_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerable_GetEnumerator
 
-LDIFF_SYM2411=Lme_c7 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerable_GetEnumerator
-	.long LDIFF_SYM2411
+LDIFF_SYM2413=Lme_c7 - System_Collections_Generic_EnumerableExtensions__Splitd__0_1_T_GSHAREDVT_System_Collections_IEnumerable_GetEnumerator
+	.long LDIFF_SYM2413
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -75166,27 +75509,27 @@ Lfde198_end:
 	.byte 2,118,16,3
 	.asciz "store"
 
-LDIFF_SYM2412=LTDIE_11_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2412
+LDIFF_SYM2414=LTDIE_11_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2414
 	.byte 2,141,24,11
 	.asciz "V_0"
 
-LDIFF_SYM2413=LTDIE_144_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2413
+LDIFF_SYM2415=LTDIE_144_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2415
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2414=Lfde199_end - Lfde199_start
-	.long LDIFF_SYM2414
+LDIFF_SYM2416=Lfde199_end - Lfde199_start
+	.long LDIFF_SYM2416
 Lfde199_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore
 
-LDIFF_SYM2415=Lme_c8 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore
-	.long LDIFF_SYM2415
+LDIFF_SYM2417=Lme_c8 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore
+	.long LDIFF_SYM2417
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,152,12
 	.align 3
@@ -75205,42 +75548,42 @@ Lfde199_end:
 	.byte 2,118,16,3
 	.asciz "store"
 
-LDIFF_SYM2416=LTDIE_11_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2416
+LDIFF_SYM2418=LTDIE_11_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2418
 	.byte 3,141,192,0,3
 	.asciz "settings"
 
-LDIFF_SYM2417=LTDIE_144_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2417
+LDIFF_SYM2419=LTDIE_144_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2419
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2418=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2418
+LDIFF_SYM2420=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2420
 	.byte 1,103,11
 	.asciz "V_1"
 
-LDIFF_SYM2419=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2419
+LDIFF_SYM2421=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2421
 	.byte 1,102,11
 	.asciz "V_2"
 
-LDIFF_SYM2420=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2420
+LDIFF_SYM2422=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2422
 	.byte 3,141,248,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2421=Lfde200_end - Lfde200_start
-	.long LDIFF_SYM2421
+LDIFF_SYM2423=Lfde200_end - Lfde200_start
+	.long LDIFF_SYM2423
 Lfde200_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings
 
-LDIFF_SYM2422=Lme_c9 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings
-	.long LDIFF_SYM2422
+LDIFF_SYM2424=Lme_c9 - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_DefineTable_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings
+	.long LDIFF_SYM2424
 	.long 0
 	.byte 12,31,0,68,14,224,1,157,28,158,27,68,13,29,68,147,26,148,25,68,149,24,150,23,68,151,22,68,154,21
 	.align 3
@@ -75259,94 +75602,94 @@ Lfde200_end:
 	.byte 2,118,16,3
 	.asciz "settings"
 
-LDIFF_SYM2423=LTDIE_144_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2423
+LDIFF_SYM2425=LTDIE_144_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2425
 	.byte 2,141,32,3
 	.asciz "item"
 
-LDIFF_SYM2424=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2424
+LDIFF_SYM2426=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2426
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2425=LTDIE_186_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2425
+LDIFF_SYM2427=LTDIE_187_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2427
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2426=Lfde201_end - Lfde201_start
-	.long LDIFF_SYM2426
+LDIFF_SYM2428=Lfde201_end - Lfde201_start
+	.long LDIFF_SYM2428
 Lfde201_start:
 
 	.long 0
 	.align 3
 	.quad Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetIdDefault_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_Newtonsoft_Json_Linq_JObject
 
-LDIFF_SYM2427=Lme_ca - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetIdDefault_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_Newtonsoft_Json_Linq_JObject
-	.long LDIFF_SYM2427
+LDIFF_SYM2429=Lme_ca - Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStoreExtensions_SetIdDefault_T_GSHAREDVT_Microsoft_WindowsAzure_MobileServices_MobileServiceJsonSerializerSettings_Newtonsoft_Json_Linq_JObject
+	.long LDIFF_SYM2429
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,151,14,68,154,13
 	.align 3
 Lfde201_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_221:
+LTDIE_222:
 
 	.byte 5
 	.asciz "System_Array"
 
 	.byte 16,16
-LDIFF_SYM2428=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2428
+LDIFF_SYM2430=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2430
 	.byte 2,35,0,0,7
 	.asciz "System_Array"
 
-LDIFF_SYM2429=LTDIE_221 - Ldebug_info_start
-	.long LDIFF_SYM2429
-LTDIE_221_POINTER:
+LDIFF_SYM2431=LTDIE_222 - Ldebug_info_start
+	.long LDIFF_SYM2431
+LTDIE_222_POINTER:
 
 	.byte 13
-LDIFF_SYM2430=LTDIE_221 - Ldebug_info_start
-	.long LDIFF_SYM2430
-LTDIE_221_REFERENCE:
+LDIFF_SYM2432=LTDIE_222 - Ldebug_info_start
+	.long LDIFF_SYM2432
+LTDIE_222_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2431=LTDIE_221 - Ldebug_info_start
-	.long LDIFF_SYM2431
-LTDIE_220:
+LDIFF_SYM2433=LTDIE_222 - Ldebug_info_start
+	.long LDIFF_SYM2433
+LTDIE_221:
 
 	.byte 5
 	.asciz "_InternalEnumerator`1"
 
 	.byte 32,16
-LDIFF_SYM2432=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM2432
+LDIFF_SYM2434=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM2434
 	.byte 2,35,0,6
 	.asciz "array"
 
-LDIFF_SYM2433=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2433
+LDIFF_SYM2435=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2435
 	.byte 2,35,16,6
 	.asciz "idx"
 
-LDIFF_SYM2434=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2434
+LDIFF_SYM2436=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2436
 	.byte 2,35,24,0,7
 	.asciz "_InternalEnumerator`1"
 
-LDIFF_SYM2435=LTDIE_220 - Ldebug_info_start
-	.long LDIFF_SYM2435
-LTDIE_220_POINTER:
+LDIFF_SYM2437=LTDIE_221 - Ldebug_info_start
+	.long LDIFF_SYM2437
+LTDIE_221_POINTER:
 
 	.byte 13
-LDIFF_SYM2436=LTDIE_220 - Ldebug_info_start
-	.long LDIFF_SYM2436
-LTDIE_220_REFERENCE:
+LDIFF_SYM2438=LTDIE_221 - Ldebug_info_start
+	.long LDIFF_SYM2438
+LTDIE_221_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2437=LTDIE_220 - Ldebug_info_start
-	.long LDIFF_SYM2437
+LDIFF_SYM2439=LTDIE_221 - Ldebug_info_start
+	.long LDIFF_SYM2439
 	.byte 2
 	.asciz "System.Array/InternalEnumerator`1<T_INST>:.ctor"
 	.asciz "System_Array_InternalEnumerator_1_T_INST__ctor_System_Array"
@@ -75358,27 +75701,27 @@ LDIFF_SYM2437=LTDIE_220 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2438=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2438
+LDIFF_SYM2440=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2440
 	.byte 1,105,3
 	.asciz "array"
 
-LDIFF_SYM2439=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2439
+LDIFF_SYM2441=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2441
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2440=Lfde202_end - Lfde202_start
-	.long LDIFF_SYM2440
+LDIFF_SYM2442=Lfde202_end - Lfde202_start
+	.long LDIFF_SYM2442
 Lfde202_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalEnumerator_1_T_INST__ctor_System_Array
 
-LDIFF_SYM2441=Lme_cc - System_Array_InternalEnumerator_1_T_INST__ctor_System_Array
-	.long LDIFF_SYM2441
+LDIFF_SYM2443=Lme_cc - System_Array_InternalEnumerator_1_T_INST__ctor_System_Array
+	.long LDIFF_SYM2443
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
@@ -75397,22 +75740,22 @@ Lfde202_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2442=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2442
+LDIFF_SYM2444=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2444
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2443=Lfde203_end - Lfde203_start
-	.long LDIFF_SYM2443
+LDIFF_SYM2445=Lfde203_end - Lfde203_start
+	.long LDIFF_SYM2445
 Lfde203_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalEnumerator_1_T_INST_Dispose
 
-LDIFF_SYM2444=Lme_cd - System_Array_InternalEnumerator_1_T_INST_Dispose
-	.long LDIFF_SYM2444
+LDIFF_SYM2446=Lme_cd - System_Array_InternalEnumerator_1_T_INST_Dispose
+	.long LDIFF_SYM2446
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -75431,27 +75774,27 @@ Lfde203_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2445=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2445
+LDIFF_SYM2447=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2447
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2446=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2446
+LDIFF_SYM2448=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2448
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2447=Lfde204_end - Lfde204_start
-	.long LDIFF_SYM2447
+LDIFF_SYM2449=Lfde204_end - Lfde204_start
+	.long LDIFF_SYM2449
 Lfde204_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalEnumerator_1_T_INST_MoveNext
 
-LDIFF_SYM2448=Lme_ce - System_Array_InternalEnumerator_1_T_INST_MoveNext
-	.long LDIFF_SYM2448
+LDIFF_SYM2450=Lme_ce - System_Array_InternalEnumerator_1_T_INST_MoveNext
+	.long LDIFF_SYM2450
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
 	.align 3
@@ -75470,22 +75813,22 @@ Lfde204_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2449=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2449
+LDIFF_SYM2451=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2451
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2450=Lfde205_end - Lfde205_start
-	.long LDIFF_SYM2450
+LDIFF_SYM2452=Lfde205_end - Lfde205_start
+	.long LDIFF_SYM2452
 Lfde205_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalEnumerator_1_T_INST_get_Current
 
-LDIFF_SYM2451=Lme_cf - System_Array_InternalEnumerator_1_T_INST_get_Current
-	.long LDIFF_SYM2451
+LDIFF_SYM2453=Lme_cf - System_Array_InternalEnumerator_1_T_INST_get_Current
+	.long LDIFF_SYM2453
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,154,16
 	.align 3
@@ -75504,22 +75847,22 @@ Lfde205_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2452=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2452
+LDIFF_SYM2454=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2454
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2453=Lfde206_end - Lfde206_start
-	.long LDIFF_SYM2453
+LDIFF_SYM2455=Lfde206_end - Lfde206_start
+	.long LDIFF_SYM2455
 Lfde206_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalEnumerator_1_T_INST_System_Collections_IEnumerator_Reset
 
-LDIFF_SYM2454=Lme_d0 - System_Array_InternalEnumerator_1_T_INST_System_Collections_IEnumerator_Reset
-	.long LDIFF_SYM2454
+LDIFF_SYM2456=Lme_d0 - System_Array_InternalEnumerator_1_T_INST_System_Collections_IEnumerator_Reset
+	.long LDIFF_SYM2456
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -75538,22 +75881,22 @@ Lfde206_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2455=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2455
+LDIFF_SYM2457=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2457
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2456=Lfde207_end - Lfde207_start
-	.long LDIFF_SYM2456
+LDIFF_SYM2458=Lfde207_end - Lfde207_start
+	.long LDIFF_SYM2458
 Lfde207_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalEnumerator_1_T_INST_System_Collections_IEnumerator_get_Current
 
-LDIFF_SYM2457=Lme_d1 - System_Array_InternalEnumerator_1_T_INST_System_Collections_IEnumerator_get_Current
-	.long LDIFF_SYM2457
+LDIFF_SYM2459=Lme_d1 - System_Array_InternalEnumerator_1_T_INST_System_Collections_IEnumerator_get_Current
+	.long LDIFF_SYM2459
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
 	.align 3
@@ -75572,51 +75915,51 @@ Lfde207_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2458=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2458
+LDIFF_SYM2460=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2460
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2459=Lfde208_end - Lfde208_start
-	.long LDIFF_SYM2459
+LDIFF_SYM2461=Lfde208_end - Lfde208_start
+	.long LDIFF_SYM2461
 Lfde208_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__IEnumerable_GetEnumerator_T_INST
 
-LDIFF_SYM2460=Lme_d2 - System_Array_InternalArray__IEnumerable_GetEnumerator_T_INST
-	.long LDIFF_SYM2460
+LDIFF_SYM2462=Lme_d2 - System_Array_InternalArray__IEnumerable_GetEnumerator_T_INST
+	.long LDIFF_SYM2462
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
 	.align 3
 Lfde208_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_222:
+LTDIE_223:
 
 	.byte 5
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM2461=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2461
+LDIFF_SYM2463=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2463
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM2462=LTDIE_222 - Ldebug_info_start
-	.long LDIFF_SYM2462
-LTDIE_222_POINTER:
+LDIFF_SYM2464=LTDIE_223 - Ldebug_info_start
+	.long LDIFF_SYM2464
+LTDIE_223_POINTER:
 
 	.byte 13
-LDIFF_SYM2463=LTDIE_222 - Ldebug_info_start
-	.long LDIFF_SYM2463
-LTDIE_222_REFERENCE:
+LDIFF_SYM2465=LTDIE_223 - Ldebug_info_start
+	.long LDIFF_SYM2465
+LTDIE_223_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2464=LTDIE_222 - Ldebug_info_start
-	.long LDIFF_SYM2464
+LDIFF_SYM2466=LTDIE_223 - Ldebug_info_start
+	.long LDIFF_SYM2466
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<Newtonsoft.Json.Linq.JProperty,_<>f__AnonymousType0`2<Newtonsoft.Json.Linq.JProperty,_string>>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JProperty__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_invoke_TResult_T_Newtonsoft_Json_Linq_JProperty"
@@ -75628,57 +75971,57 @@ LDIFF_SYM2464=LTDIE_222 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2465=LTDIE_222_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2465
+LDIFF_SYM2467=LTDIE_223_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2467
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2466=LTDIE_113_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2466
+LDIFF_SYM2468=LTDIE_113_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2468
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2467=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2467
+LDIFF_SYM2469=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2469
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2468=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2468
+LDIFF_SYM2470=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2470
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2469=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2469
+LDIFF_SYM2471=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2471
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2470=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2470
+LDIFF_SYM2472=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2472
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2471=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2471
+LDIFF_SYM2473=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2473
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2472=LTDIE_137_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2472
+LDIFF_SYM2474=LTDIE_137_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2474
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2473=Lfde209_end - Lfde209_start
-	.long LDIFF_SYM2473
+LDIFF_SYM2475=Lfde209_end - Lfde209_start
+	.long LDIFF_SYM2475
 Lfde209_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JProperty__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_invoke_TResult_T_Newtonsoft_Json_Linq_JProperty
 
-LDIFF_SYM2474=Lme_d3 - wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JProperty__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_invoke_TResult_T_Newtonsoft_Json_Linq_JProperty
-	.long LDIFF_SYM2474
+LDIFF_SYM2476=Lme_d3 - wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JProperty__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_invoke_TResult_T_Newtonsoft_Json_Linq_JProperty
+	.long LDIFF_SYM2476
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -75686,29 +76029,29 @@ LDIFF_SYM2474=Lme_d3 - wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Lin
 Lfde209_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_223:
+LTDIE_224:
 
 	.byte 5
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM2475=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2475
+LDIFF_SYM2477=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2477
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM2476=LTDIE_223 - Ldebug_info_start
-	.long LDIFF_SYM2476
-LTDIE_223_POINTER:
+LDIFF_SYM2478=LTDIE_224 - Ldebug_info_start
+	.long LDIFF_SYM2478
+LTDIE_224_POINTER:
 
 	.byte 13
-LDIFF_SYM2477=LTDIE_223 - Ldebug_info_start
-	.long LDIFF_SYM2477
-LTDIE_223_REFERENCE:
+LDIFF_SYM2479=LTDIE_224 - Ldebug_info_start
+	.long LDIFF_SYM2479
+LTDIE_224_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2478=LTDIE_223 - Ldebug_info_start
-	.long LDIFF_SYM2478
+LDIFF_SYM2480=LTDIE_224 - Ldebug_info_start
+	.long LDIFF_SYM2480
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<<>f__AnonymousType0`2<Newtonsoft.Json.Linq.JProperty,_string>,_Microsoft.WindowsAzure.MobileServices.SQLiteStore.ColumnDefinition>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_TResult_T__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string"
@@ -75720,57 +76063,57 @@ LDIFF_SYM2478=LTDIE_223 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2479=LTDIE_223_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2479
+LDIFF_SYM2481=LTDIE_224_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2481
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2480=LTDIE_137_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2480
+LDIFF_SYM2482=LTDIE_137_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2482
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2481=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2481
+LDIFF_SYM2483=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2483
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2482=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2482
+LDIFF_SYM2484=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2484
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2483=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2483
+LDIFF_SYM2485=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2485
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2484=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2484
+LDIFF_SYM2486=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2486
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2485=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2485
+LDIFF_SYM2487=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2487
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2486=LTDIE_9_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2486
+LDIFF_SYM2488=LTDIE_9_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2488
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2487=Lfde210_end - Lfde210_start
-	.long LDIFF_SYM2487
+LDIFF_SYM2489=Lfde210_end - Lfde210_start
+	.long LDIFF_SYM2489
 Lfde210_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_TResult_T__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string
 
-LDIFF_SYM2488=Lme_d4 - wrapper_delegate_invoke_System_Func_2__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_TResult_T__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string
-	.long LDIFF_SYM2488
+LDIFF_SYM2490=Lme_d4 - wrapper_delegate_invoke_System_Func_2__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_TResult_T__f__AnonymousType0_2_Newtonsoft_Json_Linq_JProperty_string
+	.long LDIFF_SYM2490
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -75778,29 +76121,29 @@ LDIFF_SYM2488=Lme_d4 - wrapper_delegate_invoke_System_Func_2__f__AnonymousType0_
 Lfde210_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_224:
+LTDIE_225:
 
 	.byte 5
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM2489=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2489
+LDIFF_SYM2491=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2491
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM2490=LTDIE_224 - Ldebug_info_start
-	.long LDIFF_SYM2490
-LTDIE_224_POINTER:
+LDIFF_SYM2492=LTDIE_225 - Ldebug_info_start
+	.long LDIFF_SYM2492
+LTDIE_225_POINTER:
 
 	.byte 13
-LDIFF_SYM2491=LTDIE_224 - Ldebug_info_start
-	.long LDIFF_SYM2491
-LTDIE_224_REFERENCE:
+LDIFF_SYM2493=LTDIE_225 - Ldebug_info_start
+	.long LDIFF_SYM2493
+LTDIE_225_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2492=LTDIE_224 - Ldebug_info_start
-	.long LDIFF_SYM2492
+LDIFF_SYM2494=LTDIE_225 - Ldebug_info_start
+	.long LDIFF_SYM2494
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<Microsoft.WindowsAzure.MobileServices.SQLiteStore.ColumnDefinition,_string>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_invoke_TResult_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition"
@@ -75812,57 +76155,57 @@ LDIFF_SYM2492=LTDIE_224 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2493=LTDIE_224_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2493
+LDIFF_SYM2495=LTDIE_225_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2495
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2494=LTDIE_9_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2494
+LDIFF_SYM2496=LTDIE_9_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2496
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2495=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2495
+LDIFF_SYM2497=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2497
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2496=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2496
+LDIFF_SYM2498=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2498
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2497=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2497
+LDIFF_SYM2499=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2499
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2498=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2498
+LDIFF_SYM2500=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2500
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2499=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2499
+LDIFF_SYM2501=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2501
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2500=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2500
+LDIFF_SYM2502=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2502
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2501=Lfde211_end - Lfde211_start
-	.long LDIFF_SYM2501
+LDIFF_SYM2503=Lfde211_end - Lfde211_start
+	.long LDIFF_SYM2503
 Lfde211_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_invoke_TResult_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 
-LDIFF_SYM2502=Lme_d5 - wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_invoke_TResult_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
-	.long LDIFF_SYM2502
+LDIFF_SYM2504=Lme_d5 - wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_string_invoke_TResult_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
+	.long LDIFF_SYM2504
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -75870,29 +76213,29 @@ LDIFF_SYM2502=Lme_d5 - wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAz
 Lfde211_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_225:
+LTDIE_226:
 
 	.byte 5
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM2503=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2503
+LDIFF_SYM2505=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2505
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM2504=LTDIE_225 - Ldebug_info_start
-	.long LDIFF_SYM2504
-LTDIE_225_POINTER:
+LDIFF_SYM2506=LTDIE_226 - Ldebug_info_start
+	.long LDIFF_SYM2506
+LTDIE_226_POINTER:
 
 	.byte 13
-LDIFF_SYM2505=LTDIE_225 - Ldebug_info_start
-	.long LDIFF_SYM2505
-LTDIE_225_REFERENCE:
+LDIFF_SYM2507=LTDIE_226 - Ldebug_info_start
+	.long LDIFF_SYM2507
+LTDIE_226_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2506=LTDIE_225 - Ldebug_info_start
-	.long LDIFF_SYM2506
+LDIFF_SYM2508=LTDIE_226 - Ldebug_info_start
+	.long LDIFF_SYM2508
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<System.Threading.Tasks.Task,_Newtonsoft.Json.Linq.JToken>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JToken_invoke_TResult_T_System_Threading_Tasks_Task"
@@ -75904,57 +76247,57 @@ LDIFF_SYM2506=LTDIE_225 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2507=LTDIE_225_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2507
+LDIFF_SYM2509=LTDIE_226_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2509
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2508=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2508
+LDIFF_SYM2510=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2510
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2509=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2509
+LDIFF_SYM2511=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2511
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2510=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2510
+LDIFF_SYM2512=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2512
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2511=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2511
+LDIFF_SYM2513=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2513
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2512=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2512
+LDIFF_SYM2514=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2514
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2513=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2513
+LDIFF_SYM2515=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2515
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2514=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2514
+LDIFF_SYM2516=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2516
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2515=Lfde212_end - Lfde212_start
-	.long LDIFF_SYM2515
+LDIFF_SYM2517=Lfde212_end - Lfde212_start
+	.long LDIFF_SYM2517
 Lfde212_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JToken_invoke_TResult_T_System_Threading_Tasks_Task
 
-LDIFF_SYM2516=Lme_d6 - wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JToken_invoke_TResult_T_System_Threading_Tasks_Task
-	.long LDIFF_SYM2516
+LDIFF_SYM2518=Lme_d6 - wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JToken_invoke_TResult_T_System_Threading_Tasks_Task
+	.long LDIFF_SYM2518
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -75974,22 +76317,22 @@ Lfde212_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2517=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2517
+LDIFF_SYM2519=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2519
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2518=Lfde213_end - Lfde213_start
-	.long LDIFF_SYM2518
+LDIFF_SYM2520=Lfde213_end - Lfde213_start
+	.long LDIFF_SYM2520
 Lfde213_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__IEnumerable_GetEnumerator_T_REF
 
-LDIFF_SYM2519=Lme_d7 - System_Array_InternalArray__IEnumerable_GetEnumerator_T_REF
-	.long LDIFF_SYM2519
+LDIFF_SYM2521=Lme_d7 - System_Array_InternalArray__IEnumerable_GetEnumerator_T_REF
+	.long LDIFF_SYM2521
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
 	.align 3
@@ -76008,22 +76351,22 @@ Lfde213_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2520=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2520
+LDIFF_SYM2522=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2522
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2521=Lfde214_end - Lfde214_start
-	.long LDIFF_SYM2521
+LDIFF_SYM2523=Lfde214_end - Lfde214_start
+	.long LDIFF_SYM2523
 Lfde214_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_get_Count
 
-LDIFF_SYM2522=Lme_d8 - System_Array_InternalArray__ICollection_get_Count
-	.long LDIFF_SYM2522
+LDIFF_SYM2524=Lme_d8 - System_Array_InternalArray__ICollection_get_Count
+	.long LDIFF_SYM2524
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -76042,22 +76385,22 @@ Lfde214_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2523=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2523
+LDIFF_SYM2525=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2525
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2524=Lfde215_end - Lfde215_start
-	.long LDIFF_SYM2524
+LDIFF_SYM2526=Lfde215_end - Lfde215_start
+	.long LDIFF_SYM2526
 Lfde215_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_get_IsReadOnly
 
-LDIFF_SYM2525=Lme_d9 - System_Array_InternalArray__ICollection_get_IsReadOnly
-	.long LDIFF_SYM2525
+LDIFF_SYM2527=Lme_d9 - System_Array_InternalArray__ICollection_get_IsReadOnly
+	.long LDIFF_SYM2527
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -76076,22 +76419,22 @@ Lfde215_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2526=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2526
+LDIFF_SYM2528=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2528
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2527=Lfde216_end - Lfde216_start
-	.long LDIFF_SYM2527
+LDIFF_SYM2529=Lfde216_end - Lfde216_start
+	.long LDIFF_SYM2529
 Lfde216_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Clear
 
-LDIFF_SYM2528=Lme_da - System_Array_InternalArray__ICollection_Clear
-	.long LDIFF_SYM2528
+LDIFF_SYM2530=Lme_da - System_Array_InternalArray__ICollection_Clear
+	.long LDIFF_SYM2530
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -76110,27 +76453,27 @@ Lfde216_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2529=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2529
+LDIFF_SYM2531=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2531
 	.byte 2,141,16,3
 	.asciz "item"
 
-LDIFF_SYM2530=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2530
+LDIFF_SYM2532=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2532
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2531=Lfde217_end - Lfde217_start
-	.long LDIFF_SYM2531
+LDIFF_SYM2533=Lfde217_end - Lfde217_start
+	.long LDIFF_SYM2533
 Lfde217_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Add_T_REF_T_REF
 
-LDIFF_SYM2532=Lme_db - System_Array_InternalArray__ICollection_Add_T_REF_T_REF
-	.long LDIFF_SYM2532
+LDIFF_SYM2534=Lme_db - System_Array_InternalArray__ICollection_Add_T_REF_T_REF
+	.long LDIFF_SYM2534
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -76149,27 +76492,27 @@ Lfde217_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2533=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2533
+LDIFF_SYM2535=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2535
 	.byte 2,141,16,3
 	.asciz "item"
 
-LDIFF_SYM2534=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2534
+LDIFF_SYM2536=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2536
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2535=Lfde218_end - Lfde218_start
-	.long LDIFF_SYM2535
+LDIFF_SYM2537=Lfde218_end - Lfde218_start
+	.long LDIFF_SYM2537
 Lfde218_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Remove_T_REF_T_REF
 
-LDIFF_SYM2536=Lme_dc - System_Array_InternalArray__ICollection_Remove_T_REF_T_REF
-	.long LDIFF_SYM2536
+LDIFF_SYM2538=Lme_dc - System_Array_InternalArray__ICollection_Remove_T_REF_T_REF
+	.long LDIFF_SYM2538
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -76188,42 +76531,42 @@ Lfde218_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2537=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2537
+LDIFF_SYM2539=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2539
 	.byte 1,106,3
 	.asciz "item"
 
-LDIFF_SYM2538=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2538
+LDIFF_SYM2540=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2540
 	.byte 2,141,40,11
 	.asciz "length"
 
-LDIFF_SYM2539=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2539
+LDIFF_SYM2541=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2541
 	.byte 1,105,11
 	.asciz "i"
 
-LDIFF_SYM2540=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2540
+LDIFF_SYM2542=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2542
 	.byte 1,104,11
 	.asciz "value"
 
-LDIFF_SYM2541=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2541
+LDIFF_SYM2543=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2543
 	.byte 3,141,208,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2542=Lfde219_end - Lfde219_start
-	.long LDIFF_SYM2542
+LDIFF_SYM2544=Lfde219_end - Lfde219_start
+	.long LDIFF_SYM2544
 Lfde219_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Contains_T_REF_T_REF
 
-LDIFF_SYM2543=Lme_dd - System_Array_InternalArray__ICollection_Contains_T_REF_T_REF
-	.long LDIFF_SYM2543
+LDIFF_SYM2545=Lme_dd - System_Array_InternalArray__ICollection_Contains_T_REF_T_REF
+	.long LDIFF_SYM2545
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,152,12,153,11,68,154,10
 	.align 3
@@ -76242,61 +76585,61 @@ Lfde219_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2544=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2544
+LDIFF_SYM2546=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2546
 	.byte 1,104,3
 	.asciz "array"
 
-LDIFF_SYM2545=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM2545
+LDIFF_SYM2547=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM2547
 	.byte 2,141,40,3
 	.asciz "arrayIndex"
 
-LDIFF_SYM2546=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2546
+LDIFF_SYM2548=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2548
 	.byte 2,141,48,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2547=Lfde220_end - Lfde220_start
-	.long LDIFF_SYM2547
+LDIFF_SYM2549=Lfde220_end - Lfde220_start
+	.long LDIFF_SYM2549
 Lfde220_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_CopyTo_T_REF_T_REF___int
 
-LDIFF_SYM2548=Lme_de - System_Array_InternalArray__ICollection_CopyTo_T_REF_T_REF___int
-	.long LDIFF_SYM2548
+LDIFF_SYM2550=Lme_de - System_Array_InternalArray__ICollection_CopyTo_T_REF_T_REF___int
+	.long LDIFF_SYM2550
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,149,14,150,13,68,152,12
 	.align 3
 Lfde220_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_226:
+LTDIE_227:
 
 	.byte 5
 	.asciz "System_Predicate`1"
 
 	.byte 128,1,16
-LDIFF_SYM2549=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2549
+LDIFF_SYM2551=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2551
 	.byte 2,35,0,0,7
 	.asciz "System_Predicate`1"
 
-LDIFF_SYM2550=LTDIE_226 - Ldebug_info_start
-	.long LDIFF_SYM2550
-LTDIE_226_POINTER:
+LDIFF_SYM2552=LTDIE_227 - Ldebug_info_start
+	.long LDIFF_SYM2552
+LTDIE_227_POINTER:
 
 	.byte 13
-LDIFF_SYM2551=LTDIE_226 - Ldebug_info_start
-	.long LDIFF_SYM2551
-LTDIE_226_REFERENCE:
+LDIFF_SYM2553=LTDIE_227 - Ldebug_info_start
+	.long LDIFF_SYM2553
+LTDIE_227_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2552=LTDIE_226 - Ldebug_info_start
-	.long LDIFF_SYM2552
+LDIFF_SYM2554=LTDIE_227 - Ldebug_info_start
+	.long LDIFF_SYM2554
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Predicate`1<Microsoft.WindowsAzure.MobileServices.SQLiteStore.ColumnDefinition>:invoke_bool_T"
 	.asciz "wrapper_delegate_invoke_System_Predicate_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_bool_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition"
@@ -76308,57 +76651,57 @@ LDIFF_SYM2552=LTDIE_226 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2553=LTDIE_226_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2553
+LDIFF_SYM2555=LTDIE_227_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2555
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2554=LTDIE_9_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2554
+LDIFF_SYM2556=LTDIE_9_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2556
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2555=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2555
+LDIFF_SYM2557=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2557
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2556=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2556
+LDIFF_SYM2558=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2558
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2557=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2557
+LDIFF_SYM2559=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2559
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2558=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2558
+LDIFF_SYM2560=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2560
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2559=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2559
+LDIFF_SYM2561=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2561
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2560=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2560
+LDIFF_SYM2562=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2562
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2561=Lfde221_end - Lfde221_start
-	.long LDIFF_SYM2561
+LDIFF_SYM2563=Lfde221_end - Lfde221_start
+	.long LDIFF_SYM2563
 Lfde221_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_bool_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 
-LDIFF_SYM2562=Lme_df - wrapper_delegate_invoke_System_Predicate_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_bool_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
-	.long LDIFF_SYM2562
+LDIFF_SYM2564=Lme_df - wrapper_delegate_invoke_System_Predicate_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_bool_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
+	.long LDIFF_SYM2564
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -76366,29 +76709,29 @@ LDIFF_SYM2562=Lme_df - wrapper_delegate_invoke_System_Predicate_1_Microsoft_Wind
 Lfde221_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_227:
+LTDIE_228:
 
 	.byte 5
 	.asciz "System_Comparison`1"
 
 	.byte 128,1,16
-LDIFF_SYM2563=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2563
+LDIFF_SYM2565=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2565
 	.byte 2,35,0,0,7
 	.asciz "System_Comparison`1"
 
-LDIFF_SYM2564=LTDIE_227 - Ldebug_info_start
-	.long LDIFF_SYM2564
-LTDIE_227_POINTER:
+LDIFF_SYM2566=LTDIE_228 - Ldebug_info_start
+	.long LDIFF_SYM2566
+LTDIE_228_POINTER:
 
 	.byte 13
-LDIFF_SYM2565=LTDIE_227 - Ldebug_info_start
-	.long LDIFF_SYM2565
-LTDIE_227_REFERENCE:
+LDIFF_SYM2567=LTDIE_228 - Ldebug_info_start
+	.long LDIFF_SYM2567
+LTDIE_228_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2566=LTDIE_227 - Ldebug_info_start
-	.long LDIFF_SYM2566
+LDIFF_SYM2568=LTDIE_228 - Ldebug_info_start
+	.long LDIFF_SYM2568
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Comparison`1<Microsoft.WindowsAzure.MobileServices.SQLiteStore.ColumnDefinition>:invoke_int_T_T"
 	.asciz "wrapper_delegate_invoke_System_Comparison_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_int_T_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition"
@@ -76400,62 +76743,62 @@ LDIFF_SYM2566=LTDIE_227 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2567=LTDIE_227_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2567
+LDIFF_SYM2569=LTDIE_228_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2569
 	.byte 1,104,3
 	.asciz "param0"
 
-LDIFF_SYM2568=LTDIE_9_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2568
+LDIFF_SYM2570=LTDIE_9_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2570
 	.byte 1,105,3
 	.asciz "param1"
 
-LDIFF_SYM2569=LTDIE_9_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2569
+LDIFF_SYM2571=LTDIE_9_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2571
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2570=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2570
+LDIFF_SYM2572=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2572
 	.byte 1,103,11
 	.asciz "V_1"
 
-LDIFF_SYM2571=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2571
+LDIFF_SYM2573=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2573
 	.byte 1,102,11
 	.asciz "V_2"
 
-LDIFF_SYM2572=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2572
+LDIFF_SYM2574=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2574
 	.byte 1,101,11
 	.asciz "V_3"
 
-LDIFF_SYM2573=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2573
+LDIFF_SYM2575=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2575
 	.byte 1,100,11
 	.asciz "V_4"
 
-LDIFF_SYM2574=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2574
+LDIFF_SYM2576=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2576
 	.byte 1,99,11
 	.asciz "V_5"
 
-LDIFF_SYM2575=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2575
+LDIFF_SYM2577=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2577
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2576=Lfde222_end - Lfde222_start
-	.long LDIFF_SYM2576
+LDIFF_SYM2578=Lfde222_end - Lfde222_start
+	.long LDIFF_SYM2578
 Lfde222_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_int_T_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 
-LDIFF_SYM2577=Lme_e0 - wrapper_delegate_invoke_System_Comparison_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_int_T_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
-	.long LDIFF_SYM2577
+LDIFF_SYM2579=Lme_e0 - wrapper_delegate_invoke_System_Comparison_1_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_invoke_int_T_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
+	.long LDIFF_SYM2579
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -76463,29 +76806,29 @@ LDIFF_SYM2577=Lme_e0 - wrapper_delegate_invoke_System_Comparison_1_Microsoft_Win
 Lfde222_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_228:
+LTDIE_229:
 
 	.byte 5
 	.asciz "System_Action`1"
 
 	.byte 128,1,16
-LDIFF_SYM2578=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2578
+LDIFF_SYM2580=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2580
 	.byte 2,35,0,0,7
 	.asciz "System_Action`1"
 
-LDIFF_SYM2579=LTDIE_228 - Ldebug_info_start
-	.long LDIFF_SYM2579
-LTDIE_228_POINTER:
+LDIFF_SYM2581=LTDIE_229 - Ldebug_info_start
+	.long LDIFF_SYM2581
+LTDIE_229_POINTER:
 
 	.byte 13
-LDIFF_SYM2580=LTDIE_228 - Ldebug_info_start
-	.long LDIFF_SYM2580
-LTDIE_228_REFERENCE:
+LDIFF_SYM2582=LTDIE_229 - Ldebug_info_start
+	.long LDIFF_SYM2582
+LTDIE_229_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2581=LTDIE_228 - Ldebug_info_start
-	.long LDIFF_SYM2581
+LDIFF_SYM2583=LTDIE_229 - Ldebug_info_start
+	.long LDIFF_SYM2583
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Action`1<System.Threading.Tasks.Task>:invoke_void_T"
 	.asciz "wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_invoke_void_T_System_Threading_Tasks_Task"
@@ -76497,52 +76840,52 @@ LDIFF_SYM2581=LTDIE_228 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2582=LTDIE_228_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2582
+LDIFF_SYM2584=LTDIE_229_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2584
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2583=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2583
+LDIFF_SYM2585=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2585
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2584=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2584
+LDIFF_SYM2586=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2586
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2585=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2585
+LDIFF_SYM2587=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2587
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2586=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2586
+LDIFF_SYM2588=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2588
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2587=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2587
+LDIFF_SYM2589=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2589
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2588=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2588
+LDIFF_SYM2590=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2590
 	.byte 1,100,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2589=Lfde223_end - Lfde223_start
-	.long LDIFF_SYM2589
+LDIFF_SYM2591=Lfde223_end - Lfde223_start
+	.long LDIFF_SYM2591
 Lfde223_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_invoke_void_T_System_Threading_Tasks_Task
 
-LDIFF_SYM2590=Lme_e1 - wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_invoke_void_T_System_Threading_Tasks_Task
-	.long LDIFF_SYM2590
+LDIFF_SYM2592=Lme_e1 - wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_invoke_void_T_System_Threading_Tasks_Task
+	.long LDIFF_SYM2592
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
 	.byte 154,7
@@ -76550,29 +76893,29 @@ LDIFF_SYM2590=Lme_e1 - wrapper_delegate_invoke_System_Action_1_System_Threading_
 Lfde223_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_229:
+LTDIE_230:
 
 	.byte 5
 	.asciz "System_Func`3"
 
 	.byte 128,1,16
-LDIFF_SYM2591=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2591
+LDIFF_SYM2593=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2593
 	.byte 2,35,0,0,7
 	.asciz "System_Func`3"
 
-LDIFF_SYM2592=LTDIE_229 - Ldebug_info_start
-	.long LDIFF_SYM2592
-LTDIE_229_POINTER:
+LDIFF_SYM2594=LTDIE_230 - Ldebug_info_start
+	.long LDIFF_SYM2594
+LTDIE_230_POINTER:
 
 	.byte 13
-LDIFF_SYM2593=LTDIE_229 - Ldebug_info_start
-	.long LDIFF_SYM2593
-LTDIE_229_REFERENCE:
+LDIFF_SYM2595=LTDIE_230 - Ldebug_info_start
+	.long LDIFF_SYM2595
+LTDIE_230_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2594=LTDIE_229 - Ldebug_info_start
-	.long LDIFF_SYM2594
+LDIFF_SYM2596=LTDIE_230 - Ldebug_info_start
+	.long LDIFF_SYM2596
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`3<string,_int,_string>:invoke_TResult_T1_T2"
 	.asciz "wrapper_delegate_invoke_System_Func_3_string_int_string_invoke_TResult_T1_T2_string_int"
@@ -76584,62 +76927,62 @@ LDIFF_SYM2594=LTDIE_229 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2595=LTDIE_229_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2595
+LDIFF_SYM2597=LTDIE_230_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2597
 	.byte 1,104,3
 	.asciz "param0"
 
-LDIFF_SYM2596=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2596
+LDIFF_SYM2598=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2598
 	.byte 1,105,3
 	.asciz "param1"
 
-LDIFF_SYM2597=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2597
+LDIFF_SYM2599=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2599
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2598=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2598
+LDIFF_SYM2600=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2600
 	.byte 1,103,11
 	.asciz "V_1"
 
-LDIFF_SYM2599=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2599
+LDIFF_SYM2601=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2601
 	.byte 1,102,11
 	.asciz "V_2"
 
-LDIFF_SYM2600=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2600
+LDIFF_SYM2602=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2602
 	.byte 1,101,11
 	.asciz "V_3"
 
-LDIFF_SYM2601=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2601
+LDIFF_SYM2603=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2603
 	.byte 1,100,11
 	.asciz "V_4"
 
-LDIFF_SYM2602=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2602
+LDIFF_SYM2604=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2604
 	.byte 1,99,11
 	.asciz "V_5"
 
-LDIFF_SYM2603=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2603
+LDIFF_SYM2605=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2605
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2604=Lfde224_end - Lfde224_start
-	.long LDIFF_SYM2604
+LDIFF_SYM2606=Lfde224_end - Lfde224_start
+	.long LDIFF_SYM2606
 Lfde224_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_3_string_int_string_invoke_TResult_T1_T2_string_int
 
-LDIFF_SYM2605=Lme_e6 - wrapper_delegate_invoke_System_Func_3_string_int_string_invoke_TResult_T1_T2_string_int
-	.long LDIFF_SYM2605
+LDIFF_SYM2607=Lme_e6 - wrapper_delegate_invoke_System_Func_3_string_int_string_invoke_TResult_T1_T2_string_int
+	.long LDIFF_SYM2607
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -76647,29 +76990,29 @@ LDIFF_SYM2605=Lme_e6 - wrapper_delegate_invoke_System_Func_3_string_int_string_i
 Lfde224_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_230:
+LTDIE_231:
 
 	.byte 5
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM2606=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2606
+LDIFF_SYM2608=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2608
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM2607=LTDIE_230 - Ldebug_info_start
-	.long LDIFF_SYM2607
-LTDIE_230_POINTER:
+LDIFF_SYM2609=LTDIE_231 - Ldebug_info_start
+	.long LDIFF_SYM2609
+LTDIE_231_POINTER:
 
 	.byte 13
-LDIFF_SYM2608=LTDIE_230 - Ldebug_info_start
-	.long LDIFF_SYM2608
-LTDIE_230_REFERENCE:
+LDIFF_SYM2610=LTDIE_231 - Ldebug_info_start
+	.long LDIFF_SYM2610
+LTDIE_231_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2609=LTDIE_230 - Ldebug_info_start
-	.long LDIFF_SYM2609
+LDIFF_SYM2611=LTDIE_231 - Ldebug_info_start
+	.long LDIFF_SYM2611
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<System.Threading.Tasks.Task,_Newtonsoft.Json.Linq.JObject>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JObject_invoke_TResult_T_System_Threading_Tasks_Task"
@@ -76681,57 +77024,57 @@ LDIFF_SYM2609=LTDIE_230 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2610=LTDIE_230_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2610
+LDIFF_SYM2612=LTDIE_231_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2612
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2611=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2611
+LDIFF_SYM2613=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2613
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2612=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2612
+LDIFF_SYM2614=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2614
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2613=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2613
+LDIFF_SYM2615=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2615
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2614=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2614
+LDIFF_SYM2616=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2616
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2615=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2615
+LDIFF_SYM2617=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2617
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2616=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2616
+LDIFF_SYM2618=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2618
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2617=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2617
+LDIFF_SYM2619=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2619
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2618=Lfde225_end - Lfde225_start
-	.long LDIFF_SYM2618
+LDIFF_SYM2620=Lfde225_end - Lfde225_start
+	.long LDIFF_SYM2620
 Lfde225_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JObject_invoke_TResult_T_System_Threading_Tasks_Task
 
-LDIFF_SYM2619=Lme_e7 - wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JObject_invoke_TResult_T_System_Threading_Tasks_Task
-	.long LDIFF_SYM2619
+LDIFF_SYM2621=Lme_e7 - wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_Newtonsoft_Json_Linq_JObject_invoke_TResult_T_System_Threading_Tasks_Task
+	.long LDIFF_SYM2621
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -76751,57 +77094,57 @@ Lfde225_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2620=LTDIE_125_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2620
+LDIFF_SYM2622=LTDIE_125_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2622
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2621=LTDIE_9_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2621
+LDIFF_SYM2623=LTDIE_9_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2623
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2622=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2622
+LDIFF_SYM2624=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2624
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2623=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2623
+LDIFF_SYM2625=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2625
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2624=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2624
+LDIFF_SYM2626=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2626
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2625=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2625
+LDIFF_SYM2627=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2627
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2626=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2626
+LDIFF_SYM2628=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2628
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2627=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2627
+LDIFF_SYM2629=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2629
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2628=Lfde226_end - Lfde226_start
-	.long LDIFF_SYM2628
+LDIFF_SYM2630=Lfde226_end - Lfde226_start
+	.long LDIFF_SYM2630
 Lfde226_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_bool_invoke_TResult_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
 
-LDIFF_SYM2629=Lme_ec - wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_bool_invoke_TResult_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
-	.long LDIFF_SYM2629
+LDIFF_SYM2631=Lme_ec - wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition_bool_invoke_TResult_T_Microsoft_WindowsAzure_MobileServices_SQLiteStore_ColumnDefinition
+	.long LDIFF_SYM2631
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -76809,29 +77152,7 @@ LDIFF_SYM2629=Lme_ec - wrapper_delegate_invoke_System_Func_2_Microsoft_WindowsAz
 Lfde226_end:
 
 .section __DWARF, __debug_info,regular,debug
-LTDIE_231:
 
-	.byte 5
-	.asciz "System_Func`2"
-
-	.byte 128,1,16
-LDIFF_SYM2630=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2630
-	.byte 2,35,0,0,7
-	.asciz "System_Func`2"
-
-LDIFF_SYM2631=LTDIE_231 - Ldebug_info_start
-	.long LDIFF_SYM2631
-LTDIE_231_POINTER:
-
-	.byte 13
-LDIFF_SYM2632=LTDIE_231 - Ldebug_info_start
-	.long LDIFF_SYM2632
-LTDIE_231_REFERENCE:
-
-	.byte 14
-LDIFF_SYM2633=LTDIE_231 - Ldebug_info_start
-	.long LDIFF_SYM2633
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<string,_string>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2_string_string_invoke_TResult_T_string"
@@ -76843,57 +77164,57 @@ LDIFF_SYM2633=LTDIE_231 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2634=LTDIE_231_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2634
+LDIFF_SYM2632=LTDIE_184_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2632
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2635=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2635
+LDIFF_SYM2633=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2633
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2636=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2636
+LDIFF_SYM2634=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2634
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2637=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2637
+LDIFF_SYM2635=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2635
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2638=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2638
+LDIFF_SYM2636=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2636
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2639=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2639
+LDIFF_SYM2637=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2637
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2640=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2640
+LDIFF_SYM2638=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2638
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2641=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2641
+LDIFF_SYM2639=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2639
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2642=Lfde227_end - Lfde227_start
-	.long LDIFF_SYM2642
+LDIFF_SYM2640=Lfde227_end - Lfde227_start
+	.long LDIFF_SYM2640
 Lfde227_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_string_string_invoke_TResult_T_string
 
-LDIFF_SYM2643=Lme_ed - wrapper_delegate_invoke_System_Func_2_string_string_invoke_TResult_T_string
-	.long LDIFF_SYM2643
+LDIFF_SYM2641=Lme_ed - wrapper_delegate_invoke_System_Func_2_string_string_invoke_TResult_T_string
+	.long LDIFF_SYM2641
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -76907,23 +77228,23 @@ LTDIE_232:
 	.asciz "System_Predicate`1"
 
 	.byte 128,1,16
-LDIFF_SYM2644=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2644
+LDIFF_SYM2642=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2642
 	.byte 2,35,0,0,7
 	.asciz "System_Predicate`1"
 
-LDIFF_SYM2645=LTDIE_232 - Ldebug_info_start
-	.long LDIFF_SYM2645
+LDIFF_SYM2643=LTDIE_232 - Ldebug_info_start
+	.long LDIFF_SYM2643
 LTDIE_232_POINTER:
 
 	.byte 13
-LDIFF_SYM2646=LTDIE_232 - Ldebug_info_start
-	.long LDIFF_SYM2646
+LDIFF_SYM2644=LTDIE_232 - Ldebug_info_start
+	.long LDIFF_SYM2644
 LTDIE_232_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2647=LTDIE_232 - Ldebug_info_start
-	.long LDIFF_SYM2647
+LDIFF_SYM2645=LTDIE_232 - Ldebug_info_start
+	.long LDIFF_SYM2645
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Predicate`1<string>:invoke_bool_T"
 	.asciz "wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string"
@@ -76935,57 +77256,57 @@ LDIFF_SYM2647=LTDIE_232 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2648=LTDIE_232_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2648
+LDIFF_SYM2646=LTDIE_232_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2646
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2649=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2649
+LDIFF_SYM2647=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2647
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2650=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2650
+LDIFF_SYM2648=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2648
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2651=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2651
+LDIFF_SYM2649=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2649
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2652=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2652
+LDIFF_SYM2650=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2650
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2653=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2653
+LDIFF_SYM2651=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2651
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2654=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2654
+LDIFF_SYM2652=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2652
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2655=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2655
+LDIFF_SYM2653=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2653
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2656=Lfde228_end - Lfde228_start
-	.long LDIFF_SYM2656
+LDIFF_SYM2654=Lfde228_end - Lfde228_start
+	.long LDIFF_SYM2654
 Lfde228_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string
 
-LDIFF_SYM2657=Lme_ee - wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string
-	.long LDIFF_SYM2657
+LDIFF_SYM2655=Lme_ee - wrapper_delegate_invoke_System_Predicate_1_string_invoke_bool_T_string
+	.long LDIFF_SYM2655
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -76999,23 +77320,23 @@ LTDIE_233:
 	.asciz "System_Comparison`1"
 
 	.byte 128,1,16
-LDIFF_SYM2658=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2658
+LDIFF_SYM2656=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2656
 	.byte 2,35,0,0,7
 	.asciz "System_Comparison`1"
 
-LDIFF_SYM2659=LTDIE_233 - Ldebug_info_start
-	.long LDIFF_SYM2659
+LDIFF_SYM2657=LTDIE_233 - Ldebug_info_start
+	.long LDIFF_SYM2657
 LTDIE_233_POINTER:
 
 	.byte 13
-LDIFF_SYM2660=LTDIE_233 - Ldebug_info_start
-	.long LDIFF_SYM2660
+LDIFF_SYM2658=LTDIE_233 - Ldebug_info_start
+	.long LDIFF_SYM2658
 LTDIE_233_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2661=LTDIE_233 - Ldebug_info_start
-	.long LDIFF_SYM2661
+LDIFF_SYM2659=LTDIE_233 - Ldebug_info_start
+	.long LDIFF_SYM2659
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Comparison`1<string>:invoke_int_T_T"
 	.asciz "wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string"
@@ -77027,62 +77348,62 @@ LDIFF_SYM2661=LTDIE_233 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2662=LTDIE_233_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2662
+LDIFF_SYM2660=LTDIE_233_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2660
 	.byte 1,104,3
 	.asciz "param0"
 
-LDIFF_SYM2663=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2663
+LDIFF_SYM2661=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2661
 	.byte 1,105,3
 	.asciz "param1"
 
-LDIFF_SYM2664=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2664
+LDIFF_SYM2662=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2662
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2665=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2665
+LDIFF_SYM2663=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2663
 	.byte 1,103,11
 	.asciz "V_1"
 
-LDIFF_SYM2666=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2666
+LDIFF_SYM2664=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2664
 	.byte 1,102,11
 	.asciz "V_2"
 
-LDIFF_SYM2667=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2667
+LDIFF_SYM2665=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2665
 	.byte 1,101,11
 	.asciz "V_3"
 
-LDIFF_SYM2668=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2668
+LDIFF_SYM2666=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2666
 	.byte 1,100,11
 	.asciz "V_4"
 
-LDIFF_SYM2669=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2669
+LDIFF_SYM2667=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2667
 	.byte 1,99,11
 	.asciz "V_5"
 
-LDIFF_SYM2670=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2670
+LDIFF_SYM2668=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2668
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2671=Lfde229_end - Lfde229_start
-	.long LDIFF_SYM2671
+LDIFF_SYM2669=Lfde229_end - Lfde229_start
+	.long LDIFF_SYM2669
 Lfde229_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string
 
-LDIFF_SYM2672=Lme_ef - wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string
-	.long LDIFF_SYM2672
+LDIFF_SYM2670=Lme_ef - wrapper_delegate_invoke_System_Comparison_1_string_invoke_int_T_T_string_string
+	.long LDIFF_SYM2670
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -77096,23 +77417,23 @@ LTDIE_234:
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM2673=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2673
+LDIFF_SYM2671=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2671
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM2674=LTDIE_234 - Ldebug_info_start
-	.long LDIFF_SYM2674
+LDIFF_SYM2672=LTDIE_234 - Ldebug_info_start
+	.long LDIFF_SYM2672
 LTDIE_234_POINTER:
 
 	.byte 13
-LDIFF_SYM2675=LTDIE_234 - Ldebug_info_start
-	.long LDIFF_SYM2675
+LDIFF_SYM2673=LTDIE_234 - Ldebug_info_start
+	.long LDIFF_SYM2673
 LTDIE_234_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2676=LTDIE_234 - Ldebug_info_start
-	.long LDIFF_SYM2676
+LDIFF_SYM2674=LTDIE_234 - Ldebug_info_start
+	.long LDIFF_SYM2674
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<Newtonsoft.Json.Linq.JObject,_string>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JObject_string_invoke_TResult_T_Newtonsoft_Json_Linq_JObject"
@@ -77124,57 +77445,57 @@ LDIFF_SYM2676=LTDIE_234 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2677=LTDIE_234_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2677
+LDIFF_SYM2675=LTDIE_234_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2675
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2678=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2678
+LDIFF_SYM2676=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2676
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2679=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2679
+LDIFF_SYM2677=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2677
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2680=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2680
+LDIFF_SYM2678=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2678
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2681=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2681
+LDIFF_SYM2679=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2679
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2682=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2682
+LDIFF_SYM2680=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2680
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2683=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2683
+LDIFF_SYM2681=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2681
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2684=LDIE_STRING - Ldebug_info_start
-	.long LDIFF_SYM2684
+LDIFF_SYM2682=LDIE_STRING - Ldebug_info_start
+	.long LDIFF_SYM2682
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2685=Lfde230_end - Lfde230_start
-	.long LDIFF_SYM2685
+LDIFF_SYM2683=Lfde230_end - Lfde230_start
+	.long LDIFF_SYM2683
 Lfde230_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JObject_string_invoke_TResult_T_Newtonsoft_Json_Linq_JObject
 
-LDIFF_SYM2686=Lme_f0 - wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JObject_string_invoke_TResult_T_Newtonsoft_Json_Linq_JObject
-	.long LDIFF_SYM2686
+LDIFF_SYM2684=Lme_f0 - wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JObject_string_invoke_TResult_T_Newtonsoft_Json_Linq_JObject
+	.long LDIFF_SYM2684
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -77188,23 +77509,23 @@ LTDIE_235:
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM2687=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2687
+LDIFF_SYM2685=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2685
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM2688=LTDIE_235 - Ldebug_info_start
-	.long LDIFF_SYM2688
+LDIFF_SYM2686=LTDIE_235 - Ldebug_info_start
+	.long LDIFF_SYM2686
 LTDIE_235_POINTER:
 
 	.byte 13
-LDIFF_SYM2689=LTDIE_235 - Ldebug_info_start
-	.long LDIFF_SYM2689
+LDIFF_SYM2687=LTDIE_235 - Ldebug_info_start
+	.long LDIFF_SYM2687
 LTDIE_235_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2690=LTDIE_235 - Ldebug_info_start
-	.long LDIFF_SYM2690
+LDIFF_SYM2688=LTDIE_235 - Ldebug_info_start
+	.long LDIFF_SYM2688
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<System.Threading.Tasks.Task,_System.Collections.Generic.IList`1<Newtonsoft.Json.Linq.JObject>>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_System_Collections_Generic_IList_1_Newtonsoft_Json_Linq_JObject_invoke_TResult_T_System_Threading_Tasks_Task"
@@ -77216,57 +77537,57 @@ LDIFF_SYM2690=LTDIE_235 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2691=LTDIE_235_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2691
+LDIFF_SYM2689=LTDIE_235_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2689
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2692=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2692
+LDIFF_SYM2690=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2690
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2693=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2693
+LDIFF_SYM2691=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2691
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2694=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2694
+LDIFF_SYM2692=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2692
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2695=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2695
+LDIFF_SYM2693=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2693
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2696=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2696
+LDIFF_SYM2694=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2694
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2697=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2697
+LDIFF_SYM2695=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2695
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2698=LTDIE_143_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2698
+LDIFF_SYM2696=LTDIE_143_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2696
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2699=Lfde231_end - Lfde231_start
-	.long LDIFF_SYM2699
+LDIFF_SYM2697=Lfde231_end - Lfde231_start
+	.long LDIFF_SYM2697
 Lfde231_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_System_Collections_Generic_IList_1_Newtonsoft_Json_Linq_JObject_invoke_TResult_T_System_Threading_Tasks_Task
 
-LDIFF_SYM2700=Lme_f2 - wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_System_Collections_Generic_IList_1_Newtonsoft_Json_Linq_JObject_invoke_TResult_T_System_Threading_Tasks_Task
-	.long LDIFF_SYM2700
+LDIFF_SYM2698=Lme_f2 - wrapper_delegate_invoke_System_Func_2_System_Threading_Tasks_Task_System_Collections_Generic_IList_1_Newtonsoft_Json_Linq_JObject_invoke_TResult_T_System_Threading_Tasks_Task
+	.long LDIFF_SYM2698
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -77280,23 +77601,23 @@ LTDIE_236:
 	.asciz "System_Predicate`1"
 
 	.byte 128,1,16
-LDIFF_SYM2701=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2701
+LDIFF_SYM2699=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2699
 	.byte 2,35,0,0,7
 	.asciz "System_Predicate`1"
 
-LDIFF_SYM2702=LTDIE_236 - Ldebug_info_start
-	.long LDIFF_SYM2702
+LDIFF_SYM2700=LTDIE_236 - Ldebug_info_start
+	.long LDIFF_SYM2700
 LTDIE_236_POINTER:
 
 	.byte 13
-LDIFF_SYM2703=LTDIE_236 - Ldebug_info_start
-	.long LDIFF_SYM2703
+LDIFF_SYM2701=LTDIE_236 - Ldebug_info_start
+	.long LDIFF_SYM2701
 LTDIE_236_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2704=LTDIE_236 - Ldebug_info_start
-	.long LDIFF_SYM2704
+LDIFF_SYM2702=LTDIE_236 - Ldebug_info_start
+	.long LDIFF_SYM2702
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Predicate`1<Newtonsoft.Json.Linq.JObject>:invoke_bool_T"
 	.asciz "wrapper_delegate_invoke_System_Predicate_1_Newtonsoft_Json_Linq_JObject_invoke_bool_T_Newtonsoft_Json_Linq_JObject"
@@ -77308,57 +77629,57 @@ LDIFF_SYM2704=LTDIE_236 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2705=LTDIE_236_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2705
+LDIFF_SYM2703=LTDIE_236_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2703
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2706=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2706
+LDIFF_SYM2704=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2704
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2707=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2707
+LDIFF_SYM2705=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2705
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2708=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2708
+LDIFF_SYM2706=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2706
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2709=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2709
+LDIFF_SYM2707=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2707
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2710=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2710
+LDIFF_SYM2708=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2708
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2711=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2711
+LDIFF_SYM2709=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2709
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2712=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2712
+LDIFF_SYM2710=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2710
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2713=Lfde232_end - Lfde232_start
-	.long LDIFF_SYM2713
+LDIFF_SYM2711=Lfde232_end - Lfde232_start
+	.long LDIFF_SYM2711
 Lfde232_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_Newtonsoft_Json_Linq_JObject_invoke_bool_T_Newtonsoft_Json_Linq_JObject
 
-LDIFF_SYM2714=Lme_f3 - wrapper_delegate_invoke_System_Predicate_1_Newtonsoft_Json_Linq_JObject_invoke_bool_T_Newtonsoft_Json_Linq_JObject
-	.long LDIFF_SYM2714
+LDIFF_SYM2712=Lme_f3 - wrapper_delegate_invoke_System_Predicate_1_Newtonsoft_Json_Linq_JObject_invoke_bool_T_Newtonsoft_Json_Linq_JObject
+	.long LDIFF_SYM2712
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -77372,23 +77693,23 @@ LTDIE_237:
 	.asciz "System_Comparison`1"
 
 	.byte 128,1,16
-LDIFF_SYM2715=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2715
+LDIFF_SYM2713=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2713
 	.byte 2,35,0,0,7
 	.asciz "System_Comparison`1"
 
-LDIFF_SYM2716=LTDIE_237 - Ldebug_info_start
-	.long LDIFF_SYM2716
+LDIFF_SYM2714=LTDIE_237 - Ldebug_info_start
+	.long LDIFF_SYM2714
 LTDIE_237_POINTER:
 
 	.byte 13
-LDIFF_SYM2717=LTDIE_237 - Ldebug_info_start
-	.long LDIFF_SYM2717
+LDIFF_SYM2715=LTDIE_237 - Ldebug_info_start
+	.long LDIFF_SYM2715
 LTDIE_237_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2718=LTDIE_237 - Ldebug_info_start
-	.long LDIFF_SYM2718
+LDIFF_SYM2716=LTDIE_237 - Ldebug_info_start
+	.long LDIFF_SYM2716
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Comparison`1<Newtonsoft.Json.Linq.JObject>:invoke_int_T_T"
 	.asciz "wrapper_delegate_invoke_System_Comparison_1_Newtonsoft_Json_Linq_JObject_invoke_int_T_T_Newtonsoft_Json_Linq_JObject_Newtonsoft_Json_Linq_JObject"
@@ -77400,62 +77721,62 @@ LDIFF_SYM2718=LTDIE_237 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2719=LTDIE_237_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2719
+LDIFF_SYM2717=LTDIE_237_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2717
 	.byte 1,104,3
 	.asciz "param0"
 
-LDIFF_SYM2720=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2720
+LDIFF_SYM2718=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2718
 	.byte 1,105,3
 	.asciz "param1"
 
-LDIFF_SYM2721=LTDIE_83_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2721
+LDIFF_SYM2719=LTDIE_83_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2719
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2722=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2722
+LDIFF_SYM2720=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2720
 	.byte 1,103,11
 	.asciz "V_1"
 
-LDIFF_SYM2723=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2723
+LDIFF_SYM2721=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2721
 	.byte 1,102,11
 	.asciz "V_2"
 
-LDIFF_SYM2724=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2724
+LDIFF_SYM2722=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2722
 	.byte 1,101,11
 	.asciz "V_3"
 
-LDIFF_SYM2725=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2725
+LDIFF_SYM2723=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2723
 	.byte 1,100,11
 	.asciz "V_4"
 
-LDIFF_SYM2726=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2726
+LDIFF_SYM2724=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2724
 	.byte 1,99,11
 	.asciz "V_5"
 
-LDIFF_SYM2727=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2727
+LDIFF_SYM2725=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2725
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2728=Lfde233_end - Lfde233_start
-	.long LDIFF_SYM2728
+LDIFF_SYM2726=Lfde233_end - Lfde233_start
+	.long LDIFF_SYM2726
 Lfde233_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_Newtonsoft_Json_Linq_JObject_invoke_int_T_T_Newtonsoft_Json_Linq_JObject_Newtonsoft_Json_Linq_JObject
 
-LDIFF_SYM2729=Lme_f4 - wrapper_delegate_invoke_System_Comparison_1_Newtonsoft_Json_Linq_JObject_invoke_int_T_T_Newtonsoft_Json_Linq_JObject_Newtonsoft_Json_Linq_JObject
-	.long LDIFF_SYM2729
+LDIFF_SYM2727=Lme_f4 - wrapper_delegate_invoke_System_Comparison_1_Newtonsoft_Json_Linq_JObject_invoke_int_T_T_Newtonsoft_Json_Linq_JObject_Newtonsoft_Json_Linq_JObject
+	.long LDIFF_SYM2727
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -77475,32 +77796,32 @@ Lfde233_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2730=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2730
+LDIFF_SYM2728=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2728
 	.byte 2,141,16,3
 	.asciz "index"
 
-LDIFF_SYM2731=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2731
+LDIFF_SYM2729=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2729
 	.byte 2,141,24,3
 	.asciz "item"
 
-LDIFF_SYM2732=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2732
+LDIFF_SYM2730=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2730
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2733=Lfde234_end - Lfde234_start
-	.long LDIFF_SYM2733
+LDIFF_SYM2731=Lfde234_end - Lfde234_start
+	.long LDIFF_SYM2731
 Lfde234_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__Insert_T_REF_int_T_REF
 
-LDIFF_SYM2734=Lme_f5 - System_Array_InternalArray__Insert_T_REF_int_T_REF
-	.long LDIFF_SYM2734
+LDIFF_SYM2732=Lme_f5 - System_Array_InternalArray__Insert_T_REF_int_T_REF
+	.long LDIFF_SYM2732
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -77519,27 +77840,27 @@ Lfde234_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2735=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2735
+LDIFF_SYM2733=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2733
 	.byte 2,141,16,3
 	.asciz "index"
 
-LDIFF_SYM2736=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2736
+LDIFF_SYM2734=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2734
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2737=Lfde235_end - Lfde235_start
-	.long LDIFF_SYM2737
+LDIFF_SYM2735=Lfde235_end - Lfde235_start
+	.long LDIFF_SYM2735
 Lfde235_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__RemoveAt_int
 
-LDIFF_SYM2738=Lme_f6 - System_Array_InternalArray__RemoveAt_int
-	.long LDIFF_SYM2738
+LDIFF_SYM2736=Lme_f6 - System_Array_InternalArray__RemoveAt_int
+	.long LDIFF_SYM2736
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -77558,42 +77879,42 @@ Lfde235_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2739=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2739
+LDIFF_SYM2737=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2737
 	.byte 1,105,3
 	.asciz "item"
 
-LDIFF_SYM2740=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2740
+LDIFF_SYM2738=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2738
 	.byte 1,106,11
 	.asciz "length"
 
-LDIFF_SYM2741=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2741
+LDIFF_SYM2739=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2739
 	.byte 1,104,11
 	.asciz "i"
 
-LDIFF_SYM2742=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2742
+LDIFF_SYM2740=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2740
 	.byte 1,103,11
 	.asciz "value"
 
-LDIFF_SYM2743=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2743
+LDIFF_SYM2741=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2741
 	.byte 3,141,224,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2744=Lfde236_end - Lfde236_start
-	.long LDIFF_SYM2744
+LDIFF_SYM2742=Lfde236_end - Lfde236_start
+	.long LDIFF_SYM2742
 Lfde236_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__IndexOf_T_REF_T_REF
 
-LDIFF_SYM2745=Lme_f7 - System_Array_InternalArray__IndexOf_T_REF_T_REF
-	.long LDIFF_SYM2745
+LDIFF_SYM2743=Lme_f7 - System_Array_InternalArray__IndexOf_T_REF_T_REF
+	.long LDIFF_SYM2743
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,148,20,149,19,68,151,18,152,17,68,153,16,154,15
 	.align 3
@@ -77612,32 +77933,32 @@ Lfde236_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2746=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2746
+LDIFF_SYM2744=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2744
 	.byte 1,105,3
 	.asciz "index"
 
-LDIFF_SYM2747=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2747
+LDIFF_SYM2745=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2745
 	.byte 1,106,11
 	.asciz "value"
 
-LDIFF_SYM2748=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2748
+LDIFF_SYM2746=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2746
 	.byte 3,141,192,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2749=Lfde237_end - Lfde237_start
-	.long LDIFF_SYM2749
+LDIFF_SYM2747=Lfde237_end - Lfde237_start
+	.long LDIFF_SYM2747
 Lfde237_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__get_Item_T_REF_int
 
-LDIFF_SYM2750=Lme_f8 - System_Array_InternalArray__get_Item_T_REF_int
-	.long LDIFF_SYM2750
+LDIFF_SYM2748=Lme_f8 - System_Array_InternalArray__get_Item_T_REF_int
+	.long LDIFF_SYM2748
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10,154,9
 	.align 3
@@ -77656,37 +77977,37 @@ Lfde237_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2751=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2751
+LDIFF_SYM2749=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2749
 	.byte 1,105,3
 	.asciz "index"
 
-LDIFF_SYM2752=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2752
+LDIFF_SYM2750=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2750
 	.byte 1,106,3
 	.asciz "item"
 
-LDIFF_SYM2753=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2753
+LDIFF_SYM2751=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2751
 	.byte 3,141,200,0,11
 	.asciz "oarray"
 
-LDIFF_SYM2754=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM2754
+LDIFF_SYM2752=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM2752
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2755=Lfde238_end - Lfde238_start
-	.long LDIFF_SYM2755
+LDIFF_SYM2753=Lfde238_end - Lfde238_start
+	.long LDIFF_SYM2753
 Lfde238_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__set_Item_T_REF_int_T_REF
 
-LDIFF_SYM2756=Lme_f9 - System_Array_InternalArray__set_Item_T_REF_int_T_REF
-	.long LDIFF_SYM2756
+LDIFF_SYM2754=Lme_f9 - System_Array_InternalArray__set_Item_T_REF_int_T_REF
+	.long LDIFF_SYM2754
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,148,14,149,13,68,150,12,151,11,68,152,10,153,9,68,154,8
 	.align 3
@@ -77705,52 +78026,52 @@ Lfde238_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2757=LTDIE_172_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2757
+LDIFF_SYM2755=LTDIE_172_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2755
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2758=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2758
+LDIFF_SYM2756=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2756
 	.byte 1,105,11
 	.asciz "V_1"
 
-LDIFF_SYM2759=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2759
+LDIFF_SYM2757=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2757
 	.byte 1,104,11
 	.asciz "V_2"
 
-LDIFF_SYM2760=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2760
+LDIFF_SYM2758=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2758
 	.byte 1,103,11
 	.asciz "V_3"
 
-LDIFF_SYM2761=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2761
+LDIFF_SYM2759=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2759
 	.byte 1,102,11
 	.asciz "V_4"
 
-LDIFF_SYM2762=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2762
+LDIFF_SYM2760=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2760
 	.byte 1,101,11
 	.asciz "V_5"
 
-LDIFF_SYM2763=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2763
+LDIFF_SYM2761=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2761
 	.byte 1,100,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2764=Lfde239_end - Lfde239_start
-	.long LDIFF_SYM2764
+LDIFF_SYM2762=Lfde239_end - Lfde239_start
+	.long LDIFF_SYM2762
 Lfde239_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_1_object_invoke_TResult
 
-LDIFF_SYM2765=Lme_fa - wrapper_delegate_invoke_System_Func_1_object_invoke_TResult
-	.long LDIFF_SYM2765
+LDIFF_SYM2763=Lme_fa - wrapper_delegate_invoke_System_Func_1_object_invoke_TResult
+	.long LDIFF_SYM2763
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
 	.byte 154,7
@@ -77764,23 +78085,23 @@ LTDIE_238:
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM2766=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2766
+LDIFF_SYM2764=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2764
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM2767=LTDIE_238 - Ldebug_info_start
-	.long LDIFF_SYM2767
+LDIFF_SYM2765=LTDIE_238 - Ldebug_info_start
+	.long LDIFF_SYM2765
 LTDIE_238_POINTER:
 
 	.byte 13
-LDIFF_SYM2768=LTDIE_238 - Ldebug_info_start
-	.long LDIFF_SYM2768
+LDIFF_SYM2766=LTDIE_238 - Ldebug_info_start
+	.long LDIFF_SYM2766
 LTDIE_238_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2769=LTDIE_238 - Ldebug_info_start
-	.long LDIFF_SYM2769
+LDIFF_SYM2767=LTDIE_238 - Ldebug_info_start
+	.long LDIFF_SYM2767
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`2<Newtonsoft.Json.Linq.JProperty,_bool>:invoke_TResult_T"
 	.asciz "wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JProperty_bool_invoke_TResult_T_Newtonsoft_Json_Linq_JProperty"
@@ -77792,57 +78113,57 @@ LDIFF_SYM2769=LTDIE_238 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2770=LTDIE_238_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2770
+LDIFF_SYM2768=LTDIE_238_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2768
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2771=LTDIE_113_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2771
+LDIFF_SYM2769=LTDIE_113_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2769
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2772=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2772
+LDIFF_SYM2770=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2770
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2773=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2773
+LDIFF_SYM2771=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2771
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2774=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2774
+LDIFF_SYM2772=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2772
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2775=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2775
+LDIFF_SYM2773=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2773
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2776=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2776
+LDIFF_SYM2774=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2774
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2777=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2777
+LDIFF_SYM2775=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2775
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2778=Lfde240_end - Lfde240_start
-	.long LDIFF_SYM2778
+LDIFF_SYM2776=Lfde240_end - Lfde240_start
+	.long LDIFF_SYM2776
 Lfde240_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JProperty_bool_invoke_TResult_T_Newtonsoft_Json_Linq_JProperty
 
-LDIFF_SYM2779=Lme_fb - wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JProperty_bool_invoke_TResult_T_Newtonsoft_Json_Linq_JProperty
-	.long LDIFF_SYM2779
+LDIFF_SYM2777=Lme_fb - wrapper_delegate_invoke_System_Func_2_Newtonsoft_Json_Linq_JProperty_bool_invoke_TResult_T_Newtonsoft_Json_Linq_JProperty
+	.long LDIFF_SYM2777
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -77856,23 +78177,23 @@ LTDIE_239:
 	.asciz "System_Predicate`1"
 
 	.byte 128,1,16
-LDIFF_SYM2780=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2780
+LDIFF_SYM2778=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2778
 	.byte 2,35,0,0,7
 	.asciz "System_Predicate`1"
 
-LDIFF_SYM2781=LTDIE_239 - Ldebug_info_start
-	.long LDIFF_SYM2781
+LDIFF_SYM2779=LTDIE_239 - Ldebug_info_start
+	.long LDIFF_SYM2779
 LTDIE_239_POINTER:
 
 	.byte 13
-LDIFF_SYM2782=LTDIE_239 - Ldebug_info_start
-	.long LDIFF_SYM2782
+LDIFF_SYM2780=LTDIE_239 - Ldebug_info_start
+	.long LDIFF_SYM2780
 LTDIE_239_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2783=LTDIE_239 - Ldebug_info_start
-	.long LDIFF_SYM2783
+LDIFF_SYM2781=LTDIE_239 - Ldebug_info_start
+	.long LDIFF_SYM2781
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Predicate`1<Newtonsoft.Json.Serialization.JsonProperty>:invoke_bool_T"
 	.asciz "wrapper_delegate_invoke_System_Predicate_1_Newtonsoft_Json_Serialization_JsonProperty_invoke_bool_T_Newtonsoft_Json_Serialization_JsonProperty"
@@ -77884,57 +78205,57 @@ LDIFF_SYM2783=LTDIE_239 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2784=LTDIE_239_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2784
+LDIFF_SYM2782=LTDIE_239_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2782
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM2785=LTDIE_186_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2785
+LDIFF_SYM2783=LTDIE_187_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2783
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2786=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2786
+LDIFF_SYM2784=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2784
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2787=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2787
+LDIFF_SYM2785=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2785
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM2788=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2788
+LDIFF_SYM2786=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2786
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM2789=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2789
+LDIFF_SYM2787=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2787
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM2790=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2790
+LDIFF_SYM2788=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2788
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM2791=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2791
+LDIFF_SYM2789=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2789
 	.byte 1,99,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2792=Lfde241_end - Lfde241_start
-	.long LDIFF_SYM2792
+LDIFF_SYM2790=Lfde241_end - Lfde241_start
+	.long LDIFF_SYM2790
 Lfde241_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Predicate_1_Newtonsoft_Json_Serialization_JsonProperty_invoke_bool_T_Newtonsoft_Json_Serialization_JsonProperty
 
-LDIFF_SYM2793=Lme_fc - wrapper_delegate_invoke_System_Predicate_1_Newtonsoft_Json_Serialization_JsonProperty_invoke_bool_T_Newtonsoft_Json_Serialization_JsonProperty
-	.long LDIFF_SYM2793
+LDIFF_SYM2791=Lme_fc - wrapper_delegate_invoke_System_Predicate_1_Newtonsoft_Json_Serialization_JsonProperty_invoke_bool_T_Newtonsoft_Json_Serialization_JsonProperty
+	.long LDIFF_SYM2791
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -77948,23 +78269,23 @@ LTDIE_240:
 	.asciz "System_Comparison`1"
 
 	.byte 128,1,16
-LDIFF_SYM2794=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM2794
+LDIFF_SYM2792=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM2792
 	.byte 2,35,0,0,7
 	.asciz "System_Comparison`1"
 
-LDIFF_SYM2795=LTDIE_240 - Ldebug_info_start
-	.long LDIFF_SYM2795
+LDIFF_SYM2793=LTDIE_240 - Ldebug_info_start
+	.long LDIFF_SYM2793
 LTDIE_240_POINTER:
 
 	.byte 13
-LDIFF_SYM2796=LTDIE_240 - Ldebug_info_start
-	.long LDIFF_SYM2796
+LDIFF_SYM2794=LTDIE_240 - Ldebug_info_start
+	.long LDIFF_SYM2794
 LTDIE_240_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2797=LTDIE_240 - Ldebug_info_start
-	.long LDIFF_SYM2797
+LDIFF_SYM2795=LTDIE_240 - Ldebug_info_start
+	.long LDIFF_SYM2795
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Comparison`1<Newtonsoft.Json.Serialization.JsonProperty>:invoke_int_T_T"
 	.asciz "wrapper_delegate_invoke_System_Comparison_1_Newtonsoft_Json_Serialization_JsonProperty_invoke_int_T_T_Newtonsoft_Json_Serialization_JsonProperty_Newtonsoft_Json_Serialization_JsonProperty"
@@ -77976,62 +78297,62 @@ LDIFF_SYM2797=LTDIE_240 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2798=LTDIE_240_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2798
+LDIFF_SYM2796=LTDIE_240_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2796
 	.byte 1,104,3
 	.asciz "param0"
 
-LDIFF_SYM2799=LTDIE_186_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2799
+LDIFF_SYM2797=LTDIE_187_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2797
 	.byte 1,105,3
 	.asciz "param1"
 
-LDIFF_SYM2800=LTDIE_186_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2800
+LDIFF_SYM2798=LTDIE_187_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2798
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2801=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2801
+LDIFF_SYM2799=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2799
 	.byte 1,103,11
 	.asciz "V_1"
 
-LDIFF_SYM2802=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2802
+LDIFF_SYM2800=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2800
 	.byte 1,102,11
 	.asciz "V_2"
 
-LDIFF_SYM2803=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2803
+LDIFF_SYM2801=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2801
 	.byte 1,101,11
 	.asciz "V_3"
 
-LDIFF_SYM2804=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2804
+LDIFF_SYM2802=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2802
 	.byte 1,100,11
 	.asciz "V_4"
 
-LDIFF_SYM2805=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2805
+LDIFF_SYM2803=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2803
 	.byte 1,99,11
 	.asciz "V_5"
 
-LDIFF_SYM2806=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2806
+LDIFF_SYM2804=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2804
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2807=Lfde242_end - Lfde242_start
-	.long LDIFF_SYM2807
+LDIFF_SYM2805=Lfde242_end - Lfde242_start
+	.long LDIFF_SYM2805
 Lfde242_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Comparison_1_Newtonsoft_Json_Serialization_JsonProperty_invoke_int_T_T_Newtonsoft_Json_Serialization_JsonProperty_Newtonsoft_Json_Serialization_JsonProperty
 
-LDIFF_SYM2808=Lme_fd - wrapper_delegate_invoke_System_Comparison_1_Newtonsoft_Json_Serialization_JsonProperty_invoke_int_T_T_Newtonsoft_Json_Serialization_JsonProperty_Newtonsoft_Json_Serialization_JsonProperty
-	.long LDIFF_SYM2808
+LDIFF_SYM2806=Lme_fd - wrapper_delegate_invoke_System_Comparison_1_Newtonsoft_Json_Serialization_JsonProperty_invoke_int_T_T_Newtonsoft_Json_Serialization_JsonProperty_Newtonsoft_Json_Serialization_JsonProperty
+	.long LDIFF_SYM2806
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
@@ -78045,33 +78366,33 @@ LTDIE_241:
 	.asciz "System_Nullable`1"
 
 	.byte 24,16
-LDIFF_SYM2809=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM2809
+LDIFF_SYM2807=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM2807
 	.byte 2,35,0,6
 	.asciz "hasValue"
 
-LDIFF_SYM2810=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2810
+LDIFF_SYM2808=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2808
 	.byte 2,35,16,6
 	.asciz "value"
 
-LDIFF_SYM2811=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2811
+LDIFF_SYM2809=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2809
 	.byte 2,35,20,0,7
 	.asciz "System_Nullable`1"
 
-LDIFF_SYM2812=LTDIE_241 - Ldebug_info_start
-	.long LDIFF_SYM2812
+LDIFF_SYM2810=LTDIE_241 - Ldebug_info_start
+	.long LDIFF_SYM2810
 LTDIE_241_POINTER:
 
 	.byte 13
-LDIFF_SYM2813=LTDIE_241 - Ldebug_info_start
-	.long LDIFF_SYM2813
+LDIFF_SYM2811=LTDIE_241 - Ldebug_info_start
+	.long LDIFF_SYM2811
 LTDIE_241_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2814=LTDIE_241 - Ldebug_info_start
-	.long LDIFF_SYM2814
+LDIFF_SYM2812=LTDIE_241 - Ldebug_info_start
+	.long LDIFF_SYM2812
 	.byte 2
 	.asciz "System.Nullable`1<int>:.ctor"
 	.asciz "System_Nullable_1_int__ctor_int"
@@ -78083,27 +78404,27 @@ LDIFF_SYM2814=LTDIE_241 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2815=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2815
+LDIFF_SYM2813=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2813
 	.byte 1,105,3
 	.asciz "value"
 
-LDIFF_SYM2816=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2816
+LDIFF_SYM2814=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2814
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2817=Lfde243_end - Lfde243_start
-	.long LDIFF_SYM2817
+LDIFF_SYM2815=Lfde243_end - Lfde243_start
+	.long LDIFF_SYM2815
 Lfde243_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int__ctor_int
 
-LDIFF_SYM2818=Lme_fe - System_Nullable_1_int__ctor_int
-	.long LDIFF_SYM2818
+LDIFF_SYM2816=Lme_fe - System_Nullable_1_int__ctor_int
+	.long LDIFF_SYM2816
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
@@ -78122,22 +78443,22 @@ Lfde243_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2819=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2819
+LDIFF_SYM2817=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2817
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2820=Lfde244_end - Lfde244_start
-	.long LDIFF_SYM2820
+LDIFF_SYM2818=Lfde244_end - Lfde244_start
+	.long LDIFF_SYM2818
 Lfde244_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_get_HasValue
 
-LDIFF_SYM2821=Lme_ff - System_Nullable_1_int_get_HasValue
-	.long LDIFF_SYM2821
+LDIFF_SYM2819=Lme_ff - System_Nullable_1_int_get_HasValue
+	.long LDIFF_SYM2819
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -78156,22 +78477,22 @@ Lfde244_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2822=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2822
+LDIFF_SYM2820=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2820
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2823=Lfde245_end - Lfde245_start
-	.long LDIFF_SYM2823
+LDIFF_SYM2821=Lfde245_end - Lfde245_start
+	.long LDIFF_SYM2821
 Lfde245_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_get_Value
 
-LDIFF_SYM2824=Lme_100 - System_Nullable_1_int_get_Value
-	.long LDIFF_SYM2824
+LDIFF_SYM2822=Lme_100 - System_Nullable_1_int_get_Value
+	.long LDIFF_SYM2822
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
 	.align 3
@@ -78190,22 +78511,22 @@ Lfde245_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2825=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2825
+LDIFF_SYM2823=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2823
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2826=Lfde246_end - Lfde246_start
-	.long LDIFF_SYM2826
+LDIFF_SYM2824=Lfde246_end - Lfde246_start
+	.long LDIFF_SYM2824
 Lfde246_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_GetValueOrDefault
 
-LDIFF_SYM2827=Lme_101 - System_Nullable_1_int_GetValueOrDefault
-	.long LDIFF_SYM2827
+LDIFF_SYM2825=Lme_101 - System_Nullable_1_int_GetValueOrDefault
+	.long LDIFF_SYM2825
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -78224,27 +78545,27 @@ Lfde246_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2828=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2828
+LDIFF_SYM2826=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2826
 	.byte 1,105,3
 	.asciz "defaultValue"
 
-LDIFF_SYM2829=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2829
+LDIFF_SYM2827=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2827
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2830=Lfde247_end - Lfde247_start
-	.long LDIFF_SYM2830
+LDIFF_SYM2828=Lfde247_end - Lfde247_start
+	.long LDIFF_SYM2828
 Lfde247_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_GetValueOrDefault_int
 
-LDIFF_SYM2831=Lme_102 - System_Nullable_1_int_GetValueOrDefault_int
-	.long LDIFF_SYM2831
+LDIFF_SYM2829=Lme_102 - System_Nullable_1_int_GetValueOrDefault_int
+	.long LDIFF_SYM2829
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
@@ -78263,27 +78584,27 @@ Lfde247_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2832=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2832
+LDIFF_SYM2830=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2830
 	.byte 1,105,3
 	.asciz "other"
 
-LDIFF_SYM2833=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2833
+LDIFF_SYM2831=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2831
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2834=Lfde248_end - Lfde248_start
-	.long LDIFF_SYM2834
+LDIFF_SYM2832=Lfde248_end - Lfde248_start
+	.long LDIFF_SYM2832
 Lfde248_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_Equals_object
 
-LDIFF_SYM2835=Lme_103 - System_Nullable_1_int_Equals_object
-	.long LDIFF_SYM2835
+LDIFF_SYM2833=Lme_103 - System_Nullable_1_int_Equals_object
+	.long LDIFF_SYM2833
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
 	.align 3
@@ -78302,22 +78623,22 @@ Lfde248_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2836=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2836
+LDIFF_SYM2834=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2834
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2837=Lfde249_end - Lfde249_start
-	.long LDIFF_SYM2837
+LDIFF_SYM2835=Lfde249_end - Lfde249_start
+	.long LDIFF_SYM2835
 Lfde249_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_GetHashCode
 
-LDIFF_SYM2838=Lme_104 - System_Nullable_1_int_GetHashCode
-	.long LDIFF_SYM2838
+LDIFF_SYM2836=Lme_104 - System_Nullable_1_int_GetHashCode
+	.long LDIFF_SYM2836
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -78336,22 +78657,22 @@ Lfde249_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2839=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2839
+LDIFF_SYM2837=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2837
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2840=Lfde250_end - Lfde250_start
-	.long LDIFF_SYM2840
+LDIFF_SYM2838=Lfde250_end - Lfde250_start
+	.long LDIFF_SYM2838
 Lfde250_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_ToString
 
-LDIFF_SYM2841=Lme_105 - System_Nullable_1_int_ToString
-	.long LDIFF_SYM2841
+LDIFF_SYM2839=Lme_105 - System_Nullable_1_int_ToString
+	.long LDIFF_SYM2839
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,154,6
 	.align 3
@@ -78370,22 +78691,22 @@ Lfde250_end:
 	.byte 2,118,16,3
 	.asciz "o"
 
-LDIFF_SYM2842=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2842
+LDIFF_SYM2840=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2840
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2843=Lfde251_end - Lfde251_start
-	.long LDIFF_SYM2843
+LDIFF_SYM2841=Lfde251_end - Lfde251_start
+	.long LDIFF_SYM2841
 Lfde251_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_Box_System_Nullable_1_int
 
-LDIFF_SYM2844=Lme_106 - System_Nullable_1_int_Box_System_Nullable_1_int
-	.long LDIFF_SYM2844
+LDIFF_SYM2842=Lme_106 - System_Nullable_1_int_Box_System_Nullable_1_int
+	.long LDIFF_SYM2842
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -78404,27 +78725,27 @@ Lfde251_end:
 	.byte 2,118,16,3
 	.asciz "o"
 
-LDIFF_SYM2845=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2845
+LDIFF_SYM2843=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2843
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2846=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2846
+LDIFF_SYM2844=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2844
 	.byte 3,141,216,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2847=Lfde252_end - Lfde252_start
-	.long LDIFF_SYM2847
+LDIFF_SYM2845=Lfde252_end - Lfde252_start
+	.long LDIFF_SYM2845
 Lfde252_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_Unbox_object
 
-LDIFF_SYM2848=Lme_107 - System_Nullable_1_int_Unbox_object
-	.long LDIFF_SYM2848
+LDIFF_SYM2846=Lme_107 - System_Nullable_1_int_Unbox_object
+	.long LDIFF_SYM2846
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,154,10
 	.align 3
@@ -78443,27 +78764,27 @@ Lfde252_end:
 	.byte 2,118,16,3
 	.asciz "o"
 
-LDIFF_SYM2849=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2849
+LDIFF_SYM2847=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2847
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2850=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2850
+LDIFF_SYM2848=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2848
 	.byte 3,141,216,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2851=Lfde253_end - Lfde253_start
-	.long LDIFF_SYM2851
+LDIFF_SYM2849=Lfde253_end - Lfde253_start
+	.long LDIFF_SYM2849
 Lfde253_start:
 
 	.long 0
 	.align 3
 	.quad System_Nullable_1_int_UnboxExact_object
 
-LDIFF_SYM2852=Lme_108 - System_Nullable_1_int_UnboxExact_object
-	.long LDIFF_SYM2852
+LDIFF_SYM2850=Lme_108 - System_Nullable_1_int_UnboxExact_object
+	.long LDIFF_SYM2850
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
 	.align 3
@@ -78482,27 +78803,27 @@ Lfde253_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2853=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2853
+LDIFF_SYM2851=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2851
 	.byte 2,141,16,3
 	.asciz "item"
 
-LDIFF_SYM2854=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2854
+LDIFF_SYM2852=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2852
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2855=Lfde254_end - Lfde254_start
-	.long LDIFF_SYM2855
+LDIFF_SYM2853=Lfde254_end - Lfde254_start
+	.long LDIFF_SYM2853
 Lfde254_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Add_T_INST_T_INST
 
-LDIFF_SYM2856=Lme_110 - System_Array_InternalArray__ICollection_Add_T_INST_T_INST
-	.long LDIFF_SYM2856
+LDIFF_SYM2854=Lme_110 - System_Array_InternalArray__ICollection_Add_T_INST_T_INST
+	.long LDIFF_SYM2854
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -78521,27 +78842,27 @@ Lfde254_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2857=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2857
+LDIFF_SYM2855=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2855
 	.byte 2,141,16,3
 	.asciz "item"
 
-LDIFF_SYM2858=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2858
+LDIFF_SYM2856=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2856
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2859=Lfde255_end - Lfde255_start
-	.long LDIFF_SYM2859
+LDIFF_SYM2857=Lfde255_end - Lfde255_start
+	.long LDIFF_SYM2857
 Lfde255_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Remove_T_INST_T_INST
 
-LDIFF_SYM2860=Lme_111 - System_Array_InternalArray__ICollection_Remove_T_INST_T_INST
-	.long LDIFF_SYM2860
+LDIFF_SYM2858=Lme_111 - System_Array_InternalArray__ICollection_Remove_T_INST_T_INST
+	.long LDIFF_SYM2858
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -78560,42 +78881,42 @@ Lfde255_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2861=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2861
+LDIFF_SYM2859=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2859
 	.byte 1,106,3
 	.asciz "item"
 
-LDIFF_SYM2862=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2862
+LDIFF_SYM2860=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2860
 	.byte 3,141,200,0,11
 	.asciz "length"
 
-LDIFF_SYM2863=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2863
+LDIFF_SYM2861=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2861
 	.byte 1,105,11
 	.asciz "i"
 
-LDIFF_SYM2864=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2864
+LDIFF_SYM2862=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2862
 	.byte 1,104,11
 	.asciz "value"
 
-LDIFF_SYM2865=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2865
+LDIFF_SYM2863=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2863
 	.byte 3,141,200,1,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2866=Lfde256_end - Lfde256_start
-	.long LDIFF_SYM2866
+LDIFF_SYM2864=Lfde256_end - Lfde256_start
+	.long LDIFF_SYM2864
 Lfde256_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_Contains_T_INST_T_INST
 
-LDIFF_SYM2867=Lme_112 - System_Array_InternalArray__ICollection_Contains_T_INST_T_INST
-	.long LDIFF_SYM2867
+LDIFF_SYM2865=Lme_112 - System_Array_InternalArray__ICollection_Contains_T_INST_T_INST
+	.long LDIFF_SYM2865
 	.long 0
 	.byte 12,31,0,68,14,240,1,157,30,158,29,68,13,29,68,148,28,149,27,68,150,26,151,25,68,152,24,153,23,68,154,22
 	.align 3
@@ -78614,32 +78935,32 @@ Lfde256_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2868=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2868
+LDIFF_SYM2866=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2866
 	.byte 1,104,3
 	.asciz "array"
 
-LDIFF_SYM2869=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM2869
+LDIFF_SYM2867=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM2867
 	.byte 2,141,40,3
 	.asciz "arrayIndex"
 
-LDIFF_SYM2870=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2870
+LDIFF_SYM2868=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2868
 	.byte 2,141,48,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2871=Lfde257_end - Lfde257_start
-	.long LDIFF_SYM2871
+LDIFF_SYM2869=Lfde257_end - Lfde257_start
+	.long LDIFF_SYM2869
 Lfde257_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__ICollection_CopyTo_T_INST_T_INST___int
 
-LDIFF_SYM2872=Lme_113 - System_Array_InternalArray__ICollection_CopyTo_T_INST_T_INST___int
-	.long LDIFF_SYM2872
+LDIFF_SYM2870=Lme_113 - System_Array_InternalArray__ICollection_CopyTo_T_INST_T_INST___int
+	.long LDIFF_SYM2870
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,149,14,150,13,68,152,12
 	.align 3
@@ -78658,47 +78979,47 @@ Lfde257_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2873=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2873
+LDIFF_SYM2871=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2871
 	.byte 1,104,3
 	.asciz "params"
 
-LDIFF_SYM2874=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2874
+LDIFF_SYM2872=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2872
 	.byte 1,105,3
 	.asciz "exc"
 
-LDIFF_SYM2875=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2875
+LDIFF_SYM2873=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2873
 	.byte 3,141,192,0,3
 	.asciz "method"
 
-LDIFF_SYM2876=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2876
+LDIFF_SYM2874=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2874
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2877=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2877
+LDIFF_SYM2875=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2875
 	.byte 3,141,160,1,11
 	.asciz "V_1"
 
-LDIFF_SYM2878=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2878
+LDIFF_SYM2876=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2876
 	.byte 3,141,168,1,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2879=Lfde258_end - Lfde258_start
-	.long LDIFF_SYM2879
+LDIFF_SYM2877=Lfde258_end - Lfde258_start
+	.long LDIFF_SYM2877
 Lfde258_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_runtime_invoke__Module_runtime_invoke_void__this___Nullable_1_int_Nullable_1_int_object_intptr_intptr_intptr
 
-LDIFF_SYM2880=Lme_114 - wrapper_runtime_invoke__Module_runtime_invoke_void__this___Nullable_1_int_Nullable_1_int_object_intptr_intptr_intptr
-	.long LDIFF_SYM2880
+LDIFF_SYM2878=Lme_114 - wrapper_runtime_invoke__Module_runtime_invoke_void__this___Nullable_1_int_Nullable_1_int_object_intptr_intptr_intptr
+	.long LDIFF_SYM2878
 	.long 0
 	.byte 12,31,0,68,14,224,1,157,28,158,27,68,13,29,68,149,26,150,25,68,151,24,152,23,68,153,22,154,21
 	.align 3
@@ -78717,27 +79038,27 @@ Lfde258_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2881=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM2881
+LDIFF_SYM2879=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM2879
 	.byte 2,141,16,3
 	.asciz "param0"
 
-LDIFF_SYM2882=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2882
+LDIFF_SYM2880=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2880
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2883=Lfde259_end - Lfde259_start
-	.long LDIFF_SYM2883
+LDIFF_SYM2881=Lfde259_end - Lfde259_start
+	.long LDIFF_SYM2881
 Lfde259_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_unknown_byte___Get_int
 
-LDIFF_SYM2884=Lme_115 - wrapper_unknown_byte___Get_int
-	.long LDIFF_SYM2884
+LDIFF_SYM2882=Lme_115 - wrapper_unknown_byte___Get_int
+	.long LDIFF_SYM2882
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -78756,47 +79077,47 @@ Lfde259_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2885=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2885
+LDIFF_SYM2883=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2883
 	.byte 1,104,3
 	.asciz "params"
 
-LDIFF_SYM2886=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2886
+LDIFF_SYM2884=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2884
 	.byte 1,105,3
 	.asciz "exc"
 
-LDIFF_SYM2887=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2887
+LDIFF_SYM2885=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2885
 	.byte 3,141,192,0,3
 	.asciz "method"
 
-LDIFF_SYM2888=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2888
+LDIFF_SYM2886=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2886
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2889=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2889
+LDIFF_SYM2887=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2887
 	.byte 3,141,224,0,11
 	.asciz "V_1"
 
-LDIFF_SYM2890=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2890
+LDIFF_SYM2888=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2888
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2891=Lfde260_end - Lfde260_start
-	.long LDIFF_SYM2891
+LDIFF_SYM2889=Lfde260_end - Lfde260_start
+	.long LDIFF_SYM2889
 Lfde260_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_runtime_invoke__Module_runtime_invoke_byte__this___int_object_intptr_intptr_intptr
 
-LDIFF_SYM2892=Lme_116 - wrapper_runtime_invoke__Module_runtime_invoke_byte__this___int_object_intptr_intptr_intptr
-	.long LDIFF_SYM2892
+LDIFF_SYM2890=Lme_116 - wrapper_runtime_invoke__Module_runtime_invoke_byte__this___int_object_intptr_intptr_intptr
+	.long LDIFF_SYM2890
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,149,18,150,17,68,151,16,152,15,68,153,14,154,13
 	.align 3
@@ -78809,28 +79130,28 @@ LTDIE_242:
 	.asciz "System_Byte"
 
 	.byte 17,16
-LDIFF_SYM2893=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM2893
+LDIFF_SYM2891=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM2891
 	.byte 2,35,0,6
 	.asciz "m_value"
 
-LDIFF_SYM2894=LDIE_U1 - Ldebug_info_start
-	.long LDIFF_SYM2894
+LDIFF_SYM2892=LDIE_U1 - Ldebug_info_start
+	.long LDIFF_SYM2892
 	.byte 2,35,16,0,7
 	.asciz "System_Byte"
 
-LDIFF_SYM2895=LTDIE_242 - Ldebug_info_start
-	.long LDIFF_SYM2895
+LDIFF_SYM2893=LTDIE_242 - Ldebug_info_start
+	.long LDIFF_SYM2893
 LTDIE_242_POINTER:
 
 	.byte 13
-LDIFF_SYM2896=LTDIE_242 - Ldebug_info_start
-	.long LDIFF_SYM2896
+LDIFF_SYM2894=LTDIE_242 - Ldebug_info_start
+	.long LDIFF_SYM2894
 LTDIE_242_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2897=LTDIE_242 - Ldebug_info_start
-	.long LDIFF_SYM2897
+LDIFF_SYM2895=LTDIE_242 - Ldebug_info_start
+	.long LDIFF_SYM2895
 	.byte 2
 	.asciz "(wrapper_unknown)_byte[]:Set"
 	.asciz "wrapper_unknown_byte___Set_int_byte"
@@ -78842,32 +79163,32 @@ LDIFF_SYM2897=LTDIE_242 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2898=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM2898
+LDIFF_SYM2896=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM2896
 	.byte 2,141,16,3
 	.asciz "param0"
 
-LDIFF_SYM2899=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2899
+LDIFF_SYM2897=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2897
 	.byte 2,141,24,3
 	.asciz "param1"
 
-LDIFF_SYM2900=LDIE_U1 - Ldebug_info_start
-	.long LDIFF_SYM2900
+LDIFF_SYM2898=LDIE_U1 - Ldebug_info_start
+	.long LDIFF_SYM2898
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2901=Lfde261_end - Lfde261_start
-	.long LDIFF_SYM2901
+LDIFF_SYM2899=Lfde261_end - Lfde261_start
+	.long LDIFF_SYM2899
 Lfde261_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_unknown_byte___Set_int_byte
 
-LDIFF_SYM2902=Lme_117 - wrapper_unknown_byte___Set_int_byte
-	.long LDIFF_SYM2902
+LDIFF_SYM2900=Lme_117 - wrapper_unknown_byte___Set_int_byte
+	.long LDIFF_SYM2900
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -78886,47 +79207,47 @@ Lfde261_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2903=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2903
+LDIFF_SYM2901=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2901
 	.byte 1,104,3
 	.asciz "params"
 
-LDIFF_SYM2904=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2904
+LDIFF_SYM2902=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2902
 	.byte 1,105,3
 	.asciz "exc"
 
-LDIFF_SYM2905=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2905
+LDIFF_SYM2903=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2903
 	.byte 3,141,192,0,3
 	.asciz "method"
 
-LDIFF_SYM2906=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2906
+LDIFF_SYM2904=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2904
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM2907=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2907
+LDIFF_SYM2905=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2905
 	.byte 3,141,224,0,11
 	.asciz "V_1"
 
-LDIFF_SYM2908=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2908
+LDIFF_SYM2906=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2906
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2909=Lfde262_end - Lfde262_start
-	.long LDIFF_SYM2909
+LDIFF_SYM2907=Lfde262_end - Lfde262_start
+	.long LDIFF_SYM2907
 Lfde262_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_runtime_invoke__Module_runtime_invoke_void__this___int_byte_object_intptr_intptr_intptr
 
-LDIFF_SYM2910=Lme_118 - wrapper_runtime_invoke__Module_runtime_invoke_void__this___int_byte_object_intptr_intptr_intptr
-	.long LDIFF_SYM2910
+LDIFF_SYM2908=Lme_118 - wrapper_runtime_invoke__Module_runtime_invoke_void__this___int_byte_object_intptr_intptr_intptr
+	.long LDIFF_SYM2908
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,149,16,150,15,68,151,14,152,13,68,153,12,154,11
 	.align 3
@@ -78939,23 +79260,23 @@ LTDIE_243:
 	.asciz "System_Collections_Generic_EqualityComparer`1"
 
 	.byte 16,16
-LDIFF_SYM2911=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2911
+LDIFF_SYM2909=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2909
 	.byte 2,35,0,0,7
 	.asciz "System_Collections_Generic_EqualityComparer`1"
 
-LDIFF_SYM2912=LTDIE_243 - Ldebug_info_start
-	.long LDIFF_SYM2912
+LDIFF_SYM2910=LTDIE_243 - Ldebug_info_start
+	.long LDIFF_SYM2910
 LTDIE_243_POINTER:
 
 	.byte 13
-LDIFF_SYM2913=LTDIE_243 - Ldebug_info_start
-	.long LDIFF_SYM2913
+LDIFF_SYM2911=LTDIE_243 - Ldebug_info_start
+	.long LDIFF_SYM2911
 LTDIE_243_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2914=LTDIE_243 - Ldebug_info_start
-	.long LDIFF_SYM2914
+LDIFF_SYM2912=LTDIE_243 - Ldebug_info_start
+	.long LDIFF_SYM2912
 	.byte 2
 	.asciz "System.Collections.Generic.EqualityComparer`1<T_REF>:get_Default"
 	.asciz "System_Collections_Generic_EqualityComparer_1_T_REF_get_Default"
@@ -78967,22 +79288,22 @@ LDIFF_SYM2914=LTDIE_243 - Ldebug_info_start
 	.byte 2,118,16,11
 	.asciz "comparer"
 
-LDIFF_SYM2915=LTDIE_243_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2915
+LDIFF_SYM2913=LTDIE_243_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2913
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2916=Lfde263_end - Lfde263_start
-	.long LDIFF_SYM2916
+LDIFF_SYM2914=Lfde263_end - Lfde263_start
+	.long LDIFF_SYM2914
 Lfde263_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_REF_get_Default
 
-LDIFF_SYM2917=Lme_119 - System_Collections_Generic_EqualityComparer_1_T_REF_get_Default
-	.long LDIFF_SYM2917
+LDIFF_SYM2915=Lme_119 - System_Collections_Generic_EqualityComparer_1_T_REF_get_Default
+	.long LDIFF_SYM2915
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,154,10
 	.align 3
@@ -78995,43 +79316,43 @@ LTDIE_244:
 	.asciz "System_Collections_Generic_List`1"
 
 	.byte 40,16
-LDIFF_SYM2918=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM2918
+LDIFF_SYM2916=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM2916
 	.byte 2,35,0,6
 	.asciz "_items"
 
-LDIFF_SYM2919=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM2919
+LDIFF_SYM2917=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM2917
 	.byte 2,35,16,6
 	.asciz "_size"
 
-LDIFF_SYM2920=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2920
+LDIFF_SYM2918=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2918
 	.byte 2,35,32,6
 	.asciz "_version"
 
-LDIFF_SYM2921=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2921
+LDIFF_SYM2919=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2919
 	.byte 2,35,36,6
 	.asciz "_syncRoot"
 
-LDIFF_SYM2922=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2922
+LDIFF_SYM2920=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2920
 	.byte 2,35,24,0,7
 	.asciz "System_Collections_Generic_List`1"
 
-LDIFF_SYM2923=LTDIE_244 - Ldebug_info_start
-	.long LDIFF_SYM2923
+LDIFF_SYM2921=LTDIE_244 - Ldebug_info_start
+	.long LDIFF_SYM2921
 LTDIE_244_POINTER:
 
 	.byte 13
-LDIFF_SYM2924=LTDIE_244 - Ldebug_info_start
-	.long LDIFF_SYM2924
+LDIFF_SYM2922=LTDIE_244 - Ldebug_info_start
+	.long LDIFF_SYM2922
 LTDIE_244_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2925=LTDIE_244 - Ldebug_info_start
-	.long LDIFF_SYM2925
+LDIFF_SYM2923=LTDIE_244 - Ldebug_info_start
+	.long LDIFF_SYM2923
 	.byte 2
 	.asciz "System.Collections.Generic.List`1<T_REF>:get_Count"
 	.asciz "System_Collections_Generic_List_1_T_REF_get_Count"
@@ -79043,22 +79364,22 @@ LDIFF_SYM2925=LTDIE_244 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2926=LTDIE_244_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2926
+LDIFF_SYM2924=LTDIE_244_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2924
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2927=Lfde264_end - Lfde264_start
-	.long LDIFF_SYM2927
+LDIFF_SYM2925=Lfde264_end - Lfde264_start
+	.long LDIFF_SYM2925
 Lfde264_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_List_1_T_REF_get_Count
 
-LDIFF_SYM2928=Lme_11a - System_Collections_Generic_List_1_T_REF_get_Count
-	.long LDIFF_SYM2928
+LDIFF_SYM2926=Lme_11a - System_Collections_Generic_List_1_T_REF_get_Count
+	.long LDIFF_SYM2926
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -79077,27 +79398,27 @@ Lfde264_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2929=LTDIE_244_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2929
+LDIFF_SYM2927=LTDIE_244_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2927
 	.byte 2,141,24,3
 	.asciz "capacity"
 
-LDIFF_SYM2930=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2930
+LDIFF_SYM2928=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2928
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2931=Lfde265_end - Lfde265_start
-	.long LDIFF_SYM2931
+LDIFF_SYM2929=Lfde265_end - Lfde265_start
+	.long LDIFF_SYM2929
 Lfde265_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_List_1_T_REF__ctor_int
 
-LDIFF_SYM2932=Lme_11b - System_Collections_Generic_List_1_T_REF__ctor_int
-	.long LDIFF_SYM2932
+LDIFF_SYM2930=Lme_11b - System_Collections_Generic_List_1_T_REF__ctor_int
+	.long LDIFF_SYM2930
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
 	.align 3
@@ -79116,37 +79437,37 @@ Lfde265_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2933=LTDIE_244_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2933
+LDIFF_SYM2931=LTDIE_244_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2931
 	.byte 2,141,40,3
 	.asciz "item"
 
-LDIFF_SYM2934=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2934
+LDIFF_SYM2932=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2932
 	.byte 1,106,11
 	.asciz "array"
 
-LDIFF_SYM2935=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM2935
+LDIFF_SYM2933=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM2933
 	.byte 1,105,11
 	.asciz "size"
 
-LDIFF_SYM2936=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2936
+LDIFF_SYM2934=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2934
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2937=Lfde266_end - Lfde266_start
-	.long LDIFF_SYM2937
+LDIFF_SYM2935=Lfde266_end - Lfde266_start
+	.long LDIFF_SYM2935
 Lfde266_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_List_1_T_REF_Add_T_REF
 
-LDIFF_SYM2938=Lme_11c - System_Collections_Generic_List_1_T_REF_Add_T_REF
-	.long LDIFF_SYM2938
+LDIFF_SYM2936=Lme_11c - System_Collections_Generic_List_1_T_REF_Add_T_REF
+	.long LDIFF_SYM2936
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7,68,154,6
 	.align 3
@@ -79165,32 +79486,32 @@ Lfde266_end:
 	.byte 2,118,16,3
 	.asciz "item1"
 
-LDIFF_SYM2939=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2939
+LDIFF_SYM2937=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2937
 	.byte 2,141,16,3
 	.asciz "item2"
 
-LDIFF_SYM2940=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2940
+LDIFF_SYM2938=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2938
 	.byte 2,141,24,3
 	.asciz "item3"
 
-LDIFF_SYM2941=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2941
+LDIFF_SYM2939=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2939
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2942=Lfde267_end - Lfde267_start
-	.long LDIFF_SYM2942
+LDIFF_SYM2940=Lfde267_end - Lfde267_start
+	.long LDIFF_SYM2940
 Lfde267_start:
 
 	.long 0
 	.align 3
 	.quad System_Tuple_Create_T1_REF_T2_INT_T3_REF_T1_REF_T2_INT_T3_REF
 
-LDIFF_SYM2943=Lme_11d - System_Tuple_Create_T1_REF_T2_INT_T3_REF_T1_REF_T2_INT_T3_REF
-	.long LDIFF_SYM2943
+LDIFF_SYM2941=Lme_11d - System_Tuple_Create_T1_REF_T2_INT_T3_REF_T1_REF_T2_INT_T3_REF
+	.long LDIFF_SYM2941
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29
 	.align 3
@@ -79203,28 +79524,28 @@ LTDIE_245:
 	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder"
 
 	.byte 40,16
-LDIFF_SYM2944=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM2944
+LDIFF_SYM2942=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM2942
 	.byte 2,35,0,6
 	.asciz "m_builder"
 
-LDIFF_SYM2945=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2945
+LDIFF_SYM2943=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2943
 	.byte 2,35,0,0,7
 	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder"
 
-LDIFF_SYM2946=LTDIE_245 - Ldebug_info_start
-	.long LDIFF_SYM2946
+LDIFF_SYM2944=LTDIE_245 - Ldebug_info_start
+	.long LDIFF_SYM2944
 LTDIE_245_POINTER:
 
 	.byte 13
-LDIFF_SYM2947=LTDIE_245 - Ldebug_info_start
-	.long LDIFF_SYM2947
+LDIFF_SYM2945=LTDIE_245 - Ldebug_info_start
+	.long LDIFF_SYM2945
 LTDIE_245_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2948=LTDIE_245 - Ldebug_info_start
-	.long LDIFF_SYM2948
+LDIFF_SYM2946=LTDIE_245 - Ldebug_info_start
+	.long LDIFF_SYM2946
 	.byte 2
 	.asciz "System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start<Microsoft.WindowsAzure.MobileServices.SQLiteStore.MobileServiceSQLiteStore/<OnInitialize>d__7>"
 	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_"
@@ -79236,32 +79557,32 @@ LDIFF_SYM2948=LTDIE_245 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2949=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2949
+LDIFF_SYM2947=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2947
 	.byte 2,141,24,3
 	.asciz "stateMachine"
 
-LDIFF_SYM2950=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2950
+LDIFF_SYM2948=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2948
 	.byte 1,106,11
 	.asciz "ecs"
 
-LDIFF_SYM2951=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2951
+LDIFF_SYM2949=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2949
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2952=Lfde268_end - Lfde268_start
-	.long LDIFF_SYM2952
+LDIFF_SYM2950=Lfde268_end - Lfde268_start
+	.long LDIFF_SYM2950
 Lfde268_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
 
-LDIFF_SYM2953=Lme_11e - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
-	.long LDIFF_SYM2953
+LDIFF_SYM2951=Lme_11e - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
+	.long LDIFF_SYM2951
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,154,18
 	.align 3
@@ -79280,22 +79601,22 @@ Lfde268_end:
 	.byte 2,118,16,3
 	.asciz "result"
 
-LDIFF_SYM2954=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2954
+LDIFF_SYM2952=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2952
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2955=Lfde269_end - Lfde269_start
-	.long LDIFF_SYM2955
+LDIFF_SYM2953=Lfde269_end - Lfde269_start
+	.long LDIFF_SYM2953
 Lfde269_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_FromResult_TResult_INT_TResult_INT
 
-LDIFF_SYM2956=Lme_11f - System_Threading_Tasks_Task_FromResult_TResult_INT_TResult_INT
-	.long LDIFF_SYM2956
+LDIFF_SYM2954=Lme_11f - System_Threading_Tasks_Task_FromResult_TResult_INT_TResult_INT
+	.long LDIFF_SYM2954
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
@@ -79314,32 +79635,32 @@ Lfde269_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2957=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2957
+LDIFF_SYM2955=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2955
 	.byte 2,141,24,3
 	.asciz "stateMachine"
 
-LDIFF_SYM2958=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2958
+LDIFF_SYM2956=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2956
 	.byte 1,106,11
 	.asciz "ecs"
 
-LDIFF_SYM2959=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2959
+LDIFF_SYM2957=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2957
 	.byte 3,141,248,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2960=Lfde270_end - Lfde270_start
-	.long LDIFF_SYM2960
+LDIFF_SYM2958=Lfde270_end - Lfde270_start
+	.long LDIFF_SYM2958
 Lfde270_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
 
-LDIFF_SYM2961=Lme_120 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
-	.long LDIFF_SYM2961
+LDIFF_SYM2959=Lme_120 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
+	.long LDIFF_SYM2959
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,154,20
 	.align 3
@@ -79358,32 +79679,32 @@ Lfde270_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2962=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2962
+LDIFF_SYM2960=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2960
 	.byte 2,141,24,3
 	.asciz "stateMachine"
 
-LDIFF_SYM2963=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2963
+LDIFF_SYM2961=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2961
 	.byte 1,106,11
 	.asciz "ecs"
 
-LDIFF_SYM2964=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2964
+LDIFF_SYM2962=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2962
 	.byte 3,141,144,1,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2965=Lfde271_end - Lfde271_start
-	.long LDIFF_SYM2965
+LDIFF_SYM2963=Lfde271_end - Lfde271_start
+	.long LDIFF_SYM2963
 Lfde271_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
 
-LDIFF_SYM2966=Lme_121 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
-	.long LDIFF_SYM2966
+LDIFF_SYM2964=Lme_121 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_Start_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
+	.long LDIFF_SYM2964
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,154,24
 	.align 3
@@ -79398,18 +79719,18 @@ LTDIE_246:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IEnumerable`1"
 
-LDIFF_SYM2967=LTDIE_246 - Ldebug_info_start
-	.long LDIFF_SYM2967
+LDIFF_SYM2965=LTDIE_246 - Ldebug_info_start
+	.long LDIFF_SYM2965
 LTDIE_246_POINTER:
 
 	.byte 13
-LDIFF_SYM2968=LTDIE_246 - Ldebug_info_start
-	.long LDIFF_SYM2968
+LDIFF_SYM2966=LTDIE_246 - Ldebug_info_start
+	.long LDIFF_SYM2966
 LTDIE_246_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2969=LTDIE_246 - Ldebug_info_start
-	.long LDIFF_SYM2969
+LDIFF_SYM2967=LTDIE_246 - Ldebug_info_start
+	.long LDIFF_SYM2967
 LTDIE_247:
 
 	.byte 17
@@ -79418,18 +79739,18 @@ LTDIE_247:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IEnumerator`1"
 
-LDIFF_SYM2970=LTDIE_247 - Ldebug_info_start
-	.long LDIFF_SYM2970
+LDIFF_SYM2968=LTDIE_247 - Ldebug_info_start
+	.long LDIFF_SYM2968
 LTDIE_247_POINTER:
 
 	.byte 13
-LDIFF_SYM2971=LTDIE_247 - Ldebug_info_start
-	.long LDIFF_SYM2971
+LDIFF_SYM2969=LTDIE_247 - Ldebug_info_start
+	.long LDIFF_SYM2969
 LTDIE_247_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2972=LTDIE_247 - Ldebug_info_start
-	.long LDIFF_SYM2972
+LDIFF_SYM2970=LTDIE_247 - Ldebug_info_start
+	.long LDIFF_SYM2970
 	.byte 2
 	.asciz "System.Linq.Enumerable:Any<TSource_INST>"
 	.asciz "System_Linq_Enumerable_Any_TSource_INST_System_Collections_Generic_IEnumerable_1_TSource_INST"
@@ -79441,32 +79762,32 @@ LDIFF_SYM2972=LTDIE_247 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "source"
 
-LDIFF_SYM2973=LTDIE_246_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2973
+LDIFF_SYM2971=LTDIE_246_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2971
 	.byte 1,106,11
 	.asciz "e"
 
-LDIFF_SYM2974=LTDIE_247_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2974
+LDIFF_SYM2972=LTDIE_247_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2972
 	.byte 3,141,192,0,11
 	.asciz "V_1"
 
-LDIFF_SYM2975=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM2975
+LDIFF_SYM2973=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM2973
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2976=Lfde272_end - Lfde272_start
-	.long LDIFF_SYM2976
+LDIFF_SYM2974=Lfde272_end - Lfde272_start
+	.long LDIFF_SYM2974
 Lfde272_start:
 
 	.long 0
 	.align 3
 	.quad System_Linq_Enumerable_Any_TSource_INST_System_Collections_Generic_IEnumerable_1_TSource_INST
 
-LDIFF_SYM2977=Lme_122 - System_Linq_Enumerable_Any_TSource_INST_System_Collections_Generic_IEnumerable_1_TSource_INST
-	.long LDIFF_SYM2977
+LDIFF_SYM2975=Lme_122 - System_Linq_Enumerable_Any_TSource_INST_System_Collections_Generic_IEnumerable_1_TSource_INST
+	.long LDIFF_SYM2975
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,153,12,154,11
 	.align 3
@@ -79479,28 +79800,28 @@ LTDIE_248:
 	.asciz "System_Runtime_CompilerServices_TaskAwaiter"
 
 	.byte 24,16
-LDIFF_SYM2978=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM2978
+LDIFF_SYM2976=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM2976
 	.byte 2,35,0,6
 	.asciz "m_task"
 
-LDIFF_SYM2979=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2979
+LDIFF_SYM2977=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2977
 	.byte 2,35,0,0,7
 	.asciz "System_Runtime_CompilerServices_TaskAwaiter"
 
-LDIFF_SYM2980=LTDIE_248 - Ldebug_info_start
-	.long LDIFF_SYM2980
+LDIFF_SYM2978=LTDIE_248 - Ldebug_info_start
+	.long LDIFF_SYM2978
 LTDIE_248_POINTER:
 
 	.byte 13
-LDIFF_SYM2981=LTDIE_248 - Ldebug_info_start
-	.long LDIFF_SYM2981
+LDIFF_SYM2979=LTDIE_248 - Ldebug_info_start
+	.long LDIFF_SYM2979
 LTDIE_248_REFERENCE:
 
 	.byte 14
-LDIFF_SYM2982=LTDIE_248 - Ldebug_info_start
-	.long LDIFF_SYM2982
+LDIFF_SYM2980=LTDIE_248 - Ldebug_info_start
+	.long LDIFF_SYM2980
 	.byte 2
 	.asciz "System.Runtime.CompilerServices.AsyncTaskMethodBuilder:AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter,_Microsoft.WindowsAzure.MobileServices.SQLiteStore.MobileServiceSQLiteStore/<OnInitialize>d__7>"
 	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_"
@@ -79512,32 +79833,32 @@ LDIFF_SYM2982=LTDIE_248 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2983=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2983
+LDIFF_SYM2981=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2981
 	.byte 2,141,16,3
 	.asciz "awaiter"
 
-LDIFF_SYM2984=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2984
+LDIFF_SYM2982=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2982
 	.byte 2,141,24,3
 	.asciz "stateMachine"
 
-LDIFF_SYM2985=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2985
+LDIFF_SYM2983=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2983
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2986=Lfde273_end - Lfde273_start
-	.long LDIFF_SYM2986
+LDIFF_SYM2984=Lfde273_end - Lfde273_start
+	.long LDIFF_SYM2984
 Lfde273_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
 
-LDIFF_SYM2987=Lme_123 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
-	.long LDIFF_SYM2987
+LDIFF_SYM2985=Lme_123 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
+	.long LDIFF_SYM2985
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -79556,37 +79877,37 @@ Lfde273_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2988=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2988
+LDIFF_SYM2986=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2986
 	.byte 2,141,32,3
 	.asciz "key"
 
-LDIFF_SYM2989=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM2989
+LDIFF_SYM2987=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM2987
 	.byte 2,141,40,11
 	.asciz "V_0"
 
-LDIFF_SYM2990=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM2990
+LDIFF_SYM2988=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM2988
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM2991=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM2991
+LDIFF_SYM2989=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM2989
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2992=Lfde274_end - Lfde274_start
-	.long LDIFF_SYM2992
+LDIFF_SYM2990=Lfde274_end - Lfde274_start
+	.long LDIFF_SYM2990
 Lfde274_start:
 
 	.long 0
 	.align 3
 	.quad Newtonsoft_Json_Linq_JToken_Value_T_LONG_object
 
-LDIFF_SYM2993=Lme_124 - Newtonsoft_Json_Linq_JToken_Value_T_LONG_object
-	.long LDIFF_SYM2993
+LDIFF_SYM2991=Lme_124 - Newtonsoft_Json_Linq_JToken_Value_T_LONG_object
+	.long LDIFF_SYM2991
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,151,10,152,9
 	.align 3
@@ -79605,32 +79926,32 @@ Lfde274_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2994=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2994
+LDIFF_SYM2992=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2992
 	.byte 2,141,16,3
 	.asciz "awaiter"
 
-LDIFF_SYM2995=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2995
+LDIFF_SYM2993=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2993
 	.byte 2,141,24,3
 	.asciz "stateMachine"
 
-LDIFF_SYM2996=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2996
+LDIFF_SYM2994=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2994
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM2997=Lfde275_end - Lfde275_start
-	.long LDIFF_SYM2997
+LDIFF_SYM2995=Lfde275_end - Lfde275_start
+	.long LDIFF_SYM2995
 Lfde275_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
 
-LDIFF_SYM2998=Lme_125 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
-	.long LDIFF_SYM2998
+LDIFF_SYM2996=Lme_125 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
+	.long LDIFF_SYM2996
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -79649,32 +79970,32 @@ Lfde275_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM2999=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM2999
+LDIFF_SYM2997=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2997
 	.byte 2,141,16,3
 	.asciz "awaiter"
 
-LDIFF_SYM3000=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3000
+LDIFF_SYM2998=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2998
 	.byte 2,141,24,3
 	.asciz "stateMachine"
 
-LDIFF_SYM3001=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3001
+LDIFF_SYM2999=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM2999
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3002=Lfde276_end - Lfde276_start
-	.long LDIFF_SYM3002
+LDIFF_SYM3000=Lfde276_end - Lfde276_start
+	.long LDIFF_SYM3000
 Lfde276_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
 
-LDIFF_SYM3003=Lme_126 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
-	.long LDIFF_SYM3003
+LDIFF_SYM3001=Lme_126 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
+	.long LDIFF_SYM3001
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -79689,18 +80010,18 @@ LTDIE_249:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IEnumerable`1"
 
-LDIFF_SYM3004=LTDIE_249 - Ldebug_info_start
-	.long LDIFF_SYM3004
+LDIFF_SYM3002=LTDIE_249 - Ldebug_info_start
+	.long LDIFF_SYM3002
 LTDIE_249_POINTER:
 
 	.byte 13
-LDIFF_SYM3005=LTDIE_249 - Ldebug_info_start
-	.long LDIFF_SYM3005
+LDIFF_SYM3003=LTDIE_249 - Ldebug_info_start
+	.long LDIFF_SYM3003
 LTDIE_249_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3006=LTDIE_249 - Ldebug_info_start
-	.long LDIFF_SYM3006
+LDIFF_SYM3004=LTDIE_249 - Ldebug_info_start
+	.long LDIFF_SYM3004
 	.byte 2
 	.asciz "Newtonsoft.Json.Linq.Extensions:Value<U_LONG>"
 	.asciz "Newtonsoft_Json_Linq_Extensions_Value_U_LONG_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken"
@@ -79712,22 +80033,22 @@ LDIFF_SYM3006=LTDIE_249 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM3007=LTDIE_249_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3007
+LDIFF_SYM3005=LTDIE_249_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3005
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3008=Lfde277_end - Lfde277_start
-	.long LDIFF_SYM3008
+LDIFF_SYM3006=Lfde277_end - Lfde277_start
+	.long LDIFF_SYM3006
 Lfde277_start:
 
 	.long 0
 	.align 3
 	.quad Newtonsoft_Json_Linq_Extensions_Value_U_LONG_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
 
-LDIFF_SYM3009=Lme_127 - Newtonsoft_Json_Linq_Extensions_Value_U_LONG_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
-	.long LDIFF_SYM3009
+LDIFF_SYM3007=Lme_127 - Newtonsoft_Json_Linq_Extensions_Value_U_LONG_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
+	.long LDIFF_SYM3007
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
@@ -79746,22 +80067,22 @@ Lfde277_end:
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM3010=LTDIE_249_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3010
+LDIFF_SYM3008=LTDIE_249_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3008
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3011=Lfde278_end - Lfde278_start
-	.long LDIFF_SYM3011
+LDIFF_SYM3009=Lfde278_end - Lfde278_start
+	.long LDIFF_SYM3009
 Lfde278_start:
 
 	.long 0
 	.align 3
 	.quad Newtonsoft_Json_Linq_Extensions_Value_U_DOUBLE_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
 
-LDIFF_SYM3012=Lme_128 - Newtonsoft_Json_Linq_Extensions_Value_U_DOUBLE_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
-	.long LDIFF_SYM3012
+LDIFF_SYM3010=Lme_128 - Newtonsoft_Json_Linq_Extensions_Value_U_DOUBLE_System_Collections_Generic_IEnumerable_1_Newtonsoft_Json_Linq_JToken
+	.long LDIFF_SYM3010
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
@@ -79780,22 +80101,22 @@ Lfde278_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3013=LTDIE_85_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3013
+LDIFF_SYM3011=LTDIE_85_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3011
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3014=Lfde279_end - Lfde279_start
-	.long LDIFF_SYM3014
+LDIFF_SYM3012=Lfde279_end - Lfde279_start
+	.long LDIFF_SYM3012
 Lfde279_start:
 
 	.long 0
 	.align 3
 	.quad Newtonsoft_Json_Linq_JToken_ToObject_System_DateTime
 
-LDIFF_SYM3015=Lme_129 - Newtonsoft_Json_Linq_JToken_ToObject_System_DateTime
-	.long LDIFF_SYM3015
+LDIFF_SYM3013=Lme_129 - Newtonsoft_Json_Linq_JToken_ToObject_System_DateTime
+	.long LDIFF_SYM3013
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
@@ -79815,16 +80136,16 @@ Lfde279_end:
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3016=Lfde280_end - Lfde280_start
-	.long LDIFF_SYM3016
+LDIFF_SYM3014=Lfde280_end - Lfde280_start
+	.long LDIFF_SYM3014
 Lfde280_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_Empty_T_CHAR
 
-LDIFF_SYM3017=Lme_12a - System_Array_Empty_T_CHAR
-	.long LDIFF_SYM3017
+LDIFF_SYM3015=Lme_12a - System_Array_Empty_T_CHAR
+	.long LDIFF_SYM3015
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -79843,32 +80164,32 @@ Lfde280_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3018=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3018
+LDIFF_SYM3016=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3016
 	.byte 1,105,3
 	.asciz "index"
 
-LDIFF_SYM3019=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3019
+LDIFF_SYM3017=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3017
 	.byte 1,106,11
 	.asciz "value"
 
-LDIFF_SYM3020=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3020
+LDIFF_SYM3018=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3018
 	.byte 3,141,240,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3021=Lfde281_end - Lfde281_start
-	.long LDIFF_SYM3021
+LDIFF_SYM3019=Lfde281_end - Lfde281_start
+	.long LDIFF_SYM3019
 Lfde281_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalArray__get_Item_T_INST_int
 
-LDIFF_SYM3022=Lme_12b - System_Array_InternalArray__get_Item_T_INST_int
-	.long LDIFF_SYM3022
+LDIFF_SYM3020=Lme_12b - System_Array_InternalArray__get_Item_T_INST_int
+	.long LDIFF_SYM3020
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,153,16,154,15
 	.align 3
@@ -79881,33 +80202,33 @@ LTDIE_250:
 	.asciz "_InternalEnumerator`1"
 
 	.byte 32,16
-LDIFF_SYM3023=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM3023
+LDIFF_SYM3021=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM3021
 	.byte 2,35,0,6
 	.asciz "array"
 
-LDIFF_SYM3024=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3024
+LDIFF_SYM3022=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3022
 	.byte 2,35,16,6
 	.asciz "idx"
 
-LDIFF_SYM3025=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3025
+LDIFF_SYM3023=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3023
 	.byte 2,35,24,0,7
 	.asciz "_InternalEnumerator`1"
 
-LDIFF_SYM3026=LTDIE_250 - Ldebug_info_start
-	.long LDIFF_SYM3026
+LDIFF_SYM3024=LTDIE_250 - Ldebug_info_start
+	.long LDIFF_SYM3024
 LTDIE_250_POINTER:
 
 	.byte 13
-LDIFF_SYM3027=LTDIE_250 - Ldebug_info_start
-	.long LDIFF_SYM3027
+LDIFF_SYM3025=LTDIE_250 - Ldebug_info_start
+	.long LDIFF_SYM3025
 LTDIE_250_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3028=LTDIE_250 - Ldebug_info_start
-	.long LDIFF_SYM3028
+LDIFF_SYM3026=LTDIE_250 - Ldebug_info_start
+	.long LDIFF_SYM3026
 	.byte 2
 	.asciz "System.Array/InternalEnumerator`1<T_REF>:.ctor"
 	.asciz "System_Array_InternalEnumerator_1_T_REF__ctor_System_Array"
@@ -79919,27 +80240,27 @@ LDIFF_SYM3028=LTDIE_250 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3029=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3029
+LDIFF_SYM3027=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3027
 	.byte 1,105,3
 	.asciz "array"
 
-LDIFF_SYM3030=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3030
+LDIFF_SYM3028=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3028
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3031=Lfde282_end - Lfde282_start
-	.long LDIFF_SYM3031
+LDIFF_SYM3029=Lfde282_end - Lfde282_start
+	.long LDIFF_SYM3029
 Lfde282_start:
 
 	.long 0
 	.align 3
 	.quad System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
 
-LDIFF_SYM3032=Lme_12c - System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
-	.long LDIFF_SYM3032
+LDIFF_SYM3030=Lme_12c - System_Array_InternalEnumerator_1_T_REF__ctor_System_Array
+	.long LDIFF_SYM3030
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
@@ -79952,8 +80273,8 @@ LTDIE_251:
 	.asciz "System_TypeCode"
 
 	.byte 4
-LDIFF_SYM3033=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3033
+LDIFF_SYM3031=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3031
 	.byte 9
 	.asciz "Empty"
 
@@ -80011,18 +80332,18 @@ LDIFF_SYM3033=LDIE_I4 - Ldebug_info_start
 	.byte 18,0,7
 	.asciz "System_TypeCode"
 
-LDIFF_SYM3034=LTDIE_251 - Ldebug_info_start
-	.long LDIFF_SYM3034
+LDIFF_SYM3032=LTDIE_251 - Ldebug_info_start
+	.long LDIFF_SYM3032
 LTDIE_251_POINTER:
 
 	.byte 13
-LDIFF_SYM3035=LTDIE_251 - Ldebug_info_start
-	.long LDIFF_SYM3035
+LDIFF_SYM3033=LTDIE_251 - Ldebug_info_start
+	.long LDIFF_SYM3033
 LTDIE_251_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3036=LTDIE_251 - Ldebug_info_start
-	.long LDIFF_SYM3036
+LDIFF_SYM3034=LTDIE_251 - Ldebug_info_start
+	.long LDIFF_SYM3034
 	.byte 2
 	.asciz "System.Collections.Generic.EqualityComparer`1<T_REF>:CreateComparer"
 	.asciz "System_Collections_Generic_EqualityComparer_1_T_REF_CreateComparer"
@@ -80034,32 +80355,32 @@ LDIFF_SYM3036=LTDIE_251 - Ldebug_info_start
 	.byte 2,118,16,11
 	.asciz "t"
 
-LDIFF_SYM3037=LTDIE_73_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3037
+LDIFF_SYM3035=LTDIE_73_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3035
 	.byte 1,106,11
 	.asciz "u"
 
-LDIFF_SYM3038=LTDIE_73_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3038
+LDIFF_SYM3036=LTDIE_73_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3036
 	.byte 1,105,11
 	.asciz "underlyingTypeCode"
 
-LDIFF_SYM3039=LTDIE_251 - Ldebug_info_start
-	.long LDIFF_SYM3039
+LDIFF_SYM3037=LTDIE_251 - Ldebug_info_start
+	.long LDIFF_SYM3037
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3040=Lfde283_end - Lfde283_start
-	.long LDIFF_SYM3040
+LDIFF_SYM3038=Lfde283_end - Lfde283_start
+	.long LDIFF_SYM3038
 Lfde283_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_REF_CreateComparer
 
-LDIFF_SYM3041=Lme_12d - System_Collections_Generic_EqualityComparer_1_T_REF_CreateComparer
-	.long LDIFF_SYM3041
+LDIFF_SYM3039=Lme_12d - System_Collections_Generic_EqualityComparer_1_T_REF_CreateComparer
+	.long LDIFF_SYM3039
 	.long 0
 	.byte 12,31,0,68,14,144,2,157,34,158,33,68,13,29,68,147,32,68,149,31,150,30,68,151,29,152,28,68,153,27,154,26
 	.align 3
@@ -80078,32 +80399,32 @@ Lfde283_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3042=LTDIE_244_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3042
+LDIFF_SYM3040=LTDIE_244_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3040
 	.byte 2,141,24,3
 	.asciz "item"
 
-LDIFF_SYM3043=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3043
+LDIFF_SYM3041=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3041
 	.byte 2,141,32,11
 	.asciz "size"
 
-LDIFF_SYM3044=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3044
+LDIFF_SYM3042=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3042
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3045=Lfde284_end - Lfde284_start
-	.long LDIFF_SYM3045
+LDIFF_SYM3043=Lfde284_end - Lfde284_start
+	.long LDIFF_SYM3043
 Lfde284_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_List_1_T_REF_AddWithResize_T_REF
 
-LDIFF_SYM3046=Lme_12e - System_Collections_Generic_List_1_T_REF_AddWithResize_T_REF
-	.long LDIFF_SYM3046
+LDIFF_SYM3044=Lme_12e - System_Collections_Generic_List_1_T_REF_AddWithResize_T_REF
+	.long LDIFF_SYM3044
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
@@ -80116,38 +80437,38 @@ LTDIE_252:
 	.asciz "System_Tuple`3"
 
 	.byte 40,16
-LDIFF_SYM3047=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM3047
+LDIFF_SYM3045=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM3045
 	.byte 2,35,0,6
 	.asciz "m_Item1"
 
-LDIFF_SYM3048=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3048
+LDIFF_SYM3046=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3046
 	.byte 2,35,16,6
 	.asciz "m_Item2"
 
-LDIFF_SYM3049=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3049
+LDIFF_SYM3047=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3047
 	.byte 2,35,32,6
 	.asciz "m_Item3"
 
-LDIFF_SYM3050=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3050
+LDIFF_SYM3048=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3048
 	.byte 2,35,24,0,7
 	.asciz "System_Tuple`3"
 
-LDIFF_SYM3051=LTDIE_252 - Ldebug_info_start
-	.long LDIFF_SYM3051
+LDIFF_SYM3049=LTDIE_252 - Ldebug_info_start
+	.long LDIFF_SYM3049
 LTDIE_252_POINTER:
 
 	.byte 13
-LDIFF_SYM3052=LTDIE_252 - Ldebug_info_start
-	.long LDIFF_SYM3052
+LDIFF_SYM3050=LTDIE_252 - Ldebug_info_start
+	.long LDIFF_SYM3050
 LTDIE_252_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3053=LTDIE_252 - Ldebug_info_start
-	.long LDIFF_SYM3053
+LDIFF_SYM3051=LTDIE_252 - Ldebug_info_start
+	.long LDIFF_SYM3051
 	.byte 2
 	.asciz "System.Tuple`3<T1_REF,_T2_INT,_T3_REF>:.ctor"
 	.asciz "System_Tuple_3_T1_REF_T2_INT_T3_REF__ctor_T1_REF_T2_INT_T3_REF"
@@ -80159,37 +80480,37 @@ LDIFF_SYM3053=LTDIE_252 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3054=LTDIE_252_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3054
+LDIFF_SYM3052=LTDIE_252_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3052
 	.byte 2,141,16,3
 	.asciz "item1"
 
-LDIFF_SYM3055=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3055
+LDIFF_SYM3053=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3053
 	.byte 2,141,24,3
 	.asciz "item2"
 
-LDIFF_SYM3056=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3056
+LDIFF_SYM3054=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3054
 	.byte 2,141,32,3
 	.asciz "item3"
 
-LDIFF_SYM3057=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3057
+LDIFF_SYM3055=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3055
 	.byte 2,141,40,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3058=Lfde285_end - Lfde285_start
-	.long LDIFF_SYM3058
+LDIFF_SYM3056=Lfde285_end - Lfde285_start
+	.long LDIFF_SYM3056
 Lfde285_start:
 
 	.long 0
 	.align 3
 	.quad System_Tuple_3_T1_REF_T2_INT_T3_REF__ctor_T1_REF_T2_INT_T3_REF
 
-LDIFF_SYM3059=Lme_12f - System_Tuple_3_T1_REF_T2_INT_T3_REF__ctor_T1_REF_T2_INT_T3_REF
-	.long LDIFF_SYM3059
+LDIFF_SYM3057=Lme_12f - System_Tuple_3_T1_REF_T2_INT_T3_REF__ctor_T1_REF_T2_INT_T3_REF
+	.long LDIFF_SYM3057
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -80202,28 +80523,28 @@ LTDIE_253:
 	.asciz "System_Threading_Tasks_Task`1"
 
 	.byte 80,16
-LDIFF_SYM3060=LTDIE_33 - Ldebug_info_start
-	.long LDIFF_SYM3060
+LDIFF_SYM3058=LTDIE_33 - Ldebug_info_start
+	.long LDIFF_SYM3058
 	.byte 2,35,0,6
 	.asciz "m_result"
 
-LDIFF_SYM3061=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3061
+LDIFF_SYM3059=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3059
 	.byte 2,35,72,0,7
 	.asciz "System_Threading_Tasks_Task`1"
 
-LDIFF_SYM3062=LTDIE_253 - Ldebug_info_start
-	.long LDIFF_SYM3062
+LDIFF_SYM3060=LTDIE_253 - Ldebug_info_start
+	.long LDIFF_SYM3060
 LTDIE_253_POINTER:
 
 	.byte 13
-LDIFF_SYM3063=LTDIE_253 - Ldebug_info_start
-	.long LDIFF_SYM3063
+LDIFF_SYM3061=LTDIE_253 - Ldebug_info_start
+	.long LDIFF_SYM3061
 LTDIE_253_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3064=LTDIE_253 - Ldebug_info_start
-	.long LDIFF_SYM3064
+LDIFF_SYM3062=LTDIE_253 - Ldebug_info_start
+	.long LDIFF_SYM3062
 	.byte 2
 	.asciz "System.Threading.Tasks.Task`1<TResult_INT>:.ctor"
 	.asciz "System_Threading_Tasks_Task_1_TResult_INT__ctor_TResult_INT"
@@ -80235,32 +80556,32 @@ LDIFF_SYM3064=LTDIE_253 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3065=LTDIE_253_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3065
+LDIFF_SYM3063=LTDIE_253_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3063
 	.byte 2,141,16,3
 	.asciz "result"
 
-LDIFF_SYM3066=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3066
+LDIFF_SYM3064=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3064
 	.byte 2,141,24,11
 	.asciz "V_0"
 
-LDIFF_SYM3067=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3067
+LDIFF_SYM3065=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3065
 	.byte 3,141,192,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3068=Lfde286_end - Lfde286_start
-	.long LDIFF_SYM3068
+LDIFF_SYM3066=Lfde286_end - Lfde286_start
+	.long LDIFF_SYM3066
 Lfde286_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_TResult_INT__ctor_TResult_INT
 
-LDIFF_SYM3069=Lme_130 - System_Threading_Tasks_Task_1_TResult_INT__ctor_TResult_INT
-	.long LDIFF_SYM3069
+LDIFF_SYM3067=Lme_130 - System_Threading_Tasks_Task_1_TResult_INT__ctor_TResult_INT
+	.long LDIFF_SYM3067
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
@@ -80273,117 +80594,117 @@ LTDIE_255:
 	.asciz "System_Threading_Tasks_Task`1"
 
 	.byte 80,16
-LDIFF_SYM3070=LTDIE_33 - Ldebug_info_start
-	.long LDIFF_SYM3070
+LDIFF_SYM3068=LTDIE_33 - Ldebug_info_start
+	.long LDIFF_SYM3068
 	.byte 2,35,0,6
 	.asciz "m_result"
 
-LDIFF_SYM3071=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3071
+LDIFF_SYM3069=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3069
 	.byte 2,35,72,0,7
 	.asciz "System_Threading_Tasks_Task`1"
 
-LDIFF_SYM3072=LTDIE_255 - Ldebug_info_start
-	.long LDIFF_SYM3072
+LDIFF_SYM3070=LTDIE_255 - Ldebug_info_start
+	.long LDIFF_SYM3070
 LTDIE_255_POINTER:
 
 	.byte 13
-LDIFF_SYM3073=LTDIE_255 - Ldebug_info_start
-	.long LDIFF_SYM3073
+LDIFF_SYM3071=LTDIE_255 - Ldebug_info_start
+	.long LDIFF_SYM3071
 LTDIE_255_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3074=LTDIE_255 - Ldebug_info_start
-	.long LDIFF_SYM3074
+LDIFF_SYM3072=LTDIE_255 - Ldebug_info_start
+	.long LDIFF_SYM3072
 LTDIE_254:
 
 	.byte 5
 	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder`1"
 
 	.byte 40,16
-LDIFF_SYM3075=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM3075
+LDIFF_SYM3073=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM3073
 	.byte 2,35,0,6
 	.asciz "m_coreState"
 
-LDIFF_SYM3076=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3076
+LDIFF_SYM3074=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3074
 	.byte 2,35,16,6
 	.asciz "m_task"
 
-LDIFF_SYM3077=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3077
+LDIFF_SYM3075=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3075
 	.byte 2,35,32,0,7
 	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder`1"
 
-LDIFF_SYM3078=LTDIE_254 - Ldebug_info_start
-	.long LDIFF_SYM3078
+LDIFF_SYM3076=LTDIE_254 - Ldebug_info_start
+	.long LDIFF_SYM3076
 LTDIE_254_POINTER:
 
 	.byte 13
-LDIFF_SYM3079=LTDIE_254 - Ldebug_info_start
-	.long LDIFF_SYM3079
+LDIFF_SYM3077=LTDIE_254 - Ldebug_info_start
+	.long LDIFF_SYM3077
 LTDIE_254_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3080=LTDIE_254 - Ldebug_info_start
-	.long LDIFF_SYM3080
+LDIFF_SYM3078=LTDIE_254 - Ldebug_info_start
+	.long LDIFF_SYM3078
 LTDIE_256:
 
 	.byte 5
 	.asciz "_MoveNextRunner"
 
 	.byte 32,16
-LDIFF_SYM3081=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM3081
+LDIFF_SYM3079=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM3079
 	.byte 2,35,0,6
 	.asciz "m_context"
 
-LDIFF_SYM3082=LTDIE_42_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3082
+LDIFF_SYM3080=LTDIE_42_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3080
 	.byte 2,35,16,6
 	.asciz "m_stateMachine"
 
-LDIFF_SYM3083=LTDIE_139_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3083
+LDIFF_SYM3081=LTDIE_139_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3081
 	.byte 2,35,24,0,7
 	.asciz "_MoveNextRunner"
 
-LDIFF_SYM3084=LTDIE_256 - Ldebug_info_start
-	.long LDIFF_SYM3084
+LDIFF_SYM3082=LTDIE_256 - Ldebug_info_start
+	.long LDIFF_SYM3082
 LTDIE_256_POINTER:
 
 	.byte 13
-LDIFF_SYM3085=LTDIE_256 - Ldebug_info_start
-	.long LDIFF_SYM3085
+LDIFF_SYM3083=LTDIE_256 - Ldebug_info_start
+	.long LDIFF_SYM3083
 LTDIE_256_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3086=LTDIE_256 - Ldebug_info_start
-	.long LDIFF_SYM3086
+LDIFF_SYM3084=LTDIE_256 - Ldebug_info_start
+	.long LDIFF_SYM3084
 LTDIE_257:
 
 	.byte 5
 	.asciz "System_Action"
 
 	.byte 128,1,16
-LDIFF_SYM3087=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3087
+LDIFF_SYM3085=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3085
 	.byte 2,35,0,0,7
 	.asciz "System_Action"
 
-LDIFF_SYM3088=LTDIE_257 - Ldebug_info_start
-	.long LDIFF_SYM3088
+LDIFF_SYM3086=LTDIE_257 - Ldebug_info_start
+	.long LDIFF_SYM3086
 LTDIE_257_POINTER:
 
 	.byte 13
-LDIFF_SYM3089=LTDIE_257 - Ldebug_info_start
-	.long LDIFF_SYM3089
+LDIFF_SYM3087=LTDIE_257 - Ldebug_info_start
+	.long LDIFF_SYM3087
 LTDIE_257_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3090=LTDIE_257 - Ldebug_info_start
-	.long LDIFF_SYM3090
+LDIFF_SYM3088=LTDIE_257 - Ldebug_info_start
+	.long LDIFF_SYM3088
 	.byte 2
 	.asciz "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>:AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter,_Microsoft.WindowsAzure.MobileServices.SQLiteStore.MobileServiceSQLiteStore/<OnInitialize>d__7>"
 	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_"
@@ -80395,47 +80716,47 @@ LDIFF_SYM3090=LTDIE_257 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3091=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3091
+LDIFF_SYM3089=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3089
 	.byte 1,104,3
 	.asciz "awaiter"
 
-LDIFF_SYM3092=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3092
+LDIFF_SYM3090=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3090
 	.byte 3,141,192,0,3
 	.asciz "stateMachine"
 
-LDIFF_SYM3093=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3093
+LDIFF_SYM3091=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3091
 	.byte 3,141,200,0,11
 	.asciz "runnerToInitialize"
 
-LDIFF_SYM3094=LTDIE_256_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3094
+LDIFF_SYM3092=LTDIE_256_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3092
 	.byte 3,141,152,1,11
 	.asciz "continuation"
 
-LDIFF_SYM3095=LTDIE_257_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3095
+LDIFF_SYM3093=LTDIE_257_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3093
 	.byte 1,103,11
 	.asciz "builtTask"
 
-LDIFF_SYM3096=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3096
+LDIFF_SYM3094=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3094
 	.byte 1,102,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3097=Lfde287_end - Lfde287_start
-	.long LDIFF_SYM3097
+LDIFF_SYM3095=Lfde287_end - Lfde287_start
+	.long LDIFF_SYM3095
 Lfde287_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
 
-LDIFF_SYM3098=Lme_131 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
-	.long LDIFF_SYM3098
+LDIFF_SYM3096=Lme_131 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__OnInitialized__7_
+	.long LDIFF_SYM3096
 	.long 0
 	.byte 12,31,0,68,14,208,1,157,26,158,25,68,13,29,68,147,24,148,23,68,149,22,150,21,68,151,20,152,19
 	.align 3
@@ -80454,22 +80775,22 @@ Lfde287_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3099=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3099
+LDIFF_SYM3097=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3097
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3100=Lfde288_end - Lfde288_start
-	.long LDIFF_SYM3100
+LDIFF_SYM3098=Lfde288_end - Lfde288_start
+	.long LDIFF_SYM3098
 Lfde288_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor
 
-LDIFF_SYM3101=Lme_132 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor
-	.long LDIFF_SYM3101
+LDIFF_SYM3099=Lme_132 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor
+	.long LDIFF_SYM3099
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
@@ -80482,8 +80803,8 @@ LTDIE_258:
 	.asciz "System_Threading_Tasks_TaskCreationOptions"
 
 	.byte 4
-LDIFF_SYM3102=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3102
+LDIFF_SYM3100=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3100
 	.byte 9
 	.asciz "None"
 
@@ -80508,18 +80829,18 @@ LDIFF_SYM3102=LDIE_I4 - Ldebug_info_start
 	.byte 192,0,0,7
 	.asciz "System_Threading_Tasks_TaskCreationOptions"
 
-LDIFF_SYM3103=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3103
+LDIFF_SYM3101=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3101
 LTDIE_258_POINTER:
 
 	.byte 13
-LDIFF_SYM3104=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3104
+LDIFF_SYM3102=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3102
 LTDIE_258_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3105=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3105
+LDIFF_SYM3103=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3103
 	.byte 2
 	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:.ctor"
 	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions"
@@ -80531,32 +80852,32 @@ LDIFF_SYM3105=LTDIE_258 - Ldebug_info_start
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3106=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3106
+LDIFF_SYM3104=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3104
 	.byte 2,141,16,3
 	.asciz "state"
 
-LDIFF_SYM3107=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3107
+LDIFF_SYM3105=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3105
 	.byte 2,141,24,3
 	.asciz "options"
 
-LDIFF_SYM3108=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3108
+LDIFF_SYM3106=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3106
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3109=Lfde289_end - Lfde289_start
-	.long LDIFF_SYM3109
+LDIFF_SYM3107=Lfde289_end - Lfde289_start
+	.long LDIFF_SYM3107
 Lfde289_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions
 
-LDIFF_SYM3110=Lme_133 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions
-	.long LDIFF_SYM3110
+LDIFF_SYM3108=Lme_133 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_object_System_Threading_Tasks_TaskCreationOptions
+	.long LDIFF_SYM3108
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
@@ -80575,32 +80896,32 @@ Lfde289_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3111=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3111
+LDIFF_SYM3109=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3109
 	.byte 1,106,3
 	.asciz "result"
 
-LDIFF_SYM3112=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3112
+LDIFF_SYM3110=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3110
 	.byte 2,141,24,11
 	.asciz "V_0"
 
-LDIFF_SYM3113=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3113
+LDIFF_SYM3111=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3111
 	.byte 3,141,208,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3114=Lfde290_end - Lfde290_start
-	.long LDIFF_SYM3114
+LDIFF_SYM3112=Lfde290_end - Lfde290_start
+	.long LDIFF_SYM3112
 Lfde290_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_VoidTaskResult
 
-LDIFF_SYM3115=Lme_134 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3115
+LDIFF_SYM3113=Lme_134 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3113
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,154,10
 	.align 3
@@ -80619,42 +80940,42 @@ Lfde290_end:
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3116=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3116
+LDIFF_SYM3114=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3114
 	.byte 1,104,3
 	.asciz "canceled"
 
-LDIFF_SYM3117=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM3117
+LDIFF_SYM3115=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM3115
 	.byte 1,105,3
 	.asciz "result"
 
-LDIFF_SYM3118=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3118
+LDIFF_SYM3116=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3116
 	.byte 2,141,32,3
 	.asciz "creationOptions"
 
-LDIFF_SYM3119=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3119
+LDIFF_SYM3117=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3117
 	.byte 2,141,48,3
 	.asciz "ct"
 
-LDIFF_SYM3120=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3120
+LDIFF_SYM3118=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3118
 	.byte 2,141,56,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3121=Lfde291_end - Lfde291_start
-	.long LDIFF_SYM3121
+LDIFF_SYM3119=Lfde291_end - Lfde291_start
+	.long LDIFF_SYM3119
 Lfde291_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_bool_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken
 
-LDIFF_SYM3122=Lme_135 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_bool_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken
-	.long LDIFF_SYM3122
+LDIFF_SYM3120=Lme_135 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_bool_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskCreationOptions_System_Threading_CancellationToken
+	.long LDIFF_SYM3120
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,152,12,153,11
 	.align 3
@@ -80664,75 +80985,65 @@ Lfde291_end:
 LTDIE_259:
 
 	.byte 5
-	.asciz "System_Func`2"
+	.asciz "System_Func`1"
 
 	.byte 128,1,16
-LDIFF_SYM3123=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3123
+LDIFF_SYM3121=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3121
 	.byte 2,35,0,0,7
-	.asciz "System_Func`2"
+	.asciz "System_Func`1"
 
-LDIFF_SYM3124=LTDIE_259 - Ldebug_info_start
-	.long LDIFF_SYM3124
+LDIFF_SYM3122=LTDIE_259 - Ldebug_info_start
+	.long LDIFF_SYM3122
 LTDIE_259_POINTER:
 
 	.byte 13
-LDIFF_SYM3125=LTDIE_259 - Ldebug_info_start
-	.long LDIFF_SYM3125
+LDIFF_SYM3123=LTDIE_259 - Ldebug_info_start
+	.long LDIFF_SYM3123
 LTDIE_259_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3126=LTDIE_259 - Ldebug_info_start
-	.long LDIFF_SYM3126
+LDIFF_SYM3124=LTDIE_259 - Ldebug_info_start
+	.long LDIFF_SYM3124
 	.byte 2
 	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:.ctor"
-	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions"
+	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken"
 
-	.byte 10,171,2
-	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions
+	.byte 10,150,1
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken
 	.quad Lme_136
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3127=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3127
-	.byte 1,103,3
+LDIFF_SYM3125=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3125
+	.byte 1,105,3
 	.asciz "function"
 
-LDIFF_SYM3128=LTDIE_259_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3128
-	.byte 2,141,32,3
-	.asciz "state"
-
-LDIFF_SYM3129=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3129
-	.byte 2,141,40,3
+LDIFF_SYM3126=LTDIE_259_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3126
+	.byte 2,141,24,3
 	.asciz "cancellationToken"
 
-LDIFF_SYM3130=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3130
-	.byte 2,141,48,3
-	.asciz "creationOptions"
-
-LDIFF_SYM3131=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3131
-	.byte 1,106,0
+LDIFF_SYM3127=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3127
+	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3132=Lfde292_end - Lfde292_start
-	.long LDIFF_SYM3132
+LDIFF_SYM3128=Lfde292_end - Lfde292_start
+	.long LDIFF_SYM3128
 Lfde292_start:
 
 	.long 0
 	.align 3
-	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken
 
-LDIFF_SYM3133=Lme_136 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions
-	.long LDIFF_SYM3133
+LDIFF_SYM3129=Lme_136 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken
+	.long LDIFF_SYM3129
 	.long 0
-	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,151,14,68,154,13
+	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8
 	.align 3
 Lfde292_end:
 
@@ -80740,34 +81051,87 @@ Lfde292_end:
 LTDIE_260:
 
 	.byte 5
-	.asciz "System_Func`1"
+	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM3134=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3134
+LDIFF_SYM3130=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3130
 	.byte 2,35,0,0,7
-	.asciz "System_Func`1"
+	.asciz "System_Func`2"
 
-LDIFF_SYM3135=LTDIE_260 - Ldebug_info_start
-	.long LDIFF_SYM3135
+LDIFF_SYM3131=LTDIE_260 - Ldebug_info_start
+	.long LDIFF_SYM3131
 LTDIE_260_POINTER:
 
 	.byte 13
-LDIFF_SYM3136=LTDIE_260 - Ldebug_info_start
-	.long LDIFF_SYM3136
+LDIFF_SYM3132=LTDIE_260 - Ldebug_info_start
+	.long LDIFF_SYM3132
 LTDIE_260_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3137=LTDIE_260 - Ldebug_info_start
+LDIFF_SYM3133=LTDIE_260 - Ldebug_info_start
+	.long LDIFF_SYM3133
+	.byte 2
+	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:.ctor"
+	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions"
+
+	.byte 10,171,2
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions
+	.quad Lme_137
+
+	.byte 2,118,16,3
+	.asciz "this"
+
+LDIFF_SYM3134=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3134
+	.byte 1,103,3
+	.asciz "function"
+
+LDIFF_SYM3135=LTDIE_260_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3135
+	.byte 2,141,32,3
+	.asciz "state"
+
+LDIFF_SYM3136=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3136
+	.byte 2,141,40,3
+	.asciz "cancellationToken"
+
+LDIFF_SYM3137=LDIE_I4 - Ldebug_info_start
 	.long LDIFF_SYM3137
+	.byte 2,141,48,3
+	.asciz "creationOptions"
+
+LDIFF_SYM3138=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3138
+	.byte 1,106,0
+
+.section __DWARF, __debug_frame,regular,debug
+
+LDIFF_SYM3139=Lfde293_end - Lfde293_start
+	.long LDIFF_SYM3139
+Lfde293_start:
+
+	.long 0
+	.align 3
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions
+
+LDIFF_SYM3140=Lme_137 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions
+	.long LDIFF_SYM3140
+	.long 0
+	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,151,14,68,154,13
+	.align 3
+Lfde293_end:
+
+.section __DWARF, __debug_info,regular,debug
 LTDIE_261:
 
 	.byte 8
 	.asciz "System_Threading_Tasks_InternalTaskOptions"
 
 	.byte 4
-LDIFF_SYM3138=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3138
+LDIFF_SYM3141=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3141
 	.byte 9
 	.asciz "None"
 
@@ -80792,79 +81156,79 @@ LDIFF_SYM3138=LDIE_I4 - Ldebug_info_start
 	.byte 128,128,1,0,7
 	.asciz "System_Threading_Tasks_InternalTaskOptions"
 
-LDIFF_SYM3139=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3139
+LDIFF_SYM3142=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3142
 LTDIE_261_POINTER:
 
 	.byte 13
-LDIFF_SYM3140=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3140
+LDIFF_SYM3143=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3143
 LTDIE_261_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3141=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3141
+LDIFF_SYM3144=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3144
 	.byte 2
 	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:.ctor"
 	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler"
 
 	.byte 10,188,2
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-	.quad Lme_137
+	.quad Lme_138
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3142=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3142
+LDIFF_SYM3145=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3145
 	.byte 1,101,3
 	.asciz "valueSelector"
 
-LDIFF_SYM3143=LTDIE_260_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3143
+LDIFF_SYM3146=LTDIE_259_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3146
 	.byte 2,141,24,3
 	.asciz "parent"
 
-LDIFF_SYM3144=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3144
+LDIFF_SYM3147=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3147
 	.byte 2,141,32,3
 	.asciz "cancellationToken"
 
-LDIFF_SYM3145=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3145
+LDIFF_SYM3148=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3148
 	.byte 2,141,40,3
 	.asciz "creationOptions"
 
-LDIFF_SYM3146=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3146
+LDIFF_SYM3149=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3149
 	.byte 2,141,56,3
 	.asciz "internalOptions"
 
-LDIFF_SYM3147=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3147
+LDIFF_SYM3150=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3150
 	.byte 3,141,192,0,3
 	.asciz "scheduler"
 
-LDIFF_SYM3148=LTDIE_40_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3148
+LDIFF_SYM3151=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3151
 	.byte 3,141,200,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3149=Lfde293_end - Lfde293_start
-	.long LDIFF_SYM3149
-Lfde293_start:
+LDIFF_SYM3152=Lfde294_end - Lfde294_start
+	.long LDIFF_SYM3152
+Lfde294_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
 
-LDIFF_SYM3150=Lme_137 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-	.long LDIFF_SYM3150
+LDIFF_SYM3153=Lme_138 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
+	.long LDIFF_SYM3153
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,149,12
 	.align 3
-Lfde293_end:
+Lfde294_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -80874,66 +81238,66 @@ Lfde293_end:
 
 	.byte 10,206,2
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-	.quad Lme_138
+	.quad Lme_139
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3151=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3151
+LDIFF_SYM3154=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3154
 	.byte 1,100,3
 	.asciz "valueSelector"
 
-LDIFF_SYM3152=LTDIE_34_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3152
+LDIFF_SYM3155=LTDIE_34_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3155
 	.byte 2,141,24,3
 	.asciz "state"
 
-LDIFF_SYM3153=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3153
+LDIFF_SYM3156=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3156
 	.byte 2,141,32,3
 	.asciz "parent"
 
-LDIFF_SYM3154=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3154
+LDIFF_SYM3157=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3157
 	.byte 2,141,40,3
 	.asciz "cancellationToken"
 
-LDIFF_SYM3155=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3155
+LDIFF_SYM3158=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3158
 	.byte 2,141,48,3
 	.asciz "creationOptions"
 
-LDIFF_SYM3156=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3156
+LDIFF_SYM3159=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3159
 	.byte 3,141,192,0,3
 	.asciz "internalOptions"
 
-LDIFF_SYM3157=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3157
+LDIFF_SYM3160=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3160
 	.byte 3,141,200,0,3
 	.asciz "scheduler"
 
-LDIFF_SYM3158=LTDIE_40_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3158
+LDIFF_SYM3161=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3161
 	.byte 3,141,208,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3159=Lfde294_end - Lfde294_start
-	.long LDIFF_SYM3159
-Lfde294_start:
+LDIFF_SYM3162=Lfde295_end - Lfde295_start
+	.long LDIFF_SYM3162
+Lfde295_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
 
-LDIFF_SYM3160=Lme_138 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-	.long LDIFF_SYM3160
+LDIFF_SYM3163=Lme_139 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Delegate_object_System_Threading_Tasks_Task_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
+	.long LDIFF_SYM3163
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,148,14
 	.align 3
-Lfde294_end:
+Lfde295_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -80943,56 +81307,56 @@ Lfde294_end:
 
 	.byte 10,216,2
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-	.quad Lme_139
+	.quad Lme_13a
 
 	.byte 2,118,16,3
 	.asciz "parent"
 
-LDIFF_SYM3161=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3161
+LDIFF_SYM3164=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3164
 	.byte 2,141,40,3
 	.asciz "function"
 
-LDIFF_SYM3162=LTDIE_260_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3162
+LDIFF_SYM3165=LTDIE_259_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3165
 	.byte 1,103,3
 	.asciz "cancellationToken"
 
-LDIFF_SYM3163=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3163
+LDIFF_SYM3166=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3166
 	.byte 2,141,48,3
 	.asciz "creationOptions"
 
-LDIFF_SYM3164=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3164
+LDIFF_SYM3167=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3167
 	.byte 3,141,192,0,3
 	.asciz "internalOptions"
 
-LDIFF_SYM3165=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3165
+LDIFF_SYM3168=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3168
 	.byte 3,141,200,0,3
 	.asciz "scheduler"
 
-LDIFF_SYM3166=LTDIE_40_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3166
+LDIFF_SYM3169=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3169
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3167=Lfde295_end - Lfde295_start
-	.long LDIFF_SYM3167
-Lfde295_start:
+LDIFF_SYM3170=Lfde296_end - Lfde296_start
+	.long LDIFF_SYM3170
+Lfde296_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
 
-LDIFF_SYM3168=Lme_139 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-	.long LDIFF_SYM3168
+LDIFF_SYM3171=Lme_13a - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_1_System_Threading_Tasks_VoidTaskResult_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
+	.long LDIFF_SYM3171
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,149,18,68,151,17,68,154,16
 	.align 3
-Lfde295_end:
+Lfde296_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81002,61 +81366,61 @@ Lfde295_end:
 
 	.byte 10,236,2
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-	.quad Lme_13a
+	.quad Lme_13b
 
 	.byte 2,118,16,3
 	.asciz "parent"
 
-LDIFF_SYM3169=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3169
+LDIFF_SYM3172=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3172
 	.byte 2,141,40,3
 	.asciz "function"
 
-LDIFF_SYM3170=LTDIE_259_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3170
+LDIFF_SYM3173=LTDIE_260_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3173
 	.byte 1,102,3
 	.asciz "state"
 
-LDIFF_SYM3171=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3171
+LDIFF_SYM3174=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3174
 	.byte 2,141,48,3
 	.asciz "cancellationToken"
 
-LDIFF_SYM3172=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3172
+LDIFF_SYM3175=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3175
 	.byte 2,141,56,3
 	.asciz "creationOptions"
 
-LDIFF_SYM3173=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3173
+LDIFF_SYM3176=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3176
 	.byte 3,141,200,0,3
 	.asciz "internalOptions"
 
-LDIFF_SYM3174=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3174
+LDIFF_SYM3177=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3177
 	.byte 3,141,208,0,3
 	.asciz "scheduler"
 
-LDIFF_SYM3175=LTDIE_40_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3175
+LDIFF_SYM3178=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3178
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3176=Lfde296_end - Lfde296_start
-	.long LDIFF_SYM3176
-Lfde296_start:
+LDIFF_SYM3179=Lfde297_end - Lfde297_start
+	.long LDIFF_SYM3179
+Lfde297_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
 
-LDIFF_SYM3177=Lme_13a - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
-	.long LDIFF_SYM3177
+LDIFF_SYM3180=Lme_13b - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Threading_Tasks_Task_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions_System_Threading_Tasks_TaskScheduler
+	.long LDIFF_SYM3180
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,148,20,68,150,19,68,154,18
 	.align 3
-Lfde296_end:
+Lfde297_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81066,41 +81430,41 @@ Lfde296_end:
 
 	.byte 10,151,3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_TrySetResult_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_13b
+	.quad Lme_13c
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3178=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3178
+LDIFF_SYM3181=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3181
 	.byte 1,106,3
 	.asciz "result"
 
-LDIFF_SYM3179=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3179
+LDIFF_SYM3182=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3182
 	.byte 2,141,32,11
 	.asciz "cp"
 
-LDIFF_SYM3180=LTDIE_41_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3180
+LDIFF_SYM3183=LTDIE_41_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3183
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3181=Lfde297_end - Lfde297_start
-	.long LDIFF_SYM3181
-Lfde297_start:
+LDIFF_SYM3184=Lfde298_end - Lfde298_start
+	.long LDIFF_SYM3184
+Lfde298_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_TrySetResult_System_Threading_Tasks_VoidTaskResult
 
-LDIFF_SYM3182=Lme_13b - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_TrySetResult_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3182
+LDIFF_SYM3185=Lme_13c - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_TrySetResult_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3185
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,153,12,154,11
 	.align 3
-Lfde297_end:
+Lfde298_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81110,53 +81474,19 @@ Lfde297_end:
 
 	.byte 10,195,3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_13c
-
-	.byte 2,118,16,3
-	.asciz "this"
-
-LDIFF_SYM3183=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3183
-	.byte 1,106,3
-	.asciz "result"
-
-LDIFF_SYM3184=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3184
-	.byte 2,141,24,0
-
-.section __DWARF, __debug_frame,regular,debug
-
-LDIFF_SYM3185=Lfde298_end - Lfde298_start
-	.long LDIFF_SYM3185
-Lfde298_start:
-
-	.long 0
-	.align 3
-	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult
-
-LDIFF_SYM3186=Lme_13c - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3186
-	.long 0
-	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,154,10
-	.align 3
-Lfde298_end:
-
-.section __DWARF, __debug_info,regular,debug
-
-	.byte 2
-	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:get_Result"
-	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result"
-
-	.byte 10,220,3
-	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result
 	.quad Lme_13d
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3187=LTDIE_255_REFERENCE - Ldebug_info_start
+LDIFF_SYM3186=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3186
+	.byte 1,106,3
+	.asciz "result"
+
+LDIFF_SYM3187=LDIE_I4 - Ldebug_info_start
 	.long LDIFF_SYM3187
-	.byte 1,106,0
+	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
@@ -81166,23 +81496,23 @@ Lfde299_start:
 
 	.long 0
 	.align 3
-	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult
 
-LDIFF_SYM3189=Lme_13d - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result
+LDIFF_SYM3189=Lme_13d - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_DangerousSetResult_System_Threading_Tasks_VoidTaskResult
 	.long LDIFF_SYM3189
 	.long 0
-	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
+	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,154,10
 	.align 3
 Lfde299_end:
 
 .section __DWARF, __debug_info,regular,debug
 
 	.byte 2
-	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:get_ResultOnSuccess"
-	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess"
+	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:get_Result"
+	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result"
 
-	.byte 10,236,3
-	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess
+	.byte 10,220,3
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result
 	.quad Lme_13e
 
 	.byte 2,118,16,3
@@ -81190,7 +81520,7 @@ Lfde299_end:
 
 LDIFF_SYM3190=LTDIE_255_REFERENCE - Ldebug_info_start
 	.long LDIFF_SYM3190
-	.byte 2,141,32,0
+	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
@@ -81200,14 +81530,48 @@ Lfde300_start:
 
 	.long 0
 	.align 3
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result
+
+LDIFF_SYM3192=Lme_13e - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Result
+	.long LDIFF_SYM3192
+	.long 0
+	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,154,12
+	.align 3
+Lfde300_end:
+
+.section __DWARF, __debug_info,regular,debug
+
+	.byte 2
+	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:get_ResultOnSuccess"
+	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess"
+
+	.byte 10,236,3
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess
+	.quad Lme_13f
+
+	.byte 2,118,16,3
+	.asciz "this"
+
+LDIFF_SYM3193=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3193
+	.byte 2,141,32,0
+
+.section __DWARF, __debug_frame,regular,debug
+
+LDIFF_SYM3194=Lfde301_end - Lfde301_start
+	.long LDIFF_SYM3194
+Lfde301_start:
+
+	.long 0
+	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess
 
-LDIFF_SYM3192=Lme_13e - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess
-	.long LDIFF_SYM3192
+LDIFF_SYM3195=Lme_13f - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_ResultOnSuccess
+	.long LDIFF_SYM3195
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
-Lfde300_end:
+Lfde301_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81217,41 +81581,41 @@ Lfde300_end:
 
 	.byte 10,244,3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetResultCore_bool
-	.quad Lme_13f
+	.quad Lme_140
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3193=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3193
+LDIFF_SYM3196=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3196
 	.byte 1,105,3
 	.asciz "waitCompletionNotification"
 
-LDIFF_SYM3194=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM3194
+LDIFF_SYM3197=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM3197
 	.byte 2,141,40,11
 	.asciz "V_0"
 
-LDIFF_SYM3195=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3195
+LDIFF_SYM3198=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3198
 	.byte 3,141,216,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3196=Lfde301_end - Lfde301_start
-	.long LDIFF_SYM3196
-Lfde301_start:
+LDIFF_SYM3199=Lfde302_end - Lfde302_start
+	.long LDIFF_SYM3199
+Lfde302_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetResultCore_bool
 
-LDIFF_SYM3197=Lme_13f - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetResultCore_bool
-	.long LDIFF_SYM3197
+LDIFF_SYM3200=Lme_140 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetResultCore_bool
+	.long LDIFF_SYM3200
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,153,12
 	.align 3
-Lfde301_end:
+Lfde302_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81261,26 +81625,26 @@ Lfde301_end:
 
 	.byte 10,142,4
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Factory
-	.quad Lme_140
+	.quad Lme_141
 
 	.byte 2,118,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3198=Lfde302_end - Lfde302_start
-	.long LDIFF_SYM3198
-Lfde302_start:
+LDIFF_SYM3201=Lfde303_end - Lfde303_start
+	.long LDIFF_SYM3201
+Lfde303_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Factory
 
-LDIFF_SYM3199=Lme_140 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Factory
-	.long LDIFF_SYM3199
+LDIFF_SYM3202=Lme_141 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_get_Factory
+	.long LDIFF_SYM3202
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde302_end:
+Lfde303_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81290,58 +81654,24 @@ Lfde302_end:
 
 	.byte 10,157,4
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
-	.quad Lme_141
-
-	.byte 2,118,16,3
-	.asciz "this"
-
-LDIFF_SYM3200=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3200
-	.byte 1,106,11
-	.asciz "func"
-
-LDIFF_SYM3201=LTDIE_260_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3201
-	.byte 1,105,11
-	.asciz "funcWithState"
-
-LDIFF_SYM3202=LTDIE_259_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3202
-	.byte 1,104,0
-
-.section __DWARF, __debug_frame,regular,debug
-
-LDIFF_SYM3203=Lfde303_end - Lfde303_start
-	.long LDIFF_SYM3203
-Lfde303_start:
-
-	.long 0
-	.align 3
-	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
-
-LDIFF_SYM3204=Lme_141 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
-	.long LDIFF_SYM3204
-	.long 0
-	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,150,12,151,11,68,152,10,153,9,68,154,8
-	.align 3
-Lfde303_end:
-
-.section __DWARF, __debug_info,regular,debug
-
-	.byte 2
-	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:GetAwaiter"
-	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter"
-
-	.byte 10,179,4
-	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
 	.quad Lme_142
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3205=LTDIE_255_REFERENCE - Ldebug_info_start
+LDIFF_SYM3203=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3203
+	.byte 1,106,11
+	.asciz "func"
+
+LDIFF_SYM3204=LTDIE_259_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3204
+	.byte 1,105,11
+	.asciz "funcWithState"
+
+LDIFF_SYM3205=LTDIE_260_REFERENCE - Ldebug_info_start
 	.long LDIFF_SYM3205
-	.byte 2,141,32,0
+	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
@@ -81351,14 +81681,48 @@ Lfde304_start:
 
 	.long 0
 	.align 3
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
+
+LDIFF_SYM3207=Lme_142 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
+	.long LDIFF_SYM3207
+	.long 0
+	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,150,12,151,11,68,152,10,153,9,68,154,8
+	.align 3
+Lfde304_end:
+
+.section __DWARF, __debug_info,regular,debug
+
+	.byte 2
+	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:GetAwaiter"
+	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter"
+
+	.byte 10,179,4
+	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
+	.quad Lme_143
+
+	.byte 2,118,16,3
+	.asciz "this"
+
+LDIFF_SYM3208=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3208
+	.byte 2,141,32,0
+
+.section __DWARF, __debug_frame,regular,debug
+
+LDIFF_SYM3209=Lfde305_end - Lfde305_start
+	.long LDIFF_SYM3209
+Lfde305_start:
+
+	.long 0
+	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
 
-LDIFF_SYM3207=Lme_142 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
-	.long LDIFF_SYM3207
+LDIFF_SYM3210=Lme_143 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
+	.long LDIFF_SYM3210
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
-Lfde304_end:
+Lfde305_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81368,36 +81732,36 @@ Lfde304_end:
 
 	.byte 10,189,4
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ConfigureAwait_bool
-	.quad Lme_143
+	.quad Lme_144
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3208=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3208
+LDIFF_SYM3211=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3211
 	.byte 2,141,32,3
 	.asciz "continueOnCapturedContext"
 
-LDIFF_SYM3209=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM3209
+LDIFF_SYM3212=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM3212
 	.byte 2,141,40,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3210=Lfde305_end - Lfde305_start
-	.long LDIFF_SYM3210
-Lfde305_start:
+LDIFF_SYM3213=Lfde306_end - Lfde306_start
+	.long LDIFF_SYM3213
+Lfde306_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ConfigureAwait_bool
 
-LDIFF_SYM3211=Lme_143 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ConfigureAwait_bool
-	.long LDIFF_SYM3211
+LDIFF_SYM3214=Lme_144 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ConfigureAwait_bool
+	.long LDIFF_SYM3214
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
 	.align 3
-Lfde305_end:
+Lfde306_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_262:
@@ -81406,64 +81770,64 @@ LTDIE_262:
 	.asciz "System_Action`1"
 
 	.byte 128,1,16
-LDIFF_SYM3212=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3212
+LDIFF_SYM3215=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3215
 	.byte 2,35,0,0,7
 	.asciz "System_Action`1"
 
-LDIFF_SYM3213=LTDIE_262 - Ldebug_info_start
-	.long LDIFF_SYM3213
+LDIFF_SYM3216=LTDIE_262 - Ldebug_info_start
+	.long LDIFF_SYM3216
 LTDIE_262_POINTER:
 
 	.byte 13
-LDIFF_SYM3214=LTDIE_262 - Ldebug_info_start
-	.long LDIFF_SYM3214
+LDIFF_SYM3217=LTDIE_262 - Ldebug_info_start
+	.long LDIFF_SYM3217
 LTDIE_262_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3215=LTDIE_262 - Ldebug_info_start
-	.long LDIFF_SYM3215
+LDIFF_SYM3218=LTDIE_262 - Ldebug_info_start
+	.long LDIFF_SYM3218
 	.byte 2
 	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:ContinueWith"
 	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult"
 
 	.byte 10,215,4
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_144
+	.quad Lme_145
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3216=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3216
+LDIFF_SYM3219=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3219
 	.byte 2,141,16,3
 	.asciz "continuationAction"
 
-LDIFF_SYM3217=LTDIE_262_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3217
+LDIFF_SYM3220=LTDIE_262_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3220
 	.byte 2,141,24,11
 	.asciz "V_0"
 
-LDIFF_SYM3218=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3218
+LDIFF_SYM3221=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3221
 	.byte 3,141,192,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3219=Lfde306_end - Lfde306_start
-	.long LDIFF_SYM3219
-Lfde306_start:
+LDIFF_SYM3222=Lfde307_end - Lfde307_start
+	.long LDIFF_SYM3222
+Lfde307_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
 
-LDIFF_SYM3220=Lme_144 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3220
+LDIFF_SYM3223=Lme_145 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3223
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
 	.align 3
-Lfde306_end:
+Lfde307_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81473,46 +81837,46 @@ Lfde306_end:
 
 	.byte 10,141,5
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler
-	.quad Lme_145
+	.quad Lme_146
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3221=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3221
+LDIFF_SYM3224=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3224
 	.byte 2,141,16,3
 	.asciz "continuationAction"
 
-LDIFF_SYM3222=LTDIE_262_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3222
+LDIFF_SYM3225=LTDIE_262_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3225
 	.byte 2,141,24,3
 	.asciz "scheduler"
 
-LDIFF_SYM3223=LTDIE_40_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3223
+LDIFF_SYM3226=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3226
 	.byte 2,141,32,11
 	.asciz "V_0"
 
-LDIFF_SYM3224=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3224
+LDIFF_SYM3227=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3227
 	.byte 3,141,200,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3225=Lfde307_end - Lfde307_start
-	.long LDIFF_SYM3225
-Lfde307_start:
+LDIFF_SYM3228=Lfde308_end - Lfde308_start
+	.long LDIFF_SYM3228
+Lfde308_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler
 
-LDIFF_SYM3226=Lme_145 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler
-	.long LDIFF_SYM3226
+LDIFF_SYM3229=Lme_146 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler
+	.long LDIFF_SYM3229
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
-Lfde307_end:
+Lfde308_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_263:
@@ -81521,8 +81885,8 @@ LTDIE_263:
 	.asciz "System_Threading_Tasks_TaskContinuationOptions"
 
 	.byte 4
-LDIFF_SYM3227=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3227
+LDIFF_SYM3230=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3230
 	.byte 9
 	.asciz "None"
 
@@ -81571,84 +81935,84 @@ LDIFF_SYM3227=LDIE_I4 - Ldebug_info_start
 	.byte 128,128,32,0,7
 	.asciz "System_Threading_Tasks_TaskContinuationOptions"
 
-LDIFF_SYM3228=LTDIE_263 - Ldebug_info_start
-	.long LDIFF_SYM3228
+LDIFF_SYM3231=LTDIE_263 - Ldebug_info_start
+	.long LDIFF_SYM3231
 LTDIE_263_POINTER:
 
 	.byte 13
-LDIFF_SYM3229=LTDIE_263 - Ldebug_info_start
-	.long LDIFF_SYM3229
+LDIFF_SYM3232=LTDIE_263 - Ldebug_info_start
+	.long LDIFF_SYM3232
 LTDIE_263_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3230=LTDIE_263 - Ldebug_info_start
-	.long LDIFF_SYM3230
+LDIFF_SYM3233=LTDIE_263 - Ldebug_info_start
+	.long LDIFF_SYM3233
 	.byte 2
 	.asciz "System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:ContinueWith"
 	.asciz "System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions"
 
 	.byte 10,225,5
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions
-	.quad Lme_146
+	.quad Lme_147
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3231=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3231
+LDIFF_SYM3234=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3234
 	.byte 1,103,3
 	.asciz "continuationAction"
 
-LDIFF_SYM3232=LTDIE_262_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3232
+LDIFF_SYM3235=LTDIE_262_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3235
 	.byte 1,104,3
 	.asciz "scheduler"
 
-LDIFF_SYM3233=LTDIE_40_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3233
+LDIFF_SYM3236=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3236
 	.byte 1,105,3
 	.asciz "cancellationToken"
 
-LDIFF_SYM3234=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3234
+LDIFF_SYM3237=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3237
 	.byte 2,141,56,3
 	.asciz "continuationOptions"
 
-LDIFF_SYM3235=LTDIE_263 - Ldebug_info_start
-	.long LDIFF_SYM3235
+LDIFF_SYM3238=LTDIE_263 - Ldebug_info_start
+	.long LDIFF_SYM3238
 	.byte 1,106,11
 	.asciz "creationOptions"
 
-LDIFF_SYM3236=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3236
+LDIFF_SYM3239=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3239
 	.byte 3,141,232,0,11
 	.asciz "internalOptions"
 
-LDIFF_SYM3237=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3237
+LDIFF_SYM3240=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3240
 	.byte 3,141,240,0,11
 	.asciz "continuationTask"
 
-LDIFF_SYM3238=LTDIE_33_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3238
+LDIFF_SYM3241=LTDIE_33_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3241
 	.byte 1,102,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3239=Lfde308_end - Lfde308_start
-	.long LDIFF_SYM3239
-Lfde308_start:
+LDIFF_SYM3242=Lfde309_end - Lfde309_start
+	.long LDIFF_SYM3242
+Lfde309_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions
 
-LDIFF_SYM3240=Lme_146 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions
-	.long LDIFF_SYM3240
+LDIFF_SYM3243=Lme_147 - System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_ContinueWith_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_TaskScheduler_System_Threading_CancellationToken_System_Threading_Tasks_TaskContinuationOptions
+	.long LDIFF_SYM3243
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,150,18,151,17,68,152,16,153,15,68,154,14
 	.align 3
-Lfde308_end:
+Lfde309_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_264:
@@ -81657,79 +82021,79 @@ LTDIE_264:
 	.asciz "System_Threading_Tasks_TaskFactory`1"
 
 	.byte 40,16
-LDIFF_SYM3241=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM3241
+LDIFF_SYM3244=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM3244
 	.byte 2,35,0,6
 	.asciz "m_defaultCancellationToken"
 
-LDIFF_SYM3242=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3242
+LDIFF_SYM3245=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3245
 	.byte 2,35,16,6
 	.asciz "m_defaultScheduler"
 
-LDIFF_SYM3243=LTDIE_40_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3243
+LDIFF_SYM3246=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3246
 	.byte 2,35,24,6
 	.asciz "m_defaultCreationOptions"
 
-LDIFF_SYM3244=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3244
+LDIFF_SYM3247=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3247
 	.byte 2,35,32,6
 	.asciz "m_defaultContinuationOptions"
 
-LDIFF_SYM3245=LTDIE_263 - Ldebug_info_start
-	.long LDIFF_SYM3245
+LDIFF_SYM3248=LTDIE_263 - Ldebug_info_start
+	.long LDIFF_SYM3248
 	.byte 2,35,36,0,7
 	.asciz "System_Threading_Tasks_TaskFactory`1"
 
-LDIFF_SYM3246=LTDIE_264 - Ldebug_info_start
-	.long LDIFF_SYM3246
+LDIFF_SYM3249=LTDIE_264 - Ldebug_info_start
+	.long LDIFF_SYM3249
 LTDIE_264_POINTER:
 
 	.byte 13
-LDIFF_SYM3247=LTDIE_264 - Ldebug_info_start
-	.long LDIFF_SYM3247
+LDIFF_SYM3250=LTDIE_264 - Ldebug_info_start
+	.long LDIFF_SYM3250
 LTDIE_264_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3248=LTDIE_264 - Ldebug_info_start
-	.long LDIFF_SYM3248
+LDIFF_SYM3251=LTDIE_264 - Ldebug_info_start
+	.long LDIFF_SYM3251
 	.byte 2
 	.asciz "System.Threading.Tasks.TaskFactory`1<System.Threading.Tasks.VoidTaskResult>:.ctor"
 	.asciz "System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor"
 
 	.byte 11,93
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
-	.quad Lme_147
+	.quad Lme_148
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3249=LTDIE_264_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3249
+LDIFF_SYM3252=LTDIE_264_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3252
 	.byte 2,141,16,11
 	.asciz "V_0"
 
-LDIFF_SYM3250=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3250
+LDIFF_SYM3253=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3253
 	.byte 2,141,56,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3251=Lfde309_end - Lfde309_start
-	.long LDIFF_SYM3251
-Lfde309_start:
+LDIFF_SYM3254=Lfde310_end - Lfde310_start
+	.long LDIFF_SYM3254
+Lfde310_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
 
-LDIFF_SYM3252=Lme_147 - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
-	.long LDIFF_SYM3252
+LDIFF_SYM3255=Lme_148 - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor
+	.long LDIFF_SYM3255
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde309_end:
+Lfde310_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -81739,51 +82103,110 @@ Lfde309_end:
 
 	.byte 11,208,1
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskScheduler
-	.quad Lme_148
+	.quad Lme_149
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3253=LTDIE_264_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3253
+LDIFF_SYM3256=LTDIE_264_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3256
 	.byte 1,103,3
 	.asciz "cancellationToken"
 
-LDIFF_SYM3254=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3254
+LDIFF_SYM3257=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3257
 	.byte 2,141,40,3
 	.asciz "creationOptions"
 
-LDIFF_SYM3255=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3255
+LDIFF_SYM3258=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3258
 	.byte 1,104,3
 	.asciz "continuationOptions"
 
-LDIFF_SYM3256=LTDIE_263 - Ldebug_info_start
-	.long LDIFF_SYM3256
+LDIFF_SYM3259=LTDIE_263 - Ldebug_info_start
+	.long LDIFF_SYM3259
 	.byte 1,105,3
 	.asciz "scheduler"
 
-LDIFF_SYM3257=LTDIE_40_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3257
+LDIFF_SYM3260=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3260
 	.byte 2,141,56,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3258=Lfde310_end - Lfde310_start
-	.long LDIFF_SYM3258
-Lfde310_start:
+LDIFF_SYM3261=Lfde311_end - Lfde311_start
+	.long LDIFF_SYM3261
+Lfde311_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskScheduler
 
-LDIFF_SYM3259=Lme_148 - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskScheduler
-	.long LDIFF_SYM3259
+LDIFF_SYM3262=Lme_149 - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskContinuationOptions_System_Threading_Tasks_TaskScheduler
+	.long LDIFF_SYM3262
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,151,10,152,9,68,153,8
 	.align 3
-Lfde310_end:
+Lfde311_end:
+
+.section __DWARF, __debug_info,regular,debug
+
+	.byte 2
+	.asciz "System.Threading.Tasks.TaskFactory`1<System.Threading.Tasks.VoidTaskResult>:StartNew"
+	.asciz "System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskScheduler"
+
+	.byte 11,252,3
+	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskScheduler
+	.quad Lme_14a
+
+	.byte 2,118,16,3
+	.asciz "this"
+
+LDIFF_SYM3263=LTDIE_264_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3263
+	.byte 2,141,24,3
+	.asciz "function"
+
+LDIFF_SYM3264=LTDIE_260_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3264
+	.byte 2,141,32,3
+	.asciz "state"
+
+LDIFF_SYM3265=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3265
+	.byte 2,141,40,3
+	.asciz "cancellationToken"
+
+LDIFF_SYM3266=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3266
+	.byte 2,141,48,3
+	.asciz "creationOptions"
+
+LDIFF_SYM3267=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3267
+	.byte 1,105,3
+	.asciz "scheduler"
+
+LDIFF_SYM3268=LTDIE_40_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3268
+	.byte 3,141,192,0,0
+
+.section __DWARF, __debug_frame,regular,debug
+
+LDIFF_SYM3269=Lfde312_end - Lfde312_start
+	.long LDIFF_SYM3269
+Lfde312_start:
+
+	.long 0
+	.align 3
+	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskScheduler
+
+LDIFF_SYM3270=Lme_14a - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_StartNew_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_object_System_Threading_CancellationToken_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_TaskScheduler
+	.long LDIFF_SYM3270
+	.long 0
+	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,153,14
+	.align 3
+Lfde312_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_265:
@@ -81794,181 +82217,181 @@ LTDIE_265:
 	.byte 16,7
 	.asciz "System_IAsyncResult"
 
-LDIFF_SYM3260=LTDIE_265 - Ldebug_info_start
-	.long LDIFF_SYM3260
+LDIFF_SYM3271=LTDIE_265 - Ldebug_info_start
+	.long LDIFF_SYM3271
 LTDIE_265_POINTER:
 
 	.byte 13
-LDIFF_SYM3261=LTDIE_265 - Ldebug_info_start
-	.long LDIFF_SYM3261
+LDIFF_SYM3272=LTDIE_265 - Ldebug_info_start
+	.long LDIFF_SYM3272
 LTDIE_265_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3262=LTDIE_265 - Ldebug_info_start
-	.long LDIFF_SYM3262
+LDIFF_SYM3273=LTDIE_265 - Ldebug_info_start
+	.long LDIFF_SYM3273
 LTDIE_266:
 
 	.byte 5
 	.asciz "System_Func`2"
 
 	.byte 128,1,16
-LDIFF_SYM3263=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3263
+LDIFF_SYM3274=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3274
 	.byte 2,35,0,0,7
 	.asciz "System_Func`2"
 
-LDIFF_SYM3264=LTDIE_266 - Ldebug_info_start
-	.long LDIFF_SYM3264
+LDIFF_SYM3275=LTDIE_266 - Ldebug_info_start
+	.long LDIFF_SYM3275
 LTDIE_266_POINTER:
 
 	.byte 13
-LDIFF_SYM3265=LTDIE_266 - Ldebug_info_start
-	.long LDIFF_SYM3265
+LDIFF_SYM3276=LTDIE_266 - Ldebug_info_start
+	.long LDIFF_SYM3276
 LTDIE_266_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3266=LTDIE_266 - Ldebug_info_start
-	.long LDIFF_SYM3266
+LDIFF_SYM3277=LTDIE_266 - Ldebug_info_start
+	.long LDIFF_SYM3277
 LTDIE_267:
 
 	.byte 5
 	.asciz "System_Action`1"
 
 	.byte 128,1,16
-LDIFF_SYM3267=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3267
+LDIFF_SYM3278=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3278
 	.byte 2,35,0,0,7
 	.asciz "System_Action`1"
 
-LDIFF_SYM3268=LTDIE_267 - Ldebug_info_start
-	.long LDIFF_SYM3268
+LDIFF_SYM3279=LTDIE_267 - Ldebug_info_start
+	.long LDIFF_SYM3279
 LTDIE_267_POINTER:
 
 	.byte 13
-LDIFF_SYM3269=LTDIE_267 - Ldebug_info_start
-	.long LDIFF_SYM3269
+LDIFF_SYM3280=LTDIE_267 - Ldebug_info_start
+	.long LDIFF_SYM3280
 LTDIE_267_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3270=LTDIE_267 - Ldebug_info_start
-	.long LDIFF_SYM3270
+LDIFF_SYM3281=LTDIE_267 - Ldebug_info_start
+	.long LDIFF_SYM3281
 LTDIE_269:
 
 	.byte 5
 	.asciz "System_SystemException"
 
 	.byte 136,1,16
-LDIFF_SYM3271=LTDIE_64 - Ldebug_info_start
-	.long LDIFF_SYM3271
+LDIFF_SYM3282=LTDIE_64 - Ldebug_info_start
+	.long LDIFF_SYM3282
 	.byte 2,35,0,0,7
 	.asciz "System_SystemException"
 
-LDIFF_SYM3272=LTDIE_269 - Ldebug_info_start
-	.long LDIFF_SYM3272
+LDIFF_SYM3283=LTDIE_269 - Ldebug_info_start
+	.long LDIFF_SYM3283
 LTDIE_269_POINTER:
 
 	.byte 13
-LDIFF_SYM3273=LTDIE_269 - Ldebug_info_start
-	.long LDIFF_SYM3273
+LDIFF_SYM3284=LTDIE_269 - Ldebug_info_start
+	.long LDIFF_SYM3284
 LTDIE_269_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3274=LTDIE_269 - Ldebug_info_start
-	.long LDIFF_SYM3274
+LDIFF_SYM3285=LTDIE_269 - Ldebug_info_start
+	.long LDIFF_SYM3285
 LTDIE_268:
 
 	.byte 5
 	.asciz "System_OperationCanceledException"
 
 	.byte 144,1,16
-LDIFF_SYM3275=LTDIE_269 - Ldebug_info_start
-	.long LDIFF_SYM3275
+LDIFF_SYM3286=LTDIE_269 - Ldebug_info_start
+	.long LDIFF_SYM3286
 	.byte 2,35,0,6
 	.asciz "_cancellationToken"
 
-LDIFF_SYM3276=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3276
+LDIFF_SYM3287=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3287
 	.byte 3,35,136,1,0,7
 	.asciz "System_OperationCanceledException"
 
-LDIFF_SYM3277=LTDIE_268 - Ldebug_info_start
-	.long LDIFF_SYM3277
+LDIFF_SYM3288=LTDIE_268 - Ldebug_info_start
+	.long LDIFF_SYM3288
 LTDIE_268_POINTER:
 
 	.byte 13
-LDIFF_SYM3278=LTDIE_268 - Ldebug_info_start
-	.long LDIFF_SYM3278
+LDIFF_SYM3289=LTDIE_268 - Ldebug_info_start
+	.long LDIFF_SYM3289
 LTDIE_268_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3279=LTDIE_268 - Ldebug_info_start
-	.long LDIFF_SYM3279
+LDIFF_SYM3290=LTDIE_268 - Ldebug_info_start
+	.long LDIFF_SYM3290
 	.byte 2
 	.asciz "System.Threading.Tasks.TaskFactory`1<System.Threading.Tasks.VoidTaskResult>:FromAsyncCoreLogic"
 	.asciz "System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool"
 
 	.byte 11,142,4
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
-	.quad Lme_149
+	.quad Lme_14b
 
 	.byte 2,118,16,3
 	.asciz "iar"
 
-LDIFF_SYM3280=LTDIE_265_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3280
+LDIFF_SYM3291=LTDIE_265_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3291
 	.byte 1,104,3
 	.asciz "endFunction"
 
-LDIFF_SYM3281=LTDIE_266_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3281
+LDIFF_SYM3292=LTDIE_266_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3292
 	.byte 1,105,3
 	.asciz "endAction"
 
-LDIFF_SYM3282=LTDIE_267_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3282
+LDIFF_SYM3293=LTDIE_267_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3293
 	.byte 2,141,32,3
 	.asciz "promise"
 
-LDIFF_SYM3283=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3283
+LDIFF_SYM3294=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3294
 	.byte 2,141,40,3
 	.asciz "requiresSynchronization"
 
-LDIFF_SYM3284=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM3284
+LDIFF_SYM3295=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM3295
 	.byte 2,141,48,11
 	.asciz "ex"
 
-LDIFF_SYM3285=LTDIE_64_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3285
+LDIFF_SYM3296=LTDIE_64_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3296
 	.byte 3,141,248,0,11
 	.asciz "oce"
 
-LDIFF_SYM3286=LTDIE_268_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3286
+LDIFF_SYM3297=LTDIE_268_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3297
 	.byte 3,141,128,1,11
 	.asciz "result"
 
-LDIFF_SYM3287=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3287
+LDIFF_SYM3298=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3298
 	.byte 3,141,240,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3288=Lfde311_end - Lfde311_start
-	.long LDIFF_SYM3288
-Lfde311_start:
+LDIFF_SYM3299=Lfde313_end - Lfde313_start
+	.long LDIFF_SYM3299
+Lfde313_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
 
-LDIFF_SYM3289=Lme_149 - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
-	.long LDIFF_SYM3289
+LDIFF_SYM3300=Lme_14b - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncCoreLogic_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
+	.long LDIFF_SYM3300
 	.long 0
 	.byte 12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,152,30,153,29
 	.align 3
-Lfde311_end:
+Lfde313_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_270:
@@ -81977,69 +82400,69 @@ LTDIE_270:
 	.asciz "System_Func`3"
 
 	.byte 128,1,16
-LDIFF_SYM3290=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3290
+LDIFF_SYM3301=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3301
 	.byte 2,35,0,0,7
 	.asciz "System_Func`3"
 
-LDIFF_SYM3291=LTDIE_270 - Ldebug_info_start
-	.long LDIFF_SYM3291
+LDIFF_SYM3302=LTDIE_270 - Ldebug_info_start
+	.long LDIFF_SYM3302
 LTDIE_270_POINTER:
 
 	.byte 13
-LDIFF_SYM3292=LTDIE_270 - Ldebug_info_start
-	.long LDIFF_SYM3292
+LDIFF_SYM3303=LTDIE_270 - Ldebug_info_start
+	.long LDIFF_SYM3303
 LTDIE_270_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3293=LTDIE_270 - Ldebug_info_start
-	.long LDIFF_SYM3293
+LDIFF_SYM3304=LTDIE_270 - Ldebug_info_start
+	.long LDIFF_SYM3304
 	.byte 2
 	.asciz "System.Threading.Tasks.TaskFactory`1<System.Threading.Tasks.VoidTaskResult>:FromAsync"
 	.asciz "System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsync_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_object"
 
 	.byte 11,220,5
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsync_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_object
-	.quad Lme_14a
+	.quad Lme_14c
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3294=LTDIE_264_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3294
+LDIFF_SYM3305=LTDIE_264_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3305
 	.byte 2,141,16,3
 	.asciz "beginMethod"
 
-LDIFF_SYM3295=LTDIE_270_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3295
+LDIFF_SYM3306=LTDIE_270_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3306
 	.byte 2,141,24,3
 	.asciz "endMethod"
 
-LDIFF_SYM3296=LTDIE_266_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3296
+LDIFF_SYM3307=LTDIE_266_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3307
 	.byte 2,141,32,3
 	.asciz "state"
 
-LDIFF_SYM3297=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3297
+LDIFF_SYM3308=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3308
 	.byte 2,141,40,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3298=Lfde312_end - Lfde312_start
-	.long LDIFF_SYM3298
-Lfde312_start:
+LDIFF_SYM3309=Lfde314_end - Lfde314_start
+	.long LDIFF_SYM3309
+Lfde314_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsync_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_object
 
-LDIFF_SYM3299=Lme_14a - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsync_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_object
-	.long LDIFF_SYM3299
+LDIFF_SYM3310=Lme_14c - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsync_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_object
+	.long LDIFF_SYM3310
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
-Lfde312_end:
+Lfde314_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_271:
@@ -82048,104 +82471,104 @@ LTDIE_271:
 	.asciz "_<>c__DisplayClass35_0"
 
 	.byte 40,16
-LDIFF_SYM3300=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM3300
+LDIFF_SYM3311=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM3311
 	.byte 2,35,0,6
 	.asciz "endFunction"
 
-LDIFF_SYM3301=LTDIE_266_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3301
+LDIFF_SYM3312=LTDIE_266_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3312
 	.byte 2,35,16,6
 	.asciz "endAction"
 
-LDIFF_SYM3302=LTDIE_267_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3302
+LDIFF_SYM3313=LTDIE_267_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3313
 	.byte 2,35,24,6
 	.asciz "promise"
 
-LDIFF_SYM3303=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3303
+LDIFF_SYM3314=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3314
 	.byte 2,35,32,0,7
 	.asciz "_<>c__DisplayClass35_0"
 
-LDIFF_SYM3304=LTDIE_271 - Ldebug_info_start
-	.long LDIFF_SYM3304
+LDIFF_SYM3315=LTDIE_271 - Ldebug_info_start
+	.long LDIFF_SYM3315
 LTDIE_271_POINTER:
 
 	.byte 13
-LDIFF_SYM3305=LTDIE_271 - Ldebug_info_start
-	.long LDIFF_SYM3305
+LDIFF_SYM3316=LTDIE_271 - Ldebug_info_start
+	.long LDIFF_SYM3316
 LTDIE_271_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3306=LTDIE_271 - Ldebug_info_start
-	.long LDIFF_SYM3306
+LDIFF_SYM3317=LTDIE_271 - Ldebug_info_start
+	.long LDIFF_SYM3317
 	.byte 2
 	.asciz "System.Threading.Tasks.TaskFactory`1<System.Threading.Tasks.VoidTaskResult>:FromAsyncImpl"
 	.asciz "System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions"
 
 	.byte 11,0
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions
-	.quad Lme_14b
+	.quad Lme_14d
 
 	.byte 2,118,16,3
 	.asciz "beginMethod"
 
-LDIFF_SYM3307=LTDIE_270_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3307
+LDIFF_SYM3318=LTDIE_270_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3318
 	.byte 1,102,3
 	.asciz "endFunction"
 
-LDIFF_SYM3308=LTDIE_266_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3308
+LDIFF_SYM3319=LTDIE_266_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3319
 	.byte 2,141,48,3
 	.asciz "endAction"
 
-LDIFF_SYM3309=LTDIE_267_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3309
+LDIFF_SYM3320=LTDIE_267_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3320
 	.byte 2,141,56,3
 	.asciz "state"
 
-LDIFF_SYM3310=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3310
+LDIFF_SYM3321=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3321
 	.byte 1,105,3
 	.asciz "creationOptions"
 
-LDIFF_SYM3311=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3311
+LDIFF_SYM3322=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3322
 	.byte 1,106,11
 	.asciz "CS$<>8__locals0"
 
-LDIFF_SYM3312=LTDIE_271_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3312
+LDIFF_SYM3323=LTDIE_271_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3323
 	.byte 3,141,224,0,11
 	.asciz "asyncResult"
 
-LDIFF_SYM3313=LTDIE_265_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3313
+LDIFF_SYM3324=LTDIE_265_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3324
 	.byte 1,101,11
 	.asciz "V_2"
 
-LDIFF_SYM3314=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3314
+LDIFF_SYM3325=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3325
 	.byte 3,141,216,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3315=Lfde313_end - Lfde313_start
-	.long LDIFF_SYM3315
-Lfde313_start:
+LDIFF_SYM3326=Lfde315_end - Lfde315_start
+	.long LDIFF_SYM3326
+Lfde315_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions
 
-LDIFF_SYM3316=Lme_14b - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions
-	.long LDIFF_SYM3316
+LDIFF_SYM3327=Lme_14d - System_Threading_Tasks_TaskFactory_1_System_Threading_Tasks_VoidTaskResult_FromAsyncImpl_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_System_Action_1_System_IAsyncResult_object_System_Threading_Tasks_TaskCreationOptions
+	.long LDIFF_SYM3327
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,149,20,150,19,68,153,18,154,17
 	.align 3
-Lfde313_end:
+Lfde315_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82155,31 +82578,31 @@ Lfde313_end:
 
 	.byte 7,188,3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_Create
-	.quad Lme_14c
+	.quad Lme_14e
 
 	.byte 2,118,16,11
 	.asciz "V_0"
 
-LDIFF_SYM3317=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3317
+LDIFF_SYM3328=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3328
 	.byte 3,141,200,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3318=Lfde314_end - Lfde314_start
-	.long LDIFF_SYM3318
-Lfde314_start:
+LDIFF_SYM3329=Lfde316_end - Lfde316_start
+	.long LDIFF_SYM3329
+Lfde316_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_Create
 
-LDIFF_SYM3319=Lme_14c - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_Create
-	.long LDIFF_SYM3319
+LDIFF_SYM3330=Lme_14e - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_Create
+	.long LDIFF_SYM3330
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
-Lfde314_end:
+Lfde316_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82189,36 +82612,36 @@ Lfde314_end:
 
 	.byte 7,229,3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine
-	.quad Lme_14d
+	.quad Lme_14f
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3320=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3320
+LDIFF_SYM3331=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3331
 	.byte 2,141,16,3
 	.asciz "stateMachine"
 
-LDIFF_SYM3321=LTDIE_139_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3321
+LDIFF_SYM3332=LTDIE_139_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3332
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3322=Lfde315_end - Lfde315_start
-	.long LDIFF_SYM3322
-Lfde315_start:
+LDIFF_SYM3333=Lfde317_end - Lfde317_start
+	.long LDIFF_SYM3333
+Lfde317_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine
 
-LDIFF_SYM3323=Lme_14d - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine
-	.long LDIFF_SYM3323
+LDIFF_SYM3334=Lme_14f - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetStateMachine_System_Runtime_CompilerServices_IAsyncStateMachine
+	.long LDIFF_SYM3334
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde315_end:
+Lfde317_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82228,36 +82651,36 @@ Lfde315_end:
 
 	.byte 7,190,4
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_Task
-	.quad Lme_14e
+	.quad Lme_150
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3324=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3324
+LDIFF_SYM3335=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3335
 	.byte 1,106,11
 	.asciz "task"
 
-LDIFF_SYM3325=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3325
+LDIFF_SYM3336=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3336
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3326=Lfde316_end - Lfde316_start
-	.long LDIFF_SYM3326
-Lfde316_start:
+LDIFF_SYM3337=Lfde318_end - Lfde318_start
+	.long LDIFF_SYM3337
+Lfde318_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_Task
 
-LDIFF_SYM3327=Lme_14e - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_Task
-	.long LDIFF_SYM3327
+LDIFF_SYM3338=Lme_150 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_Task
+	.long LDIFF_SYM3338
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7,68,154,6
 	.align 3
-Lfde316_end:
+Lfde318_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82267,117 +82690,24 @@ Lfde316_end:
 
 	.byte 7,206,4
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_14f
-
-	.byte 2,118,16,3
-	.asciz "this"
-
-LDIFF_SYM3328=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3328
-	.byte 1,106,3
-	.asciz "result"
-
-LDIFF_SYM3329=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3329
-	.byte 2,141,32,11
-	.asciz "task"
-
-LDIFF_SYM3330=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3330
-	.byte 1,105,0
-
-.section __DWARF, __debug_frame,regular,debug
-
-LDIFF_SYM3331=Lfde317_end - Lfde317_start
-	.long LDIFF_SYM3331
-Lfde317_start:
-
-	.long 0
-	.align 3
-	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult
-
-LDIFF_SYM3332=Lme_14f - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3332
-	.long 0
-	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,153,12,154,11
-	.align 3
-Lfde317_end:
-
-.section __DWARF, __debug_info,regular,debug
-
-	.byte 2
-	.asciz "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>:SetResult"
-	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult"
-
-	.byte 7,244,4
-	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_150
-
-	.byte 2,118,16,3
-	.asciz "this"
-
-LDIFF_SYM3333=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3333
-	.byte 1,105,3
-	.asciz "completedTask"
-
-LDIFF_SYM3334=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3334
-	.byte 2,141,24,11
-	.asciz "V_0"
-
-LDIFF_SYM3335=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3335
-	.byte 3,141,192,0,0
-
-.section __DWARF, __debug_frame,regular,debug
-
-LDIFF_SYM3336=Lfde318_end - Lfde318_start
-	.long LDIFF_SYM3336
-Lfde318_start:
-
-	.long 0
-	.align 3
-	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-
-LDIFF_SYM3337=Lme_150 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3337
-	.long 0
-	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10
-	.align 3
-Lfde318_end:
-
-.section __DWARF, __debug_info,regular,debug
-
-	.byte 2
-	.asciz "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>:SetException"
-	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetException_System_Exception"
-
-	.byte 7,137,5
-	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetException_System_Exception
 	.quad Lme_151
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3338=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3338
-	.byte 1,105,3
-	.asciz "exception"
-
-LDIFF_SYM3339=LTDIE_64_REFERENCE - Ldebug_info_start
+LDIFF_SYM3339=LDIE_I - Ldebug_info_start
 	.long LDIFF_SYM3339
-	.byte 1,106,11
+	.byte 1,106,3
+	.asciz "result"
+
+LDIFF_SYM3340=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3340
+	.byte 2,141,32,11
 	.asciz "task"
 
-LDIFF_SYM3340=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3340
-	.byte 1,104,11
-	.asciz "oce"
-
-LDIFF_SYM3341=LTDIE_268_REFERENCE - Ldebug_info_start
+LDIFF_SYM3341=LTDIE_255_REFERENCE - Ldebug_info_start
 	.long LDIFF_SYM3341
-	.byte 1,103,0
+	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
@@ -82387,14 +82717,107 @@ Lfde319_start:
 
 	.long 0
 	.align 3
+	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult
+
+LDIFF_SYM3343=Lme_151 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3343
+	.long 0
+	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,153,12,154,11
+	.align 3
+Lfde319_end:
+
+.section __DWARF, __debug_info,regular,debug
+
+	.byte 2
+	.asciz "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>:SetResult"
+	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult"
+
+	.byte 7,244,4
+	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
+	.quad Lme_152
+
+	.byte 2,118,16,3
+	.asciz "this"
+
+LDIFF_SYM3344=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3344
+	.byte 1,105,3
+	.asciz "completedTask"
+
+LDIFF_SYM3345=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3345
+	.byte 2,141,24,11
+	.asciz "V_0"
+
+LDIFF_SYM3346=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3346
+	.byte 3,141,192,0,0
+
+.section __DWARF, __debug_frame,regular,debug
+
+LDIFF_SYM3347=Lfde320_end - Lfde320_start
+	.long LDIFF_SYM3347
+Lfde320_start:
+
+	.long 0
+	.align 3
+	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
+
+LDIFF_SYM3348=Lme_152 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetResult_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3348
+	.long 0
+	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,153,10
+	.align 3
+Lfde320_end:
+
+.section __DWARF, __debug_info,regular,debug
+
+	.byte 2
+	.asciz "System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>:SetException"
+	.asciz "System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetException_System_Exception"
+
+	.byte 7,137,5
+	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetException_System_Exception
+	.quad Lme_153
+
+	.byte 2,118,16,3
+	.asciz "this"
+
+LDIFF_SYM3349=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3349
+	.byte 1,105,3
+	.asciz "exception"
+
+LDIFF_SYM3350=LTDIE_64_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3350
+	.byte 1,106,11
+	.asciz "task"
+
+LDIFF_SYM3351=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3351
+	.byte 1,104,11
+	.asciz "oce"
+
+LDIFF_SYM3352=LTDIE_268_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3352
+	.byte 1,103,0
+
+.section __DWARF, __debug_frame,regular,debug
+
+LDIFF_SYM3353=Lfde321_end - Lfde321_start
+	.long LDIFF_SYM3353
+Lfde321_start:
+
+	.long 0
+	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetException_System_Exception
 
-LDIFF_SYM3343=Lme_151 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetException_System_Exception
-	.long LDIFF_SYM3343
+LDIFF_SYM3354=Lme_153 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetException_System_Exception
+	.long LDIFF_SYM3354
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,148,14,149,13,68,150,12,151,11,68,152,10,153,9,68,154,8
 	.align 3
-Lfde319_end:
+Lfde321_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82404,36 +82827,36 @@ Lfde319_end:
 
 	.byte 7,181,5
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetNotificationForWaitCompletion_bool
-	.quad Lme_152
+	.quad Lme_154
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3344=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3344
+LDIFF_SYM3355=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3355
 	.byte 2,141,16,3
 	.asciz "enabled"
 
-LDIFF_SYM3345=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM3345
+LDIFF_SYM3356=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM3356
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3346=Lfde320_end - Lfde320_start
-	.long LDIFF_SYM3346
-Lfde320_start:
+LDIFF_SYM3357=Lfde322_end - Lfde322_start
+	.long LDIFF_SYM3357
+Lfde322_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetNotificationForWaitCompletion_bool
 
-LDIFF_SYM3347=Lme_152 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetNotificationForWaitCompletion_bool
-	.long LDIFF_SYM3347
+LDIFF_SYM3358=Lme_154 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_SetNotificationForWaitCompletion_bool
+	.long LDIFF_SYM3358
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
-Lfde320_end:
+Lfde322_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82443,31 +82866,31 @@ Lfde320_end:
 
 	.byte 7,192,5
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_ObjectIdForDebugger
-	.quad Lme_153
+	.quad Lme_155
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3348=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3348
+LDIFF_SYM3359=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3359
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3349=Lfde321_end - Lfde321_start
-	.long LDIFF_SYM3349
-Lfde321_start:
+LDIFF_SYM3360=Lfde323_end - Lfde323_start
+	.long LDIFF_SYM3360
+Lfde323_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_ObjectIdForDebugger
 
-LDIFF_SYM3350=Lme_153 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_ObjectIdForDebugger
-	.long LDIFF_SYM3350
+LDIFF_SYM3361=Lme_155 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_get_ObjectIdForDebugger
+	.long LDIFF_SYM3361
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde321_end:
+Lfde323_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82477,41 +82900,41 @@ Lfde321_end:
 
 	.byte 7,228,5
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_154
+	.quad Lme_156
 
 	.byte 2,118,16,3
 	.asciz "result"
 
-LDIFF_SYM3351=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3351
+LDIFF_SYM3362=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3362
 	.byte 2,141,32,11
 	.asciz "V_0"
 
-LDIFF_SYM3352=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3352
+LDIFF_SYM3363=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3363
 	.byte 3,141,192,1,11
 	.asciz "value"
 
-LDIFF_SYM3353=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3353
+LDIFF_SYM3364=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3364
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3354=Lfde322_end - Lfde322_start
-	.long LDIFF_SYM3354
-Lfde322_start:
+LDIFF_SYM3365=Lfde324_end - Lfde324_start
+	.long LDIFF_SYM3365
+Lfde324_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult
 
-LDIFF_SYM3355=Lme_154 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3355
+LDIFF_SYM3366=Lme_156 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_GetTaskForResult_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3366
 	.long 0
 	.byte 12,31,0,68,14,224,1,157,28,158,27,68,13,29,68,153,26,154,25
 	.align 3
-Lfde322_end:
+Lfde324_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82521,31 +82944,31 @@ Lfde322_end:
 
 	.byte 7,171,3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult__cctor
-	.quad Lme_155
+	.quad Lme_157
 
 	.byte 2,118,16,11
 	.asciz "V_0"
 
-LDIFF_SYM3356=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3356
+LDIFF_SYM3367=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3367
 	.byte 2,141,48,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3357=Lfde323_end - Lfde323_start
-	.long LDIFF_SYM3357
-Lfde323_start:
+LDIFF_SYM3368=Lfde325_end - Lfde325_start
+	.long LDIFF_SYM3368
+Lfde325_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult__cctor
 
-LDIFF_SYM3358=Lme_155 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult__cctor
-	.long LDIFF_SYM3358
+LDIFF_SYM3369=Lme_157 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult__cctor
+	.long LDIFF_SYM3369
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
-Lfde323_end:
+Lfde325_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82555,46 +82978,46 @@ Lfde323_end:
 
 	.byte 0,0
 	.quad Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_LONG_T_REF
-	.quad Lme_156
+	.quad Lme_158
 
 	.byte 2,118,16,3
 	.asciz "token"
 
-LDIFF_SYM3359=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3359
+LDIFF_SYM3370=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3370
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM3360=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3360
+LDIFF_SYM3371=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3371
 	.byte 1,105,11
 	.asciz "V_1"
 
-LDIFF_SYM3361=LTDIE_192_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3361
+LDIFF_SYM3372=LTDIE_193_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3372
 	.byte 1,104,11
 	.asciz "V_2"
 
-LDIFF_SYM3362=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3362
+LDIFF_SYM3373=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3373
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3363=Lfde324_end - Lfde324_start
-	.long LDIFF_SYM3363
-Lfde324_start:
+LDIFF_SYM3374=Lfde326_end - Lfde326_start
+	.long LDIFF_SYM3374
+Lfde326_start:
 
 	.long 0
 	.align 3
 	.quad Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_LONG_T_REF
 
-LDIFF_SYM3364=Lme_156 - Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_LONG_T_REF
-	.long LDIFF_SYM3364
+LDIFF_SYM3375=Lme_158 - Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_LONG_T_REF
+	.long LDIFF_SYM3375
 	.long 0
 	.byte 12,31,0,68,14,160,1,157,20,158,19,68,13,29,68,148,18,149,17,68,151,16,152,15,68,153,14,154,13
 	.align 3
-Lfde324_end:
+Lfde326_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82604,56 +83027,56 @@ Lfde324_end:
 
 	.byte 7,158,4
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
-	.quad Lme_157
+	.quad Lme_159
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3365=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3365
+LDIFF_SYM3376=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3376
 	.byte 1,104,3
 	.asciz "awaiter"
 
-LDIFF_SYM3366=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3366
+LDIFF_SYM3377=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3377
 	.byte 3,141,192,0,3
 	.asciz "stateMachine"
 
-LDIFF_SYM3367=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3367
+LDIFF_SYM3378=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3378
 	.byte 3,141,200,0,11
 	.asciz "runnerToInitialize"
 
-LDIFF_SYM3368=LTDIE_256_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3368
+LDIFF_SYM3379=LTDIE_256_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3379
 	.byte 3,141,168,1,11
 	.asciz "continuation"
 
-LDIFF_SYM3369=LTDIE_257_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3369
+LDIFF_SYM3380=LTDIE_257_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3380
 	.byte 1,103,11
 	.asciz "builtTask"
 
-LDIFF_SYM3370=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3370
+LDIFF_SYM3381=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3381
 	.byte 1,102,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3371=Lfde325_end - Lfde325_start
-	.long LDIFF_SYM3371
-Lfde325_start:
+LDIFF_SYM3382=Lfde327_end - Lfde327_start
+	.long LDIFF_SYM3382
+Lfde327_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
 
-LDIFF_SYM3372=Lme_157 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
-	.long LDIFF_SYM3372
+LDIFF_SYM3383=Lme_159 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__SaveSettingd__15_
+	.long LDIFF_SYM3383
 	.long 0
 	.byte 12,31,0,68,14,224,1,157,28,158,27,68,13,29,68,147,26,148,25,68,149,24,150,23,68,151,22,152,21
 	.align 3
-Lfde325_end:
+Lfde327_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82663,56 +83086,56 @@ Lfde325_end:
 
 	.byte 7,158,4
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
-	.quad Lme_158
+	.quad Lme_15a
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3373=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3373
+LDIFF_SYM3384=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3384
 	.byte 1,104,3
 	.asciz "awaiter"
 
-LDIFF_SYM3374=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3374
+LDIFF_SYM3385=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3385
 	.byte 3,141,192,0,3
 	.asciz "stateMachine"
 
-LDIFF_SYM3375=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3375
+LDIFF_SYM3386=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3386
 	.byte 3,141,200,0,11
 	.asciz "runnerToInitialize"
 
-LDIFF_SYM3376=LTDIE_256_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3376
+LDIFF_SYM3387=LTDIE_256_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3387
 	.byte 3,141,192,1,11
 	.asciz "continuation"
 
-LDIFF_SYM3377=LTDIE_257_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3377
+LDIFF_SYM3388=LTDIE_257_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3388
 	.byte 1,103,11
 	.asciz "builtTask"
 
-LDIFF_SYM3378=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3378
+LDIFF_SYM3389=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3389
 	.byte 1,102,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3379=Lfde326_end - Lfde326_start
-	.long LDIFF_SYM3379
-Lfde326_start:
+LDIFF_SYM3390=Lfde328_end - Lfde328_start
+	.long LDIFF_SYM3390
+Lfde328_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
 
-LDIFF_SYM3380=Lme_158 - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
-	.long LDIFF_SYM3380
+LDIFF_SYM3391=Lme_15a - System_Runtime_CompilerServices_AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_AwaitUnsafeOnCompleted_System_Runtime_CompilerServices_TaskAwaiter_Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_System_Runtime_CompilerServices_TaskAwaiter__Microsoft_WindowsAzure_MobileServices_SQLiteStore_MobileServiceSQLiteStore__InitializeConfigd__16_
+	.long LDIFF_SYM3391
 	.long 0
 	.byte 12,31,0,68,14,128,2,157,32,158,31,68,13,29,68,147,30,148,29,68,149,28,150,27,68,151,26,152,25
 	.align 3
-Lfde326_end:
+Lfde328_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_272:
@@ -82723,49 +83146,49 @@ LTDIE_272:
 	.byte 16,7
 	.asciz "System_Collections_Generic_IEnumerable`1"
 
-LDIFF_SYM3381=LTDIE_272 - Ldebug_info_start
-	.long LDIFF_SYM3381
+LDIFF_SYM3392=LTDIE_272 - Ldebug_info_start
+	.long LDIFF_SYM3392
 LTDIE_272_POINTER:
 
 	.byte 13
-LDIFF_SYM3382=LTDIE_272 - Ldebug_info_start
-	.long LDIFF_SYM3382
+LDIFF_SYM3393=LTDIE_272 - Ldebug_info_start
+	.long LDIFF_SYM3393
 LTDIE_272_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3383=LTDIE_272 - Ldebug_info_start
-	.long LDIFF_SYM3383
+LDIFF_SYM3394=LTDIE_272 - Ldebug_info_start
+	.long LDIFF_SYM3394
 	.byte 2
 	.asciz "Newtonsoft.Json.Linq.Extensions:Value<T_REF,_U_LONG>"
 	.asciz "Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_LONG_System_Collections_Generic_IEnumerable_1_T_REF"
 
 	.byte 0,0
 	.quad Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_LONG_System_Collections_Generic_IEnumerable_1_T_REF
-	.quad Lme_159
+	.quad Lme_15b
 
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM3384=LTDIE_272_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3384
+LDIFF_SYM3395=LTDIE_272_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3395
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3385=Lfde327_end - Lfde327_start
-	.long LDIFF_SYM3385
-Lfde327_start:
+LDIFF_SYM3396=Lfde329_end - Lfde329_start
+	.long LDIFF_SYM3396
+Lfde329_start:
 
 	.long 0
 	.align 3
 	.quad Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_LONG_System_Collections_Generic_IEnumerable_1_T_REF
 
-LDIFF_SYM3386=Lme_159 - Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_LONG_System_Collections_Generic_IEnumerable_1_T_REF
-	.long LDIFF_SYM3386
+LDIFF_SYM3397=Lme_15b - Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_LONG_System_Collections_Generic_IEnumerable_1_T_REF
+	.long LDIFF_SYM3397
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,150,12,151,11,68,152,10,153,9,68,154,8
 	.align 3
-Lfde327_end:
+Lfde329_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82775,31 +83198,31 @@ Lfde327_end:
 
 	.byte 0,0
 	.quad Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_DOUBLE_System_Collections_Generic_IEnumerable_1_T_REF
-	.quad Lme_15a
+	.quad Lme_15c
 
 	.byte 2,118,16,3
 	.asciz "value"
 
-LDIFF_SYM3387=LTDIE_272_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3387
+LDIFF_SYM3398=LTDIE_272_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3398
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3388=Lfde328_end - Lfde328_start
-	.long LDIFF_SYM3388
-Lfde328_start:
+LDIFF_SYM3399=Lfde330_end - Lfde330_start
+	.long LDIFF_SYM3399
+Lfde330_start:
 
 	.long 0
 	.align 3
 	.quad Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_DOUBLE_System_Collections_Generic_IEnumerable_1_T_REF
 
-LDIFF_SYM3389=Lme_15a - Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_DOUBLE_System_Collections_Generic_IEnumerable_1_T_REF
-	.long LDIFF_SYM3389
+LDIFF_SYM3400=Lme_15c - Newtonsoft_Json_Linq_Extensions_Value_T_REF_U_DOUBLE_System_Collections_Generic_IEnumerable_1_T_REF
+	.long LDIFF_SYM3400
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29,68,150,12,151,11,68,152,10,153,9,68,154,8
 	.align 3
-Lfde328_end:
+Lfde330_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_274:
@@ -82808,77 +83231,77 @@ LTDIE_274:
 	.asciz "System_Collections_Generic_EqualityComparer`1"
 
 	.byte 16,16
-LDIFF_SYM3390=LTDIE_1 - Ldebug_info_start
-	.long LDIFF_SYM3390
+LDIFF_SYM3401=LTDIE_1 - Ldebug_info_start
+	.long LDIFF_SYM3401
 	.byte 2,35,0,0,7
 	.asciz "System_Collections_Generic_EqualityComparer`1"
 
-LDIFF_SYM3391=LTDIE_274 - Ldebug_info_start
-	.long LDIFF_SYM3391
+LDIFF_SYM3402=LTDIE_274 - Ldebug_info_start
+	.long LDIFF_SYM3402
 LTDIE_274_POINTER:
 
 	.byte 13
-LDIFF_SYM3392=LTDIE_274 - Ldebug_info_start
-	.long LDIFF_SYM3392
+LDIFF_SYM3403=LTDIE_274 - Ldebug_info_start
+	.long LDIFF_SYM3403
 LTDIE_274_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3393=LTDIE_274 - Ldebug_info_start
-	.long LDIFF_SYM3393
+LDIFF_SYM3404=LTDIE_274 - Ldebug_info_start
+	.long LDIFF_SYM3404
 LTDIE_273:
 
 	.byte 5
 	.asciz "System_Collections_Generic_ObjectEqualityComparer`1"
 
 	.byte 16,16
-LDIFF_SYM3394=LTDIE_274 - Ldebug_info_start
-	.long LDIFF_SYM3394
+LDIFF_SYM3405=LTDIE_274 - Ldebug_info_start
+	.long LDIFF_SYM3405
 	.byte 2,35,0,0,7
 	.asciz "System_Collections_Generic_ObjectEqualityComparer`1"
 
-LDIFF_SYM3395=LTDIE_273 - Ldebug_info_start
-	.long LDIFF_SYM3395
+LDIFF_SYM3406=LTDIE_273 - Ldebug_info_start
+	.long LDIFF_SYM3406
 LTDIE_273_POINTER:
 
 	.byte 13
-LDIFF_SYM3396=LTDIE_273 - Ldebug_info_start
-	.long LDIFF_SYM3396
+LDIFF_SYM3407=LTDIE_273 - Ldebug_info_start
+	.long LDIFF_SYM3407
 LTDIE_273_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3397=LTDIE_273 - Ldebug_info_start
-	.long LDIFF_SYM3397
+LDIFF_SYM3408=LTDIE_273 - Ldebug_info_start
+	.long LDIFF_SYM3408
 	.byte 2
 	.asciz "System.Collections.Generic.ObjectEqualityComparer`1<T_REF>:.ctor"
 	.asciz "System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor"
 
 	.byte 0,0
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor
-	.quad Lme_15b
+	.quad Lme_15d
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3398=LTDIE_273_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3398
+LDIFF_SYM3409=LTDIE_273_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3409
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3399=Lfde329_end - Lfde329_start
-	.long LDIFF_SYM3399
-Lfde329_start:
+LDIFF_SYM3410=Lfde331_end - Lfde331_start
+	.long LDIFF_SYM3410
+Lfde331_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor
 
-LDIFF_SYM3400=Lme_15b - System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor
-	.long LDIFF_SYM3400
+LDIFF_SYM3411=Lme_15d - System_Collections_Generic_ObjectEqualityComparer_1_T_REF__ctor
+	.long LDIFF_SYM3411
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
-Lfde329_end:
+Lfde331_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82888,41 +83311,41 @@ Lfde329_end:
 
 	.byte 5,159,3
 	.quad System_Collections_Generic_List_1_T_REF_EnsureCapacity_int
-	.quad Lme_15c
+	.quad Lme_15e
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3401=LTDIE_244_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3401
+LDIFF_SYM3412=LTDIE_244_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3412
 	.byte 2,141,40,3
 	.asciz "min"
 
-LDIFF_SYM3402=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3402
+LDIFF_SYM3413=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3413
 	.byte 1,106,11
 	.asciz "newCapacity"
 
-LDIFF_SYM3403=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3403
+LDIFF_SYM3414=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3414
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3404=Lfde330_end - Lfde330_start
-	.long LDIFF_SYM3404
-Lfde330_start:
+LDIFF_SYM3415=Lfde332_end - Lfde332_start
+	.long LDIFF_SYM3415
+Lfde332_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_List_1_T_REF_EnsureCapacity_int
 
-LDIFF_SYM3405=Lme_15c - System_Collections_Generic_List_1_T_REF_EnsureCapacity_int
-	.long LDIFF_SYM3405
+LDIFF_SYM3416=Lme_15e - System_Collections_Generic_List_1_T_REF_EnsureCapacity_int
+	.long LDIFF_SYM3416
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,152,8,153,7,68,154,6
 	.align 3
-Lfde330_end:
+Lfde332_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -82932,62 +83355,62 @@ Lfde330_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_1_System_Threading_Tasks_VoidTaskResult_invoke_TResult
-	.quad Lme_161
+	.quad Lme_163
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3406=LTDIE_260_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3406
+LDIFF_SYM3417=LTDIE_259_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3417
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM3407=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3407
+LDIFF_SYM3418=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3418
 	.byte 1,105,11
 	.asciz "V_1"
 
-LDIFF_SYM3408=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3408
+LDIFF_SYM3419=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3419
 	.byte 1,104,11
 	.asciz "V_2"
 
-LDIFF_SYM3409=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3409
+LDIFF_SYM3420=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3420
 	.byte 1,103,11
 	.asciz "V_3"
 
-LDIFF_SYM3410=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3410
+LDIFF_SYM3421=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3421
 	.byte 1,102,11
 	.asciz "V_4"
 
-LDIFF_SYM3411=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3411
+LDIFF_SYM3422=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3422
 	.byte 1,101,11
 	.asciz "V_5"
 
-LDIFF_SYM3412=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3412
+LDIFF_SYM3423=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3423
 	.byte 3,141,152,1,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3413=Lfde331_end - Lfde331_start
-	.long LDIFF_SYM3413
-Lfde331_start:
+LDIFF_SYM3424=Lfde333_end - Lfde333_start
+	.long LDIFF_SYM3424
+Lfde333_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_1_System_Threading_Tasks_VoidTaskResult_invoke_TResult
 
-LDIFF_SYM3414=Lme_161 - wrapper_delegate_invoke_System_Func_1_System_Threading_Tasks_VoidTaskResult_invoke_TResult
-	.long LDIFF_SYM3414
+LDIFF_SYM3425=Lme_163 - wrapper_delegate_invoke_System_Func_1_System_Threading_Tasks_VoidTaskResult_invoke_TResult
+	.long LDIFF_SYM3425
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,147,22,148,21,68,149,20,150,19,68,151,18,152,17,68,153,16
 	.byte 154,15
 	.align 3
-Lfde331_end:
+Lfde333_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_275:
@@ -82996,64 +83419,64 @@ LTDIE_275:
 	.asciz "System_Runtime_CompilerServices_TaskAwaiter`1"
 
 	.byte 24,16
-LDIFF_SYM3415=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM3415
+LDIFF_SYM3426=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM3426
 	.byte 2,35,0,6
 	.asciz "m_task"
 
-LDIFF_SYM3416=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3416
+LDIFF_SYM3427=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3427
 	.byte 2,35,16,0,7
 	.asciz "System_Runtime_CompilerServices_TaskAwaiter`1"
 
-LDIFF_SYM3417=LTDIE_275 - Ldebug_info_start
-	.long LDIFF_SYM3417
+LDIFF_SYM3428=LTDIE_275 - Ldebug_info_start
+	.long LDIFF_SYM3428
 LTDIE_275_POINTER:
 
 	.byte 13
-LDIFF_SYM3418=LTDIE_275 - Ldebug_info_start
-	.long LDIFF_SYM3418
+LDIFF_SYM3429=LTDIE_275 - Ldebug_info_start
+	.long LDIFF_SYM3429
 LTDIE_275_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3419=LTDIE_275 - Ldebug_info_start
-	.long LDIFF_SYM3419
+LDIFF_SYM3430=LTDIE_275 - Ldebug_info_start
+	.long LDIFF_SYM3430
 	.byte 2
 	.asciz "System.Runtime.CompilerServices.TaskAwaiter`1<System.Threading.Tasks.VoidTaskResult>:.ctor"
 	.asciz "System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult"
 
 	.byte 12,142,2
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_162
+	.quad Lme_164
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3420=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3420
+LDIFF_SYM3431=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3431
 	.byte 2,141,16,3
 	.asciz "task"
 
-LDIFF_SYM3421=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3421
+LDIFF_SYM3432=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3432
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3422=Lfde332_end - Lfde332_start
-	.long LDIFF_SYM3422
-Lfde332_start:
+LDIFF_SYM3433=Lfde334_end - Lfde334_start
+	.long LDIFF_SYM3433
+Lfde334_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
 
-LDIFF_SYM3423=Lme_162 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3423
+LDIFF_SYM3434=Lme_164 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3434
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde332_end:
+Lfde334_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83063,31 +83486,31 @@ Lfde332_end:
 
 	.byte 12,150,2
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
-	.quad Lme_163
+	.quad Lme_165
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3424=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3424
+LDIFF_SYM3435=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3435
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3425=Lfde333_end - Lfde333_start
-	.long LDIFF_SYM3425
-Lfde333_start:
+LDIFF_SYM3436=Lfde335_end - Lfde335_start
+	.long LDIFF_SYM3436
+Lfde335_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
 
-LDIFF_SYM3426=Lme_163 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
-	.long LDIFF_SYM3426
+LDIFF_SYM3437=Lme_165 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
+	.long LDIFF_SYM3437
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde333_end:
+Lfde335_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83097,36 +83520,36 @@ Lfde333_end:
 
 	.byte 12,160,2
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
-	.quad Lme_164
+	.quad Lme_166
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3427=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3427
+LDIFF_SYM3438=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3438
 	.byte 2,141,16,3
 	.asciz "continuation"
 
-LDIFF_SYM3428=LTDIE_257_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3428
+LDIFF_SYM3439=LTDIE_257_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3439
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3429=Lfde334_end - Lfde334_start
-	.long LDIFF_SYM3429
-Lfde334_start:
+LDIFF_SYM3440=Lfde336_end - Lfde336_start
+	.long LDIFF_SYM3440
+Lfde336_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
 
-LDIFF_SYM3430=Lme_164 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
-	.long LDIFF_SYM3430
+LDIFF_SYM3441=Lme_166 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
+	.long LDIFF_SYM3441
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde334_end:
+Lfde336_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83136,36 +83559,36 @@ Lfde334_end:
 
 	.byte 12,170,2
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
-	.quad Lme_165
+	.quad Lme_167
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3431=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3431
+LDIFF_SYM3442=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3442
 	.byte 2,141,16,3
 	.asciz "continuation"
 
-LDIFF_SYM3432=LTDIE_257_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3432
+LDIFF_SYM3443=LTDIE_257_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3443
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3433=Lfde335_end - Lfde335_start
-	.long LDIFF_SYM3433
-Lfde335_start:
+LDIFF_SYM3444=Lfde337_end - Lfde337_start
+	.long LDIFF_SYM3444
+Lfde337_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
 
-LDIFF_SYM3434=Lme_165 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
-	.long LDIFF_SYM3434
+LDIFF_SYM3445=Lme_167 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
+	.long LDIFF_SYM3445
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde335_end:
+Lfde337_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83175,31 +83598,31 @@ Lfde335_end:
 
 	.byte 12,181,2
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_GetResult
-	.quad Lme_166
+	.quad Lme_168
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3435=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3435
+LDIFF_SYM3446=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3446
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3436=Lfde336_end - Lfde336_start
-	.long LDIFF_SYM3436
-Lfde336_start:
+LDIFF_SYM3447=Lfde338_end - Lfde338_start
+	.long LDIFF_SYM3447
+Lfde338_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_GetResult
 
-LDIFF_SYM3437=Lme_166 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_GetResult
-	.long LDIFF_SYM3437
+LDIFF_SYM3448=Lme_168 - System_Runtime_CompilerServices_TaskAwaiter_1_System_Threading_Tasks_VoidTaskResult_GetResult
+	.long LDIFF_SYM3448
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
 	.align 3
-Lfde336_end:
+Lfde338_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_276:
@@ -83208,69 +83631,69 @@ LTDIE_276:
 	.asciz "System_Runtime_CompilerServices_ConfiguredTaskAwaitable`1"
 
 	.byte 32,16
-LDIFF_SYM3438=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM3438
+LDIFF_SYM3449=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM3449
 	.byte 2,35,0,6
 	.asciz "m_configuredTaskAwaiter"
 
-LDIFF_SYM3439=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3439
+LDIFF_SYM3450=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3450
 	.byte 2,35,16,0,7
 	.asciz "System_Runtime_CompilerServices_ConfiguredTaskAwaitable`1"
 
-LDIFF_SYM3440=LTDIE_276 - Ldebug_info_start
-	.long LDIFF_SYM3440
+LDIFF_SYM3451=LTDIE_276 - Ldebug_info_start
+	.long LDIFF_SYM3451
 LTDIE_276_POINTER:
 
 	.byte 13
-LDIFF_SYM3441=LTDIE_276 - Ldebug_info_start
-	.long LDIFF_SYM3441
+LDIFF_SYM3452=LTDIE_276 - Ldebug_info_start
+	.long LDIFF_SYM3452
 LTDIE_276_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3442=LTDIE_276 - Ldebug_info_start
-	.long LDIFF_SYM3442
+LDIFF_SYM3453=LTDIE_276 - Ldebug_info_start
+	.long LDIFF_SYM3453
 	.byte 2
 	.asciz "System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1<System.Threading.Tasks.VoidTaskResult>:.ctor"
 	.asciz "System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool"
 
 	.byte 12,160,3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
-	.quad Lme_167
+	.quad Lme_169
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3443=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3443
+LDIFF_SYM3454=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3454
 	.byte 2,141,16,3
 	.asciz "task"
 
-LDIFF_SYM3444=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3444
+LDIFF_SYM3455=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3455
 	.byte 2,141,24,3
 	.asciz "continueOnCapturedContext"
 
-LDIFF_SYM3445=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM3445
+LDIFF_SYM3456=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM3456
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3446=Lfde337_end - Lfde337_start
-	.long LDIFF_SYM3446
-Lfde337_start:
+LDIFF_SYM3457=Lfde339_end - Lfde339_start
+	.long LDIFF_SYM3457
+Lfde339_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
 
-LDIFF_SYM3447=Lme_167 - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
-	.long LDIFF_SYM3447
+LDIFF_SYM3458=Lme_169 - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
+	.long LDIFF_SYM3458
 	.long 0
 	.byte 12,31,0,68,14,112,157,14,158,13,68,13,29
 	.align 3
-Lfde337_end:
+Lfde339_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83280,31 +83703,31 @@ Lfde337_end:
 
 	.byte 12,167,3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
-	.quad Lme_168
+	.quad Lme_16a
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3448=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3448
+LDIFF_SYM3459=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3459
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3449=Lfde338_end - Lfde338_start
-	.long LDIFF_SYM3449
-Lfde338_start:
+LDIFF_SYM3460=Lfde340_end - Lfde340_start
+	.long LDIFF_SYM3460
+Lfde340_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
 
-LDIFF_SYM3450=Lme_168 - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
-	.long LDIFF_SYM3450
+LDIFF_SYM3461=Lme_16a - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_System_Threading_Tasks_VoidTaskResult_GetAwaiter
+	.long LDIFF_SYM3461
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29
 	.align 3
-Lfde338_end:
+Lfde340_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_277:
@@ -83313,74 +83736,74 @@ LTDIE_277:
 	.asciz "_ConfiguredTaskAwaiter"
 
 	.byte 32,16
-LDIFF_SYM3451=LTDIE_4 - Ldebug_info_start
-	.long LDIFF_SYM3451
+LDIFF_SYM3462=LTDIE_4 - Ldebug_info_start
+	.long LDIFF_SYM3462
 	.byte 2,35,0,6
 	.asciz "m_task"
 
-LDIFF_SYM3452=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3452
+LDIFF_SYM3463=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3463
 	.byte 2,35,16,6
 	.asciz "m_continueOnCapturedContext"
 
-LDIFF_SYM3453=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM3453
+LDIFF_SYM3464=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM3464
 	.byte 2,35,24,0,7
 	.asciz "_ConfiguredTaskAwaiter"
 
-LDIFF_SYM3454=LTDIE_277 - Ldebug_info_start
-	.long LDIFF_SYM3454
+LDIFF_SYM3465=LTDIE_277 - Ldebug_info_start
+	.long LDIFF_SYM3465
 LTDIE_277_POINTER:
 
 	.byte 13
-LDIFF_SYM3455=LTDIE_277 - Ldebug_info_start
-	.long LDIFF_SYM3455
+LDIFF_SYM3466=LTDIE_277 - Ldebug_info_start
+	.long LDIFF_SYM3466
 LTDIE_277_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3456=LTDIE_277 - Ldebug_info_start
-	.long LDIFF_SYM3456
+LDIFF_SYM3467=LTDIE_277 - Ldebug_info_start
+	.long LDIFF_SYM3467
 	.byte 2
 	.asciz "System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Threading.Tasks.VoidTaskResult>:.ctor"
 	.asciz "System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool"
 
 	.byte 12,187,3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
-	.quad Lme_169
+	.quad Lme_16b
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3457=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3457
+LDIFF_SYM3468=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3468
 	.byte 1,104,3
 	.asciz "task"
 
-LDIFF_SYM3458=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3458
+LDIFF_SYM3469=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3469
 	.byte 2,141,24,3
 	.asciz "continueOnCapturedContext"
 
-LDIFF_SYM3459=LDIE_BOOLEAN - Ldebug_info_start
-	.long LDIFF_SYM3459
+LDIFF_SYM3470=LDIE_BOOLEAN - Ldebug_info_start
+	.long LDIFF_SYM3470
 	.byte 2,141,32,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3460=Lfde339_end - Lfde339_start
-	.long LDIFF_SYM3460
-Lfde339_start:
+LDIFF_SYM3471=Lfde341_end - Lfde341_start
+	.long LDIFF_SYM3471
+Lfde341_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
 
-LDIFF_SYM3461=Lme_169 - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
-	.long LDIFF_SYM3461
+LDIFF_SYM3472=Lme_16b - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_bool
+	.long LDIFF_SYM3472
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,152,6
 	.align 3
-Lfde339_end:
+Lfde341_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83390,31 +83813,31 @@ Lfde339_end:
 
 	.byte 12,196,3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
-	.quad Lme_16a
+	.quad Lme_16c
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3462=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3462
+LDIFF_SYM3473=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3473
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3463=Lfde340_end - Lfde340_start
-	.long LDIFF_SYM3463
-Lfde340_start:
+LDIFF_SYM3474=Lfde342_end - Lfde342_start
+	.long LDIFF_SYM3474
+Lfde342_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
 
-LDIFF_SYM3464=Lme_16a - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
-	.long LDIFF_SYM3464
+LDIFF_SYM3475=Lme_16c - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_get_IsCompleted
+	.long LDIFF_SYM3475
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29
 	.align 3
-Lfde340_end:
+Lfde342_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83424,36 +83847,36 @@ Lfde340_end:
 
 	.byte 12,206,3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
-	.quad Lme_16b
+	.quad Lme_16d
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3465=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3465
+LDIFF_SYM3476=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3476
 	.byte 1,105,3
 	.asciz "continuation"
 
-LDIFF_SYM3466=LTDIE_257_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3466
+LDIFF_SYM3477=LTDIE_257_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3477
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3467=Lfde341_end - Lfde341_start
-	.long LDIFF_SYM3467
-Lfde341_start:
+LDIFF_SYM3478=Lfde343_end - Lfde343_start
+	.long LDIFF_SYM3478
+Lfde343_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
 
-LDIFF_SYM3468=Lme_16b - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
-	.long LDIFF_SYM3468
+LDIFF_SYM3479=Lme_16d - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_OnCompleted_System_Action
+	.long LDIFF_SYM3479
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
-Lfde341_end:
+Lfde343_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83463,36 +83886,36 @@ Lfde341_end:
 
 	.byte 12,216,3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
-	.quad Lme_16c
+	.quad Lme_16e
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3469=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3469
+LDIFF_SYM3480=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3480
 	.byte 1,105,3
 	.asciz "continuation"
 
-LDIFF_SYM3470=LTDIE_257_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3470
+LDIFF_SYM3481=LTDIE_257_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3481
 	.byte 2,141,24,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3471=Lfde342_end - Lfde342_start
-	.long LDIFF_SYM3471
-Lfde342_start:
+LDIFF_SYM3482=Lfde344_end - Lfde344_start
+	.long LDIFF_SYM3482
+Lfde344_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
 
-LDIFF_SYM3472=Lme_16c - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
-	.long LDIFF_SYM3472
+LDIFF_SYM3483=Lme_16e - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_UnsafeOnCompleted_System_Action
+	.long LDIFF_SYM3483
 	.long 0
 	.byte 12,31,0,68,14,64,157,8,158,7,68,13,29,68,153,6
 	.align 3
-Lfde342_end:
+Lfde344_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83502,31 +83925,31 @@ Lfde342_end:
 
 	.byte 12,227,3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_GetResult
-	.quad Lme_16d
+	.quad Lme_16f
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3473=LDIE_I - Ldebug_info_start
-	.long LDIFF_SYM3473
+LDIFF_SYM3484=LDIE_I - Ldebug_info_start
+	.long LDIFF_SYM3484
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3474=Lfde343_end - Lfde343_start
-	.long LDIFF_SYM3474
-Lfde343_start:
+LDIFF_SYM3485=Lfde345_end - Lfde345_start
+	.long LDIFF_SYM3485
+Lfde345_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_GetResult
 
-LDIFF_SYM3475=Lme_16d - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_GetResult
-	.long LDIFF_SYM3475
+LDIFF_SYM3486=Lme_16f - System_Runtime_CompilerServices_ConfiguredTaskAwaitable_1_ConfiguredTaskAwaiter_System_Threading_Tasks_VoidTaskResult_GetResult
+	.long LDIFF_SYM3486
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,154,8
 	.align 3
-Lfde343_end:
+Lfde345_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83536,62 +83959,62 @@ Lfde343_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_invoke_void_T_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_16e
+	.quad Lme_170
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3476=LTDIE_262_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3476
+LDIFF_SYM3487=LTDIE_262_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3487
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM3477=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3477
+LDIFF_SYM3488=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3488
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM3478=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3478
+LDIFF_SYM3489=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3489
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM3479=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3479
+LDIFF_SYM3490=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3490
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM3480=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3480
+LDIFF_SYM3491=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3491
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM3481=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3481
+LDIFF_SYM3492=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3492
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM3482=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3482
+LDIFF_SYM3493=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3493
 	.byte 1,100,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3483=Lfde344_end - Lfde344_start
-	.long LDIFF_SYM3483
-Lfde344_start:
+LDIFF_SYM3494=Lfde346_end - Lfde346_start
+	.long LDIFF_SYM3494
+Lfde346_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_invoke_void_T_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
 
-LDIFF_SYM3484=Lme_16e - wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_invoke_void_T_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3484
+LDIFF_SYM3495=Lme_170 - wrapper_delegate_invoke_System_Action_1_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_invoke_void_T_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3495
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
 	.byte 154,7
 	.align 3
-Lfde344_end:
+Lfde346_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_278:
@@ -83600,89 +84023,89 @@ LTDIE_278:
 	.asciz "System_Threading_Tasks_ContinuationTaskFromResultTask`1"
 
 	.byte 80,16
-LDIFF_SYM3485=LTDIE_33 - Ldebug_info_start
-	.long LDIFF_SYM3485
+LDIFF_SYM3496=LTDIE_33 - Ldebug_info_start
+	.long LDIFF_SYM3496
 	.byte 2,35,0,6
 	.asciz "m_antecedent"
 
-LDIFF_SYM3486=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3486
+LDIFF_SYM3497=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3497
 	.byte 2,35,72,0,7
 	.asciz "System_Threading_Tasks_ContinuationTaskFromResultTask`1"
 
-LDIFF_SYM3487=LTDIE_278 - Ldebug_info_start
-	.long LDIFF_SYM3487
+LDIFF_SYM3498=LTDIE_278 - Ldebug_info_start
+	.long LDIFF_SYM3498
 LTDIE_278_POINTER:
 
 	.byte 13
-LDIFF_SYM3488=LTDIE_278 - Ldebug_info_start
-	.long LDIFF_SYM3488
+LDIFF_SYM3499=LTDIE_278 - Ldebug_info_start
+	.long LDIFF_SYM3499
 LTDIE_278_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3489=LTDIE_278 - Ldebug_info_start
-	.long LDIFF_SYM3489
+LDIFF_SYM3500=LTDIE_278 - Ldebug_info_start
+	.long LDIFF_SYM3500
 	.byte 2
 	.asciz "System.Threading.Tasks.ContinuationTaskFromResultTask`1<System.Threading.Tasks.VoidTaskResult>:.ctor"
 	.asciz "System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions"
 
 	.byte 13,130,1
 	.quad System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions
-	.quad Lme_16f
+	.quad Lme_171
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3490=LTDIE_278_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3490
+LDIFF_SYM3501=LTDIE_278_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3501
 	.byte 1,101,3
 	.asciz "antecedent"
 
-LDIFF_SYM3491=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3491
+LDIFF_SYM3502=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3502
 	.byte 2,141,32,3
 	.asciz "action"
 
-LDIFF_SYM3492=LTDIE_34_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3492
+LDIFF_SYM3503=LTDIE_34_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3503
 	.byte 2,141,40,3
 	.asciz "state"
 
-LDIFF_SYM3493=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3493
+LDIFF_SYM3504=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3504
 	.byte 2,141,48,3
 	.asciz "creationOptions"
 
-LDIFF_SYM3494=LTDIE_258 - Ldebug_info_start
-	.long LDIFF_SYM3494
+LDIFF_SYM3505=LTDIE_258 - Ldebug_info_start
+	.long LDIFF_SYM3505
 	.byte 1,105,3
 	.asciz "internalOptions"
 
-LDIFF_SYM3495=LTDIE_261 - Ldebug_info_start
-	.long LDIFF_SYM3495
+LDIFF_SYM3506=LTDIE_261 - Ldebug_info_start
+	.long LDIFF_SYM3506
 	.byte 2,141,56,11
 	.asciz "V_0"
 
-LDIFF_SYM3496=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3496
+LDIFF_SYM3507=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3507
 	.byte 3,141,224,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3497=Lfde345_end - Lfde345_start
-	.long LDIFF_SYM3497
-Lfde345_start:
+LDIFF_SYM3508=Lfde347_end - Lfde347_start
+	.long LDIFF_SYM3508
+Lfde347_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions
 
-LDIFF_SYM3498=Lme_16f - System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions
-	.long LDIFF_SYM3498
+LDIFF_SYM3509=Lme_171 - System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult__ctor_System_Threading_Tasks_Task_1_System_Threading_Tasks_VoidTaskResult_System_Delegate_object_System_Threading_Tasks_TaskCreationOptions_System_Threading_Tasks_InternalTaskOptions
+	.long LDIFF_SYM3509
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,149,16,68,153,15
 	.align 3
-Lfde345_end:
+Lfde347_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_279:
@@ -83691,69 +84114,139 @@ LTDIE_279:
 	.asciz "System_Action`2"
 
 	.byte 128,1,16
-LDIFF_SYM3499=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3499
+LDIFF_SYM3510=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3510
 	.byte 2,35,0,0,7
 	.asciz "System_Action`2"
 
-LDIFF_SYM3500=LTDIE_279 - Ldebug_info_start
-	.long LDIFF_SYM3500
+LDIFF_SYM3511=LTDIE_279 - Ldebug_info_start
+	.long LDIFF_SYM3511
 LTDIE_279_POINTER:
 
 	.byte 13
-LDIFF_SYM3501=LTDIE_279 - Ldebug_info_start
-	.long LDIFF_SYM3501
+LDIFF_SYM3512=LTDIE_279 - Ldebug_info_start
+	.long LDIFF_SYM3512
 LTDIE_279_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3502=LTDIE_279 - Ldebug_info_start
-	.long LDIFF_SYM3502
+LDIFF_SYM3513=LTDIE_279 - Ldebug_info_start
+	.long LDIFF_SYM3513
 	.byte 2
 	.asciz "System.Threading.Tasks.ContinuationTaskFromResultTask`1<System.Threading.Tasks.VoidTaskResult>:InnerInvoke"
 	.asciz "System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke"
 
 	.byte 13,145,1
 	.quad System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
-	.quad Lme_170
+	.quad Lme_172
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3503=LTDIE_278_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3503
+LDIFF_SYM3514=LTDIE_278_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3514
 	.byte 1,106,11
 	.asciz "antecedent"
 
-LDIFF_SYM3504=LTDIE_255_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3504
+LDIFF_SYM3515=LTDIE_255_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3515
 	.byte 1,105,11
 	.asciz "action"
 
-LDIFF_SYM3505=LTDIE_262_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3505
+LDIFF_SYM3516=LTDIE_262_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3516
 	.byte 1,104,11
 	.asciz "actionWithState"
 
-LDIFF_SYM3506=LTDIE_279_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3506
+LDIFF_SYM3517=LTDIE_279_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3517
 	.byte 1,103,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3507=Lfde346_end - Lfde346_start
-	.long LDIFF_SYM3507
-Lfde346_start:
+LDIFF_SYM3518=Lfde348_end - Lfde348_start
+	.long LDIFF_SYM3518
+Lfde348_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
 
-LDIFF_SYM3508=Lme_170 - System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
-	.long LDIFF_SYM3508
+LDIFF_SYM3519=Lme_172 - System_Threading_Tasks_ContinuationTaskFromResultTask_1_System_Threading_Tasks_VoidTaskResult_InnerInvoke
+	.long LDIFF_SYM3519
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29,68,151,10,152,9,68,153,8,154,7
 	.align 3
-Lfde346_end:
+Lfde348_end:
+
+.section __DWARF, __debug_info,regular,debug
+
+	.byte 2
+	.asciz "(wrapper_delegate-invoke)_System.Func`2<object,_System.Threading.Tasks.VoidTaskResult>:invoke_TResult_T"
+	.asciz "wrapper_delegate_invoke_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_object"
+
+	.byte 0,0
+	.quad wrapper_delegate_invoke_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_object
+	.quad Lme_177
+
+	.byte 2,118,16,3
+	.asciz "this"
+
+LDIFF_SYM3520=LTDIE_260_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3520
+	.byte 1,105,3
+	.asciz "param0"
+
+LDIFF_SYM3521=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3521
+	.byte 1,106,11
+	.asciz "V_0"
+
+LDIFF_SYM3522=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3522
+	.byte 1,104,11
+	.asciz "V_1"
+
+LDIFF_SYM3523=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3523
+	.byte 1,103,11
+	.asciz "V_2"
+
+LDIFF_SYM3524=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3524
+	.byte 1,102,11
+	.asciz "V_3"
+
+LDIFF_SYM3525=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3525
+	.byte 1,101,11
+	.asciz "V_4"
+
+LDIFF_SYM3526=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3526
+	.byte 1,100,11
+	.asciz "V_5"
+
+LDIFF_SYM3527=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3527
+	.byte 3,141,152,1,0
+
+.section __DWARF, __debug_frame,regular,debug
+
+LDIFF_SYM3528=Lfde349_end - Lfde349_start
+	.long LDIFF_SYM3528
+Lfde349_start:
+
+	.long 0
+	.align 3
+	.quad wrapper_delegate_invoke_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_object
+
+LDIFF_SYM3529=Lme_177 - wrapper_delegate_invoke_System_Func_2_object_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_object
+	.long LDIFF_SYM3529
+	.long 0
+	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,147,22,148,21,68,149,20,150,19,68,151,18,152,17,68,153,16
+	.byte 154,15
+	.align 3
+Lfde349_end:
 
 .section __DWARF, __debug_info,regular,debug
 LTDIE_280:
@@ -83762,95 +84255,95 @@ LTDIE_280:
 	.asciz "System_AsyncCallback"
 
 	.byte 128,1,16
-LDIFF_SYM3509=LTDIE_80 - Ldebug_info_start
-	.long LDIFF_SYM3509
+LDIFF_SYM3530=LTDIE_80 - Ldebug_info_start
+	.long LDIFF_SYM3530
 	.byte 2,35,0,0,7
 	.asciz "System_AsyncCallback"
 
-LDIFF_SYM3510=LTDIE_280 - Ldebug_info_start
-	.long LDIFF_SYM3510
+LDIFF_SYM3531=LTDIE_280 - Ldebug_info_start
+	.long LDIFF_SYM3531
 LTDIE_280_POINTER:
 
 	.byte 13
-LDIFF_SYM3511=LTDIE_280 - Ldebug_info_start
-	.long LDIFF_SYM3511
+LDIFF_SYM3532=LTDIE_280 - Ldebug_info_start
+	.long LDIFF_SYM3532
 LTDIE_280_REFERENCE:
 
 	.byte 14
-LDIFF_SYM3512=LTDIE_280 - Ldebug_info_start
-	.long LDIFF_SYM3512
+LDIFF_SYM3533=LTDIE_280 - Ldebug_info_start
+	.long LDIFF_SYM3533
 	.byte 2
 	.asciz "(wrapper_delegate-invoke)_System.Func`3<System.AsyncCallback,_object,_System.IAsyncResult>:invoke_TResult_T1_T2"
 	.asciz "wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object"
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object
-	.quad Lme_171
+	.quad Lme_178
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3513=LTDIE_270_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3513
+LDIFF_SYM3534=LTDIE_270_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3534
 	.byte 1,104,3
 	.asciz "param0"
 
-LDIFF_SYM3514=LTDIE_280_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3514
+LDIFF_SYM3535=LTDIE_280_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3535
 	.byte 1,105,3
 	.asciz "param1"
 
-LDIFF_SYM3515=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3515
+LDIFF_SYM3536=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3536
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM3516=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3516
+LDIFF_SYM3537=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3537
 	.byte 1,103,11
 	.asciz "V_1"
 
-LDIFF_SYM3517=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3517
+LDIFF_SYM3538=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3538
 	.byte 1,102,11
 	.asciz "V_2"
 
-LDIFF_SYM3518=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3518
+LDIFF_SYM3539=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3539
 	.byte 1,101,11
 	.asciz "V_3"
 
-LDIFF_SYM3519=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3519
+LDIFF_SYM3540=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3540
 	.byte 1,100,11
 	.asciz "V_4"
 
-LDIFF_SYM3520=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3520
+LDIFF_SYM3541=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3541
 	.byte 1,99,11
 	.asciz "V_5"
 
-LDIFF_SYM3521=LTDIE_265_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3521
+LDIFF_SYM3542=LTDIE_265_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3542
 	.byte 3,141,232,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3522=Lfde347_end - Lfde347_start
-	.long LDIFF_SYM3522
-Lfde347_start:
+LDIFF_SYM3543=Lfde350_end - Lfde350_start
+	.long LDIFF_SYM3543
+Lfde350_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object
 
-LDIFF_SYM3523=Lme_171 - wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object
-	.long LDIFF_SYM3523
+LDIFF_SYM3544=Lme_178 - wrapper_delegate_invoke_System_Func_3_System_AsyncCallback_object_System_IAsyncResult_invoke_TResult_T1_T2_System_AsyncCallback_object
+	.long LDIFF_SYM3544
 	.long 0
 	.byte 12,31,0,68,14,144,1,157,18,158,17,68,13,29,68,147,16,148,15,68,149,14,150,13,68,151,12,152,11,68,153,10
 	.byte 154,9
 	.align 3
-Lfde347_end:
+Lfde350_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83860,67 +84353,67 @@ Lfde347_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_System_IAsyncResult
-	.quad Lme_176
+	.quad Lme_17d
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3524=LTDIE_266_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3524
+LDIFF_SYM3545=LTDIE_266_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3545
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM3525=LTDIE_265_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3525
+LDIFF_SYM3546=LTDIE_265_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3546
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM3526=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3526
+LDIFF_SYM3547=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3547
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM3527=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3527
+LDIFF_SYM3548=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3548
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM3528=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3528
+LDIFF_SYM3549=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3549
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM3529=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3529
+LDIFF_SYM3550=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3550
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM3530=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3530
+LDIFF_SYM3551=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3551
 	.byte 1,100,11
 	.asciz "V_5"
 
-LDIFF_SYM3531=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3531
+LDIFF_SYM3552=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3552
 	.byte 3,141,152,1,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3532=Lfde348_end - Lfde348_start
-	.long LDIFF_SYM3532
-Lfde348_start:
+LDIFF_SYM3553=Lfde351_end - Lfde351_start
+	.long LDIFF_SYM3553
+Lfde351_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_System_IAsyncResult
 
-LDIFF_SYM3533=Lme_176 - wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_System_IAsyncResult
-	.long LDIFF_SYM3533
+LDIFF_SYM3554=Lme_17d - wrapper_delegate_invoke_System_Func_2_System_IAsyncResult_System_Threading_Tasks_VoidTaskResult_invoke_TResult_T_System_IAsyncResult
+	.long LDIFF_SYM3554
 	.long 0
 	.byte 12,31,0,68,14,192,1,157,24,158,23,68,13,29,68,147,22,148,21,68,149,20,150,19,68,151,18,152,17,68,153,16
 	.byte 154,15
 	.align 3
-Lfde348_end:
+Lfde351_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83930,62 +84423,62 @@ Lfde348_end:
 
 	.byte 0,0
 	.quad wrapper_delegate_invoke_System_Action_1_System_IAsyncResult_invoke_void_T_System_IAsyncResult
-	.quad Lme_177
+	.quad Lme_17e
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3534=LTDIE_267_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3534
+LDIFF_SYM3555=LTDIE_267_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3555
 	.byte 1,105,3
 	.asciz "param0"
 
-LDIFF_SYM3535=LTDIE_265_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3535
+LDIFF_SYM3556=LTDIE_265_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3556
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM3536=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3536
+LDIFF_SYM3557=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3557
 	.byte 1,104,11
 	.asciz "V_1"
 
-LDIFF_SYM3537=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3537
+LDIFF_SYM3558=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3558
 	.byte 1,103,11
 	.asciz "V_2"
 
-LDIFF_SYM3538=LTDIE_221_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3538
+LDIFF_SYM3559=LTDIE_222_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3559
 	.byte 1,102,11
 	.asciz "V_3"
 
-LDIFF_SYM3539=LTDIE_80_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3539
+LDIFF_SYM3560=LTDIE_80_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3560
 	.byte 1,101,11
 	.asciz "V_4"
 
-LDIFF_SYM3540=LDIE_OBJECT - Ldebug_info_start
-	.long LDIFF_SYM3540
+LDIFF_SYM3561=LDIE_OBJECT - Ldebug_info_start
+	.long LDIFF_SYM3561
 	.byte 1,100,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3541=Lfde349_end - Lfde349_start
-	.long LDIFF_SYM3541
-Lfde349_start:
+LDIFF_SYM3562=Lfde352_end - Lfde352_start
+	.long LDIFF_SYM3562
+Lfde352_start:
 
 	.long 0
 	.align 3
 	.quad wrapper_delegate_invoke_System_Action_1_System_IAsyncResult_invoke_void_T_System_IAsyncResult
 
-LDIFF_SYM3542=Lme_177 - wrapper_delegate_invoke_System_Action_1_System_IAsyncResult_invoke_void_T_System_IAsyncResult
-	.long LDIFF_SYM3542
+LDIFF_SYM3563=Lme_17e - wrapper_delegate_invoke_System_Action_1_System_IAsyncResult_invoke_void_T_System_IAsyncResult
+	.long LDIFF_SYM3563
 	.long 0
 	.byte 12,31,0,68,14,128,1,157,16,158,15,68,13,29,68,147,14,148,13,68,149,12,150,11,68,151,10,152,9,68,153,8
 	.byte 154,7
 	.align 3
-Lfde349_end:
+Lfde352_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -83995,31 +84488,31 @@ Lfde349_end:
 
 	.byte 0,0
 	.quad System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor
-	.quad Lme_178
+	.quad Lme_17f
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3543=LTDIE_271_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3543
+LDIFF_SYM3564=LTDIE_271_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3564
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3544=Lfde350_end - Lfde350_start
-	.long LDIFF_SYM3544
-Lfde350_start:
+LDIFF_SYM3565=Lfde353_end - Lfde353_start
+	.long LDIFF_SYM3565
+Lfde353_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor
 
-LDIFF_SYM3545=Lme_178 - System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor
-	.long LDIFF_SYM3545
+LDIFF_SYM3566=Lme_17f - System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__ctor
+	.long LDIFF_SYM3566
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
-Lfde350_end:
+Lfde353_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -84029,36 +84522,36 @@ Lfde350_end:
 
 	.byte 11,150,6
 	.quad System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__FromAsyncImplb__0_System_IAsyncResult
-	.quad Lme_179
+	.quad Lme_180
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3546=LTDIE_271_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3546
+LDIFF_SYM3567=LTDIE_271_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3567
 	.byte 1,105,3
 	.asciz "iar"
 
-LDIFF_SYM3547=LTDIE_265_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3547
+LDIFF_SYM3568=LTDIE_265_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3568
 	.byte 1,106,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3548=Lfde351_end - Lfde351_start
-	.long LDIFF_SYM3548
-Lfde351_start:
+LDIFF_SYM3569=Lfde354_end - Lfde354_start
+	.long LDIFF_SYM3569
+Lfde354_start:
 
 	.long 0
 	.align 3
 	.quad System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__FromAsyncImplb__0_System_IAsyncResult
 
-LDIFF_SYM3549=Lme_179 - System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__FromAsyncImplb__0_System_IAsyncResult
-	.long LDIFF_SYM3549
+LDIFF_SYM3570=Lme_180 - System_Threading_Tasks_TaskFactory_1__c__DisplayClass35_0_System_Threading_Tasks_VoidTaskResult__FromAsyncImplb__0_System_IAsyncResult
+	.long LDIFF_SYM3570
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
 	.align 3
-Lfde351_end:
+Lfde354_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -84068,36 +84561,36 @@ Lfde351_end:
 
 	.byte 7,198,6
 	.quad System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult
-	.quad Lme_17a
+	.quad Lme_181
 
 	.byte 2,118,16,3
 	.asciz "result"
 
-LDIFF_SYM3550=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3550
+LDIFF_SYM3571=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3571
 	.byte 2,141,16,11
 	.asciz "V_0"
 
-LDIFF_SYM3551=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3551
+LDIFF_SYM3572=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3572
 	.byte 3,141,200,0,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3552=Lfde352_end - Lfde352_start
-	.long LDIFF_SYM3552
-Lfde352_start:
+LDIFF_SYM3573=Lfde355_end - Lfde355_start
+	.long LDIFF_SYM3573
+Lfde355_start:
 
 	.long 0
 	.align 3
 	.quad System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult
 
-LDIFF_SYM3553=Lme_17a - System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult
-	.long LDIFF_SYM3553
+LDIFF_SYM3574=Lme_181 - System_Runtime_CompilerServices_AsyncTaskCache_CreateCacheableTask_System_Threading_Tasks_VoidTaskResult_System_Threading_Tasks_VoidTaskResult
+	.long LDIFF_SYM3574
 	.long 0
 	.byte 12,31,0,68,14,96,157,12,158,11,68,13,29
 	.align 3
-Lfde352_end:
+Lfde355_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -84107,46 +84600,46 @@ Lfde352_end:
 
 	.byte 0,0
 	.quad Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_DOUBLE_T_REF
-	.quad Lme_17b
+	.quad Lme_182
 
 	.byte 2,118,16,3
 	.asciz "token"
 
-LDIFF_SYM3554=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3554
+LDIFF_SYM3575=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3575
 	.byte 1,106,11
 	.asciz "V_0"
 
-LDIFF_SYM3555=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3555
+LDIFF_SYM3576=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3576
 	.byte 3,141,216,0,11
 	.asciz "V_1"
 
-LDIFF_SYM3556=LTDIE_192_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3556
+LDIFF_SYM3577=LTDIE_193_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3577
 	.byte 1,105,11
 	.asciz "V_2"
 
-LDIFF_SYM3557=LTDIE_39_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3557
+LDIFF_SYM3578=LTDIE_39_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3578
 	.byte 1,104,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3558=Lfde353_end - Lfde353_start
-	.long LDIFF_SYM3558
-Lfde353_start:
+LDIFF_SYM3579=Lfde356_end - Lfde356_start
+	.long LDIFF_SYM3579
+Lfde356_start:
 
 	.long 0
 	.align 3
 	.quad Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_DOUBLE_T_REF
 
-LDIFF_SYM3559=Lme_17b - Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_DOUBLE_T_REF
-	.long LDIFF_SYM3559
+LDIFF_SYM3580=Lme_182 - Newtonsoft_Json_Linq_Extensions_Convert_T_REF_U_DOUBLE_T_REF
+	.long LDIFF_SYM3580
 	.long 0
 	.byte 12,31,0,68,14,176,1,157,22,158,21,68,13,29,68,149,20,150,19,68,152,18,153,17,68,154,16
 	.align 3
-Lfde353_end:
+Lfde356_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -84156,31 +84649,31 @@ Lfde353_end:
 
 	.byte 0,0
 	.quad System_Collections_Generic_EqualityComparer_1_T_REF__ctor
-	.quad Lme_17c
+	.quad Lme_183
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3560=LTDIE_243_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3560
+LDIFF_SYM3581=LTDIE_243_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3581
 	.byte 2,141,16,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3561=Lfde354_end - Lfde354_start
-	.long LDIFF_SYM3561
-Lfde354_start:
+LDIFF_SYM3582=Lfde357_end - Lfde357_start
+	.long LDIFF_SYM3582
+Lfde357_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_EqualityComparer_1_T_REF__ctor
 
-LDIFF_SYM3562=Lme_17c - System_Collections_Generic_EqualityComparer_1_T_REF__ctor
-	.long LDIFF_SYM3562
+LDIFF_SYM3583=Lme_183 - System_Collections_Generic_EqualityComparer_1_T_REF__ctor
+	.long LDIFF_SYM3583
 	.long 0
 	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29
 	.align 3
-Lfde354_end:
+Lfde357_end:
 
 .section __DWARF, __debug_info,regular,debug
 
@@ -84190,41 +84683,41 @@ Lfde354_end:
 
 	.byte 5,103
 	.quad System_Collections_Generic_List_1_T_REF_set_Capacity_int
-	.quad Lme_17d
+	.quad Lme_184
 
 	.byte 2,118,16,3
 	.asciz "this"
 
-LDIFF_SYM3563=LTDIE_244_REFERENCE - Ldebug_info_start
-	.long LDIFF_SYM3563
+LDIFF_SYM3584=LTDIE_244_REFERENCE - Ldebug_info_start
+	.long LDIFF_SYM3584
 	.byte 2,141,32,3
 	.asciz "value"
 
-LDIFF_SYM3564=LDIE_I4 - Ldebug_info_start
-	.long LDIFF_SYM3564
+LDIFF_SYM3585=LDIE_I4 - Ldebug_info_start
+	.long LDIFF_SYM3585
 	.byte 1,106,11
 	.asciz "newItems"
 
-LDIFF_SYM3565=LDIE_SZARRAY - Ldebug_info_start
-	.long LDIFF_SYM3565
+LDIFF_SYM3586=LDIE_SZARRAY - Ldebug_info_start
+	.long LDIFF_SYM3586
 	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
-LDIFF_SYM3566=Lfde355_end - Lfde355_start
-	.long LDIFF_SYM3566
-Lfde355_start:
+LDIFF_SYM3587=Lfde358_end - Lfde358_start
+	.long LDIFF_SYM3587
+Lfde358_start:
 
 	.long 0
 	.align 3
 	.quad System_Collections_Generic_List_1_T_REF_set_Capacity_int
 
-LDIFF_SYM3567=Lme_17d - System_Collections_Generic_List_1_T_REF_set_Capacity_int
-	.long LDIFF_SYM3567
+LDIFF_SYM3588=Lme_184 - System_Collections_Generic_List_1_T_REF_set_Capacity_int
+	.long LDIFF_SYM3588
 	.long 0
 	.byte 12,31,0,68,14,80,157,10,158,9,68,13,29,68,153,8,154,7
 	.align 3
-Lfde355_end:
+Lfde358_end:
 
 .section __DWARF, __debug_info,regular,debug
 

@@ -260,7 +260,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "AB353769-47BB-4B2F-9A54-AFF6E2ECC138"
+	.asciz "9665A290-CE21-4000-8E9E-1A9A16B3FE7D"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -350,7 +350,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 5,7,131,19,9,97,87,210,124,240,140,41,54,64,150,110
+	.byte 16,227,23,155,169,19,245,61,157,36,249,239,218,59,201,253
 	.globl _mono_aot_module_SQLitePCLRaw_batteries_v2_info
 	.align 3
 _mono_aot_module_SQLitePCLRaw_batteries_v2_info:

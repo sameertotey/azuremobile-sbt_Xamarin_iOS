@@ -1036,13 +1036,13 @@ _mono_aot_file_info:
 	.quad unbox_trampoline_addresses
 
 	.long 24,264,9,26,0,66,387000831,0
-	.long 1734,128,8,8,8,9,8388607,0
-	.long 24,2400,656,448,240,0,352,416
+	.long 1782,128,8,8,8,9,8388607,0
+	.long 24,2448,656,448,240,0,352,416
 	.long 296,0,200,56,648,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 82,86,255,130,0,205,223,26,167,225,174,129,122,49,111,53
+	.byte 61,204,189,133,10,168,22,91,8,122,206,246,8,145,103,36
 	.globl _mono_aot_module_System_Runtime_Serialization_info
 	.align 3
 _mono_aot_module_System_Runtime_Serialization_info:

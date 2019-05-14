@@ -8945,9 +8945,9 @@ ldr x16, [x16, #832]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_64
@@ -9985,9 +9985,9 @@ ldr x16, [x16, #952]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
-.word 0xd28025e0
+.word 0xd2802600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_64
@@ -16222,8 +16222,8 @@ ldr x16, [x16, #1640]
 .word 0xf9408a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28e0c80
-.word 0xd28e0c80
+.word 0xd28e0d80
+.word 0xd28e0d80
 bl _p_150
 .word 0xaa0003e1
 .word 0xd28015e0
@@ -16250,8 +16250,8 @@ bl _p_64
 .word 0xf940f231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28e1740
-.word 0xd28e1740
+.word 0xd28e1840
+.word 0xd28e1840
 bl _p_150
 .word 0xaa0003e1
 .word 0xd28015e0
@@ -26518,8 +26518,8 @@ ldr x16, [x16, #2192]
 .word 0xf9408231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28a7b80
-.word 0xd28a7b80
+.word 0xd28a7c80
+.word 0xd28a7c80
 bl _p_150
 .word 0xaa0003e1
 .word 0xd2800e80
@@ -26551,8 +26551,8 @@ bl _p_64
 .word 0xf940fe31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd288cfe0
-.word 0xd288cfe0
+.word 0xd288d0e0
+.word 0xd288d0e0
 bl _p_150
 .word 0xf9002ba0
 .word 0xd284b2e0
@@ -26591,12 +26591,12 @@ bl _p_64
 .word 0xf9419631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd288dbe0
-.word 0xd288dbe0
+.word 0xd288dce0
+.word 0xd288dce0
 bl _p_150
 .word 0xf9002ba0
-.word 0xd2892c20
-.word 0xd2892c20
+.word 0xd2892d20
+.word 0xd2892d20
 bl _p_150
 .word 0xaa0003e2
 .word 0xf9402ba1
@@ -29937,7 +29937,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 146,51,118,216,148,187,102,128,244,183,75,44,100,135,236,188
+	.byte 112,77,241,206,91,44,125,69,62,179,179,102,210,104,206,200
 	.globl _mono_aot_module_PInvoke_BCrypt_info
 	.align 3
 _mono_aot_module_PInvoke_BCrypt_info:

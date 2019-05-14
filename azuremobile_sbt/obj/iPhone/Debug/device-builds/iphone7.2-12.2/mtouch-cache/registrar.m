@@ -4631,19 +4631,19 @@ exception_handling:;
 	-(void) safariViewController:(SFSafariViewController *)p0 didCompleteInitialLoad:(BOOL)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_34 (self, _cmd, &managed_method, p0, p1, 0x11B0E);
+		native_to_managed_trampoline_34 (self, _cmd, &managed_method, p0, p1, 0x16F0E);
 	}
 
 	-(void) safariViewControllerDidFinish:(SFSafariViewController *)p0
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_35 (self, _cmd, &managed_method, p0, 0x11C0E);
+		native_to_managed_trampoline_35 (self, _cmd, &managed_method, p0, 0x1700E);
 	}
 
 	-(NSArray *) safariViewController:(SFSafariViewController *)p0 activityItemsForURL:(NSURL *)p1 title:(NSString *)p2
 	{
 		static MonoMethod *managed_method = NULL;
-		return native_to_managed_trampoline_36 (self, _cmd, &managed_method, p0, p1, p2, 0x11D0E);
+		return native_to_managed_trampoline_36 (self, _cmd, &managed_method, p0, p1, p2, 0x1710E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -4691,7 +4691,7 @@ exception_handling:;
 	-(void) tableView:(UITableView *)p0 didSelectRowAtIndexPath:(NSIndexPath *)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_37 (self, _cmd, &managed_method, p0, p1, 0x7940E);
+		native_to_managed_trampoline_37 (self, _cmd, &managed_method, p0, p1, 0x1280E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -4739,7 +4739,7 @@ exception_handling:;
 	-(void) viewDidAppear:(BOOL)p0
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_38 (self, _cmd, &managed_method, p0, 0x1030E);
+		native_to_managed_trampoline_38 (self, _cmd, &managed_method, p0, 0x1250E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -4790,25 +4790,25 @@ exception_handling:;
 	-(BOOL) webView:(UIWebView *)p0 shouldStartLoadWithRequest:(NSURLRequest *)p1 navigationType:(NSInteger)p2
 	{
 		static MonoMethod *managed_method = NULL;
-		return native_to_managed_trampoline_32 (self, _cmd, &managed_method, p0, p1, p2, 0x7A90E);
+		return native_to_managed_trampoline_32 (self, _cmd, &managed_method, p0, p1, p2, 0x15A0E);
 	}
 
 	-(void) webViewDidStartLoad:(UIWebView *)p0
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_31 (self, _cmd, &managed_method, p0, 0x7AA0E);
+		native_to_managed_trampoline_31 (self, _cmd, &managed_method, p0, 0x15B0E);
 	}
 
 	-(void) webView:(UIWebView *)p0 didFailLoadWithError:(NSError *)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_30 (self, _cmd, &managed_method, p0, p1, 0x7AB0E);
+		native_to_managed_trampoline_30 (self, _cmd, &managed_method, p0, p1, 0x15C0E);
 	}
 
 	-(void) webViewDidFinishLoad:(UIWebView *)p0
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_31 (self, _cmd, &managed_method, p0, 0x7AC0E);
+		native_to_managed_trampoline_31 (self, _cmd, &managed_method, p0, 0x15D0E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -4856,7 +4856,7 @@ exception_handling:;
 	-(void) webView:(WKWebView *)p0 runJavaScriptAlertPanelWithMessage:(NSString *)p1 initiatedByFrame:(WKFrameInfo *)p2 completionHandler:(id)p3
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_39 (self, _cmd, &managed_method, p0, p1, p2, p3, 0x7AE0E);
+		native_to_managed_trampoline_39 (self, _cmd, &managed_method, p0, p1, p2, p3, 0x15F0E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -4909,37 +4909,37 @@ exception_handling:;
 	-(void) webView:(WKWebView *)p0 decidePolicyForNavigationAction:(WKNavigationAction *)p1 decisionHandler:(id)p2
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_40 (self, _cmd, &managed_method, p0, p1, p2, 0x7B00E);
+		native_to_managed_trampoline_40 (self, _cmd, &managed_method, p0, p1, p2, 0x1610E);
 	}
 
 	-(void) webView:(WKWebView *)p0 didFailNavigation:(WKNavigation *)p1 withError:(NSError *)p2
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_41 (self, _cmd, &managed_method, p0, p1, p2, 0x7B10E);
+		native_to_managed_trampoline_41 (self, _cmd, &managed_method, p0, p1, p2, 0x1620E);
 	}
 
 	-(void) webView:(WKWebView *)p0 didFailProvisionalNavigation:(WKNavigation *)p1 withError:(NSError *)p2
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_41 (self, _cmd, &managed_method, p0, p1, p2, 0x7B20E);
+		native_to_managed_trampoline_41 (self, _cmd, &managed_method, p0, p1, p2, 0x1630E);
 	}
 
 	-(void) webView:(WKWebView *)p0 didStartProvisionalNavigation:(WKNavigation *)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_42 (self, _cmd, &managed_method, p0, p1, 0x7B30E);
+		native_to_managed_trampoline_42 (self, _cmd, &managed_method, p0, p1, 0x1640E);
 	}
 
 	-(void) webView:(WKWebView *)p0 didFinishNavigation:(WKNavigation *)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_42 (self, _cmd, &managed_method, p0, p1, 0x7B40E);
+		native_to_managed_trampoline_42 (self, _cmd, &managed_method, p0, p1, 0x1650E);
 	}
 
 	-(void) webView:(WKWebView *)p0 didCommitNavigation:(WKNavigation *)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_42 (self, _cmd, &managed_method, p0, p1, 0x7B50E);
+		native_to_managed_trampoline_42 (self, _cmd, &managed_method, p0, p1, 0x1660E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -4977,7 +4977,7 @@ exception_handling:;
 	-(void) userContentController:(WKUserContentController *)p0 didReceiveScriptMessage:(WKScriptMessage *)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_43 (self, _cmd, &managed_method, p0, p1, 0x7B70E);
+		native_to_managed_trampoline_43 (self, _cmd, &managed_method, p0, p1, 0x1680E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -5025,7 +5025,7 @@ exception_handling:;
 	-(void) viewDidAppear:(BOOL)p0
 	{
 		static MonoMethod *managed_method = NULL;
-		native_to_managed_trampoline_38 (self, _cmd, &managed_method, p0, 0x1160E);
+		native_to_managed_trampoline_38 (self, _cmd, &managed_method, p0, 0x1550E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -5116,19 +5116,19 @@ exception_handling:;
 	-(NSInteger) numberOfSectionsInTableView:(UITableView *)p0
 	{
 		static MonoMethod *managed_method = NULL;
-		return native_to_managed_trampoline_9 (self, _cmd, &managed_method, p0, 0x79A0E);
+		return native_to_managed_trampoline_9 (self, _cmd, &managed_method, p0, 0x1310E);
 	}
 
 	-(NSInteger) tableView:(UITableView *)p0 numberOfRowsInSection:(NSInteger)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		return native_to_managed_trampoline_8 (self, _cmd, &managed_method, p0, p1, 0x79B0E);
+		return native_to_managed_trampoline_8 (self, _cmd, &managed_method, p0, p1, 0x1320E);
 	}
 
 	-(UITableViewCell *) tableView:(UITableView *)p0 cellForRowAtIndexPath:(NSIndexPath *)p1
 	{
 		static MonoMethod *managed_method = NULL;
-		return native_to_managed_trampoline_10 (self, _cmd, &managed_method, p0, p1, 0x79E0E);
+		return native_to_managed_trampoline_10 (self, _cmd, &managed_method, p0, p1, 0x1350E);
 	}
 
 	-(BOOL) conformsToProtocol:(void *)p0
@@ -5709,17 +5709,17 @@ exception_handling:;
 		{ NULL, 0x13104 /* #114 'NSMutableData' => 'Foundation.NSMutableData, Xamarin.iOS' */, (MTTypeFlags) (0) /* None */ },
 		{ NULL, 0x13404 /* #115 'NSMutableDictionary' => 'Foundation.NSMutableDictionary, Xamarin.iOS' */, (MTTypeFlags) (0) /* None */ },
 		{ NULL, 0x15C04 /* #116 '__NSObject_Disposer' => 'Foundation.NSObject+NSObject_Disposer, Xamarin.iOS' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0x70E /* #117 'Xamarin_Controls__MobileServices_ProgressLabel' => 'Xamarin.Controls._MobileServices.ProgressLabel, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0x2B0E /* #118 'Xamarin_Auth__MobileServices_NativeAuthSafariViewControllerDelegate' => 'Xamarin.Auth._MobileServices.NativeAuthSafariViewControllerDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0xF20E /* #119 'Xamarin_Auth__MobileServices_FormAuthenticatorController_FormDelegate' => 'Xamarin.Auth._MobileServices.FormAuthenticatorController+FormDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0x270E /* #120 'Xamarin_Auth__MobileServices_FormAuthenticatorController' => 'Xamarin.Auth._MobileServices.FormAuthenticatorController, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0xF70E /* #121 'Xamarin_Auth__MobileServices_WebAuthenticatorController_UIWebViewDelegate' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController+UIWebViewDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0xF80E /* #122 'Xamarin_Auth__MobileServices_WebAuthenticatorController_WKWebViewUIDelegate' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController+WKWebViewUIDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0xF90E /* #123 'Xamarin_Auth__MobileServices_WebAuthenticatorController_WKWebViewNavigationDelegate' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController+WKWebViewNavigationDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0xFA0E /* #124 'Xamarin_Auth__MobileServices_WebAuthenticatorController_WKWebViewJacascriptMessageHandler' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController+WKWebViewJacascriptMessageHandler, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0x290E /* #125 'Xamarin_Auth__MobileServices_WebAuthenticatorController' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0xF30E /* #126 'Xamarin_Auth__MobileServices_FormAuthenticatorController_FieldCell' => 'Xamarin.Auth._MobileServices.FormAuthenticatorController+FieldCell, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
-		{ NULL, 0xF40E /* #127 'Xamarin_Auth__MobileServices_FormAuthenticatorController_FormDataSource' => 'Xamarin.Auth._MobileServices.FormAuthenticatorController+FormDataSource, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x80E /* #117 'Xamarin_Controls__MobileServices_ProgressLabel' => 'Xamarin.Controls._MobileServices.ProgressLabel, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x480E /* #118 'Xamarin_Auth__MobileServices_NativeAuthSafariViewControllerDelegate' => 'Xamarin.Auth._MobileServices.NativeAuthSafariViewControllerDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x380E /* #119 'Xamarin_Auth__MobileServices_FormAuthenticatorController_FormDelegate' => 'Xamarin.Auth._MobileServices.FormAuthenticatorController+FormDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x370E /* #120 'Xamarin_Auth__MobileServices_FormAuthenticatorController' => 'Xamarin.Auth._MobileServices.FormAuthenticatorController, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x420E /* #121 'Xamarin_Auth__MobileServices_WebAuthenticatorController_UIWebViewDelegate' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController+UIWebViewDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x430E /* #122 'Xamarin_Auth__MobileServices_WebAuthenticatorController_WKWebViewUIDelegate' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController+WKWebViewUIDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x440E /* #123 'Xamarin_Auth__MobileServices_WebAuthenticatorController_WKWebViewNavigationDelegate' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController+WKWebViewNavigationDelegate, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x450E /* #124 'Xamarin_Auth__MobileServices_WebAuthenticatorController_WKWebViewJacascriptMessageHandler' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController+WKWebViewJacascriptMessageHandler, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x410E /* #125 'Xamarin_Auth__MobileServices_WebAuthenticatorController' => 'Xamarin.Auth._MobileServices.WebAuthenticatorController, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x390E /* #126 'Xamarin_Auth__MobileServices_FormAuthenticatorController_FieldCell' => 'Xamarin.Auth._MobileServices.FormAuthenticatorController+FieldCell, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
+		{ NULL, 0x3B0E /* #127 'Xamarin_Auth__MobileServices_FormAuthenticatorController_FormDataSource' => 'Xamarin.Auth._MobileServices.FormAuthenticatorController+FormDataSource, Microsoft.Azure.Mobile.Client' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
 		{ NULL, 0xD10 /* #128 'System_Net_Http_NSUrlSessionHandler_WrappedNSInputStream' => 'System.Net.Http.NSUrlSessionHandler+WrappedNSInputStream, System.Net.Http' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
 		{ NULL, 0x510 /* #129 'System_Net_Http_NSUrlSessionHandler_NSUrlSessionHandlerDelegate' => 'System.Net.Http.NSUrlSessionHandler+NSUrlSessionHandlerDelegate, System.Net.Http' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
 		{ NULL, 0xA2E /* #130 'Xamarin_Essentials_SingleLocationListener' => 'Xamarin.Essentials.SingleLocationListener, Xamarin.Essentials' */, (MTTypeFlags) (3) /* CustomType, UserType */ },
@@ -5740,6 +5740,7 @@ exception_handling:;
 		"Microsoft.Azure.Mobile.Client", 
 		"System.Net.Http", 
 		"Newtonsoft.Json", 
+		"System.Numerics", 
 		"System.Xml.Linq", 
 		"System.Runtime.Serialization", 
 		"Microsoft.CSharp", 
@@ -5747,7 +5748,6 @@ exception_handling:;
 		"PInvoke.BCrypt", 
 		"PInvoke.Windows.Core", 
 		"PInvoke.Kernel32", 
-		"System.Numerics", 
 		"Validation", 
 		"Microsoft.Azure.Mobile.Client.SQLiteStore", 
 		"SQLitePCLRaw.core", 

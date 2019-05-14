@@ -14914,8 +14914,8 @@ ldr x16, [x16, #1512]
 .word 0xf9408231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28a7b80
-.word 0xd28a7b80
+.word 0xd28a7c80
+.word 0xd28a7c80
 bl _p_156
 .word 0xaa0003e1
 .word 0xd2800e80
@@ -14947,8 +14947,8 @@ bl _p_9
 .word 0xf940fe31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd288cfe0
-.word 0xd288cfe0
+.word 0xd288d0e0
+.word 0xd288d0e0
 bl _p_156
 .word 0xf9002ba0
 .word 0xd284b2e0
@@ -14987,12 +14987,12 @@ bl _p_9
 .word 0xf9419631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd288dbe0
-.word 0xd288dbe0
+.word 0xd288dce0
+.word 0xd288dce0
 bl _p_156
 .word 0xf9002ba0
-.word 0xd2892c20
-.word 0xd2892c20
+.word 0xd2892d20
+.word 0xd2892d20
 bl _p_156
 .word 0xaa0003e2
 .word 0xf9402ba1
@@ -17723,7 +17723,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 130,116,102,192,75,138,147,13,19,36,41,86,158,14,4,48
+	.byte 112,100,126,33,232,48,185,132,28,32,178,212,43,74,66,214
 	.globl _mono_aot_module_PInvoke_Kernel32_info
 	.align 3
 _mono_aot_module_PInvoke_Kernel32_info:
