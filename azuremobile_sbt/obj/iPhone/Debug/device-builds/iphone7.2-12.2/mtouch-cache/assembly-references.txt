@@ -5,8 +5,8 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/lib/mono/Xamarin.iOS/Mono.Security.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/lib/mono/Xamarin.iOS/System.Xml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/lib/mono/Xamarin.iOS/System.Core.dll
-/Users/sameer/.nuget/packages/microsoft.azure.mobile.client/4.1.1/lib/xamarinios10/Microsoft.Azure.Mobile.Client.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Users/sameer/.nuget/packages/microsoft.azure.mobile.client/4.1.1/lib/xamarinios10/Microsoft.Azure.Mobile.Client.dll
 /Users/sameer/.nuget/packages/newtonsoft.json/10.0.1/lib/netstandard1.3/Newtonsoft.Json.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
@@ -75,4 +75,5 @@
 /Users/sameer/.nuget/packages/xamarin.auth/1.6.0.4/lib/Xamarin.iOS10/Xamarin.Auth.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/lib/mono/Xamarin.iOS/System.Json.dll
 /Users/sameer/.nuget/packages/microsoft.identitymodel.clients.activedirectory/3.17.2/lib/Xamarin.iOS10/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
-/Users/sameer/.nuget/packages/xam.plugins.settings/4.0.0.10-beta/lib/xamarinios10/Plugin.Settings.dll
+/Users/sameer/.nuget/packages/xam.plugins.settings/3.1.1/lib/Xamarin.iOS10/Plugin.Settings.Abstractions.dll
+/Users/sameer/.nuget/packages/xam.plugins.settings/3.1.1/lib/Xamarin.iOS10/Plugin.Settings.dll

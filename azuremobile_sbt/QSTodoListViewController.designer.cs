@@ -1,28 +1,32 @@
 // WARNING
 //
-// This file has been generated automatically by Xamarin Studio from the outlets and
-// actions declared in your storyboard file.
-// Manual changes to this file will not be maintained.
+// This file has been generated automatically by Visual Studio to store outlets and
+// actions made in the UI designer. If it is removed, they will be lost.
+// Manual changes to this file may not be handled correctly.
 //
-using System;
 using Foundation;
-using UIKit;
 using System.CodeDom.Compiler;
 
 namespace azuremobile_sbt
 {
-	[Register ("QSTodoListViewController")]
-	partial class QSTodoListViewController
-	{
-		[Outlet]
-		UIKit.UITextField itemText { get; set; }
+    [Register ("QSTodoListViewController")]
+    partial class QSTodoListViewController
+    {
+        [Outlet]
+        UIKit.UITextField itemText { get; set; }
 
-		[Action ("OnAdd:")]
-		[GeneratedCode ("iOS Designer", "1.0")]
-		partial void OnAdd (UIButton sender);
+        [Action ("OnAdd:")]
+        partial void OnAdd (UIKit.UIButton sender);
 
-		void ReleaseDesignerOutlets ()
-		{
-		}
-	}
+        [Action ("OnCheck:")]
+        partial void OnCheck (Foundation.NSObject sender);
+        
+        void ReleaseDesignerOutlets ()
+        {
+            if (itemText != null) {
+                itemText.Dispose ();
+                itemText = null;
+            }
+        }
+    }
 }

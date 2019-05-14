@@ -26,8 +26,8 @@
       <Optimize>false</Optimize>
       <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool-link/MainStoryboard_iPhone.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool-link/MainStoryboard_iPhone.storyboardc/UITableViewController-PsD-7a-zsW.nib">
-      <LogicalName>MainStoryboard_iPhone.storyboardc/UITableViewController-PsD-7a-zsW.nib</LogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool-link/MainStoryboard_iPhone.storyboardc/UINavigationController-S6W-J8-ttZ.nib">
+      <LogicalName>MainStoryboard_iPhone.storyboardc/UINavigationController-S6W-J8-ttZ.nib</LogicalName>
       <Optimize>false</Optimize>
       <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool-link/MainStoryboard_iPhone.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>

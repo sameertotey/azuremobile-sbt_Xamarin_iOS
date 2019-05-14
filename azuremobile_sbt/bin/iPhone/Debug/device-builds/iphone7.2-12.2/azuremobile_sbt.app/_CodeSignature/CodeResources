@@ -187,11 +187,15 @@
 		</data>
 		<key>MainStoryboard_iPhone.storyboardc/Info.plist</key>
 		<data>
-		7rOjLAU7YQBLgXp6AS3EKMoPjog=
+		YBoSZHeVMhID11LDf9oHi/pDO9E=
 		</data>
 		<key>MainStoryboard_iPhone.storyboardc/PsD-7a-zsW-view-lJ7-Ej-a4P.nib</key>
 		<data>
-		FTYNQhpM0tkcEm+ONTEeIjPm5Hg=
+		9vrD4MT5BWgPFL2aic+hFJUvtYo=
+		</data>
+		<key>MainStoryboard_iPhone.storyboardc/UINavigationController-S6W-J8-ttZ.nib</key>
+		<data>
+		8LhniACoEJ1ZCNf7nPsEkK0KT9U=
 		</data>
 		<key>MainStoryboard_iPhone.storyboardc/UITableViewController-PsD-7a-zsW.nib</key>
 		<data>
@@ -271,7 +275,7 @@
 		</data>
 		<key>Microsoft.Azure.Mobile.Client.aotdata.arm64</key>
 		<data>
-		isZoSCtjlB7yHyKOOh4lVkj+QZw=
+		3GU24hGyNBa5RLxtAnwOTIzb0fg=
 		</data>
 		<key>Microsoft.Azure.Mobile.Client.dll</key>
 		<data>
@@ -291,7 +295,7 @@
 		</data>
 		<key>Microsoft.IdentityModel.Clients.ActiveDirectory.aotdata.arm64</key>
 		<data>
-		dZBhQWQXClygd4Wy5Wnql+G4ZbE=
+		UjSbtlUjSvlBJSJwppDSaabn9KU=
 		</data>
 		<key>Microsoft.IdentityModel.Clients.ActiveDirectory.dll</key>
 		<data>
@@ -383,11 +387,11 @@
 		</data>
 		<key>PinnacleWareHouser.aotdata.arm64</key>
 		<data>
-		UiH9UMxAhYUVHm8UqewNy/2pg4Q=
+		EZYQFUV1Dw0k0FJgRDgYrETGCMI=
 		</data>
 		<key>PinnacleWareHouser.dll</key>
 		<data>
-		cr8etRT3OeNcWgAZ/v/7hkCei/k=
+		fEFzud6sq7QVhMFIYn6oio6PXJs=
 		</data>
 		<key>PinnacleWareHouser.dll.config</key>
 		<data>
@@ -395,7 +399,7 @@
 		</data>
 		<key>PinnacleWareHouser.pdb</key>
 		<data>
-		X0OlEJIsvzi2Vm4sDQ/rhKH6Ca4=
+		y6nUlJTRlCjTtQufwI0+vgcNY+w=
 		</data>
 		<key>PinnacleWarehouser.Common.aotdata.arm64</key>
 		<data>
@@ -412,6 +416,14 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Plugin.Settings.Abstractions.aotdata.arm64</key>
+		<data>
+		MDutE0EVUTcYK7szcoEi1DnzZxo=
+		</data>
+		<key>Plugin.Settings.Abstractions.dll</key>
+		<data>
+		nJ3Mp0R92Jrz5lNdoq6shrp1kMI=
 		</data>
 		<key>Plugin.Settings.aotdata.arm64</key>
 		<data>
@@ -495,15 +507,15 @@
 		</data>
 		<key>System.Net.Http.aotdata.arm64</key>
 		<data>
-		JZfCFjj3F2d38+UAq4sq7QvpCcc=
+		LPi5UumK2G3O+hCkE4zsY3hbRd0=
 		</data>
 		<key>System.Net.Http.dll</key>
 		<data>
-		bC6v7M1K/Ri47rV/Mfh37MsKWD4=
+		f+132VJlaJKGA2prBEU6VLcsHp8=
 		</data>
 		<key>System.Net.Http.pdb</key>
 		<data>
-		Rd9FL0THhkzGGuXMzIjSZTmJgp8=
+		B8cx+vGGDPUu89FEXIwPY00jmNg=
 		</data>
 		<key>System.Numerics.aotdata.arm64</key>
 		<data>
@@ -599,7 +611,7 @@
 		</data>
 		<key>Xamarin.Auth.aotdata.arm64</key>
 		<data>
-		DTL0SQ4BdWvT9KbSTBa0UZbQ/6A=
+		/Ub3okzIr7MXMIKQhZ7MCv5KNoo=
 		</data>
 		<key>Xamarin.Auth.dll</key>
 		<data>
@@ -631,11 +643,11 @@
 		</data>
 		<key>azuremobile_sbt.aotdata.arm64</key>
 		<data>
-		grSdPjDlH0HzCy7kFBxa1OQ4ddg=
+		bL0DshakiqDZfoiEdUykvXaYJZY=
 		</data>
 		<key>azuremobile_sbt.exe</key>
 		<data>
-		yXB4CbkcFu/mHu/z/W2gumVrBBM=
+		JrecGy15u3UnKvEWVHvUSQP24K8=
 		</data>
 		<key>azuremobile_sbt.exe.config</key>
 		<data>
@@ -643,7 +655,7 @@
 		</data>
 		<key>azuremobile_sbt.pdb</key>
 		<data>
-		m6b1/RMczPeKD2vzTxEmtL1SnT4=
+		0lSYXJ2Ryye8YuLGAuZWnlT7vC8=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -1002,22 +1014,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7rOjLAU7YQBLgXp6AS3EKMoPjog=
+			YBoSZHeVMhID11LDf9oHi/pDO9E=
 			</data>
 			<key>hash2</key>
 			<data>
-			c1IN08LFHonf6EtE8hp89kF/fNrWtPGPaI0xdFrRaN8=
+			ftEqM+drxTcJ8wfa69sP/a9qZe9zBVUJMw/g48iHjUI=
 			</data>
 		</dict>
 		<key>MainStoryboard_iPhone.storyboardc/PsD-7a-zsW-view-lJ7-Ej-a4P.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FTYNQhpM0tkcEm+ONTEeIjPm5Hg=
+			9vrD4MT5BWgPFL2aic+hFJUvtYo=
 			</data>
 			<key>hash2</key>
 			<data>
-			CQQ/FusQ4+SCeYPx+VlyNL285TGL02jjn7Xx8E7lqAI=
+			L9Fw6euQ2fMSBH4W+m0i9BgyPcfainHLKfLBeEnYWrA=
+			</data>
+		</dict>
+		<key>MainStoryboard_iPhone.storyboardc/UINavigationController-S6W-J8-ttZ.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8LhniACoEJ1ZCNf7nPsEkK0KT9U=
+			</data>
+			<key>hash2</key>
+			<data>
+			m5QvIBbkHQ6BZ5sSSLJ6Bk7ip3RqZuIh6PvMUlDpJyI=
 			</data>
 		</dict>
 		<key>MainStoryboard_iPhone.storyboardc/UITableViewController-PsD-7a-zsW.nib</key>
@@ -1233,11 +1256,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			isZoSCtjlB7yHyKOOh4lVkj+QZw=
+			3GU24hGyNBa5RLxtAnwOTIzb0fg=
 			</data>
 			<key>hash2</key>
 			<data>
-			x0kTn8Se+erGvNBhWgAMTkGTzBoOc85AEav7xN1kXdA=
+			/O+dkLNW1Udq6G2LKnkfbjhxXtz/+L97dm8gOX9Sv80=
 			</data>
 		</dict>
 		<key>Microsoft.Azure.Mobile.Client.dll</key>
@@ -1288,11 +1311,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dZBhQWQXClygd4Wy5Wnql+G4ZbE=
+			UjSbtlUjSvlBJSJwppDSaabn9KU=
 			</data>
 			<key>hash2</key>
 			<data>
-			cuLhLv+ZTKxIKkMcvfTvb1m09uhe86uo+7xGEcnnkbA=
+			8muz7rlTZ5bN+aPF1VhaFCDoZTJ+k1U3vMawramNC+E=
 			</data>
 		</dict>
 		<key>Microsoft.IdentityModel.Clients.ActiveDirectory.dll</key>
@@ -1541,22 +1564,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UiH9UMxAhYUVHm8UqewNy/2pg4Q=
+			EZYQFUV1Dw0k0FJgRDgYrETGCMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/O0uNnvC5VFimorN4m94+P4A0n1kZaQEEyoi5V9HW+k=
+			ZeRkFUofj2GUVX9VXjnD4VIY2whAiQOtYcMoZoiQ2nA=
 			</data>
 		</dict>
 		<key>PinnacleWareHouser.dll</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cr8etRT3OeNcWgAZ/v/7hkCei/k=
+			fEFzud6sq7QVhMFIYn6oio6PXJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			e7nNsQToN87BdbMqcXb/7uj1B6pLGEVriM7lNz8c3zo=
+			NQcRiH4SEBsy65SVUif+UoER7MoDWw5tjVtcxLxvqqM=
 			</data>
 		</dict>
 		<key>PinnacleWareHouser.dll.config</key>
@@ -1574,11 +1597,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X0OlEJIsvzi2Vm4sDQ/rhKH6Ca4=
+			y6nUlJTRlCjTtQufwI0+vgcNY+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			C3U7HimfLGSZtMtJLw2knC1I2XqWTJR64+ghyVaukQw=
+			v+x9Zxx+kCXxCe3x/frA6V0dZDjFDEXIf0eSFLtjRDw=
 			</data>
 		</dict>
 		<key>PinnacleWarehouser.Common.aotdata.arm64</key>
@@ -1612,6 +1635,28 @@
 			<key>hash2</key>
 			<data>
 			dRG1pnd+c9UTxZ5de9Nf76LODheQIHaMBCPlhkzDnTk=
+			</data>
+		</dict>
+		<key>Plugin.Settings.Abstractions.aotdata.arm64</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MDutE0EVUTcYK7szcoEi1DnzZxo=
+			</data>
+			<key>hash2</key>
+			<data>
+			jSgaArJu69UIb8PAqVD1jJBxfPv8QxIZBSghuoYumyE=
+			</data>
+		</dict>
+		<key>Plugin.Settings.Abstractions.dll</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nJ3Mp0R92Jrz5lNdoq6shrp1kMI=
+			</data>
+			<key>hash2</key>
+			<data>
+			qxLO+pX1SM3A56QflbrWsU4IUUC+tNzwOFTfMvfnszc=
 			</data>
 		</dict>
 		<key>Plugin.Settings.aotdata.arm64</key>
@@ -1838,33 +1883,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JZfCFjj3F2d38+UAq4sq7QvpCcc=
+			LPi5UumK2G3O+hCkE4zsY3hbRd0=
 			</data>
 			<key>hash2</key>
 			<data>
-			sXzdQ8qQcuAWqGvx2MxGxpu5boTpbW0jBEJGZEFfLC8=
+			x6g2ixlJPNH+AU+FLB4EZzMES+EGaQubTvzjgXpTgDc=
 			</data>
 		</dict>
 		<key>System.Net.Http.dll</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bC6v7M1K/Ri47rV/Mfh37MsKWD4=
+			f+132VJlaJKGA2prBEU6VLcsHp8=
 			</data>
 			<key>hash2</key>
 			<data>
-			qxuhEEMwHQl0a/4Gi6b6/3i9QiOEc0iPhz8Kw39b7Vw=
+			3MXW32C85FOQppcnq5w9hBtNcV2n90zg+2N59fQGbOY=
 			</data>
 		</dict>
 		<key>System.Net.Http.pdb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rd9FL0THhkzGGuXMzIjSZTmJgp8=
+			B8cx+vGGDPUu89FEXIwPY00jmNg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ATiWBOEmVRI6ASx29CXDqRxJZ0hgIovTVD4wRdihEDc=
+			XeuwTlsYzqJ4Hmf0qZzhy6tWb46t7CFJM4PUXNBargc=
 			</data>
 		</dict>
 		<key>System.Numerics.aotdata.arm64</key>
@@ -2124,11 +2169,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DTL0SQ4BdWvT9KbSTBa0UZbQ/6A=
+			/Ub3okzIr7MXMIKQhZ7MCv5KNoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			YDjh7OBSCZqCO56148HyWX/FQFIZc2PwjbXay0vd2Dw=
+			wLZnkLNsJQJTZzI6Ry16YumhVRiASYWaR2xMYPMIoDg=
 			</data>
 		</dict>
 		<key>Xamarin.Auth.dll</key>
@@ -2212,22 +2257,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			grSdPjDlH0HzCy7kFBxa1OQ4ddg=
+			bL0DshakiqDZfoiEdUykvXaYJZY=
 			</data>
 			<key>hash2</key>
 			<data>
-			QlrqerBl5x6xRwCSTtuXD0kcxHqJJ+uDv3Ax9Mgwqhc=
+			ZOyq8tBEuHKidIYYwYwsIwY8WaLgtrCh8WfyvSLdPS8=
 			</data>
 		</dict>
 		<key>azuremobile_sbt.exe</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yXB4CbkcFu/mHu/z/W2gumVrBBM=
+			JrecGy15u3UnKvEWVHvUSQP24K8=
 			</data>
 			<key>hash2</key>
 			<data>
-			+FDX+D785RYXhBeEA1N0wrx3XjKdtnPIzmW4dx+5KXA=
+			5FH02x23inN86cYSMf/nAmsWB2LWM3dm1FZEIt/tBjA=
 			</data>
 		</dict>
 		<key>azuremobile_sbt.exe.config</key>
@@ -2245,11 +2290,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m6b1/RMczPeKD2vzTxEmtL1SnT4=
+			0lSYXJ2Ryye8YuLGAuZWnlT7vC8=
 			</data>
 			<key>hash2</key>
 			<data>
-			cwZEROMaUxksqbmN3ByB6cKnCHsl5MZP3nE+6hsiN14=
+			Hc694QS/4NL39/YQqBrzvqVHhzVsiaVys0wCtIsYEBo=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>

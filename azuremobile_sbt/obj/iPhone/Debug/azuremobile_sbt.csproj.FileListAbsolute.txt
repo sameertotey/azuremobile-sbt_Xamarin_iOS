@@ -74,3 +74,5 @@
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/optimized/Default-Portrait@2x.png
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/optimized/Default-Landscape@2x.png
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/optimized/
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/Plugin.Settings.Abstractions.dll
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/Plugin.Settings.Abstractions.pdb

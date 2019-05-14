@@ -45,6 +45,8 @@
 @class UIKit_UIScrollView__UIScrollViewDelegate;
 @class UIKit_UIWebView__UIWebViewDelegate;
 @class __NSObject_Disposer;
+@class System_Net_Http_NSUrlSessionHandler_WrappedNSInputStream;
+@class System_Net_Http_NSUrlSessionHandler_NSUrlSessionHandlerDelegate;
 @class Xamarin_Controls__MobileServices_ProgressLabel;
 @class Xamarin_Auth__MobileServices_NativeAuthSafariViewControllerDelegate;
 @class Xamarin_Auth__MobileServices_FormAuthenticatorController_FormDelegate;
@@ -56,8 +58,6 @@
 @class Xamarin_Auth__MobileServices_WebAuthenticatorController;
 @class Xamarin_Auth__MobileServices_FormAuthenticatorController_FieldCell;
 @class Xamarin_Auth__MobileServices_FormAuthenticatorController_FormDataSource;
-@class System_Net_Http_NSUrlSessionHandler_WrappedNSInputStream;
-@class System_Net_Http_NSUrlSessionHandler_NSUrlSessionHandlerDelegate;
 @class Xamarin_Essentials_SingleLocationListener;
 @class Xamarin_Essentials_ShareActivityItemSource;
 @class OpenTK_Platform_iPhoneOS_CADisplayLinkTimeSource;
@@ -150,6 +150,7 @@
 	-(void) tableView:(UITableView *)p0 commitEditingStyle:(NSInteger)p1 forRowAtIndexPath:(NSIndexPath *)p2;
 	-(BOOL) textFieldShouldReturn:(UITextField *)p0;
 	-(void) OnAdd:(UIButton *)p0;
+	-(void) OnCheck:(NSObject *)p0;
 	-(BOOL) conformsToProtocol:(void *)p0;
 @end
 

@@ -73,3 +73,6 @@
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/PinnacleWareHouser.dll.config
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/PinnacleWarehouser.Common.pdb
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhoneSimulator/Debug/azuremobile_sbt.csprojAssemblyReference.cache
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.dll
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.pdb
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhoneSimulator/Debug/Xamarin.Auth.dll

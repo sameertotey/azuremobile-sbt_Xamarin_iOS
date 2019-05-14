@@ -58707,7 +58707,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 75,232,220,43,160,252,194,119,210,80,68,21,203,140,199,146
+	.byte 147,159,198,235,151,41,6,160,157,109,79,236,184,187,77,60
 	.globl _mono_aot_module_Microsoft_Azure_Mobile_Client_SQLiteStore_info
 	.align 3
 _mono_aot_module_Microsoft_Azure_Mobile_Client_SQLiteStore_info:

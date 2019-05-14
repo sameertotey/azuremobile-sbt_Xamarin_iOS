@@ -1,30 +1,21 @@
-﻿<Properties StartupConfiguration="{07F1CD1B-626F-4BE5-9840-97B44CBB94C9}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="azuremobile_sbt/QSTodoService.cs">
+﻿<Properties StartupConfiguration="{07F1CD1B-626F-4BE5-9840-97B44CBB94C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="azuremobile_sbt/QSTodoListViewController.cs">
     <Files>
-      <File FileName="azuremobile_sbt/QSTodoListViewController.cs" Line="122" Column="44" />
-      <File FileName="PinnacleWarehouser.Common/DataObjects/Cresco/SalesOrder.cs" Line="2" Column="7" />
-      <File FileName="azuremobile_sbt/AppDelegate.cs" Line="60" Column="18" />
-      <File FileName="PinnacleWareHouser/PinnacleApp.cs" Line="21" Column="44" />
-      <File FileName="azuremobile_sbt/QSTodoService.cs" Line="45" Column="52" />
-      <File FileName="PinnacleWareHouser/Repositories/CustomerInfoRepository.cs" Line="4" Column="34" />
-      <File FileName="PinnacleWareHouser/Repositories/SalesOrderDeliveryNotificationRepository.cs" Line="6" Column="34" />
-      <File FileName="PinnacleWareHouser/Repositories/SalesOrderUpdateNotificationRepository.cs" Line="4" Column="34" />
-      <File FileName="PinnacleWareHouser/Contracts/IAuthenticator.cs" Line="15" Column="3" />
-      <File FileName="PinnacleWareHouser/Helpers/AuthenticationDelegatingHandler.cs" Line="18" Column="49" />
+      <File FileName="azuremobile_sbt/QSTodoListViewController.designer.cs" Line="33" Column="1" />
+      <File FileName="azuremobile_sbt/QSTodoListViewController.cs" Line="148" Column="1" />
+      <File FileName="azuremobile_sbt/QSTodoService.cs" Line="94" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="azuremobile_sbt" expanded="True">
             <Node name="azuremobile_sbt" expanded="True">
-              <Node name="QSTodoService.cs" selected="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="QSTodoListViewController.cs" expanded="True" selected="True" />
             </Node>
             <Node name="PinnacleWareHouser" expanded="True">
               <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True">
-                  <Node name="Microsoft.IdentityModel.Clients.ActiveDirectory" expanded="True" />
-                  <Node name="Portable.Ninject" expanded="True" />
-                </Node>
+                <Node name="PackageDependencies" expanded="True" />
                 <Node name="ProjectDependencies" expanded="True" />
               </Node>
               <Node name="Contracts" expanded="True" />
@@ -32,18 +23,24 @@
               <Node name="Repositories" expanded="True" />
             </Node>
             <Node name="PinnacleWarehouser.Common" expanded="True">
-              <Node name="DataObjects" expanded="True" />
+              <Node name="DataObjects" expanded="True">
+                <Node name="Cresco" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.azuremobile__sbt PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.1a862bc2a946a316fdd0774fbc1ea5eb7fde844d" />
+  <MonoDevelop.Ide.ItemProperties.azuremobile__sbt PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.939442e7b2188132c10769e19dbaa496ac27980e" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/QSTodoListViewController.cs" relfile="azuremobile_sbt/QSTodoListViewController.cs" line="148" column="1" />
+      <Breakpoint file="/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/QSTodoListViewController.cs" relfile="azuremobile_sbt/QSTodoListViewController.cs" line="141" column="1" />
+      <Breakpoint file="/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/QSTodoListViewController.cs" relfile="azuremobile_sbt/QSTodoListViewController.cs" line="113" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

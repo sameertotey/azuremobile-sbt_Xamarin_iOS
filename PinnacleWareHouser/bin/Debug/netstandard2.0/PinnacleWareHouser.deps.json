@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "92afc7db12d1d57405b65971769552e9a242e443"
+    "signature": "a0fc2b225312deb1095a0f7b97dfc0dbfe54bbac"
   },
   "compilationOptions": {},
   "targets": {
@@ -20,7 +20,7 @@
           "NETStandard.Library": "2.0.3",
           "PinnacleWarehouser.Common": "1.0.0",
           "Portable.Ninject": "3.3.1",
-          "Xam.Plugins.Settings": "4.0.0.10-beta",
+          "Xam.Plugins.Settings": "3.1.1",
           "Xamarin.Auth": "1.6.0.4",
           "Xamarin.Essentials": "1.1.0",
           "sqlite-net-pcl": "1.5.231"
@@ -1361,11 +1361,18 @@
           }
         }
       },
-      "Xam.Plugins.Settings/4.0.0.10-beta": {
+      "Xam.Plugins.Settings/3.1.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
         "runtime": {
-          "lib/netstandard2.0/Plugin.Settings.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+          "lib/netstandard1.0/Plugin.Settings.Abstractions.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          },
+          "lib/netstandard1.0/Plugin.Settings.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
           }
         }
       },
@@ -2157,12 +2164,12 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "Xam.Plugins.Settings/4.0.0.10-beta": {
+    "Xam.Plugins.Settings/3.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-JyZQ3B047iLjCTiv1/r44F0zGTQbZG4mG/VH0SE2T32MWNXZNljSIhP8lIbX4TewlSYJ6sqctrI/Qh+QYOMYZw==",
-      "path": "xam.plugins.settings/4.0.0.10-beta",
-      "hashPath": "xam.plugins.settings.4.0.0.10-beta.nupkg.sha512"
+      "sha512": "sha512-EQEYQJ64ZLqui5GWkLMavgqitHxwUHZHryTzUD1021UBuz1XwDSjPL45W0K4pPXjz9oKbg7YpRXKPR1luPr/5Q==",
+      "path": "xam.plugins.settings/3.1.1",
+      "hashPath": "xam.plugins.settings.3.1.1.nupkg.sha512"
     },
     "Xamarin.Auth/1.6.0.4": {
       "type": "package",

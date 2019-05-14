@@ -3,6 +3,8 @@ using System;
 using UIKit;
 using Foundation;
 using System.Threading.Tasks;
+using System.Net.Http;
+using System.Net.Http.Headers;
 
 namespace azuremobile_sbt
 {
@@ -134,9 +136,36 @@ namespace azuremobile_sbt
             }
         }
 
-		#endregion
+        async partial void OnCheck(Foundation.NSObject sender)
+        {
+            await DownloadPageAsync();
+        }
 
-		[Export ("textFieldShouldReturn:")]
+        static async Task DownloadPageAsync()
+        {
+
+            // Update port # in the following line.
+            HttpClient clientNew = new HttpClient();
+
+            clientNew.BaseAddress = new Uri("https://dev-pinn-warehouser-mobile.azurewebsites.net/");
+            clientNew.DefaultRequestHeaders.Accept.Clear();
+            clientNew.DefaultRequestHeaders.Accept.Add(
+                new MediaTypeWithQualityHeaderValue("application/json"));
+
+            clientNew.DefaultRequestHeaders.Add("X-ZUMO-AUTH", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGFibGVfc2lkIjoic2lkOjEwNjRkNTIxOTg5OTVjYjIxMGUzZjE3ZmE4ZjdhYTc1Iiwic3ViIjoic2lkOmZlYzIzNDZjMzgzZjE3MzZjYTg4OWVjZmY5ZWFiZTMwIiwiaWRwIjoiYWFkIiwidmVyIjoiMyIsIm5iZiI6MTU1NzI4NDI0NSwiZXhwIjoxNTU5ODc2MjQ1LCJpYXQiOjE1NTcyODQyNDUsImlzcyI6Imh0dHBzOi8vZGV2LXBpbm4td2FyZWhvdXNlci1tb2JpbGUuYXp1cmV3ZWJzaXRlcy5uZXQvIiwiYXVkIjoiaHR0cHM6Ly9kZXYtcGlubi13YXJlaG91c2VyLW1vYmlsZS5henVyZXdlYnNpdGVzLm5ldC8ifQ.cM0xBUeejh5JOQsVJtbd9aTsovKibWi6yOQhRTs1MHY");
+            //version = "2.2.X";
+            clientNew.DefaultRequestHeaders.Add("ZUMO-API-VERSION", "2.0.0");
+
+            var branches = await clientNew.GetAsync(
+                        "api/Cresco/GetAllBranches"
+                    ).ConfigureAwait(false);
+            var branchesString = await branches.Content.ReadAsStringAsync();
+            Console.WriteLine($" Branches: {branchesString}");
+        }
+
+        #endregion
+
+        [Export ("textFieldShouldReturn:")]
 		public virtual bool ShouldReturn (UITextField textField)
 		{
 			textField.ResignFirstResponder ();
