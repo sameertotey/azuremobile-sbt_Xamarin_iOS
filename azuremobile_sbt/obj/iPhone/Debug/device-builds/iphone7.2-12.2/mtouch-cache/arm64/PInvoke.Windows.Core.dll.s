@@ -1788,7 +1788,7 @@ bl _p_13
 .word 0x910003bf
 .word 0xa8c67bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_14
 
@@ -2612,9 +2612,9 @@ ldr x0, [x16, #472]
 .word 0xf9472e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2801520
+.word 0xd2801540
 .word 0xf2a04000
-.word 0xd2801520
+.word 0xd2801540
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_18
@@ -3037,9 +3037,9 @@ ldr x0, [x16, #488]
 .word 0xf9463231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2801520
+.word 0xd2801540
 .word 0xf2a04000
-.word 0xd2801520
+.word 0xd2801540
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_18
@@ -4455,7 +4455,7 @@ bl _p_27
 .word 0x910003bf
 .word 0xa8c67bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_14
 
@@ -6863,7 +6863,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 0,120,48,51,173,207,96,120,89,129,117,132,183,79,95,167
+	.byte 209,247,31,103,159,108,37,73,84,71,64,155,159,164,165,24
 	.globl _mono_aot_module_PInvoke_Windows_Core_info
 	.align 3
 _mono_aot_module_PInvoke_Windows_Core_info:

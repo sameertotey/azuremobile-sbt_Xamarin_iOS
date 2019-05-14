@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "0334d59246c855efdd4bb864fd36e3033aedd705"
+    "signature": "92afc7db12d1d57405b65971769552e9a242e443"
   },
   "compilationOptions": {},
   "targets": {
@@ -16,7 +16,7 @@
           "Microsoft.Azure.Mobile.Client": "4.1.1",
           "Microsoft.Azure.Mobile.Client.SQLiteStore": "4.1.1",
           "Microsoft.Azure.ServiceBus": "3.4.0",
-          "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.19.8",
+          "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.17.2",
           "NETStandard.Library": "2.0.3",
           "PinnacleWarehouser.Common": "1.0.0",
           "Portable.Ninject": "3.3.1",
@@ -115,7 +115,7 @@
         "dependencies": {
           "Microsoft.Azure.Amqp": "2.4.2",
           "Microsoft.Azure.Services.AppAuthentication": "1.0.1",
-          "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.19.8",
+          "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.17.2",
           "System.Diagnostics.DiagnosticSource": "4.5.1",
           "System.IdentityModel.Tokens.Jwt": "5.2.2"
         },
@@ -128,7 +128,7 @@
       },
       "Microsoft.Azure.Services.AppAuthentication/1.0.1": {
         "dependencies": {
-          "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.19.8",
+          "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.17.2",
           "NETStandard.Library": "2.0.3",
           "System.Diagnostics.Process": "4.3.0"
         },
@@ -165,7 +165,7 @@
           }
         }
       },
-      "Microsoft.IdentityModel.Clients.ActiveDirectory/3.19.8": {
+      "Microsoft.IdentityModel.Clients.ActiveDirectory/3.17.2": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "System.Runtime.Serialization.Json": "4.3.0",
@@ -173,12 +173,12 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll": {
-            "assemblyVersion": "3.19.8.16603",
-            "fileVersion": "3.19.50615.2240"
+            "assemblyVersion": "3.17.2.31801",
+            "fileVersion": "3.17.41115.111"
           },
           "lib/netstandard1.3/Microsoft.IdentityModel.Clients.ActiveDirectory.dll": {
-            "assemblyVersion": "3.19.8.16603",
-            "fileVersion": "3.19.50615.2240"
+            "assemblyVersion": "3.17.2.31801",
+            "fileVersion": "3.17.41115.111"
           }
         }
       },
@@ -1471,12 +1471,12 @@
       "path": "microsoft.csharp/4.3.0",
       "hashPath": "microsoft.csharp.4.3.0.nupkg.sha512"
     },
-    "Microsoft.IdentityModel.Clients.ActiveDirectory/3.19.8": {
+    "Microsoft.IdentityModel.Clients.ActiveDirectory/3.17.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DC/k/yfpKvYVUtnnSQaTLFi4bJrWUM//TiWYqb0XC1wSgitZv0IK1PjPzd9Zk9BwwnlBteXKH39JX/Adc2S4ZA==",
-      "path": "microsoft.identitymodel.clients.activedirectory/3.19.8",
-      "hashPath": "microsoft.identitymodel.clients.activedirectory.3.19.8.nupkg.sha512"
+      "sha512": "sha512-zvDoWJlrKg1TQeJScq+5znAZtduyJHlT7M9gEquUjm2PQCIR4C5PqJ0E8xYQsV3eF4bY8cW54uyr0FyhiN0MtQ==",
+      "path": "microsoft.identitymodel.clients.activedirectory/3.17.2",
+      "hashPath": "microsoft.identitymodel.clients.activedirectory.3.17.2.nupkg.sha512"
     },
     "Microsoft.IdentityModel.Logging/5.2.2": {
       "type": "package",

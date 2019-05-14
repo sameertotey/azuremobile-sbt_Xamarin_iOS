@@ -54,3 +54,4 @@ Y:/projects/PinnacleWareHouser/PinnacleWarehouser.Common/obj/Debug/PinnacleWareh
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWarehouser.Common/obj/Debug/PinnacleWarehouser.Common.csproj.CopyComplete
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWarehouser.Common/obj/Debug/PinnacleWarehouser.Common.dll
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWarehouser.Common/obj/Debug/PinnacleWarehouser.Common.pdb
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWarehouser.Common/obj/Debug/PinnacleWarehouser.Common.csprojAssemblyReference.cache

@@ -1052,9 +1052,9 @@ ldr x0, [x16, #0]
 .word 0xd28009a1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -1079,9 +1079,9 @@ ldr x0, [x16, #0]
 .word 0xd2800b61
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -1101,7 +1101,7 @@ bl _p_17
 .word 0xf9403ba1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -1173,7 +1173,7 @@ bl _p_21
 .word 0xf94033a1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -1509,9 +1509,9 @@ ldr x16, [x16, #312]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_16
@@ -2863,9 +2863,9 @@ ldr x0, [x16, #0]
 .word 0xd2801161
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -3033,9 +3033,9 @@ ldr x0, [x16, #0]
 .word 0xd2801421
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -3057,9 +3057,9 @@ ldr x0, [x16, #0]
 .word 0xd28016a1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -3090,9 +3090,9 @@ ldr x0, [x16, #0]
 .word 0xd28017e1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -3515,10 +3515,10 @@ bl _p_56
 .word 0x910003bf
 .word 0xa8ce7bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -3814,9 +3814,9 @@ ldr x0, [x16, #0]
 .word 0xd28026e1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -3987,10 +3987,10 @@ bl _p_66
 .word 0x910003bf
 .word 0xa8c77bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -4041,9 +4041,9 @@ ldr x0, [x16, #0]
 .word 0xd2801421
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -4065,9 +4065,9 @@ ldr x0, [x16, #0]
 .word 0xd2802861
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -4359,7 +4359,7 @@ bl _p_50
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #808]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -4394,7 +4394,7 @@ ldr x15, [x16, #808]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #816]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -4480,9 +4480,9 @@ bl _p_75
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9404ba1
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -4741,10 +4741,10 @@ bl _p_79
 .word 0x910003bf
 .word 0xa8cb7bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -4832,9 +4832,9 @@ ldr x0, [x16, #0]
 .word 0xd28026e1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -5001,10 +5001,10 @@ bl _p_79
 .word 0x910003bf
 .word 0xa8c67bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -5103,9 +5103,9 @@ ldr x0, [x16, #0]
 .word 0xd2801421
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -5135,9 +5135,9 @@ ldr x0, [x16, #0]
 .word 0xd28039e1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -5363,7 +5363,7 @@ ldr x2, [x16, #16]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #992]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -5398,7 +5398,7 @@ ldr x15, [x16, #992]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1000]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -5633,10 +5633,10 @@ bl _p_79
 .word 0x910003bf
 .word 0xa8d07bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -5746,9 +5746,9 @@ ldr x0, [x16, #0]
 .word 0xd2801421
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -5770,9 +5770,9 @@ ldr x0, [x16, #0]
 .word 0xd2804521
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -5975,10 +5975,10 @@ bl _p_90
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -6049,9 +6049,9 @@ bl _p_92
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94023a1
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -6849,7 +6849,7 @@ bl _p_92
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1192]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -6884,7 +6884,7 @@ ldr x15, [x16, #1192]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1200]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -7185,7 +7185,7 @@ bl _p_107
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1304]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -7220,7 +7220,7 @@ ldr x15, [x16, #1304]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1312]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -7609,10 +7609,10 @@ ldr x15, [x16, #824]
 .word 0x910003bf
 .word 0xa8d37bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -7925,7 +7925,7 @@ bl _p_117
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1456]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -7960,7 +7960,7 @@ ldr x15, [x16, #1456]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1464]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -8008,7 +8008,7 @@ bl _p_86
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1192]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -8043,7 +8043,7 @@ ldr x15, [x16, #1192]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1200]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -8347,10 +8347,10 @@ ldr x15, [x16, #824]
 .word 0x910003bf
 .word 0xa8d57bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -8430,8 +8430,8 @@ ldr x0, [x16, #0]
 bl _p_15
 .word 0xf90027a0
 .word 0xd2806400
-.word 0xd2801580
-.word 0xd2801580
+.word 0xd28015a0
+.word 0xd28015a0
 bl _p_119
 .word 0xaa0003e1
 .word 0xf94027a0
@@ -8444,9 +8444,9 @@ bl _p_92
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94023a1
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -8468,10 +8468,10 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c57bfd
 .word 0xd65f03c0
-.word 0xd2801900
+.word 0xd2801920
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2801120
+.word 0xd2801140
 .word 0xaa1103e1
 bl _p_57
 
@@ -9439,7 +9439,7 @@ bl _p_107
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1304]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -9474,7 +9474,7 @@ ldr x15, [x16, #1304]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1312]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -9656,10 +9656,10 @@ ldr x15, [x16, #824]
 .word 0x910003bf
 .word 0xa8d37bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -10002,7 +10002,7 @@ bl _p_134
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1760]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -10039,7 +10039,7 @@ ldr x15, [x16, #1760]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1768]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -10435,9 +10435,9 @@ ldr x0, [x16, #0]
 .word 0xd2801421
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -10460,9 +10460,9 @@ ldr x0, [x16, #0]
 .word 0xd2809ec1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -10568,10 +10568,10 @@ bl _p_141
 .word 0x910003bf
 .word 0xa8c67bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -10819,7 +10819,7 @@ bl _p_144
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1760]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -10856,7 +10856,7 @@ ldr x15, [x16, #1760]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #1768]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -13184,7 +13184,7 @@ bl _p_173
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #2136]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -13678,10 +13678,10 @@ bl _p_180
 .word 0x910003bf
 .word 0xa8cb7bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -15568,7 +15568,7 @@ bl _p_30
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #2448]
-.word 0x92800af0
+.word 0x928010f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -15947,9 +15947,9 @@ ldr x0, [x16, #0]
 .word 0xd280b681
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -15979,9 +15979,9 @@ ldr x0, [x16, #0]
 .word 0xd280bfc1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -16164,7 +16164,7 @@ bl _p_203
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #2512]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -16200,7 +16200,7 @@ bl _p_205
 .word 0xf9403fa1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0xf9411430
+.word 0xf9411830
 .word 0xd63f0200
 .word 0x53001c00
 .word 0xf9003ba0
@@ -16794,7 +16794,7 @@ bl _p_214
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #808]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -16829,7 +16829,7 @@ ldr x15, [x16, #808]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #816]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -17059,7 +17059,7 @@ bl _p_205
 .word 0xf9404fa1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0xf9410430
+.word 0xf9410830
 .word 0xd63f0200
 .word 0x53001c00
 .word 0xf9004ba0
@@ -17089,7 +17089,7 @@ bl _p_204
 .word 0xf9404fa1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0xf940a830
+.word 0xf940ac30
 .word 0xd63f0200
 .word 0xf9004ba0
 .word 0xf9402bb1
@@ -17133,7 +17133,7 @@ bl _p_204
 .word 0xf9405ba1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0xf940ac30
+.word 0xf940b030
 .word 0xd63f0200
 .word 0xf90057a0
 .word 0xf9402bb1
@@ -17321,13 +17321,13 @@ ldr x15, [x16, #824]
 .word 0x910003bf
 .word 0xa8cc7bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -18363,7 +18363,7 @@ bl _p_15
 .word 0xaa1a03e0
 .word 0xaa1a03e0
 .word 0xf9400341
-.word 0xf9405c30
+.word 0xf9406030
 .word 0xd63f0200
 .word 0xf90027a0
 .word 0xf9400fb1
@@ -18380,9 +18380,9 @@ bl _p_230
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9401ba1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -18692,9 +18692,9 @@ bl _p_230
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94023a1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -18741,9 +18741,9 @@ bl _p_230
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94023a1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -20478,9 +20478,9 @@ ldr x0, [x16, #0]
 bl _p_15
 .word 0xaa0003e2
 .word 0xf9401ba1
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
 bl _mono_create_corlib_exception_2
 bl _p_16
@@ -20765,7 +20765,7 @@ bl _p_263
 .word 0x910003bf
 .word 0xa8c67bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -21544,7 +21544,7 @@ bl _p_15
 .word 0xf94057a1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0xf941e430
+.word 0xf941f030
 .word 0xd63f0200
 .word 0xf90053a0
 .word 0xf9402fb1
@@ -21608,7 +21608,7 @@ bl _p_134
 .word 0x910003bf
 .word 0xa8cb7bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
 
@@ -22148,9 +22148,9 @@ ldr x0, [x16, #0]
 .word 0xd280afc1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -22282,7 +22282,7 @@ bl _p_249
 .word 0x910003bf
 .word 0xa8c67bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
 
@@ -22329,9 +22329,9 @@ ldr x0, [x16, #0]
 .word 0xd280afc1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -23108,10 +23108,10 @@ bl _p_290
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -23312,7 +23312,7 @@ ldr x0, [x16, #504]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #3552]
-.word 0x928012f0
+.word 0x928008f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -24332,7 +24332,7 @@ ldr x0, [x16, #512]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #3672]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -24367,7 +24367,7 @@ ldr x15, [x16, #3672]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+0
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #3680]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -27074,9 +27074,9 @@ bl _p_331
 .word 0xf955ce31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28017c0
+.word 0xd28017e0
 .word 0xf2a04000
-.word 0xd28017c0
+.word 0xd28017e0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_16
@@ -27186,7 +27186,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -27279,7 +27279,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -27407,7 +27407,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #120]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -27442,7 +27442,7 @@ ldr x15, [x16, #120]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #128]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -27738,7 +27738,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -27840,7 +27840,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -27959,7 +27959,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -28109,7 +28109,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #120]
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -28144,7 +28144,7 @@ ldr x15, [x16, #120]
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #128]
-.word 0x928009f0
+.word 0x92800af0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -28396,7 +28396,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -28559,7 +28559,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -28681,7 +28681,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -28748,7 +28748,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -28800,7 +28800,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -28846,7 +28846,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -29069,7 +29069,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -29247,7 +29247,7 @@ bl _p_332
 adrp x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGE+4096
 add x16, x16, mono_aot_Microsoft_Azure_Mobile_Client_SQLiteStore_got@PAGEOFF
 ldr x15, [x16, #96]
-.word 0x928004f0
+.word 0x928000f0
 .word 0xf2bffff0
 .word 0xf8706850
 .word 0xd63f0200
@@ -30431,7 +30431,7 @@ bl _p_205
 .word 0xf94027a1
 .word 0xaa0103e0
 .word 0xf9400021
-.word 0xf941ec30
+.word 0xf941f830
 .word 0xd63f0200
 .word 0xf90023a0
 .word 0xf9400bb1
@@ -31474,7 +31474,7 @@ ldr x16, [x16, #736]
 .word 0x910003bf
 .word 0xa8c57bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -33164,9 +33164,9 @@ ldr x0, [x16, #0]
 .word 0xd28009a1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -33194,9 +33194,9 @@ ldr x0, [x16, #0]
 .word 0xd2800b61
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -33703,9 +33703,9 @@ bl _p_391
 .word 0xf9407231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_16
@@ -34238,9 +34238,9 @@ ldr x0, [x16, #0]
 .word 0xd280b681
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -34270,9 +34270,9 @@ ldr x0, [x16, #0]
 .word 0xd280bfc1
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -34840,13 +34840,13 @@ ldr x16, [x16, #944]
 .word 0xf9408a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28e0d80
-.word 0xd28e0d80
+.word 0xd28e2760
+.word 0xd28e2760
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -34868,13 +34868,13 @@ bl _p_16
 .word 0xf940f231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28e1840
-.word 0xd28e1840
+.word 0xd28e3220
+.word 0xd28e3220
 bl _p_408
 .word 0xaa0003e1
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -35344,7 +35344,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -35481,7 +35481,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -35618,7 +35618,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -35755,7 +35755,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -35983,13 +35983,13 @@ ldr x16, [x16, #1040]
 .word 0xf9405231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d45c0
-.word 0xd28d45c0
+.word 0xd28d5fa0
+.word 0xd28d5fa0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -36031,13 +36031,13 @@ ldr x16, [x16, #1048]
 .word 0xf9405a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4bc0
-.word 0xd28d4bc0
+.word 0xd28d65a0
+.word 0xd28d65a0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -36079,13 +36079,13 @@ ldr x16, [x16, #1056]
 .word 0xf9405a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4bc0
-.word 0xd28d4bc0
+.word 0xd28d65a0
+.word 0xd28d65a0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -36150,8 +36150,8 @@ ldr x16, [x16, #1064]
 .word 0xf940b231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d5340
-.word 0xd28d5340
+.word 0xd28d6d20
+.word 0xd28d6d20
 bl _p_408
 bl _p_423
 .word 0xf90033a0
@@ -36160,9 +36160,9 @@ bl _p_423
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94033a1
-.word 0xd28019a0
+.word 0xd28019c0
 .word 0xf2a04000
-.word 0xd28019a0
+.word 0xd28019c0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -36508,7 +36508,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -36654,7 +36654,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -36784,7 +36784,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c87bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -36927,7 +36927,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -37064,7 +37064,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -37204,7 +37204,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -37341,7 +37341,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -37481,7 +37481,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -37627,7 +37627,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -37764,7 +37764,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -37901,7 +37901,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -38041,7 +38041,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -38187,7 +38187,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -38222,13 +38222,13 @@ ldr x16, [x16, #1184]
 .word 0xf9405e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4bc0
-.word 0xd28d4bc0
+.word 0xd28d65a0
+.word 0xd28d65a0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -38269,13 +38269,13 @@ ldr x16, [x16, #1192]
 .word 0xf9405631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4bc0
-.word 0xd28d4bc0
+.word 0xd28d65a0
+.word 0xd28d65a0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -38341,8 +38341,8 @@ ldr x16, [x16, #1200]
 .word 0xf940b631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d5340
-.word 0xd28d5340
+.word 0xd28d6d20
+.word 0xd28d6d20
 bl _p_408
 bl _p_423
 .word 0xf90053a0
@@ -38351,9 +38351,9 @@ bl _p_423
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94053a1
-.word 0xd28019a0
+.word 0xd28019c0
 .word 0xf2a04000
-.word 0xd28019a0
+.word 0xd28019c0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -38588,9 +38588,9 @@ ldr x16, [x16, #1208]
 .word 0xd2812640
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -38681,9 +38681,9 @@ ldr x16, [x16, #1216]
 .word 0xd2812640
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -38917,7 +38917,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c87bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -39057,7 +39057,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -39197,7 +39197,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -39343,7 +39343,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -39994,7 +39994,7 @@ bl _p_432
 .word 0x910003bf
 .word 0xa8c67bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
 
@@ -40091,9 +40091,9 @@ bl _p_433
 .word 0xf9413631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xf2a04000
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_0
 bl _p_16
@@ -40154,7 +40154,7 @@ bl _p_432
 .word 0x910003bf
 .word 0xa8c77bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
 
@@ -40189,13 +40189,13 @@ ldr x16, [x16, #1376]
 .word 0xf9405e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4bc0
-.word 0xd28d4bc0
+.word 0xd28d65a0
+.word 0xd28d65a0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -40238,13 +40238,13 @@ ldr x16, [x16, #1384]
 .word 0xf9405e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d4bc0
-.word 0xd28d4bc0
+.word 0xd28d65a0
+.word 0xd28d65a0
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
-.word 0xd2802600
+.word 0xd2802640
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -40315,8 +40315,8 @@ ldr x16, [x16, #1392]
 .word 0xf940ca31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd28d5340
-.word 0xd28d5340
+.word 0xd28d6d20
+.word 0xd28d6d20
 bl _p_408
 bl _p_423
 .word 0xf90073a0
@@ -40325,9 +40325,9 @@ bl _p_423
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94073a1
-.word 0xd28019a0
+.word 0xd28019c0
 .word 0xf2a04000
-.word 0xd28019a0
+.word 0xd28019c0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -41017,7 +41017,7 @@ ldr x16, [x16, #1416]
 .word 0x910003bf
 .word 0xa8c57bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -41197,7 +41197,7 @@ ldr x16, [x16, #1440]
 .word 0x910003bf
 .word 0xa8c47bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -41840,15 +41840,15 @@ ldr x16, [x16, #1496]
 .word 0xf940d231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2912400
+.word 0xd2921cc0
 .word 0xf2a00020
-.word 0xd2912400
+.word 0xd2921cc0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -42062,15 +42062,15 @@ ldr x16, [x16, #1512]
 .word 0xf940e231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2912400
+.word 0xd2921cc0
 .word 0xf2a00020
-.word 0xd2912400
+.word 0xd2921cc0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -42214,15 +42214,15 @@ bl _p_457
 .word 0xf940b231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2912400
+.word 0xd2921cc0
 .word 0xf2a00020
-.word 0xd2912400
+.word 0xd2921cc0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -42384,7 +42384,7 @@ bl _p_460
 .word 0xaa0003ef
 .word 0xaa1a03e0
 .word 0xf9400341
-.word 0x928001f0
+.word 0x928011f0
 .word 0xf2bffff0
 .word 0xf8706830
 .word 0xd63f0200
@@ -42948,7 +42948,7 @@ ldr x2, [x16, #1632]
 .word 0x910003bf
 .word 0xa8c67bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
 
@@ -43051,9 +43051,9 @@ ldr x16, [x16, #1648]
 .word 0xd2812640
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
-.word 0xd2800ea0
+.word 0xd2800ec0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -43383,7 +43383,7 @@ bl _p_478
 .word 0xaa0203e0
 .word 0xaa1a03e1
 .word 0xf9400042
-.word 0xf9408050
+.word 0xf9408450
 .word 0xd63f0200
 .word 0x53001c00
 .word 0xf9007ba0
@@ -43434,7 +43434,7 @@ bl _p_476
 .word 0xaa1a03e0
 .word 0xaa1a03e0
 .word 0xf9400341
-.word 0xf9410430
+.word 0xf9410830
 .word 0xd63f0200
 .word 0x53001c00
 .word 0xf9007ba0
@@ -43447,7 +43447,7 @@ bl _p_476
 .word 0xaa1a03e0
 .word 0xaa1a03e0
 .word 0xf9400341
-.word 0xf940a830
+.word 0xf940ac30
 .word 0xd63f0200
 .word 0xf9007fa0
 .word 0xf94027b1
@@ -43476,7 +43476,7 @@ ldr x1, [x16, #1720]
 .word 0xaa1a03e0
 .word 0xaa1a03e0
 .word 0xf9400341
-.word 0xf940b030
+.word 0xf940b430
 .word 0xd63f0200
 .word 0xf9007ba0
 .word 0xf94027b1
@@ -43538,7 +43538,7 @@ bl _p_9
 .word 0xf94087a2
 .word 0xaa0203e0
 .word 0xf9400042
-.word 0xf940b850
+.word 0xf940bc50
 .word 0xd63f0200
 .word 0xf9007fa0
 .word 0xf94027b1
@@ -43549,7 +43549,7 @@ bl _p_9
 .word 0xaa1903e1
 .word 0xaa0203e0
 .word 0xf9400042
-.word 0xf9408050
+.word 0xf9408450
 .word 0xd63f0200
 .word 0x53001c00
 .word 0xf9007ba0
@@ -43604,7 +43604,7 @@ bl _p_476
 .word 0xaa1a03e0
 .word 0xaa1a03e0
 .word 0xf9400341
-.word 0xf9411430
+.word 0xf9411830
 .word 0xd63f0200
 .word 0x53001c00
 .word 0xf9007ba0
@@ -43820,10 +43820,10 @@ bl _p_483
 .word 0x910003bf
 .word 0xa8d17bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -44890,15 +44890,15 @@ ldr x16, [x16, #1904]
 .word 0xf9408a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2872c80
+.word 0xd287fd20
 .word 0xf2a00020
-.word 0xd2872c80
+.word 0xd287fd20
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -44914,15 +44914,15 @@ bl _p_16
 .word 0xf940e231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2872ec0
+.word 0xd287ff60
 .word 0xf2a00020
-.word 0xd2872ec0
+.word 0xd287ff60
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -45037,15 +45037,15 @@ ldr x16, [x16, #1920]
 .word 0xf9408e31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2872c80
+.word 0xd287fd20
 .word 0xf2a00020
-.word 0xd2872c80
+.word 0xd287fd20
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -45061,15 +45061,15 @@ bl _p_16
 .word 0xf940e631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2872ec0
+.word 0xd287ff60
 .word 0xf2a00020
-.word 0xd2872ec0
+.word 0xd287ff60
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -45322,7 +45322,7 @@ bl _p_503
 .word 0x910003bf
 .word 0xa8c77bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
 
@@ -46264,15 +46264,15 @@ ldr x16, [x16, #2080]
 .word 0xf9409231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2873140
+.word 0xd28801e0
 .word 0xf2a00020
-.word 0xd2873140
+.word 0xd28801e0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -46288,15 +46288,15 @@ bl _p_16
 .word 0xf940ea31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2872ec0
+.word 0xd287ff60
 .word 0xf2a00020
-.word 0xd2872ec0
+.word 0xd287ff60
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -47184,15 +47184,15 @@ ldr x2, [x16, #16]
 .word 0xf9413a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2873b40
+.word 0xd2880be0
 .word 0xf2a00020
-.word 0xd2873b40
+.word 0xd2880be0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -47220,15 +47220,15 @@ bl _p_16
 .word 0xf941c231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2873e40
+.word 0xd2880ee0
 .word 0xf2a00020
-.word 0xd2873e40
+.word 0xd2880ee0
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -47573,10 +47573,10 @@ bl _p_537
 .word 0x910003bf
 .word 0xa8cb7bfd
 .word 0xd65f03c0
-.word 0xd28017e0
+.word 0xd2801800
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xaa1103e1
 bl _p_57
 
@@ -48020,9 +48020,9 @@ bl _p_504
 .word 0xf9428a31
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2912940
+.word 0xd2922200
 .word 0xf2a00020
-.word 0xd2912940
+.word 0xd2922200
 .word 0xf2a00020
 bl _p_408
 bl _p_544
@@ -48032,9 +48032,9 @@ bl _p_544
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94033a1
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -48203,15 +48203,15 @@ ldr x16, [x16, #2248]
 .word 0xf9408631
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd287d4c0
+.word 0xd288a560
 .word 0xf2a00020
-.word 0xd287d4c0
+.word 0xd288a560
 .word 0xf2a00020
 bl _p_408
 .word 0xaa0003e1
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
-.word 0xd2800e80
+.word 0xd2800ea0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -48331,9 +48331,9 @@ bl _p_524
 .word 0xf9426231
 .word 0xb4000051
 .word 0xd63f0220
-.word 0xd2912940
+.word 0xd2922200
 .word 0xf2a00020
-.word 0xd2912940
+.word 0xd2922200
 .word 0xf2a00020
 bl _p_408
 bl _p_544
@@ -48343,9 +48343,9 @@ bl _p_544
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9403ba1
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
-.word 0xd28015e0
+.word 0xd2801600
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -49331,10 +49331,10 @@ bl _p_550
 .word 0x910003bf
 .word 0xa8ce7bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -49599,9 +49599,9 @@ bl _p_556
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf9403ba1
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xf2a04000
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -49813,7 +49813,7 @@ bl _p_554
 .word 0x910003bf
 .word 0xa8ca7bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
 
@@ -50341,9 +50341,9 @@ ldr x0, [x16, #2512]
 .word 0xd2918e01
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -50459,9 +50459,9 @@ ldr x0, [x16, #2512]
 .word 0xd2918e01
 bl _p_15
 .word 0xaa0003e1
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
-.word 0xd2800e60
+.word 0xd2800e80
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -50814,7 +50814,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8cc7bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -51682,7 +51682,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c87bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -52118,7 +52118,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8cc7bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -52261,7 +52261,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c97bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -52426,7 +52426,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8cc7bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -52556,7 +52556,7 @@ bl _p_16
 .word 0x910003bf
 .word 0xa8c87bfd
 .word 0xd65f03c0
-.word 0xd2801520
+.word 0xd2801540
 .word 0xaa1103e1
 bl _p_57
 
@@ -52947,9 +52947,9 @@ bl _p_556
 .word 0xb4000051
 .word 0xd63f0220
 .word 0xf94043a1
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xf2a04000
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xf2a04000
 bl _mono_create_corlib_exception_1
 bl _p_16
@@ -53162,7 +53162,7 @@ bl _p_575
 .word 0x910003bf
 .word 0xa8cb7bfd
 .word 0xd65f03c0
-.word 0xd28015c0
+.word 0xd28015e0
 .word 0xaa1103e1
 bl _p_57
 
@@ -58707,7 +58707,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 79,2,97,109,210,84,166,251,190,14,253,52,194,202,239,228
+	.byte 75,232,220,43,160,252,194,119,210,80,68,21,203,140,199,146
 	.globl _mono_aot_module_Microsoft_Azure_Mobile_Client_SQLiteStore_info
 	.align 3
 _mono_aot_module_Microsoft_Azure_Mobile_Client_SQLiteStore_info:

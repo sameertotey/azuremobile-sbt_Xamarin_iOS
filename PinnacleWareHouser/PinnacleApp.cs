@@ -20,7 +20,7 @@ namespace PinnacleWareHouser
     {
         private static bool _isInitialized;
 
-        public static IMobileServiceClient Client { get; private set; }
+        public static MobileServiceClient Client { get;  set; }
         private static readonly SemaphoreSlim _semaphoreSlim = new SemaphoreSlim(1, 1);
 
         /// <summary>

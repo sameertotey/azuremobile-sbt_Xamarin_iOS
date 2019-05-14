@@ -13,6 +13,8 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using Microsoft.WindowsAzure.MobileServices;
 using Xamarin.Essentials;
+using PinnacleWareHouser.Helpers;
+using PinnacleWareHouser;
 
 #if OFFLINE_SYNC_ENABLED
 using Microsoft.WindowsAzure.MobileServices.SQLiteStore;  // offline sync
@@ -41,7 +43,7 @@ namespace azuremobile_sbt
             CurrentPlatform.Init();
 
             // Initialize the client with the mobile app backend URL.
-            client = new MobileServiceClient(applicationURL);
+            client = PinnacleApp.Client;
 
 #if OFFLINE_SYNC_ENABLED
             // Initialize the store

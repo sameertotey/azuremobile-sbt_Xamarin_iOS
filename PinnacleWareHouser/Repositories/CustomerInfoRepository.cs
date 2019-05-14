@@ -68,16 +68,16 @@ namespace PinnacleWareHouser.Repositories
         string messageBody
        )
         {
-            var topicClient = new TopicClient(RestEndpoints.ServiceBusConnectionString, RestEndpoints.CustorInfoUpdate);
-            var message = new Message(Encoding.UTF8.GetBytes(messageBody));
+            //var topicClient = new TopicClient(RestEndpoints.ServiceBusConnectionString, RestEndpoints.CustorInfoUpdate);
+            //var message = new Message(Encoding.UTF8.GetBytes(messageBody));
 
-            // Write the body of the message to the console
-            Console.WriteLine($"Sending message: {messageBody}");
+            //// Write the body of the message to the console
+            //Console.WriteLine($"Sending message: {messageBody}");
 
-            // Send the message to the topic
-            await topicClient.SendAsync(message).ConfigureAwait(false);
+            //// Send the message to the topic
+            //await topicClient.SendAsync(message).ConfigureAwait(false);
 
-            await topicClient.CloseAsync().ConfigureAwait(false);
+            //await topicClient.CloseAsync().ConfigureAwait(false);
         }
 
         public async Task ProcessUnsentCustomerInfoUpdateNotification()

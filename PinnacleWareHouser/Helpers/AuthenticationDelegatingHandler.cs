@@ -19,11 +19,11 @@ namespace PinnacleWareHouser.Helpers
     {
 
         //public ILogService Log { get; }
-		private IAuthService AuthService { get => PinnacleApp.Get<IAuthService>(); }
+		//private IAuthService AuthService { get => PinnacleApp.Get<IAuthService>(); }
 
-		private IUIResetService uiResetService { get => PinnacleApp.Get<IUIResetService>(); }
+		//private IUIResetService uiResetService { get => PinnacleApp.Get<IUIResetService>(); }
 
-		private  IConfigurationService _configurationService { get => PinnacleApp.Get<IConfigurationService>(); }
+		//private  IConfigurationService _configurationService { get => PinnacleApp.Get<IConfigurationService>(); }
 
         //public AuthenticationDelegatingHandler(
         //    ILogService log,
@@ -41,13 +41,13 @@ namespace PinnacleWareHouser.Helpers
             //var clone = await CloneHttpRequestMessageAsync(request).ConfigureAwait(false);
             // Now do the request
             request.Headers.Remove("X-ZUMO-AUTH");
-            request.Headers.Add("X-ZUMO-AUTH", AuthService?.CurrentUser?.Token);
+            //request.Headers.Add("X-ZUMO-AUTH", AuthService?.CurrentUser?.Token);
             var version = CrossSettings.Current.GetValueOrDefault(Config.Version, "Version:0.0.0 - 0");
              //version = "2.2.X";
             request.Headers.Add("X-PINN-WAREHOUSER-VER", version);
 
-			var branchId = _configurationService.GetString(Config.BranchId);
-			request.Headers.Add("X-BRANCH", branchId);
+			//var branchId = _configurationService.GetString(Config.BranchId);
+			request.Headers.Add("X-BRANCH", "branchId");
 
             var response = await base.SendAsync(request, cancellationToken).ConfigureAwait(false);
 
@@ -81,35 +81,35 @@ namespace PinnacleWareHouser.Helpers
                 {
                     ex.Report();
                 }
-                if (!string.IsNullOrWhiteSpace(msg))
-                {
-                    await AuthService.Logout().ConfigureAwait(false);
-                    uiResetService.ResetAfterWarning(msg);
-                }
-            }
-            if ((response.StatusCode == HttpStatusCode.Unauthorized)
-                && (AuthService.CurrentUser != null)
-               )
-            {
-                //// The request resulted in a 401 Unauthorized.  We need to do a LoginAsync,
-                //// which will do the Refresh if appropriate, or ask for credentials if not.
-                ////var user = await ServiceLocator.Instance.Resolve<ICloudService>().LoginAsync();
-                //await AuthService.RefreshCurrentUserTokenAsync();
-
-                //// Now, retry the request with the cloned request.  The only thing we have
-                //// to do is replace the X-ZUMO-AUTH header with the new auth token.
-                //clone.Headers.Remove("X-ZUMO-AUTH");
-                //clone.Headers.Add("X-ZUMO-AUTH", AuthService?.CurrentUser?.Token);
-                //response = await base.SendAsync(clone, cancellationToken);
-
-                //if (response.StatusCode != HttpStatusCode.OK)
+                //if (!string.IsNullOrWhiteSpace(msg))
                 //{
-                    await AuthService.Logout().ConfigureAwait(false);
-                    AuthService.RetryFailed = true;
-                    uiResetService.ResetUI();
+                //    await AuthService.Logout().ConfigureAwait(false);
+                //    uiResetService.ResetAfterWarning(msg);
                 //}
-
             }
+            //if ((response.StatusCode == HttpStatusCode.Unauthorized)
+            //    && (AuthService.CurrentUser != null)
+            //   )
+            //{
+            //    //// The request resulted in a 401 Unauthorized.  We need to do a LoginAsync,
+            //    //// which will do the Refresh if appropriate, or ask for credentials if not.
+            //    ////var user = await ServiceLocator.Instance.Resolve<ICloudService>().LoginAsync();
+            //    //await AuthService.RefreshCurrentUserTokenAsync();
+
+            //    //// Now, retry the request with the cloned request.  The only thing we have
+            //    //// to do is replace the X-ZUMO-AUTH header with the new auth token.
+            //    //clone.Headers.Remove("X-ZUMO-AUTH");
+            //    //clone.Headers.Add("X-ZUMO-AUTH", AuthService?.CurrentUser?.Token);
+            //    //response = await base.SendAsync(clone, cancellationToken);
+
+            //    //if (response.StatusCode != HttpStatusCode.OK)
+            //    //{
+            //        await AuthService.Logout().ConfigureAwait(false);
+            //        AuthService.RetryFailed = true;
+            //        uiResetService.ResetUI();
+            //    //}
+
+            //}
 
             return response;
         }

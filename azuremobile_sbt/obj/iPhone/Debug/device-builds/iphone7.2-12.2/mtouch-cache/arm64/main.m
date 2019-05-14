@@ -13,6 +13,7 @@ extern void *mono_aot_module_Newtonsoft_Json_info;
 extern void *mono_aot_module_System_Numerics_info;
 extern void *mono_aot_module_System_Xml_Linq_info;
 extern void *mono_aot_module_System_Runtime_Serialization_info;
+extern void *mono_aot_module_System_ServiceModel_Internals_info;
 extern void *mono_aot_module_Microsoft_CSharp_info;
 extern void *mono_aot_module_PCLCrypto_info;
 extern void *mono_aot_module_PInvoke_BCrypt_info;
@@ -25,6 +26,24 @@ extern void *mono_aot_module_SQLitePCLRaw_batteries_v2_info;
 extern void *mono_aot_module_SQLitePCLRaw_provider_sqlite3_info;
 extern void *mono_aot_module_Xamarin_Essentials_info;
 extern void *mono_aot_module_OpenTK_1_0_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Analytics_info;
+extern void *mono_aot_module_Microsoft_AppCenter_info;
+extern void *mono_aot_module_Microsoft_AppCenter_iOS_Bindings_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Analytics_iOS_Bindings_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Crashes_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Crashes_iOS_Bindings_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Distribute_info;
+extern void *mono_aot_module_Microsoft_AppCenter_Distribute_iOS_Bindings_info;
+extern void *mono_aot_module_PinnacleWareHouser_info;
+extern void *mono_aot_module_System_Data_info;
+extern void *mono_aot_module_System_Web_Services_info;
+extern void *mono_aot_module_Ninject_info;
+extern void *mono_aot_module_PinnacleWarehouser_Common_info;
+extern void *mono_aot_module_SQLite_net_info;
+extern void *mono_aot_module_Xamarin_Auth_info;
+extern void *mono_aot_module_System_Json_info;
+extern void *mono_aot_module_Microsoft_IdentityModel_Clients_ActiveDirectory_info;
+extern void *mono_aot_module_Plugin_Settings_info;
 
 void xamarin_register_modules_impl ()
 {
@@ -41,6 +60,7 @@ void xamarin_register_modules_impl ()
 	mono_aot_register_module (mono_aot_module_System_Numerics_info);
 	mono_aot_register_module (mono_aot_module_System_Xml_Linq_info);
 	mono_aot_register_module (mono_aot_module_System_Runtime_Serialization_info);
+	mono_aot_register_module (mono_aot_module_System_ServiceModel_Internals_info);
 	mono_aot_register_module (mono_aot_module_Microsoft_CSharp_info);
 	mono_aot_register_module (mono_aot_module_PCLCrypto_info);
 	mono_aot_register_module (mono_aot_module_PInvoke_BCrypt_info);
@@ -53,6 +73,24 @@ void xamarin_register_modules_impl ()
 	mono_aot_register_module (mono_aot_module_SQLitePCLRaw_provider_sqlite3_info);
 	mono_aot_register_module (mono_aot_module_Xamarin_Essentials_info);
 	mono_aot_register_module (mono_aot_module_OpenTK_1_0_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Analytics_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_iOS_Bindings_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Analytics_iOS_Bindings_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Crashes_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Crashes_iOS_Bindings_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Distribute_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_AppCenter_Distribute_iOS_Bindings_info);
+	mono_aot_register_module (mono_aot_module_PinnacleWareHouser_info);
+	mono_aot_register_module (mono_aot_module_System_Data_info);
+	mono_aot_register_module (mono_aot_module_System_Web_Services_info);
+	mono_aot_register_module (mono_aot_module_Ninject_info);
+	mono_aot_register_module (mono_aot_module_PinnacleWarehouser_Common_info);
+	mono_aot_register_module (mono_aot_module_SQLite_net_info);
+	mono_aot_register_module (mono_aot_module_Xamarin_Auth_info);
+	mono_aot_register_module (mono_aot_module_System_Json_info);
+	mono_aot_register_module (mono_aot_module_Microsoft_IdentityModel_Clients_ActiveDirectory_info);
+	mono_aot_register_module (mono_aot_module_Plugin_Settings_info);
 
 }
 
@@ -62,6 +100,18 @@ void xamarin_register_assemblies_impl ()
 	xamarin_open_and_register ("Microsoft.Azure.Mobile.Client.dll", &exception_gchandle);
 	xamarin_process_managed_exception_gchandle (exception_gchandle);
 	xamarin_open_and_register ("Xamarin.Essentials.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Microsoft.AppCenter.iOS.Bindings.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Microsoft.AppCenter.Analytics.iOS.Bindings.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Microsoft.AppCenter.Crashes.iOS.Bindings.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Microsoft.AppCenter.Distribute.iOS.Bindings.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Xamarin.Auth.dll", &exception_gchandle);
+	xamarin_process_managed_exception_gchandle (exception_gchandle);
+	xamarin_open_and_register ("Microsoft.IdentityModel.Clients.ActiveDirectory.dll", &exception_gchandle);
 	xamarin_process_managed_exception_gchandle (exception_gchandle);
 
 }
@@ -75,7 +125,7 @@ void xamarin_setup_impl ()
 	xamarin_init_mono_debug = TRUE;
 	xamarin_executable_name = "azuremobile_sbt.exe";
 	mono_use_llvm = FALSE;
-	xamarin_log_level = 0;
+	xamarin_log_level = 4;
 	xamarin_arch_name = "arm64";
 	xamarin_marshal_objectivec_exception_mode = MarshalObjectiveCExceptionModeDisable;
 	xamarin_debug_mode = TRUE;

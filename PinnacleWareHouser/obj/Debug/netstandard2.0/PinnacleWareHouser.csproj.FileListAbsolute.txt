@@ -56,7 +56,6 @@ Y:/projects/PinnacleWareHouser/PinnacleWareHouser/obj/Debug/netstandard2.0/Pinna
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/bin/Debug/netstandard2.0/PinnacleWareHouser.pdb
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/bin/Debug/netstandard2.0/PinnacleWarehouser.Common.dll
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/bin/Debug/netstandard2.0/PinnacleWarehouser.Common.pdb
-/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/obj/Debug/netstandard2.0/PinnacleWareHouser.csprojAssemblyReference.cache
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/obj/Debug/netstandard2.0/PinnacleWareHouser.csproj.CoreCompileInputs.cache
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/obj/Debug/netstandard2.0/PinnacleWareHouser.AssemblyInfoInputs.cache
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/obj/Debug/netstandard2.0/PinnacleWareHouser.AssemblyInfo.cs

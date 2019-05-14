@@ -105,22 +105,22 @@ namespace PinnacleWareHouser.Repositories
             string messageBody
         )
         {
-			try {
-				var queueClient = new QueueClient(RestEndpoints.ServiceBusConnectionString, RestEndpoints.EmailQueue);
+			//try {
+			//	var queueClient = new QueueClient(RestEndpoints.ServiceBusConnectionString, RestEndpoints.EmailQueue);
 
-                //// Send Messages
-                var message = new Message(Encoding.UTF8.GetBytes(messageBody));
+   //             //// Send Messages
+   //             var message = new Message(Encoding.UTF8.GetBytes(messageBody));
 
-                Console.WriteLine($"Sending message: {messageBody}");
+   //             Console.WriteLine($"Sending message: {messageBody}");
 
-                // Send the message to the queue
-                await queueClient.SendAsync(message).ConfigureAwait(false);
+   //             // Send the message to the queue
+   //             await queueClient.SendAsync(message).ConfigureAwait(false);
                 
-                await queueClient.CloseAsync().ConfigureAwait(false);
-			} catch(Exception ex)
-            {
-				ex.Report();
-            }
+   //             await queueClient.CloseAsync().ConfigureAwait(false);
+			//} catch(Exception ex)
+    //        {
+				//ex.Report();
+            //}
 
         }
         

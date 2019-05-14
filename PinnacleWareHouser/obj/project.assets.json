@@ -165,7 +165,7 @@
           "lib/netstandard1.3/Microsoft.CSharp.dll": {}
         }
       },
-      "Microsoft.IdentityModel.Clients.ActiveDirectory/3.19.8": {
+      "Microsoft.IdentityModel.Clients.ActiveDirectory/3.17.2": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "1.6.0",
@@ -2075,10 +2075,10 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "Microsoft.IdentityModel.Clients.ActiveDirectory/3.19.8": {
-      "sha512": "DC/k/yfpKvYVUtnnSQaTLFi4bJrWUM//TiWYqb0XC1wSgitZv0IK1PjPzd9Zk9BwwnlBteXKH39JX/Adc2S4ZA==",
+    "Microsoft.IdentityModel.Clients.ActiveDirectory/3.17.2": {
+      "sha512": "zvDoWJlrKg1TQeJScq+5znAZtduyJHlT7M9gEquUjm2PQCIR4C5PqJ0E8xYQsV3eF4bY8cW54uyr0FyhiN0MtQ==",
       "type": "package",
-      "path": "microsoft.identitymodel.clients.activedirectory/3.19.8",
+      "path": "microsoft.identitymodel.clients.activedirectory/3.17.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2110,7 +2110,7 @@
         "lib/portable-net45+win/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml",
         "lib/portable-net45+win/Microsoft.IdentityModel.Clients.ActiveDirectory.dll",
         "lib/portable-net45+win/Microsoft.IdentityModel.Clients.ActiveDirectory.xml",
-        "microsoft.identitymodel.clients.activedirectory.3.19.8.nupkg.sha512",
+        "microsoft.identitymodel.clients.activedirectory.3.17.2.nupkg.sha512",
         "microsoft.identitymodel.clients.activedirectory.nuspec"
       ]
     },
@@ -6555,7 +6555,7 @@
       "Microsoft.Azure.Mobile.Client >= 4.1.1",
       "Microsoft.Azure.Mobile.Client.SQLiteStore >= 4.1.1",
       "Microsoft.Azure.ServiceBus >= 3.4.0",
-      "Microsoft.IdentityModel.Clients.ActiveDirectory >= 3.19.8",
+      "Microsoft.IdentityModel.Clients.ActiveDirectory >= 3.17.2",
       "NETStandard.Library >= 2.0.3",
       "PinnacleWarehouser.Common >= 1.0.0",
       "Portable.Ninject >= 3.3.1",
@@ -6572,11 +6572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sameer/projects/PinnacleWareHouser/PinnacleWareHouser/PinnacleWareHouser.csproj",
+      "projectUniqueName": "/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/PinnacleWareHouser.csproj",
       "projectName": "PinnacleWareHouser",
-      "projectPath": "/Users/sameer/projects/PinnacleWareHouser/PinnacleWareHouser/PinnacleWareHouser.csproj",
+      "projectPath": "/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/PinnacleWareHouser.csproj",
       "packagesPath": "/Users/sameer/.nuget/packages/",
-      "outputPath": "/Users/sameer/projects/PinnacleWareHouser/PinnacleWareHouser/obj/",
+      "outputPath": "/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -6593,8 +6593,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/sameer/projects/PinnacleWareHouser/PinnacleWarehouser.Common/PinnacleWarehouser.Common.csproj": {
-              "projectPath": "/Users/sameer/projects/PinnacleWareHouser/PinnacleWarehouser.Common/PinnacleWarehouser.Common.csproj"
+            "/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWarehouser.Common/PinnacleWarehouser.Common.csproj": {
+              "projectPath": "/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWarehouser.Common/PinnacleWarehouser.Common.csproj"
             }
           }
         }
@@ -6638,7 +6638,7 @@
           },
           "Microsoft.IdentityModel.Clients.ActiveDirectory": {
             "target": "Package",
-            "version": "[3.19.8, )"
+            "version": "[3.17.2, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",

@@ -7,6 +7,8 @@ using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
 using Microsoft.AppCenter.Distribute;
+using Microsoft.WindowsAzure.MobileServices;
+using PinnacleWareHouser;
 using UIKit;
 
 namespace azuremobile_sbt
@@ -19,6 +21,7 @@ namespace azuremobile_sbt
 	{
 		// class-level declarations
 		public override UIWindow Window {get; set;}
+        const string applicationURL = @"https://azuremobile-sbt.azurewebsites.net";
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
@@ -54,7 +57,7 @@ namespace azuremobile_sbt
             //    new Lazy<StandardKernel>(() => new StandardKernel(new IosIocModule()))
             //);
 
-            //PinnacleWareHouse
+            PinnacleApp.Client = new MobileServiceClient(applicationURL);
             ServicePointManager.ServerCertificateValidationCallback +=
                 (sender, cert, chain, sslPolicyErrors) => true;
 

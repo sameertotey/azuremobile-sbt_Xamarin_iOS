@@ -124,16 +124,16 @@ namespace PinnacleWareHouser.Repositories
             //const string ServiceBusConnectionString = "Endpoint=sb://dev-pinn-warehouser-messaging.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=LMPT5qqW87RgQfm0P8v2MC7N6vd0QjK+JB3/BEas7gs=";
             //const string TopicName = "deliverynotifications";
 
-            var topicClient = new TopicClient(RestEndpoints.ServiceBusConnectionString, RestEndpoints.TopicName);
-            var message = new Message(Encoding.UTF8.GetBytes(messageBody));
+            //var topicClient = new TopicClient(RestEndpoints.ServiceBusConnectionString, RestEndpoints.TopicName);
+            //var message = new Message(Encoding.UTF8.GetBytes(messageBody));
 
-            // Write the body of the message to the console
-            Console.WriteLine($"Sending message: {messageBody}");
+            //// Write the body of the message to the console
+            //Console.WriteLine($"Sending message: {messageBody}");
 
-            // Send the message to the topic
-            await topicClient.SendAsync(message).ConfigureAwait(false);
+            //// Send the message to the topic
+            //await topicClient.SendAsync(message).ConfigureAwait(false);
 
-            await topicClient.CloseAsync().ConfigureAwait(false);
+            //await topicClient.CloseAsync().ConfigureAwait(false);
         }
 
         public async Task ProcessUnsentDeliveryNotification()
