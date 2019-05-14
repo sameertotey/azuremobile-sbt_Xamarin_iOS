@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using Foundation;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+using Microsoft.AppCenter.Distribute;
 using UIKit;
 
 namespace azuremobile_sbt
@@ -18,12 +22,13 @@ namespace azuremobile_sbt
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
-            //AppCenter.Start(
-            //    IOSConfig.AppCenterSecret,
-            //    typeof(Analytics),
-            //    typeof(Crashes),
-            //    typeof(Distribute)
-            //);
+            AppCenter.Start(
+                //IOSConfig.AppCenterSecret,
+                "secret",
+                typeof(Analytics),
+                typeof(Crashes),
+                typeof(Distribute)
+            );
 
             //var version = $"Version: {NSBundle.MainBundle.InfoDictionary["CFBundleShortVersionString"]} - {NSBundle.MainBundle.InfoDictionary["CFBundleVersion"]}";
             //CrossSettings.Current.AddOrUpdateValue(Config.Version, version);
@@ -49,6 +54,7 @@ namespace azuremobile_sbt
             //    new Lazy<StandardKernel>(() => new StandardKernel(new IosIocModule()))
             //);
 
+            //PinnacleWareHouse
             ServicePointManager.ServerCertificateValidationCallback +=
                 (sender, cert, chain, sslPolicyErrors) => true;
 
