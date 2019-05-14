@@ -149,4 +149,10 @@
     <BundleResource Include="Resources\Default-Portrait%402x.png" />
     <BundleResource Include="Resources\Default-Landscape%402x.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PinnacleWareHouser\PinnacleWareHouser.csproj">
+      <Project>{D33DFA2A-70B9-4172-981E-590A785D7E66}</Project>
+      <Name>PinnacleWareHouser</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

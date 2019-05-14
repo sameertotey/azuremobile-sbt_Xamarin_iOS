@@ -14,6 +14,7 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Microsoft.CSharp.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
+-r=/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/bin/Debug/netstandard2.0/PinnacleWareHouser.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.IdentityModel.dll
@@ -204,6 +205,8 @@
 -r=/Users/sameer/.nuget/packages/validation/2.2.8/lib/dotnet/Validation.dll
 -r=/Users/sameer/.nuget/packages/xam.plugins.settings/4.0.0.10-beta/lib/xamarinios10/Plugin.Settings.dll
 -r=/Users/sameer/.nuget/packages/xamarin.essentials/1.1.0/lib/xamarinios10/Xamarin.Essentials.dll
+-r=/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/bin/Debug/netstandard2.0/PinnacleWareHouser.dll
+-r=/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/PinnacleWareHouser/bin/Debug/netstandard2.0/PinnacleWarehouser.Common.dll
 --target-framework=Xamarin.iOS,v1.0
 --root-assembly=/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/azuremobile_sbt.exe
 

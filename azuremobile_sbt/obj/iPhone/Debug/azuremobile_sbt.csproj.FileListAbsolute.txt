@@ -45,6 +45,11 @@
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/Plugin.Settings.dll
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/Xamarin.Essentials.dll
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/PinnacleWareHouser.dll
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/PinnacleWarehouser.Common.dll
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/PinnacleWareHouser.pdb
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/PinnacleWareHouser.dll.config
+/Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/bin/iPhone/Debug/PinnacleWarehouser.Common.pdb
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/ibtool/_BundleResourceWithLogicalName.items
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/actool/_PartialAppManifest.items
 /Users/sameer/Downloads/azuremobile-sbt_Xamarin_iOS/azuremobile_sbt/obj/iPhone/Debug/device-builds/iphone7.2-12.2/actool/_BundleResourceWithLogicalName.items
